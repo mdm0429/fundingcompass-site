@@ -43,8 +43,60 @@ function resolveItem(name: string, url: string): string {
   return `${SITE_URL}${url}`;                           // relative path → absolute
 }
 
+/** Derive FinancialProduct name + description from the canonical URL. */
+function getFinancialProduct(url: string): { name: string; description: string } | null {
+  const u = url.toLowerCase();
+  if (u.includes('invoice-factoring') || (u.includes('factoring') && !u.includes('purchase-order')))
+    return { name: 'Invoice Factoring',           description: 'A financing arrangement where businesses sell accounts receivable to a third party at a discount for immediate working capital.' };
+  if (u.includes('equipment-leasing'))
+    return { name: 'Equipment Leasing',           description: 'A rental arrangement allowing businesses to use equipment for a fixed term without purchasing it outright.' };
+  if (u.includes('equipment-financing') || u.includes('equipment-loan'))
+    return { name: 'Equipment Financing',         description: 'Loans or leases that enable businesses to acquire equipment, with the equipment typically serving as collateral.' };
+  if (u.includes('merchant-cash-advance') || u.includes('mca-'))
+    return { name: 'Merchant Cash Advance',       description: 'An advance against future sales repaid through a fixed percentage of daily credit card receipts.' };
+  if (u.includes('sba-504') || u.includes('sba-loan') || u.includes('sba-loans'))
+    return { name: 'SBA Loan',                    description: 'Government-guaranteed small business loans offered through SBA-approved lenders at below-market interest rates.' };
+  if (u.includes('business-line-of-credit') || u.includes('line-of-credit'))
+    return { name: 'Business Line of Credit',     description: 'A revolving credit facility allowing businesses to borrow up to a set limit and repay as needed.' };
+  if (u.includes('purchase-order-financing'))
+    return { name: 'Purchase Order Financing',    description: 'Short-term funding that covers supplier costs for confirmed purchase orders, enabling businesses to fulfil large orders.' };
+  if (u.includes('accounts-receivable'))
+    return { name: 'Accounts Receivable Financing', description: 'Asset-based borrowing using outstanding invoices as collateral to access immediate working capital.' };
+  return null;
+}
+
 // Build JSON-LD blobs based on requested schema types
 const jsonldBlocks: string[] = [];
+
+// Organization + WebSite — homepage only
+if (canonical === `${SITE_URL}/`) {
+  jsonldBlocks.push(JSON.stringify([
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Organization',
+      '@id': `${SITE_URL}/#organization`,
+      name: SITE_NAME,
+      url: SITE_URL,
+      description: 'Independent editorial guide to specialty B2B financing. Verified rates, unbiased reviews, and comparison tools for invoice factoring, equipment financing, business lines of credit, merchant cash advances, and SBA loans.',
+      email: 'hello@fundingcompass.guide',
+      sameAs: [],
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      name: SITE_NAME,
+      url: SITE_URL,
+      publisher: { '@id': `${SITE_URL}/#organization` },
+      description: 'Independent. Accurate. Free. Research-driven guides to specialty B2B financing.',
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: `${SITE_URL}/?s={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+    },
+  ], null, 0));
+}
 
 // BreadcrumbList — always include if we have crumbs
 const allBreadcrumbs = [
@@ -64,9 +116,10 @@ if (allBreadcrumbs.length > 1 || schema.includes('BreadcrumbList')) {
   }, null, 0));
 }
 
-// Article schema
+// Article schema (with optional FinancialProduct typing)
 if (schema.includes('Article')) {
-  jsonldBlocks.push(JSON.stringify({
+  const financialProduct = getFinancialProduct(canonical);
+  const articleSchema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
@@ -75,16 +128,26 @@ if (schema.includes('Article')) {
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
     datePublished: lastReviewed ?? '2026-05-01',
     dateModified: lastReviewed ?? '2026-05-01',
+    author: {
+      '@type': 'Organization',
+      '@id': `${SITE_URL}/#organization`,
+      name: SITE_NAME,
+    },
     publisher: {
       '@type': 'Organization',
+      '@id': `${SITE_URL}/#organization`,
       name: SITE_NAME,
       url: `${SITE_URL}/`,
     },
-    author: {
-      '@type': 'Organization',
-      name: `${SITE_NAME} Editorial Team`,
-    },
-  }, null, 0));
+  };
+  if (financialProduct) {
+    articleSchema.about = {
+      '@type': 'FinancialProduct',
+      name: financialProduct.name,
+      description: financialProduct.description,
+    };
+  }
+  jsonldBlocks.push(JSON.stringify(articleSchema, null, 0));
 }
 
 // WebApplication schema — for interactive calculator/tool pages
