@@ -1,0 +1,56 @@
+---
+import Layout from './Layout.astro';
+import { extractFaqs } from '../utils/faq';
+import type { CollectionEntry } from 'astro:content';
+
+export interface Props {
+  entry: CollectionEntry<'pages'>;
+  breadcrumbs: Array<{ name: string; url: string }>;
+}
+
+const { entry, breadcrumbs } = Astro.props;
+const fm = entry.data;
+const { Content } = await entry.render();
+
+const faqItems = fm.schema?.includes('FAQPage') ? extractFaqs(entry.body) : [];
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={breadcrumbs}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      {breadcrumbs.map(b => <li><a href={b.url}>{b.name}</a></li>)}
+      <li aria-current="page">{fm.title}</li>
+    </ol>
+  </nav>
+
+  <article>
+    {fm.last_reviewed && (
+      <div class="article-meta">
+        <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+      </div>
+    )}
+    <div class="prose">
+      <Content />
+    </div>
+  </article>
+  <script is:inline>
+    /* Auto-wrap markdown-rendered tables in .table-wrap for horizontal scroll */
+    document.querySelectorAll('.prose table').forEach(function(t) {
+      if (!t.parentNode.classList.contains('table-wrap')) {
+        var w = document.createElement('div');
+        w.className = 'table-wrap';
+        t.parentNode.insertBefore(w, t);
+        w.appendChild(t);
+      }
+    });
+  </script>
+</Layout>

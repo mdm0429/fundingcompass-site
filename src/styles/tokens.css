@@ -1,0 +1,252 @@
+/* ============================================================
+   FUNDINGCOMPASS DESIGN SYSTEM — TOKENS
+   Version 1.0 · Periwinkle palette · May 2026
+   ============================================================
+   Import this file first in any stylesheet:
+   @import url('./tokens.css');
+   ============================================================ */
+
+:root {
+
+  /* ── COLOR RAMPS ──────────────────────────────────────────── */
+
+  /* Brand — Periwinkle Blue */
+  --color-brand-50:   #F0F3FF;
+  --color-brand-100:  #D8E0FA;
+  --color-brand-200:  #B0BFF5;
+  --color-brand-300:  #8098E8;
+  --color-brand-400:  #6B80DC;
+  --color-brand-500:  #4A62C8;  /* primary brand */
+  --color-brand-600:  #3449A8;
+  --color-brand-700:  #243488;
+  --color-brand-800:  #182468;
+  --color-brand-900:  #0E1648;
+
+  /* Accent — Warm Amber */
+  --color-accent-50:  #FEF5E6;
+  --color-accent-100: #FCDFA8;
+  --color-accent-200: #F5C870;
+  --color-accent-300: #EEAF48;
+  --color-accent-400: #E8A850;
+  --color-accent-500: #C87830;  /* primary accent / CTA */
+  --color-accent-600: #A86018;
+  --color-accent-700: #884808;
+  --color-accent-800: #683404;
+  --color-accent-900: #482202;
+
+  /* Neutral — Slate (periwinkle-tinted) */
+  --color-neutral-0:   #FFFFFF;
+  --color-neutral-50:  #F0F3FF;  /* page background */
+  --color-neutral-100: #E8ECFF;  /* surface 2 / tinted headers */
+  --color-neutral-150: #EEF1FB;  /* muted fills */
+  --color-neutral-200: #D0D6F0;  /* border */
+  --color-neutral-300: #A8B2E0;  /* border dark / dividers */
+  --color-neutral-400: #7A84AC;  /* ink light / captions */
+  --color-neutral-500: #4A5280;  /* ink mid / secondary text */
+  --color-neutral-600: #2E3860;  /* ink dark */
+  --color-neutral-700: #1A1F3C;  /* ink / primary text */
+  --color-neutral-800: #0E1228;
+  --color-neutral-900: #06080F;
+
+  /* Semantic — Success */
+  --color-success-bg:   #E8F6EE;
+  --color-success-border: #A8DDB8;
+  --color-success:      #1E6A42;
+  --color-success-dark: #145030;
+
+  /* Semantic — Warning */
+  --color-warning-bg:   #FFF5DC;
+  --color-warning-border: #F0D080;
+  --color-warning:      #906800;
+  --color-warning-dark: #684C00;
+
+  /* Semantic — Danger */
+  --color-danger-bg:    #FEECEC;
+  --color-danger-border: #F0B0B0;
+  --color-danger:       #9C2010;
+  --color-danger-dark:  #740E08;
+
+  /* Semantic — Info */
+  --color-info-bg:      #E4EEFF;
+  --color-info-border:  #A8C0F0;
+  --color-info:         #2050A8;
+  --color-info-dark:    #143880;
+
+
+  /* ── SURFACE ALIASES ──────────────────────────────────────── */
+  --surface-page:    var(--color-neutral-50);   /* #F0F3FF */
+  --surface-default: var(--color-neutral-0);    /* #FFFFFF — cards */
+  --surface-raised:  var(--color-neutral-0);    /* #FFFFFF — elevated cards */
+  --surface-tinted:  var(--color-neutral-100);  /* #E8ECFF — header areas */
+  --surface-muted:   var(--color-neutral-150);  /* #EEF1FB — metric bg */
+  --border-default:  var(--color-neutral-200);  /* #D0D6F0 */
+  --border-strong:   var(--color-neutral-300);  /* #A8B2E0 */
+
+
+  /* ── TEXT ALIASES ─────────────────────────────────────────── */
+  --text-primary:   var(--color-neutral-700);   /* #1A1F3C */
+  --text-secondary: var(--color-neutral-500);   /* #4A5280 */
+  --text-tertiary:  var(--color-neutral-400);   /* #7A84AC */
+  --text-inverse:   #FFFFFF;
+  --text-brand:     var(--color-brand-500);     /* #4A62C8 */
+  --text-accent:    var(--color-accent-500);    /* #C87830 */
+
+
+  /* ── TYPOGRAPHY ───────────────────────────────────────────── */
+
+  /* Font families */
+  --font-display: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-body:    'Aptos', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-data:    'Aptos', 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  /* Data numbers use tabular figures — same font, optically uniform */
+  --font-data-features: tabular-nums lining-nums;
+
+  /* Type scale */
+  --text-xs:   0.6875rem;   /* 11px */
+  --text-sm:   0.8125rem;   /* 13px */
+  --text-base: 0.9375rem;   /* 15px */
+  --text-md:   1rem;        /* 16px */
+  --text-lg:   1.125rem;    /* 18px */
+  --text-xl:   1.25rem;     /* 20px */
+  --text-2xl:  1.375rem;    /* 22px */
+  --text-3xl:  clamp(1.5rem, 3vw, 2rem);   /* H1: 24–32px fluid */
+  --text-hero: clamp(2rem, 5vw, 2.75rem);  /* hero/landing H1 */
+
+  /* Line heights */
+  --leading-tight:   1.2;
+  --leading-snug:    1.3;
+  --leading-normal:  1.5;
+  --leading-relaxed: 1.7;
+  --leading-loose:   1.85;
+
+  /* Font weights */
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-bold:   600;   /* use sparingly — headers only */
+
+  /* Letter spacing */
+  --tracking-tight:  -0.02em;
+  --tracking-normal:  0;
+  --tracking-wide:    0.04em;
+  --tracking-wider:   0.08em;
+  --tracking-widest:  0.12em;
+
+
+  /* ── SPACING SCALE ────────────────────────────────────────── */
+  --space-1:  4px;
+  --space-2:  8px;
+  --space-3:  12px;
+  --space-4:  16px;
+  --space-5:  20px;
+  --space-6:  24px;
+  --space-7:  32px;
+  --space-8:  40px;
+  --space-9:  48px;
+  --space-10: 56px;
+  --space-11: 64px;
+  --space-12: 80px;
+
+  /* Component-specific spacing */
+  --gutter:       1.5rem;   /* page side padding — desktop */
+  --gutter-sm:    1rem;     /* page side padding — mobile */
+  --max-w-prose:  780px;    /* article/prose max width */
+  --max-w-wide:   1100px;   /* nav/header/footer max width */
+
+
+  /* ── BORDER RADIUS ────────────────────────────────────────── */
+  --radius-xs:   4px;   /* tight: input borders, small chips */
+  --radius-sm:   6px;   /* badges, small elements */
+  --radius-md:   10px;  /* inputs, small cards */
+  --radius-lg:   14px;  /* cards */
+  --radius-xl:   20px;  /* CTA units, large containers */
+  --radius-2xl:  28px;  /* modal-style containers */
+  --radius-full: 100px; /* pill buttons, pill badges */
+
+
+  /* ── SHADOWS ──────────────────────────────────────────────── */
+  --shadow-xs:  0 1px 3px rgba(26,31,60,0.06);
+  --shadow-sm:  0 2px 8px rgba(26,31,60,0.08);
+  --shadow-md:  0 4px 16px rgba(74,98,200,0.10);
+  --shadow-lg:  0 8px 32px rgba(74,98,200,0.12);
+  --shadow-xl:  0 16px 48px rgba(74,98,200,0.14);
+
+  /* Focus ring */
+  --shadow-focus: 0 0 0 3px rgba(74,98,200,0.22);
+  --shadow-focus-danger: 0 0 0 3px rgba(156,32,16,0.22);
+
+
+  /* ── MOTION / TRANSITIONS ─────────────────────────────────── */
+  --duration-fast:    100ms;
+  --duration-base:    160ms;
+  --duration-slow:    280ms;
+  --duration-slower:  400ms;
+
+  --ease-default:  cubic-bezier(0.4, 0, 0.2, 1);   /* Material standard */
+  --ease-in:       cubic-bezier(0.4, 0, 1, 1);
+  --ease-out:      cubic-bezier(0, 0, 0.2, 1);
+  --ease-bounce:   cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  --transition-base:   var(--duration-base) var(--ease-default);
+  --transition-fast:   var(--duration-fast) var(--ease-default);
+  --transition-slow:   var(--duration-slow) var(--ease-default);
+
+
+  /* ── Z-INDEX SCALE ────────────────────────────────────────── */
+  --z-below:    -1;
+  --z-base:      0;
+  --z-raised:   10;
+  --z-dropdown: 100;
+  --z-sticky:   200;
+  --z-overlay:  300;
+  --z-modal:    400;
+  --z-toast:    500;
+
+
+  /* ── GRID / LAYOUT ────────────────────────────────────────── */
+  --grid-cols-sm: 4;
+  --grid-cols-md: 8;
+  --grid-cols-lg: 12;
+  --grid-gap:     1rem;
+  --grid-gap-lg:  1.5rem;
+
+  /* Breakpoints (reference values — use in @media queries) */
+  /* --bp-sm:  480px   mobile landscape */
+  /* --bp-md:  680px   tablet / hamburger breakpoint */
+  /* --bp-lg:  900px   desktop */
+  /* --bp-xl:  1100px  wide layout */
+
+}
+
+
+/* ============================================================
+   DARK MODE TOKEN OVERRIDES (future-ready)
+   ============================================================ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Surfaces flip to deep navy */
+    --surface-page:    #0E1228;
+    --surface-default: #141830;
+    --surface-raised:  #1A2040;
+    --surface-tinted:  #1E2648;
+    --surface-muted:   #161C38;
+    --border-default:  rgba(208,214,240,0.12);
+    --border-strong:   rgba(208,214,240,0.22);
+
+    /* Text inverts */
+    --text-primary:   #EEF1FF;
+    --text-secondary: #A8B2E0;
+    --text-tertiary:  #6872A0;
+    --text-inverse:   #1A1F3C;
+
+    /* Brand lightens for legibility on dark bg */
+    --text-brand:     var(--color-brand-300);
+    --text-accent:    var(--color-accent-300);
+
+    /* Semantic backgrounds deepen */
+    --color-success-bg:  rgba(30,106,66,0.18);
+    --color-warning-bg:  rgba(144,104,0,0.18);
+    --color-danger-bg:   rgba(156,32,16,0.18);
+    --color-info-bg:     rgba(32,80,168,0.18);
+  }
+}

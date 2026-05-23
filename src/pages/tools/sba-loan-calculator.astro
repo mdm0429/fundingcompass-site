@@ -1,0 +1,448 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractFaqs } from '../../utils/faq';
+const entry = await getEntry('pages', 'tools/sba-loan-calculator');
+const fm = entry.data;
+const { Content } = await entry.render();
+const faqItems = extractFaqs(entry.body);
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[{ name: 'Tools', url: '/' }]}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Tools</a></li>
+      <li aria-current="page">SBA Loan Calculator</li>
+    </ol>
+  </nav>
+
+  {fm.last_reviewed && (
+    <div class="article-meta">
+      <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  )}
+
+  <!-- ── SBA Loan Calculator ─────────────────────────────────── -->
+  <div class="calc-box" id="sba-calc">
+    <h2>SBA Loan Calculator</h2>
+
+    <div class="sba-tabs" role="tablist">
+      <button class="sba-tab sba-tab--active" id="tab-7a" role="tab" aria-selected="true" aria-controls="panel-7a" type="button">SBA 7(a) Loan</button>
+      <button class="sba-tab" id="tab-504" role="tab" aria-selected="false" aria-controls="panel-504" type="button">SBA 504 Loan</button>
+    </div>
+
+    <!-- ── SBA 7(a) TAB ── -->
+    <div class="sba-panel" id="panel-7a" role="tabpanel" aria-labelledby="tab-7a">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="s-amount">Loan amount ($)</label>
+          <input type="number" id="s-amount" value="250000" min="10000" max="5000000" step="5000" />
+        </div>
+        <div class="calc-field">
+          <label for="s-purpose">Loan purpose</label>
+          <select id="s-purpose">
+            <option value="working-capital">Working Capital (7 yr)</option>
+            <option value="equipment">Equipment (10 yr)</option>
+            <option value="real-estate">Real Estate (25 yr)</option>
+            <option value="acquisition">Business Acquisition (10 yr)</option>
+            <option value="custom">Custom term</option>
+          </select>
+        </div>
+        <div class="calc-field" id="s-custom-term-field" style="display:none">
+          <label for="s-custom-term">Loan term (years)</label>
+          <input type="number" id="s-custom-term" value="10" min="1" max="25" step="1" />
+        </div>
+        <div class="calc-field">
+          <label for="s-rate">Annual interest rate (%) <span class="sba-helper">Current SBA 7(a): ~10.5% (May 2026)</span></label>
+          <input type="number" id="s-rate" value="10.5" min="0.1" max="30" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label>SBA guarantee fee</label>
+          <div class="sba-toggle">
+            <label><input type="radio" name="s-fee-toggle" value="yes" checked /> Include fee</label>
+            <label><input type="radio" name="s-fee-toggle" value="no" /> No fee (under $150K)</label>
+          </div>
+        </div>
+      </div>
+
+      <div class="calc-results" id="s-7a-results">
+        <div class="calc-results__grid">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label">Monthly Payment</div>
+            <div class="calc-result-item__value" id="s-monthly">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Amount Paid</div>
+            <div class="calc-result-item__value" id="s-total-paid">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Interest Paid</div>
+            <div class="calc-result-item__value" id="s-total-interest">—</div>
+          </div>
+          <div class="calc-result-item" id="s-fee-card">
+            <div class="calc-result-item__label">SBA Guarantee Fee</div>
+            <div class="calc-result-item__value" id="s-fee-amount">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Effective APR (with fee)</div>
+            <div class="calc-result-item__value" id="s-eff-apr">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Payoff Date</div>
+            <div class="calc-result-item__value" id="s-payoff-date">—</div>
+          </div>
+        </div>
+
+        <details class="sba-amort">
+          <summary>View amortization schedule</summary>
+          <div class="table-wrap">
+            <table class="sba-amort-table">
+              <thead>
+                <tr><th>#</th><th>Date</th><th>Payment</th><th>Principal</th><th>Interest</th><th>Balance</th></tr>
+              </thead>
+              <tbody id="s-amort-body"></tbody>
+            </table>
+          </div>
+          <button class="sba-show-all" id="s-show-all" type="button" style="display:none">Show all payments</button>
+        </details>
+      </div>
+    </div>
+
+    <!-- ── SBA 504 TAB ── -->
+    <div class="sba-panel" id="panel-504" role="tabpanel" aria-labelledby="tab-504" style="display:none">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="p-cost">Total project cost ($)</label>
+          <input type="number" id="p-cost" value="500000" min="100000" max="20000000" step="10000" />
+        </div>
+        <div class="calc-field">
+          <label for="p-type">Project type</label>
+          <select id="p-type">
+            <option value="equipment">Equipment (10-year debenture)</option>
+            <option value="realestate">Real Estate (20-year debenture)</option>
+            <option value="mixed">Mixed</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label>Borrower down payment</label>
+          <div class="sba-static-field" id="p-down-display">$50,000 (10%)</div>
+          <small class="sba-helper" style="margin-top:0.25rem;display:block">20% required for start-ups or special-purpose property</small>
+        </div>
+        <div class="calc-field">
+          <label for="p-bank-rate">Bank first lien rate (%) <span class="sba-helper">Typically Prime + 0.5–2%</span></label>
+          <input type="number" id="p-bank-rate" value="8.0" min="4" max="15" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label for="p-bank-term">Bank first lien term (years)</label>
+          <input type="number" id="p-bank-term" value="10" min="5" max="20" step="1" />
+        </div>
+        <div class="calc-field">
+          <label for="p-cdc-rate">SBA/CDC debenture rate (%) <span class="sba-helper">Fixed rate, ~6.0% (May 2026)</span></label>
+          <input type="number" id="p-cdc-rate" value="6.0" min="4" max="10" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label for="p-cdc-term">SBA/CDC debenture term (years)</label>
+          <input type="number" id="p-cdc-term" value="10" min="10" max="20" step="10" />
+        </div>
+      </div>
+
+      <div class="calc-results" id="p-504-results">
+        <h3 class="sba-breakdown-title">SBA 504 Loan Structure</h3>
+        <div class="table-wrap">
+          <table class="sba-504-table">
+            <thead>
+              <tr><th>Component</th><th>Amount</th><th>Rate</th><th>Term</th><th>Monthly Payment</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Down payment (you)</td><td id="p-dp-amt">—</td><td>—</td><td>—</td><td>—</td></tr>
+              <tr><td>Bank first lien (50%)</td><td id="p-bank-amt">—</td><td id="p-bank-rate-disp">—</td><td id="p-bank-term-disp">—</td><td id="p-bank-pmt">—</td></tr>
+              <tr><td>SBA/CDC debenture (40%)</td><td id="p-cdc-amt">—</td><td id="p-cdc-rate-disp">—</td><td id="p-cdc-term-disp">—</td><td id="p-cdc-pmt">—</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="calc-results__grid" style="margin-top:1rem">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label">Total Monthly Payment</div>
+            <div class="calc-result-item__value" id="p-total-monthly">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Amount Paid</div>
+            <div class="calc-result-item__value" id="p-total-paid">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Interest Paid</div>
+            <div class="calc-result-item__value" id="p-total-interest">—</div>
+          </div>
+        </div>
+
+        <div class="sba-vs-conv">
+          <h3>vs. Conventional Loan (same rate, 90% financed)</h3>
+          <div class="calc-results__grid">
+            <div class="calc-result-item">
+              <div class="calc-result-item__label">Conventional Monthly</div>
+              <div class="calc-result-item__value" id="p-conv-monthly">—</div>
+            </div>
+            <div class="calc-result-item">
+              <div class="calc-result-item__label">SBA 504 Monthly</div>
+              <div class="calc-result-item__value" id="p-504-monthly">—</div>
+            </div>
+            <div class="calc-result-item">
+              <div class="calc-result-item__label">Monthly Difference</div>
+              <div class="calc-result-item__value" id="p-monthly-savings">—</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a href="/guides/sba-loans/" class="calc-btn sba-cta">SBA Loans Complete Guide →</a>
+  </div>
+
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>
+
+<style>
+  .sba-tabs { display: flex; gap: 0.5rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+  .sba-tab {
+    padding: 0.5rem 1.25rem;
+    border: 2px solid var(--color-brand-500);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--color-brand-500);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+  .sba-tab--active { background: var(--color-brand-500); color: #fff; }
+  .sba-helper { font-size: 0.8rem; color: var(--text-tertiary); font-weight: 400; margin-left: 0.35rem; }
+  .sba-toggle { display: flex; gap: 1.5rem; padding: 0.5rem 0; }
+  .sba-toggle label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.9rem; cursor: pointer; }
+  .sba-static-field {
+    padding: 0.5rem 0.75rem;
+    background: #f3f5f8;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--color-brand-500);
+  }
+  .sba-amort { margin-top: 1.25rem; }
+  .sba-amort summary { cursor: pointer; font-size: 0.9rem; color: var(--color-brand-500); font-weight: 600; padding: 0.5rem 0; }
+  .sba-amort-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+  .sba-amort-table th, .sba-amort-table td { padding: 0.4rem 0.6rem; border: 1px solid #e0e4ea; text-align: right; }
+  .sba-amort-table th:first-child, .sba-amort-table td:first-child { text-align: center; }
+  .sba-amort-table th { background: var(--color-brand-500); color: #fff; }
+  .sba-amort-table tr:nth-child(even) td { background: #f7f9fb; }
+  .sba-show-all {
+    margin-top: 0.75rem;
+    background: none;
+    border: 1px solid var(--color-brand-500);
+    color: var(--color-brand-500);
+    padding: 0.4rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  .sba-breakdown-title { font-size: 0.95rem; font-weight: 700; color: var(--color-brand-500); margin-bottom: 0.75rem; }
+  .sba-504-table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  .sba-504-table th, .sba-504-table td { padding: 0.5rem 0.75rem; border: 1px solid #e0e4ea; }
+  .sba-504-table th { background: var(--color-brand-500); color: #fff; font-weight: 600; }
+  .sba-504-table tr:nth-child(even) td { background: #f7f9fb; }
+  .sba-vs-conv { margin-top: 1.25rem; }
+  .sba-vs-conv h3 { font-size: 0.95rem; font-weight: 700; color: var(--color-brand-500); margin-bottom: 0.75rem; }
+  .sba-cta { display: inline-block; margin-top: 1.25rem; text-decoration: none; }
+</style>
+
+<script>
+(function () {
+  var MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var fullAmortData = [];
+  var showAllAmort = false;
+
+  function fmt(n) { return '$' + Math.round(n).toLocaleString('en-US'); }
+  function fmtD(n) { return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+
+  function calcPmt(P, r, n) {
+    if (!P || !n) return 0;
+    if (r === 0) return P / n;
+    return P * (r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+  }
+
+  // Tab switching
+  document.getElementById('tab-7a').addEventListener('click', function () {
+    document.getElementById('tab-7a').classList.add('sba-tab--active');
+    document.getElementById('tab-504').classList.remove('sba-tab--active');
+    document.getElementById('tab-7a').setAttribute('aria-selected', 'true');
+    document.getElementById('tab-504').setAttribute('aria-selected', 'false');
+    document.getElementById('panel-7a').style.display = '';
+    document.getElementById('panel-504').style.display = 'none';
+  });
+  document.getElementById('tab-504').addEventListener('click', function () {
+    document.getElementById('tab-504').classList.add('sba-tab--active');
+    document.getElementById('tab-7a').classList.remove('sba-tab--active');
+    document.getElementById('tab-504').setAttribute('aria-selected', 'true');
+    document.getElementById('tab-7a').setAttribute('aria-selected', 'false');
+    document.getElementById('panel-504').style.display = '';
+    document.getElementById('panel-7a').style.display = 'none';
+  });
+
+  // Purpose → term mapping
+  var purposeTerms = { 'working-capital': 7, 'equipment': 10, 'real-estate': 25, 'acquisition': 10 };
+  document.getElementById('s-purpose').addEventListener('change', function () {
+    document.getElementById('s-custom-term-field').style.display = this.value === 'custom' ? '' : 'none';
+    calc7a();
+  });
+
+  function getTermYears() {
+    var p = document.getElementById('s-purpose').value;
+    if (p === 'custom') return parseFloat(document.getElementById('s-custom-term').value) || 10;
+    return purposeTerms[p] || 10;
+  }
+
+  function getGuaranteeFee(amount) {
+    var guaranteed = amount * 0.75;
+    var pct = amount <= 150000 ? 0 : amount <= 700000 ? 0.03 : amount <= 1000000 ? 0.035 : 0.0375;
+    return guaranteed * pct;
+  }
+
+  function renderAmort(showAll) {
+    var tbody = document.getElementById('s-amort-body');
+    tbody.innerHTML = '';
+    var rows = showAll ? fullAmortData : fullAmortData.slice(0, 12);
+    rows.forEach(function (row) {
+      var tr = document.createElement('tr');
+      tr.innerHTML = '<td>' + row.num + '</td><td>' + row.date + '</td><td>' + fmtD(row.pmt) + '</td><td>' + fmtD(row.prin) + '</td><td>' + fmtD(row.int) + '</td><td>' + fmtD(row.bal) + '</td>';
+      tbody.appendChild(tr);
+    });
+    var btn = document.getElementById('s-show-all');
+    if (fullAmortData.length > 12) {
+      btn.style.display = '';
+      btn.textContent = showAll ? 'Show first 12 payments' : 'Show all ' + fullAmortData.length + ' payments';
+    } else {
+      btn.style.display = 'none';
+    }
+  }
+
+  document.getElementById('s-show-all').addEventListener('click', function () {
+    showAllAmort = !showAllAmort;
+    renderAmort(showAllAmort);
+  });
+
+  function calc7a() {
+    var amount = parseFloat(document.getElementById('s-amount').value) || 0;
+    var rate = parseFloat(document.getElementById('s-rate').value) || 0;
+    var termYears = getTermYears();
+    var n = Math.round(termYears * 12);
+    var r = rate / 100 / 12;
+    var includeFee = document.querySelector('input[name="s-fee-toggle"]:checked').value === 'yes';
+
+    if (amount <= 0 || n <= 0) return;
+
+    var monthly = calcPmt(amount, r, n);
+    var totalPaid = monthly * n;
+    var totalInterest = totalPaid - amount;
+    var fee = includeFee ? getGuaranteeFee(amount) : 0;
+    var effApr = termYears > 0 ? ((totalPaid + fee - amount) / amount) / termYears * 100 : 0;
+
+    var now = new Date();
+    var payoff = new Date(now.getFullYear(), now.getMonth() + n, 1);
+
+    document.getElementById('s-monthly').textContent = fmt(monthly);
+    document.getElementById('s-total-paid').textContent = fmt(totalPaid);
+    document.getElementById('s-total-interest').textContent = fmt(totalInterest);
+    document.getElementById('s-fee-amount').textContent = includeFee ? fmt(fee) : '$0';
+    document.getElementById('s-fee-card').style.opacity = includeFee ? '1' : '0.45';
+    document.getElementById('s-eff-apr').textContent = effApr.toFixed(2) + '%';
+    document.getElementById('s-payoff-date').textContent = MONTHS[payoff.getMonth()] + ' ' + payoff.getFullYear();
+
+    fullAmortData = [];
+    var bal = amount;
+    for (var i = 1; i <= n; i++) {
+      var intPart = bal * r;
+      var prinPart = Math.min(monthly - intPart, bal);
+      var ending = Math.max(0, bal - prinPart);
+      var d = new Date(now.getFullYear(), now.getMonth() + i, 1);
+      fullAmortData.push({ num: i, date: MONTHS[d.getMonth()] + ' ' + d.getFullYear(), pmt: monthly, prin: prinPart, int: intPart, bal: ending });
+      bal = ending;
+    }
+    renderAmort(showAllAmort);
+    document.getElementById('s-7a-results').classList.add('visible');
+  }
+
+  function calc504() {
+    var cost = parseFloat(document.getElementById('p-cost').value) || 0;
+    var type = document.getElementById('p-type').value;
+    var bankRate = parseFloat(document.getElementById('p-bank-rate').value) || 0;
+    var bankTerm = parseInt(document.getElementById('p-bank-term').value) || 10;
+    var cdcRate = parseFloat(document.getElementById('p-cdc-rate').value) || 0;
+
+    if (type === 'equipment') document.getElementById('p-cdc-term').value = 10;
+    else if (type === 'realestate') document.getElementById('p-cdc-term').value = 20;
+    var cdcTerm = parseInt(document.getElementById('p-cdc-term').value) || 10;
+
+    if (cost <= 0) return;
+
+    var downPmt = cost * 0.10;
+    var bankAmt = cost * 0.50;
+    var cdcAmt  = cost * 0.40;
+    var bankPmt = calcPmt(bankAmt, bankRate / 100 / 12, bankTerm * 12);
+    var cdcPmt  = calcPmt(cdcAmt,  cdcRate  / 100 / 12, cdcTerm  * 12);
+    var totalMonthly = bankPmt + cdcPmt;
+    var bankTotal = bankPmt * bankTerm * 12;
+    var cdcTotal  = cdcPmt  * cdcTerm  * 12;
+    var totalPaid = bankTotal + cdcTotal + downPmt;
+    var totalInterest = (bankTotal - bankAmt) + (cdcTotal - cdcAmt);
+    var convPmt = calcPmt(cost * 0.90, bankRate / 100 / 12, bankTerm * 12);
+
+    document.getElementById('p-down-display').textContent = fmt(downPmt) + ' (10%)';
+    document.getElementById('p-dp-amt').textContent = fmt(downPmt);
+    document.getElementById('p-bank-amt').textContent = fmt(bankAmt);
+    document.getElementById('p-bank-rate-disp').textContent = bankRate.toFixed(1) + '%';
+    document.getElementById('p-bank-term-disp').textContent = bankTerm + ' yr';
+    document.getElementById('p-bank-pmt').textContent = fmt(bankPmt);
+    document.getElementById('p-cdc-amt').textContent = fmt(cdcAmt);
+    document.getElementById('p-cdc-rate-disp').textContent = cdcRate.toFixed(1) + '%';
+    document.getElementById('p-cdc-term-disp').textContent = cdcTerm + ' yr';
+    document.getElementById('p-cdc-pmt').textContent = fmt(cdcPmt);
+    document.getElementById('p-total-monthly').textContent = fmt(totalMonthly);
+    document.getElementById('p-total-paid').textContent = fmt(totalPaid);
+    document.getElementById('p-total-interest').textContent = fmt(totalInterest);
+    document.getElementById('p-conv-monthly').textContent = fmt(convPmt);
+    document.getElementById('p-504-monthly').textContent = fmt(totalMonthly);
+
+    var savings = convPmt - totalMonthly;
+    var savEl = document.getElementById('p-monthly-savings');
+    savEl.textContent = savings >= 0 ? fmt(savings) + ' savings' : fmt(Math.abs(savings)) + ' more';
+    savEl.style.color = savings >= 0 ? '#1a7f4b' : '#c0392b';
+    document.getElementById('p-504-results').classList.add('visible');
+  }
+
+  ['s-amount','s-rate','s-custom-term'].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) { el.addEventListener('input', calc7a); el.addEventListener('change', calc7a); }
+  });
+  document.querySelectorAll('input[name="s-fee-toggle"]').forEach(function (el) {
+    el.addEventListener('change', calc7a);
+  });
+  ['p-cost','p-bank-rate','p-bank-term','p-cdc-rate','p-cdc-term'].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) { el.addEventListener('input', calc504); el.addEventListener('change', calc504); }
+  });
+  document.getElementById('p-type').addEventListener('change', calc504);
+
+  calc7a();
+  calc504();
+})();
+</script>

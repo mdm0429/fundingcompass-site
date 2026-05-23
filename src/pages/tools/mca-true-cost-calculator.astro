@@ -1,0 +1,242 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractFaqs } from '../../utils/faq';
+const entry = await getEntry('pages', 'tools/mca-true-cost-calculator');
+const fm = entry.data;
+const { Content } = await entry.render();
+const faqItems = extractFaqs(entry.body);
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[{ name: 'Tools', url: '/' }]}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Tools</a></li>
+      <li aria-current="page">Merchant Cash Advance Calculator</li>
+    </ol>
+  </nav>
+
+  {fm.last_reviewed && (
+    <div class="article-meta">
+      <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  )}
+
+  <!-- ── MCA Calculator ──────────────────────────────────────── -->
+  <div class="calc-box" id="calc">
+    <h2>Merchant Cash Advance Calculator</h2>
+    <div class="calc-fields">
+      <div class="calc-field">
+        <label for="m-advance">Advance amount ($)</label>
+        <input type="number" id="m-advance" value="50000" min="5000" max="2000000" step="1000" />
+      </div>
+      <div class="calc-field">
+        <label for="m-factor">Factor rate</label>
+        <input type="number" id="m-factor" value="1.25" min="1.01" max="2.00" step="0.01" />
+      </div>
+      <div class="calc-field">
+        <label for="m-holdback">Holdback percentage (%)</label>
+        <input type="number" id="m-holdback" value="15" min="5" max="50" step="1" />
+      </div>
+      <div class="calc-field">
+        <label for="m-daily">Average daily card sales ($)</label>
+        <input type="number" id="m-daily" value="3000" min="100" max="100000" step="100" />
+      </div>
+    </div>
+
+    <div class="calc-results" id="mca-results">
+      <!-- Warning banner -->
+      <div class="calc-warning" id="m-apr-warning" style="display:none">
+        ⚠️ This MCA carries an effective APR above 100%. Before signing, confirm you have evaluated a business line of credit and invoice factoring.
+      </div>
+
+      <div class="calc-results__grid">
+        <div class="calc-result-item calc-result-item--highlight">
+          <div class="calc-result-item__label">Effective APR</div>
+          <div class="calc-result-item__value" id="m-apr">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Total repayment</div>
+          <div class="calc-result-item__value" id="m-repayment">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Total cost (dollar cost)</div>
+          <div class="calc-result-item__value" id="m-cost">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Estimated repayment days</div>
+          <div class="calc-result-item__value" id="m-days">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Estimated repayment months</div>
+          <div class="calc-result-item__value" id="m-months">—</div>
+        </div>
+      </div>
+
+      <!-- Comparison table -->
+      <h3 style="margin-top:1.5rem;margin-bottom:0.75rem;font-size:1rem;color:var(--color-brand-500)">Cost Comparison — Same Amount &amp; Repayment Period</h3>
+      <div class="table-wrap">
+        <table class="calc-compare-table" id="m-compare-table">
+          <thead>
+            <tr>
+              <th>Financing Option</th>
+              <th>Effective APR</th>
+              <th>Total Cost</th>
+              <th>vs. MCA</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>This MCA</td>
+              <td id="mc-mca-apr">—</td>
+              <td id="mc-mca-cost">—</td>
+              <td>—</td>
+            </tr>
+            <tr>
+              <td>Business LOC (20% APR)</td>
+              <td>20.0%</td>
+              <td id="mc-loc-cost">—</td>
+              <td id="mc-loc-diff" class="calc-saving">—</td>
+            </tr>
+            <tr>
+              <td>Invoice Factoring (3%/30 days)</td>
+              <td id="mc-factor-apr">—</td>
+              <td id="mc-factor-cost">—</td>
+              <td id="mc-factor-diff" class="calc-saving">—</td>
+            </tr>
+            <tr>
+              <td>SBA Loan (12% APR)</td>
+              <td>12.0%</td>
+              <td id="mc-sba-cost">—</td>
+              <td id="mc-sba-diff" class="calc-saving">—</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="calc-note">Factor rates and holdback percentages determine your total dollar cost. Daily card sales determine repayment speed — faster repayment means higher effective APR for the same dollar cost.</p>
+    </div>
+  </div>
+
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>
+
+<style>
+  .calc-warning {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: #856404;
+  }
+  .calc-compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .calc-compare-table th,
+  .calc-compare-table td {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #e0e4ea;
+    text-align: left;
+  }
+  .calc-compare-table th {
+    background: var(--color-brand-500);
+    color: #fff;
+    font-weight: 600;
+  }
+  .calc-compare-table tr:nth-child(even) td { background: #f7f9fb; }
+  .calc-saving { font-weight: 600; }
+  .calc-saving.positive { color: #1a7f4b; }
+  .calc-saving.negative { color: #c0392b; }
+</style>
+
+<script>
+(function () {
+  function fmt(n) {
+    return '$' + Math.round(n).toLocaleString('en-US');
+  }
+  function fmtPct(n, decimals) {
+    return n.toFixed(decimals ?? 1) + '%';
+  }
+  function fmtDiff(saving) {
+    const el_id = arguments[1];
+    const el = document.getElementById(el_id);
+    if (!el) return;
+    if (saving > 0) {
+      el.textContent = 'Save ' + fmt(saving);
+      el.className = 'calc-saving positive';
+    } else if (saving < 0) {
+      el.textContent = fmt(Math.abs(saving)) + ' more';
+      el.className = 'calc-saving negative';
+    } else {
+      el.textContent = '—';
+      el.className = 'calc-saving';
+    }
+  }
+
+  function calculate() {
+    const advance   = parseFloat(document.getElementById('m-advance').value) || 0;
+    const factor    = parseFloat(document.getElementById('m-factor').value) || 1;
+    const holdback  = parseFloat(document.getElementById('m-holdback').value) / 100 || 0;
+    const daily     = parseFloat(document.getElementById('m-daily').value) || 0;
+
+    if (advance <= 0 || daily <= 0) return;
+
+    const repayment     = advance * factor;
+    const dollarCost    = repayment - advance;
+    const repayDays     = repayment / (daily * holdback);
+    const repayMonths   = repayDays / 30;
+    const apr           = (dollarCost / advance) / (repayDays / 365) * 100;
+
+    document.getElementById('m-repayment').textContent = fmt(repayment);
+    document.getElementById('m-cost').textContent      = fmt(dollarCost);
+    document.getElementById('m-days').textContent      = Math.round(repayDays) + ' days';
+    document.getElementById('m-months').textContent    = repayMonths.toFixed(1) + ' months';
+    document.getElementById('m-apr').textContent       = fmtPct(apr);
+
+    // APR warning
+    const warning = document.getElementById('m-apr-warning');
+    warning.style.display = apr > 100 ? 'block' : 'none';
+
+    // Comparison table
+    document.getElementById('mc-mca-apr').textContent  = fmtPct(apr);
+    document.getElementById('mc-mca-cost').textContent = fmt(dollarCost);
+
+    const locCost    = advance * 0.20 * (repayDays / 365);
+    const factorCost = advance * 0.03 * (repayDays / 30);
+    const sbaCost    = advance * 0.12 * (repayDays / 365);
+    const factorApr  = (factorCost / advance) / (repayDays / 365) * 100;
+
+    document.getElementById('mc-loc-cost').textContent    = fmt(locCost);
+    document.getElementById('mc-factor-apr').textContent  = fmtPct(factorApr);
+    document.getElementById('mc-factor-cost').textContent = fmt(factorCost);
+    document.getElementById('mc-sba-cost').textContent    = fmt(sbaCost);
+
+    fmtDiff(dollarCost - locCost,    'mc-loc-diff');
+    fmtDiff(dollarCost - factorCost, 'mc-factor-diff');
+    fmtDiff(dollarCost - sbaCost,    'mc-sba-diff');
+
+    document.getElementById('mca-results').classList.add('visible');
+  }
+
+  document.querySelectorAll('#calc input').forEach(function (el) {
+    el.addEventListener('input', calculate);
+    el.addEventListener('keydown', function (e) { if (e.key === 'Enter') calculate(); });
+  });
+
+  calculate();
+})();
+</script>

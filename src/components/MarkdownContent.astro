@@ -1,0 +1,11 @@
+---
+// Renders prose markdown HTML with table wrapping for horizontal scroll
+interface Props {
+  html: string;
+}
+const { html } = Astro.props;
+
+// Wrap every <table> in a .table-wrap div for horizontal scroll on mobile
+const wrapped = html.replace(/<table/g, '<div class="table-wrap"><table').replace(/<\/table>/g, '</table></div>');
+---
+<div class="prose" set:html={wrapped} />

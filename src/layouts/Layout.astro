@@ -1,0 +1,417 @@
+---
+import '../styles/global.css';
+
+export interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  lastReviewed?: string;
+  schema?: string[];
+  pageData?: Record<string, unknown>;
+  breadcrumbs?: Array<{ name: string; url: string }>;
+  faqItems?: Array<{ q: string; a: string }>;
+}
+
+const {
+  title,
+  description,
+  canonical,
+  lastReviewed,
+  schema = [],
+  pageData = {},
+  breadcrumbs = [],
+  faqItems = [],
+} = Astro.props;
+
+const SITE_NAME = 'FundingCompass';
+const SITE_URL = 'https://fundingcompass.guide';
+
+// Section-name → canonical absolute URL (used when pages pass url:'/' as a placeholder)
+const SECTION_URLS: Record<string, string> = {
+  'Guides':     `${SITE_URL}/guides/`,
+  'Industries': `${SITE_URL}/industries/`,
+  'Compare':    `${SITE_URL}/compare/`,
+  'Providers':  `${SITE_URL}/providers/`,
+  'Tools':      `${SITE_URL}/tools/`,
+  'Glossary':   `${SITE_URL}/glossary/`,
+};
+
+/** Resolve a breadcrumb url value to an absolute URL. */
+function resolveItem(name: string, url: string): string {
+  if (url.startsWith('http')) return url;               // already absolute
+  if (url === '/') return SECTION_URLS[name] ?? `${SITE_URL}/`;  // placeholder → section root
+  return `${SITE_URL}${url}`;                           // relative path → absolute
+}
+
+// Build JSON-LD blobs based on requested schema types
+const jsonldBlocks: string[] = [];
+
+// BreadcrumbList — always include if we have crumbs
+const allBreadcrumbs = [
+  { name: 'Home', item: `${SITE_URL}/` },
+  ...breadcrumbs.map(b => ({ name: b.name, item: resolveItem(b.name, b.url) })),
+];
+if (allBreadcrumbs.length > 1 || schema.includes('BreadcrumbList')) {
+  jsonldBlocks.push(JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: allBreadcrumbs.map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: b.item,
+    })),
+  }, null, 0));
+}
+
+// Article schema
+if (schema.includes('Article')) {
+  jsonldBlocks.push(JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description: description,
+    url: canonical,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+    datePublished: lastReviewed ?? '2026-05-01',
+    dateModified: lastReviewed ?? '2026-05-01',
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: `${SITE_URL}/`,
+    },
+    author: {
+      '@type': 'Organization',
+      name: `${SITE_NAME} Editorial Team`,
+    },
+  }, null, 0));
+}
+
+// WebApplication schema — for interactive calculator/tool pages
+if (schema.includes('WebApplication')) {
+  jsonldBlocks.push(JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name: title,
+    url: canonical,
+    description: description,
+    applicationCategory: 'FinanceApplication',
+    operatingSystem: 'Web',
+    offers: {
+      '@type': 'Offer',
+      price: '0',
+      priceCurrency: 'USD',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: `${SITE_URL}/`,
+    },
+  }, null, 0));
+}
+
+// FAQPage schema — built from faqItems prop
+if (schema.includes('FAQPage') && faqItems.length > 0) {
+  jsonldBlocks.push(JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqItems.map(item => ({
+      '@type': 'Question',
+      name: item.q,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.a,
+      },
+    })),
+  }, null, 0));
+}
+
+const pageTitle = `${title} | ${SITE_NAME}`;
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google Tag Manager -->
+  <script is:inline>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5QMMVJF9');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Google tag (gtag.js) -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-LDN1LRELFK"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LDN1LRELFK');
+  </script>
+
+  <!-- Core meta -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+  <!-- SEO meta -->
+  <title>{pageTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content={SITE_NAME} />
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+
+  <!-- Verification -->
+  <meta name="google-site-verification" content="7Cn_hQwPan240P08jRkb36k0K9hHgUK9EXwSt6eaH4c" />
+  <meta name="fo-verify" content="a07f2de8-c7da-42e0-b651-a2a586a0975e" />
+
+  <!-- Tabler Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://www.googletagmanager.com" />
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+
+  {jsonldBlocks.map(block => (
+    <script type="application/ld+json" set:html={block} />
+  ))}
+
+  <!-- Skimlinks affiliate monetisation -->
+  <script type="text/javascript" src="https://s.skimresources.com/js/303480X1791528.skimlinks.js"></script>
+
+  <!-- Impact site verification -->
+  <meta name="impact-site-verification" value="39453291-801b-4ef1-938e-c4e594e3140d" />
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QMMVJF9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="layout">
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a href="/" class="site-logo" aria-label="FundingCompass home">
+          <svg class="site-logo__mark" viewBox="0 0 48 48" aria-hidden="true">
+            <!-- Outer ring -->
+            <circle cx="24" cy="24" r="22" fill="rgba(240,243,255,0.18)" stroke="rgba(208,214,240,0.4)" stroke-width="1.5"/>
+            <!-- Cardinal tick marks -->
+            <line x1="24" y1="3" x2="24" y2="8" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="24" y1="40" x2="24" y2="45" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="3" y1="24" x2="8" y2="24" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+            <line x1="40" y1="24" x2="45" y2="24" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+            <!-- N needle — amber (always amber) -->
+            <polygon points="24,7 21,24 27,24" fill="#C87830"/>
+            <!-- S needle — light periwinkle -->
+            <polygon points="24,41 21,24 27,24" fill="rgba(176,191,245,0.7)"/>
+            <!-- E/W needles — subtle -->
+            <polygon points="41,24 24,21 24,27" fill="rgba(176,191,245,0.4)"/>
+            <polygon points="7,24 24,21 24,27" fill="rgba(176,191,245,0.4)"/>
+            <!-- Center dot -->
+            <circle cx="24" cy="24" r="2.5" fill="rgba(255,255,255,0.9)"/>
+          </svg>
+          <span class="site-logo__text">
+            <span class="site-logo__name"><span style="font-weight:500;color:rgba(255,255,255,0.92);">Funding</span><span style="font-weight:700;color:#fff;">Compass</span></span>
+            <span class="site-logo__domain">fundingcompass.guide</span>
+          </span>
+        </a>
+        <nav aria-label="Main navigation">
+          <ul class="site-nav">
+            <li class="site-nav__item site-nav__item--has-sub">
+              <button class="site-nav__trigger btn--nav" aria-haspopup="true">Guides <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
+              <ul class="site-nav__sub">
+                <li><a href="/guides/invoice-factoring/" class="site-nav__sub-link">Invoice Factoring</a></li>
+                <li><a href="/guides/equipment-financing/" class="site-nav__sub-link">Equipment Financing</a></li>
+                <li><a href="/guides/merchant-cash-advance/" class="site-nav__sub-link">Merchant Cash Advances</a></li>
+                <li><a href="/guides/business-line-of-credit/" class="site-nav__sub-link">Business Line of Credit</a></li>
+                <li><a href="/guides/sba-loans/" class="site-nav__sub-link">SBA Loans</a></li>
+              </ul>
+            </li>
+            <li class="site-nav__item site-nav__item--has-sub">
+              <button class="site-nav__trigger btn--nav" aria-haspopup="true">Industries <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
+              <ul class="site-nav__sub">
+                <li><a href="/industries/trucking-factoring/" class="site-nav__sub-link">Trucking Invoice Factoring</a></li>
+                <li><a href="/industries/staffing-factoring/" class="site-nav__sub-link">Staffing Invoice Factoring</a></li>
+                <li><a href="/industries/healthcare-factoring/" class="site-nav__sub-link">Healthcare Invoice Factoring</a></li>
+                <li><a href="/industries/construction-factoring/" class="site-nav__sub-link">Construction Invoice Factoring</a></li>
+                <li><a href="/industries/wholesale-factoring/" class="site-nav__sub-link">Wholesale Invoice Factoring</a></li>
+                <li><a href="/industries/restaurant-equipment-financing/" class="site-nav__sub-link">Restaurant Equipment Financing</a></li>
+                <li><a href="/industries/manufacturing-equipment-financing/" class="site-nav__sub-link">Manufacturing Equipment Financing</a></li>
+                <li><a href="/industries/construction-equipment-financing/" class="site-nav__sub-link">Construction Equipment Financing</a></li>
+                <li><a href="/industries/restaurant-merchant-cash-advance/" class="site-nav__sub-link">Restaurant Merchant Cash Advance</a></li>
+              </ul>
+            </li>
+            <li class="site-nav__item site-nav__item--has-sub">
+              <button class="site-nav__trigger btn--nav" aria-haspopup="true">Compare <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
+              <ul class="site-nav__sub">
+                <li><a href="/compare/best-invoice-factoring-companies/" class="site-nav__sub-link">Best Invoice Factoring Companies</a></li>
+                <li><a href="/compare/best-equipment-financing-companies/" class="site-nav__sub-link">Best Equipment Financing Companies</a></li>
+                <li><a href="/compare/best-merchant-cash-advance-providers/" class="site-nav__sub-link">Best Merchant Cash Advance Providers</a></li>
+                <li><a href="/compare/factoring-vs-merchant-cash-advance/" class="site-nav__sub-link">Invoice Factoring vs Merchant Cash Advance</a></li>
+                <li><a href="/compare/factoring-vs-line-of-credit/" class="site-nav__sub-link">Invoice Factoring vs Line of Credit</a></li>
+                <li><a href="/compare/spot-vs-contract-factoring/" class="site-nav__sub-link">Spot vs Contract Factoring</a></li>
+                <li><a href="/compare/recourse-vs-non-recourse-factoring/" class="site-nav__sub-link">Recourse vs Non-Recourse Factoring</a></li>
+              </ul>
+            </li>
+            <li class="site-nav__item site-nav__item--has-sub">
+              <button class="site-nav__trigger btn--nav" aria-haspopup="true">Providers <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
+              <ul class="site-nav__sub">
+                <li><a href="/providers/ecapital-review/" class="site-nav__sub-link">eCapital Review</a></li>
+                <li><a href="/providers/fundbox-review/" class="site-nav__sub-link">Fundbox Review</a></li>
+                <li><a href="/providers/bluevine-review/" class="site-nav__sub-link">BlueVine Review</a></li>
+                <li><a href="/providers/credibly-review/" class="site-nav__sub-link">Credibly Review</a></li>
+                <li><a href="/providers/ondeck-review/" class="site-nav__sub-link">OnDeck Review</a></li>
+                <li><a href="/providers/national-funding-review/" class="site-nav__sub-link">National Funding Review</a></li>
+                <li><a href="/providers/triumph-business-capital-review/" class="site-nav__sub-link">Triumph Business Capital Review</a></li>
+                <li><a href="/providers/rts-financial-review/" class="site-nav__sub-link">RTS Financial Review</a></li>
+              </ul>
+            </li>
+            <li class="site-nav__item site-nav__item--has-sub">
+              <button class="site-nav__trigger btn--nav" aria-haspopup="true">Tools <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
+              <ul class="site-nav__sub">
+                <li><a href="/tools/factoring-cost-calculator/" class="site-nav__sub-link">Invoice Factoring Calculator</a></li>
+                <li><a href="/tools/mca-true-cost-calculator/" class="site-nav__sub-link">Merchant Cash Advance Calculator</a></li>
+                <li><a href="/tools/equipment-financing-calculator/" class="site-nav__sub-link">Equipment Financing Calculator</a></li>
+                <li><a href="/tools/sba-loan-calculator/" class="site-nav__sub-link">SBA Loan Calculator</a></li>
+                <li><a href="/tools/business-loan-calculator/" class="site-nav__sub-link">Business Loan Calculator</a></li>
+              </ul>
+            </li>
+            <li class="site-nav__item site-nav__plain"><a href="/glossary/">Glossary</a></li>
+          </ul>
+        </nav>
+        <a href="/compare/best-invoice-factoring-companies/" class="btn btn--accent btn--sm site-header__cta">Compare Lenders</a>
+        <button class="site-nav__burger" id="nav-burger" aria-label="Open navigation" aria-expanded="false">
+          <span class="site-nav__burger-bar"></span>
+          <span class="site-nav__burger-bar"></span>
+          <span class="site-nav__burger-bar"></span>
+        </button>
+      </div>
+    </header>
+
+    <script is:inline>
+      document.getElementById('nav-burger').addEventListener('click', function() {
+        var open = this.getAttribute('aria-expanded') === 'true';
+        this.setAttribute('aria-expanded', String(!open));
+        this.closest('.site-header').classList.toggle('nav-open');
+      });
+    </script>
+
+    <main>
+      <div class="page-wrap">
+        <slot />
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <div class="site-footer__brand">
+          <a href="/" class="site-logo" aria-label="FundingCompass home">
+            <svg class="site-logo__mark" viewBox="0 0 48 48" aria-hidden="true">
+              <circle cx="24" cy="24" r="22" fill="rgba(240,243,255,0.18)" stroke="rgba(208,214,240,0.4)" stroke-width="1.5"/>
+              <line x1="24" y1="3" x2="24" y2="8" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+              <line x1="24" y1="40" x2="24" y2="45" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+              <line x1="3" y1="24" x2="8" y2="24" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+              <line x1="40" y1="24" x2="45" y2="24" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+              <polygon points="24,7 21,24 27,24" fill="#C87830"/>
+              <polygon points="24,41 21,24 27,24" fill="rgba(176,191,245,0.7)"/>
+              <polygon points="41,24 24,21 24,27" fill="rgba(176,191,245,0.4)"/>
+              <polygon points="7,24 24,21 24,27" fill="rgba(176,191,245,0.4)"/>
+              <circle cx="24" cy="24" r="2.5" fill="rgba(255,255,255,0.9)"/>
+            </svg>
+            <span class="site-logo__text">
+              <span class="site-logo__name"><span style="font-weight:500;color:rgba(255,255,255,0.92);">Funding</span><span style="font-weight:700;color:#fff;">Compass</span></span>
+            </span>
+          </a>
+          <p class="site-footer__tagline">Independent. Accurate. Free.</p>
+        </div>
+        <div class="site-footer__cols">
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Guides</div>
+            <ul>
+              <li><a href="/guides/invoice-factoring/">Invoice Factoring</a></li>
+              <li><a href="/guides/equipment-financing/">Equipment Financing</a></li>
+              <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances</a></li>
+              <li><a href="/guides/business-line-of-credit/">Business Line of Credit</a></li>
+              <li><a href="/guides/sba-loans/">SBA Loans</a></li>
+            </ul>
+          </div>
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Industries</div>
+            <ul>
+              <li><a href="/industries/trucking-factoring/">Trucking Invoice Factoring</a></li>
+              <li><a href="/industries/staffing-factoring/">Staffing Invoice Factoring</a></li>
+              <li><a href="/industries/healthcare-factoring/">Healthcare Invoice Factoring</a></li>
+              <li><a href="/industries/construction-factoring/">Construction Invoice Factoring</a></li>
+              <li><a href="/industries/wholesale-factoring/">Wholesale Invoice Factoring</a></li>
+              <li><a href="/industries/restaurant-equipment-financing/">Restaurant Equipment Financing</a></li>
+              <li><a href="/industries/manufacturing-equipment-financing/">Manufacturing Equipment Financing</a></li>
+              <li><a href="/industries/construction-equipment-financing/">Construction Equipment Financing</a></li>
+              <li><a href="/industries/restaurant-merchant-cash-advance/">Restaurant Merchant Cash Advance</a></li>
+            </ul>
+          </div>
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Compare</div>
+            <ul>
+              <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies</a></li>
+              <li><a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies</a></li>
+              <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers</a></li>
+              <li><a href="/compare/factoring-vs-merchant-cash-advance/">Invoice Factoring vs Merchant Cash Advance</a></li>
+              <li><a href="/compare/factoring-vs-line-of-credit/">Invoice Factoring vs Line of Credit</a></li>
+              <li><a href="/compare/spot-vs-contract-factoring/">Spot vs Contract Factoring</a></li>
+              <li><a href="/compare/recourse-vs-non-recourse-factoring/">Recourse vs Non-Recourse Factoring</a></li>
+            </ul>
+          </div>
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Providers</div>
+            <ul>
+              <li><a href="/providers/ecapital-review/">eCapital Review</a></li>
+              <li><a href="/providers/fundbox-review/">Fundbox Review</a></li>
+              <li><a href="/providers/bluevine-review/">BlueVine Review</a></li>
+              <li><a href="/providers/credibly-review/">Credibly Review</a></li>
+              <li><a href="/providers/ondeck-review/">OnDeck Review</a></li>
+              <li><a href="/providers/national-funding-review/">National Funding Review</a></li>
+              <li><a href="/providers/triumph-business-capital-review/">Triumph Business Capital Review</a></li>
+              <li><a href="/providers/rts-financial-review/">RTS Financial Review</a></li>
+            </ul>
+          </div>
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Tools</div>
+            <ul>
+              <li><a href="/tools/factoring-cost-calculator/">Invoice Factoring Calculator</a></li>
+              <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
+              <li><a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a></li>
+              <li><a href="/tools/sba-loan-calculator/">SBA Loan Calculator</a></li>
+              <li><a href="/tools/business-loan-calculator/">Business Loan Calculator</a></li>
+            </ul>
+          </div>
+          <div class="site-footer__col">
+            <div class="site-footer__col-title">Site</div>
+            <ul>
+              <li><a href="/about/">About</a></li>
+              <li><a href="/how-we-make-money/">How We Make Money</a></li>
+              <li><a href="/editorial-standards/">Editorial Standards</a></li>
+              <li><a href="/lenders/">List of Lenders</a></li>
+              <li><a href="/glossary/">Glossary</a></li>
+              <li><a href="/privacy/">Privacy Policy</a></li>
+              <li><a href="/terms/">Terms</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="site-footer__bottom">
+          <p class="site-footer__copy">© 2026 FundingCompass. All Rights Reserved. &nbsp;·&nbsp; <a href="/terms/">Terms of Use</a> &nbsp;·&nbsp; <a href="/privacy/">Privacy Policy</a></p>
+          <p class="site-footer__disclaimer">FundingCompass is an independent financial research resource. Our editorial opinions are our own — they have not been reviewed, approved, or endorsed by any lender, provider, or third-party entity. Provider rates, terms, and eligibility criteria are subject to change without notice; always verify directly with the provider before applying. Nothing on this site constitutes financial, legal, or investment advice.</p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

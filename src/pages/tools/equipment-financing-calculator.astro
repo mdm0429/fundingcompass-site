@@ -1,0 +1,434 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractFaqs } from '../../utils/faq';
+const entry = await getEntry('pages', 'tools/equipment-financing-calculator');
+const fm = entry.data;
+const { Content } = await entry.render();
+const faqItems = extractFaqs(entry.body);
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[{ name: 'Tools', url: '/' }]}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Tools</a></li>
+      <li aria-current="page">Equipment Financing Calculator</li>
+    </ol>
+  </nav>
+
+  {fm.last_reviewed && (
+    <div class="article-meta">
+      <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  )}
+
+  <!-- ── Equipment Financing Calculator ──────────────────────── -->
+  <div class="calc-box" id="efc">
+    <h2>Equipment Financing Calculator</h2>
+
+    <!-- Tab buttons -->
+    <div class="efc-tabs" role="tablist">
+      <button class="efc-tab efc-tab--active" id="tab-loan" role="tab" aria-selected="true" aria-controls="panel-loan" type="button">Equipment Loan</button>
+      <button class="efc-tab" id="tab-lease" role="tab" aria-selected="false" aria-controls="panel-lease" type="button">Equipment Lease</button>
+    </div>
+
+    <!-- ── LOAN TAB ── -->
+    <div class="efc-panel" id="panel-loan" role="tabpanel" aria-labelledby="tab-loan">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="l-cost">Equipment cost ($)</label>
+          <input type="number" id="l-cost" value="75000" min="1000" max="5000000" step="1000" />
+        </div>
+        <div class="calc-field">
+          <label for="l-down">Down payment ($) <span class="efc-inline-pct" id="l-down-pct"></span></label>
+          <input type="number" id="l-down" value="0" min="0" step="500" />
+        </div>
+        <div class="calc-field">
+          <label for="l-term">Loan term (months)</label>
+          <select id="l-term">
+            <option value="12">12 months</option>
+            <option value="24">24 months</option>
+            <option value="36">36 months</option>
+            <option value="48">48 months</option>
+            <option value="60" selected>60 months</option>
+            <option value="72">72 months</option>
+            <option value="84">84 months</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label for="l-rate">Annual interest rate (%)</label>
+          <input type="number" id="l-rate" value="12" min="1" max="60" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label for="l-tax">Your business tax rate (%) <span class="efc-helper">for Section 179 calculation</span></label>
+          <input type="number" id="l-tax" value="25" min="0" max="50" step="1" />
+        </div>
+      </div>
+
+      <div class="calc-results" id="loan-results">
+        <div class="calc-results__grid">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label">Monthly payment</div>
+            <div class="calc-result-item__value" id="l-monthly">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Loan amount</div>
+            <div class="calc-result-item__value" id="l-loan-amt">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total payments</div>
+            <div class="calc-result-item__value" id="l-total-payments">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total interest</div>
+            <div class="calc-result-item__value" id="l-total-interest">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Effective total cost</div>
+            <div class="calc-result-item__value" id="l-total-cost">—</div>
+          </div>
+        </div>
+
+        <!-- Section 179 box -->
+        <div class="efc-s179" id="l-s179-box">
+          <div class="efc-s179__title">Section 179 Tax Benefit (estimated)</div>
+          <div class="efc-s179__grid">
+            <div>
+              <div class="efc-s179__label">Section 179 deduction</div>
+              <div class="efc-s179__value" id="l-s179-deduction">—</div>
+            </div>
+            <div>
+              <div class="efc-s179__label">Estimated tax savings</div>
+              <div class="efc-s179__value" id="l-s179-savings">—</div>
+            </div>
+            <div>
+              <div class="efc-s179__label">Net cost after Section 179</div>
+              <div class="efc-s179__value efc-s179__value--highlight" id="l-s179-net">—</div>
+            </div>
+          </div>
+          <p class="efc-s179__note" id="l-s179-limit-note" style="display:none">⚠️ Equipment cost exceeds the $1,160,000 Section 179 deduction limit — deduction capped at $1,160,000.</p>
+          <p class="efc-s179__note">Section 179 deduction applies to equipment purchased and placed in service in the current tax year. Consult a tax adviser for your specific situation.</p>
+        </div>
+
+        <!-- Amortisation table (collapsible) -->
+        <details class="efc-amort">
+          <summary>View amortisation schedule</summary>
+          <div class="table-wrap">
+            <table class="efc-amort-table" id="l-amort-table">
+              <thead>
+                <tr>
+                  <th>Month</th>
+                  <th>Beginning Balance</th>
+                  <th>Payment</th>
+                  <th>Principal</th>
+                  <th>Interest</th>
+                  <th>Ending Balance</th>
+                </tr>
+              </thead>
+              <tbody id="l-amort-body"></tbody>
+            </table>
+          </div>
+        </details>
+      </div>
+    </div>
+
+    <!-- ── LEASE TAB ── -->
+    <div class="efc-panel" id="panel-lease" role="tabpanel" aria-labelledby="tab-lease" style="display:none">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="e-cost">Equipment cost ($)</label>
+          <input type="number" id="e-cost" value="75000" min="1000" max="5000000" step="1000" />
+        </div>
+        <div class="calc-field">
+          <label for="e-residual">Residual / buyout value at lease end ($) <span class="efc-inline-pct" id="e-residual-pct"></span></label>
+          <input type="number" id="e-residual" value="7500" min="0" step="500" />
+        </div>
+        <div class="calc-field">
+          <label for="e-term">Lease term (months)</label>
+          <select id="e-term">
+            <option value="24">24 months</option>
+            <option value="36" selected>36 months</option>
+            <option value="48">48 months</option>
+            <option value="60">60 months</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label for="e-mf">Money factor <span class="efc-helper" id="e-mf-apr">≈ 4.8% APR</span></label>
+          <input type="number" id="e-mf" value="0.002" min="0.0001" max="0.01" step="0.0001" />
+        </div>
+        <div class="calc-field">
+          <label for="e-tax">Your business tax rate (%)</label>
+          <input type="number" id="e-tax" value="25" min="0" max="50" step="1" />
+        </div>
+      </div>
+
+      <div class="calc-results" id="lease-results">
+        <div class="calc-results__grid">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label">Monthly lease payment</div>
+            <div class="calc-result-item__value" id="e-monthly">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Monthly depreciation</div>
+            <div class="calc-result-item__value" id="e-depreciation">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Monthly finance charge</div>
+            <div class="calc-result-item__value" id="e-finance-charge">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total lease cost</div>
+            <div class="calc-result-item__value" id="e-total-cost">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Approximate APR</div>
+            <div class="calc-result-item__value" id="e-apr">—</div>
+          </div>
+        </div>
+
+        <!-- Lease vs Buy comparison -->
+        <div class="efc-compare" id="efc-compare-box">
+          <h3 class="efc-compare__title">Loan vs. Lease Comparison</h3>
+          <div class="table-wrap">
+            <table class="efc-compare-table">
+              <thead>
+                <tr><th></th><th>Loan (Buy)</th><th>Lease</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>Monthly payment</td><td id="cmp-loan-monthly">—</td><td id="cmp-lease-monthly">—</td></tr>
+                <tr><td>Total cost</td><td id="cmp-loan-total">—</td><td id="cmp-lease-total">—</td></tr>
+                <tr><td>Own at end?</td><td>Yes</td><td>No (unless buyout)</td></tr>
+                <tr><td>Section 179 eligible</td><td>Yes</td><td>Depends (loan-style)</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a href="/compare/best-equipment-financing-companies/" class="calc-btn efc-cta">Compare Equipment Lenders →</a>
+  </div>
+
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>
+
+<style>
+  .efc-tabs { display: flex; gap: 0.5rem; margin-bottom: 1.25rem; }
+  .efc-tab {
+    padding: 0.5rem 1.25rem;
+    border: 2px solid var(--color-brand-500);
+    border-radius: 4px;
+    background: transparent;
+    color: var(--color-brand-500);
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+  .efc-tab--active { background: var(--color-brand-500); color: #fff; }
+  .efc-helper { font-size: 0.8rem; color: var(--text-tertiary); font-weight: 400; margin-left: 0.35rem; }
+  .efc-inline-pct { font-size: 0.82rem; color: var(--text-tertiary); font-weight: 400; margin-left: 0.35rem; }
+
+  .efc-s179 {
+    background: #fffbeb;
+    border: 1px solid #f59e0b;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-top: 1.25rem;
+  }
+  .efc-s179__title { font-weight: 700; color: var(--color-brand-500); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .efc-s179__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.75rem; margin-bottom: 0.75rem; }
+  .efc-s179__label { font-size: 0.8rem; color: var(--text-tertiary); margin-bottom: 0.2rem; }
+  .efc-s179__value { font-size: 1.1rem; font-weight: 700; color: var(--color-brand-500); }
+  .efc-s179__value--highlight { color: #1a7f4b; }
+  .efc-s179__note { font-size: 0.8rem; color: var(--text-tertiary); margin: 0.4rem 0 0; }
+
+  .efc-amort { margin-top: 1.25rem; }
+  .efc-amort summary { cursor: pointer; font-size: 0.9rem; color: var(--color-brand-500); font-weight: 600; padding: 0.5rem 0; }
+  .efc-amort-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+  .efc-amort-table th, .efc-amort-table td { padding: 0.4rem 0.6rem; border: 1px solid #e0e4ea; text-align: right; }
+  .efc-amort-table th:first-child, .efc-amort-table td:first-child { text-align: center; }
+  .efc-amort-table th { background: var(--color-brand-500); color: #fff; }
+  .efc-amort-table tr:nth-child(even) td { background: #f7f9fb; }
+
+  .efc-compare { margin-top: 1.25rem; }
+  .efc-compare__title { font-size: 0.95rem; font-weight: 700; color: var(--color-brand-500); margin-bottom: 0.75rem; }
+  .efc-compare-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+  .efc-compare-table th, .efc-compare-table td { padding: 0.5rem 0.75rem; border: 1px solid #e0e4ea; }
+  .efc-compare-table th { background: var(--color-brand-500); color: #fff; font-weight: 600; }
+  .efc-compare-table tr:nth-child(even) td { background: #f7f9fb; }
+
+  .efc-cta { display: inline-block; margin-top: 1.25rem; text-decoration: none; }
+</style>
+
+<script>
+(function () {
+  // ── State shared between tabs ──────────────────────────────
+  var loanMonthly = 0, loanTotal = 0;
+  var leaseMonthly = 0, leaseTotal = 0;
+
+  function fmt(n) {
+    return '$' + Math.round(n).toLocaleString('en-US');
+  }
+  function fmtD(n) {
+    return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  }
+
+  // ── Tab switching ──────────────────────────────────────────
+  document.getElementById('tab-loan').addEventListener('click', function () {
+    document.getElementById('tab-loan').classList.add('efc-tab--active');
+    document.getElementById('tab-lease').classList.remove('efc-tab--active');
+    document.getElementById('tab-loan').setAttribute('aria-selected', 'true');
+    document.getElementById('tab-lease').setAttribute('aria-selected', 'false');
+    document.getElementById('panel-loan').style.display = '';
+    document.getElementById('panel-lease').style.display = 'none';
+  });
+  document.getElementById('tab-lease').addEventListener('click', function () {
+    document.getElementById('tab-lease').classList.add('efc-tab--active');
+    document.getElementById('tab-loan').classList.remove('efc-tab--active');
+    document.getElementById('tab-lease').setAttribute('aria-selected', 'true');
+    document.getElementById('tab-loan').setAttribute('aria-selected', 'false');
+    document.getElementById('panel-lease').style.display = '';
+    document.getElementById('panel-loan').style.display = 'none';
+  });
+
+  // ── Loan calculator ────────────────────────────────────────
+  function calcLoan() {
+    var cost    = parseFloat(document.getElementById('l-cost').value) || 0;
+    var down    = parseFloat(document.getElementById('l-down').value) || 0;
+    var term    = parseInt(document.getElementById('l-term').value) || 60;
+    var rate    = parseFloat(document.getElementById('l-rate').value) / 100 / 12 || 0;
+    var taxRate = parseFloat(document.getElementById('l-tax').value) / 100 || 0;
+
+    // Down payment %
+    var downPct = cost > 0 ? (down / cost * 100).toFixed(1) + '%' : '';
+    document.getElementById('l-down-pct').textContent = downPct ? '(' + downPct + ')' : '';
+
+    if (cost <= 0) return;
+    down = Math.min(down, cost - 1);
+
+    var principal = cost - down;
+    var monthly;
+    if (rate === 0) {
+      monthly = principal / term;
+    } else {
+      monthly = principal * (rate * Math.pow(1 + rate, term)) / (Math.pow(1 + rate, term) - 1);
+    }
+
+    var totalPayments = monthly * term;
+    var totalInterest = totalPayments - principal;
+    var effectiveCost = totalPayments + down;
+
+    loanMonthly = monthly;
+    loanTotal   = effectiveCost;
+
+    document.getElementById('l-monthly').textContent        = fmt(monthly);
+    document.getElementById('l-loan-amt').textContent       = fmt(principal);
+    document.getElementById('l-total-payments').textContent = fmt(totalPayments);
+    document.getElementById('l-total-interest').textContent = fmt(totalInterest);
+    document.getElementById('l-total-cost').textContent     = fmt(effectiveCost);
+
+    // Section 179
+    var S179_LIMIT = 1160000;
+    var deduction  = Math.min(cost, S179_LIMIT);
+    var taxSavings = deduction * taxRate;
+    var netCost    = effectiveCost - taxSavings;
+
+    document.getElementById('l-s179-deduction').textContent = fmt(deduction);
+    document.getElementById('l-s179-savings').textContent   = fmt(taxSavings);
+    document.getElementById('l-s179-net').textContent       = fmt(netCost);
+    document.getElementById('l-s179-limit-note').style.display = cost > S179_LIMIT ? 'block' : 'none';
+
+    // Amortisation table
+    var tbody = document.getElementById('l-amort-body');
+    tbody.innerHTML = '';
+    var balance = principal;
+    for (var i = 1; i <= term; i++) {
+      var intPart  = balance * rate;
+      var prinPart = monthly - intPart;
+      var ending   = Math.max(0, balance - prinPart);
+      var tr = document.createElement('tr');
+      tr.innerHTML =
+        '<td>' + i + '</td>' +
+        '<td>' + fmtD(balance) + '</td>' +
+        '<td>' + fmtD(monthly) + '</td>' +
+        '<td>' + fmtD(prinPart) + '</td>' +
+        '<td>' + fmtD(intPart) + '</td>' +
+        '<td>' + fmtD(ending) + '</td>';
+      tbody.appendChild(tr);
+      balance = ending;
+    }
+
+    document.getElementById('loan-results').classList.add('visible');
+    updateComparison();
+  }
+
+  // ── Lease calculator ───────────────────────────────────────
+  function calcLease() {
+    var cost     = parseFloat(document.getElementById('e-cost').value) || 0;
+    var residual = parseFloat(document.getElementById('e-residual').value) || 0;
+    var term     = parseInt(document.getElementById('e-term').value) || 36;
+    var mf       = parseFloat(document.getElementById('e-mf').value) || 0;
+    var taxRate  = parseFloat(document.getElementById('e-tax').value) / 100 || 0;
+
+    // Residual %
+    var resPct = cost > 0 ? (residual / cost * 100).toFixed(1) + '%' : '';
+    document.getElementById('e-residual-pct').textContent = resPct ? '(' + resPct + ')' : '';
+
+    // Money factor → APR hint
+    document.getElementById('e-mf-apr').textContent = '≈ ' + (mf * 2400).toFixed(1) + '% APR';
+
+    if (cost <= 0) return;
+
+    var depreciation  = (cost - residual) / term;
+    var financeCharge = (cost + residual) * mf;
+    var monthlyPmt    = depreciation + financeCharge;
+    var totalCost     = monthlyPmt * term;
+    var aprApprox     = mf * 2400;
+
+    leaseMonthly = monthlyPmt;
+    leaseTotal   = totalCost;
+
+    document.getElementById('e-depreciation').textContent   = fmt(depreciation);
+    document.getElementById('e-finance-charge').textContent = fmt(financeCharge);
+    document.getElementById('e-monthly').textContent        = fmt(monthlyPmt);
+    document.getElementById('e-total-cost').textContent     = fmt(totalCost);
+    document.getElementById('e-apr').textContent            = aprApprox.toFixed(1) + '%';
+
+    document.getElementById('lease-results').classList.add('visible');
+    updateComparison();
+  }
+
+  function updateComparison() {
+    document.getElementById('cmp-loan-monthly').textContent  = loanMonthly  > 0 ? fmt(loanMonthly)  : '—';
+    document.getElementById('cmp-loan-total').textContent    = loanTotal    > 0 ? fmt(loanTotal)    : '—';
+    document.getElementById('cmp-lease-monthly').textContent = leaseMonthly > 0 ? fmt(leaseMonthly) : '—';
+    document.getElementById('cmp-lease-total').textContent   = leaseTotal   > 0 ? fmt(leaseTotal)   : '—';
+  }
+
+  // ── Wire up inputs ─────────────────────────────────────────
+  ['l-cost','l-down','l-term','l-rate','l-tax'].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) { el.addEventListener('input', calcLoan); el.addEventListener('change', calcLoan); }
+  });
+  ['e-cost','e-residual','e-term','e-mf','e-tax'].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) { el.addEventListener('input', calcLease); el.addEventListener('change', calcLease); }
+  });
+
+  // Run on load
+  calcLoan();
+  calcLease();
+})();
+</script>

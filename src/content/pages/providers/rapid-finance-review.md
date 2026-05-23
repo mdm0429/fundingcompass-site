@@ -1,0 +1,207 @@
+---
+title: "Rapid Finance Review 2026 — Merchant Cash Advances & Small Business Loans"
+description: "Rapid Finance offers merchant cash advances, term loans, and lines of credit to established small businesses. Independent review with real costs, eligibility, and alternatives."
+canonical: "https://fundingcompass.guide/providers/rapid-finance-review/"
+last_reviewed: "2026-05-01"
+schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
+---
+
+# Rapid Finance Review 2026 — Merchant Cash Advances & Small Business Loans
+
+*Last reviewed: May 2026 — Rates and terms verified via Rapid Finance published terms and third-party lender databases. FundingCompass has no financial relationship with Rapid Finance. This review reflects our independent assessment.*
+
+---
+
+<div class="cta-unit">
+  <div class="cta-unit__header">
+    <div class="cta-unit__logo-area">
+      <div class="cta-unit__logo cta-unit__logo--text">RF</div>
+      <div>
+        <div class="cta-unit__name">Rapid Finance</div>
+        <div class="cta-unit__category">MCA Provider</div>
+      </div>
+    </div>
+  </div>
+  <div class="cta-unit__body">
+    <div class="cta-unit__metrics">
+      <div class="cta-metric">
+        <div class="cta-metric__label">Max MCA Funding</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">$500,000</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">Max Business Loan</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">$1,000,000</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">Min. Credit Score</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">550</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">Min. Time in Business</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">2 years</div>
+      </div>
+    </div>
+    <div class="cta-unit__footer">
+      <div class="cta-unit__best-for">20+ year track record with the broadest product suite among MCA providers — MCAs, term loans, lines of credit, and SBA loans all available through one lender. Best for established businesses with 2+ years of operating history.</div>
+      <div class="cta-unit__actions">
+        <a href="https://www.rapidfinance.com/" class="btn btn--accent btn--md" target="_blank" rel="nofollow noopener">Apply Now</a>
+        <a href="https://fundingcompass.guide/providers/rapid-finance-review/" class="btn btn--outline btn--md">Full Review</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Summary Verdict
+
+Rapid Finance is a Maryland-based alternative lender with over 20 years of operation, offering merchant cash advances, small business loans, lines of credit, and SBA loans to established businesses. Its 2-year minimum time-in-business requirement makes it inaccessible to newer businesses, but for those that qualify, it offers a broader product suite than most MCA-only providers. Rapid Finance does not publish factor rates upfront — you must apply to see your offer. It is a legitimate option for established businesses that need fast capital and have been declined for bank financing.
+
+**Best for:** Businesses with 2+ years in operation, $120,000+/year in revenue, and 550+ credit that need fast access to capital across multiple product types.
+
+**Not ideal for:** Businesses under 2 years old (who should look at Credibly, Greenbox Capital, or BFS Capital instead), or businesses that qualify for SBA or bank financing at lower cost.
+
+---
+
+## At a Glance
+
+| | Merchant Cash Advance | Small Business Loan | Line of Credit |
+|---|---|---|---|
+| Factor rate / Rate | Factor rate (not published) | Not published | Not published |
+| Max funding | $500,000 | $1,000,000 | $250,000 |
+| Min. annual revenue | ~$120,000 | ~$120,000 | ~$120,000 |
+| Min. time in business | 2 years | 2 years | 2 years |
+| Min. credit score | 550 | 550 | 550 |
+| Funding speed | 24 hours | 24–48 hours | 24–48 hours |
+| Repayment | % of daily card sales | Fixed daily/weekly | Draw as needed |
+
+*Rates not publicly disclosed — apply at [rapidfinance.com](https://www.rapidfinance.com/) to see your specific offer. Rates verified May 2026.*
+
+---
+
+## What Rapid Finance Offers
+
+Rapid Finance operates a multi-product lending platform targeting established small businesses. Its product suite is broader than most alternative lenders in the MCA space.
+
+**Merchant Cash Advance:** Rapid Finance purchases a fixed amount of future receivables in exchange for a lump sum. Repayment is collected as a holdback percentage of daily card sales. Factor rates are not published upfront — you receive a specific offer after applying.
+
+**Small Business Loan:** A fixed-term loan with set repayment schedule, funded up to $1,000,000. Terms and rates are not published — apply for a personalized offer. This positions as a structured alternative to the MCA for businesses with predictable cash flow that prefer a defined end date.
+
+**Line of Credit:** Revolving credit up to $250,000. Draw funds as needed and repay over time. Rate not disclosed publicly.
+
+**SBA Loans:** Rapid Finance is an SBA-approved lender and can facilitate SBA 7(a) loans. If you qualify for SBA financing (680+ credit, 2+ years, strong revenue), this is the most cost-effective product in their suite.
+
+**Asset-Based Lending and Other Products:** Rapid Finance also offers bridge loans, asset-based lending, and healthcare financing for qualifying businesses. Confirm availability at application.
+
+---
+
+## Cost Transparency
+
+Rapid Finance does not publish factor rates or effective APRs publicly — you must apply to receive a specific offer. This is a significant disadvantage for pre-application comparison shopping. California, New York, Utah, and Virginia require MCA providers to disclose effective APR before signing; if you're in one of those states, Rapid Finance must show you the cost before you commit.
+
+**Before applying:** Use the [MCA True Cost Calculator](/tools/mca-true-cost-calculator/) to model what different factor rate scenarios would cost at your daily sales volume. Then compare the actual offer you receive against alternatives.
+
+**Typical MCA cost range (industry benchmark, not Rapid Finance-specific):**
+- Factor rate range: 1.15–1.45 (typical for this market segment)
+- Effective APR: 40–200%+ depending on repayment speed
+- Holdback range: 10–20% of daily card sales
+
+These are industry benchmarks. Your actual Rapid Finance offer may differ significantly based on your credit profile, revenue, and industry. Never sign without confirming your specific factor rate and holdback.
+
+---
+
+## Who Qualifies
+
+Rapid Finance's eligibility requirements are more restrictive than many MCA competitors due to the 2-year time-in-business minimum:
+
+- Annual revenue: $120,000+ ($10,000+/month)
+- Time in business: 2+ years (strict minimum — newer businesses are declined)
+- Personal credit score: 550+
+- Business bank account required
+- Must accept credit/debit card payments (for MCA product)
+- US businesses only
+
+Industries typically excluded include cannabis, adult entertainment, and gambling-related businesses. Confirm eligibility at application for your specific industry.
+
+---
+
+## Application Process
+
+1. Online application at [rapidfinance.com](https://www.rapidfinance.com/) — approximately 10 minutes
+2. Connect bank account or upload 3 months of business bank statements
+3. Pre-qualification review (soft pull)
+4. Offer presented with factor rate and holdback disclosed
+5. Hard credit pull upon acceptance
+6. Funding within 24 hours (MCA) to 48 hours (loans)
+
+Rapid Finance assigns a dedicated business advisor at application. For SBA loan inquiries, expect a longer underwriting process (30–60 days).
+
+---
+
+## Pros and Cons
+
+**Pros:**
+- 20+ years in operation — established track record
+- Broad product suite (MCA, loans, LOC, SBA) — one relationship covers multiple needs
+- SBA-approved lender — can move you from MCA to SBA if you qualify
+- Up to $1,000,000 for business loans
+- 24-hour funding for MCA product
+- Compliance with state commercial financing disclosure laws where required
+
+**Cons:**
+- 2-year minimum time in business — excludes newer businesses
+- Factor rates not disclosed upfront — requires application to compare
+- MCA effective APR is high (40–200%+) — not appropriate as a first-resort option
+- Rate and term details sparse on website — limited transparency before application
+
+---
+
+## Rapid Finance vs. BFS Capital vs. Credibly
+
+| | Rapid Finance | BFS Capital | Credibly |
+|---|---|---|---|
+| Max funding (MCA) | $500,000 | $2,000,000 | $600,000 |
+| Min. credit score | 550 | 550 | 500 |
+| Min. time in business | 2 years | 6 months | 6 months |
+| Factor rates published | No | No | Yes (1.15–1.49) |
+| Funding speed | 24 hours | 24 hours | 24–48 hours |
+| SBA loans available | Yes | No | No |
+| Products beyond MCA | Yes (loans, LOC, SBA) | Yes (working capital loan) | Yes (working capital loan) |
+
+Rapid Finance's 2-year requirement is its main limitation against competitors. Its advantage is the broadest product suite, including SBA loans — meaning a business that starts with an MCA can potentially graduate to SBA financing through the same lender.
+
+---
+
+## Alternatives to Evaluate First
+
+- **Business line of credit:** BlueVine and Fundbox work with 600+ credit and 6+ months in business at 15–30% APR. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
+- **Invoice factoring:** If your business has B2B invoices outstanding, factoring costs 18–60% effective APR — less than most MCAs. See [Invoice Factoring Guide](/guides/invoice-factoring/).
+- **SBA loan:** If you have 680+ credit and 2+ years in business, SBA 7(a) rates are 10–13% APR. Rapid Finance can facilitate SBA loans directly. See [SBA Loans Guide](/guides/sba-loans/).
+
+---
+
+## Frequently Asked Questions
+
+**Is Rapid Finance a direct lender?**
+Yes, Rapid Finance primarily funds from its own capital. For SBA loans, it works within the SBA Preferred Lender Program. This generally means fewer intermediary fees across their product suite.
+
+**Why does Rapid Finance require 2 years in business?**
+The 2-year minimum reflects Rapid Finance's focus on established businesses. If your business is under 2 years old, consider Credibly, Greenbox Capital, or BFS Capital — all of which require only 6 months of operating history.
+
+**Can I get an SBA loan through Rapid Finance?**
+Yes. Rapid Finance is an SBA-approved lender and can facilitate SBA 7(a) loans. SBA loans require stronger qualifications (typically 680+ credit, 2+ years, strong revenue and collateral) but carry significantly lower rates (10–13% APR) than MCA products. If you qualify, the SBA product is almost always the better financial choice.
+
+**Does Rapid Finance report to business credit bureaus?**
+Rapid Finance does not typically report MCA repayment to major business credit bureaus. SBA loan repayment may be reported. Confirm the reporting policy for the specific product at application.
+
+**What happens if my card sales drop significantly after I take an MCA from Rapid Finance?**
+Because MCA holdback is a percentage of daily card sales, lower sales automatically reduce daily payments — providing built-in flexibility. However, your total repayment obligation does not change. If you experience a prolonged sales decline that threatens your ability to repay, contact Rapid Finance directly. Some providers will restructure holdback percentages in hardship situations — read your agreement's default triggers before signing.
+
+---
+
+<aside class="related-resources">
+  <div class="related-resources__title">Related Resources</div>
+  <ul class="related-resources__list">
+    <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
+    <li><a href="/guides/sba-loans/">SBA Loans for Small Businesses — Complete Guide</a></li>
+    <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers of 2026</a></li>
+  </ul>
+</aside>

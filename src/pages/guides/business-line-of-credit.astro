@@ -1,0 +1,6 @@
+---
+import { getEntry } from 'astro:content';
+import ArticlePage from '../../layouts/ArticlePage.astro';
+const entry = await getEntry('pages', 'guides/business-line-of-credit');
+---
+<ArticlePage entry={entry} breadcrumbs={[{ name: 'Guides', url: '/' }]} />

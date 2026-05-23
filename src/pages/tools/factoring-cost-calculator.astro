@@ -1,0 +1,160 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractFaqs } from '../../utils/faq';
+const entry = await getEntry('pages', 'tools/factoring-cost-calculator');
+const fm = entry.data;
+const { Content } = await entry.render();
+const faqItems = extractFaqs(entry.body);
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[{ name: 'Tools', url: '/' }]}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Tools</a></li>
+      <li aria-current="page">Invoice Factoring Calculator</li>
+    </ol>
+  </nav>
+
+  {fm.last_reviewed && (
+    <div class="article-meta">
+      <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  )}
+
+  <!-- ── Calculator ──────────────────────────────────────── -->
+  <div class="calc-box" id="calc">
+    <h2>Invoice Factoring Calculator</h2>
+    <div class="calc-fields">
+      <div class="calc-field">
+        <label for="c-invoice">Invoice face value ($)</label>
+        <input type="number" id="c-invoice" value="50000" min="100" step="100" />
+      </div>
+      <div class="calc-field">
+        <label for="c-advance">Advance rate (%)</label>
+        <input type="number" id="c-advance" value="90" min="50" max="100" step="0.5" />
+      </div>
+      <div class="calc-field">
+        <label for="c-fee">Factoring fee rate (%)</label>
+        <input type="number" id="c-fee" value="2" min="0.1" max="20" step="0.01" />
+      </div>
+      <div class="calc-field">
+        <label for="c-period">Fee period (days)</label>
+        <input type="number" id="c-period" value="30" min="7" max="90" step="1" />
+      </div>
+      <div class="calc-field">
+        <label for="c-days">Expected customer payment (days)</label>
+        <input type="number" id="c-days" value="30" min="1" max="365" step="1" />
+      </div>
+    </div>
+    <button class="btn btn--primary btn--md" id="calc-submit" type="button">Calculate</button>
+
+    <div class="calc-results" id="calc-results">
+      <div class="calc-results__grid">
+        <div class="calc-result-item calc-result-item--highlight">
+          <div class="calc-result-item__label">Immediate advance</div>
+          <div class="calc-result-item__value" id="r-advance">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Reserve held</div>
+          <div class="calc-result-item__value" id="r-reserve">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Fee charged</div>
+          <div class="calc-result-item__value" id="r-fee">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Net on reserve release</div>
+          <div class="calc-result-item__value" id="r-net-reserve">—</div>
+        </div>
+        <div class="calc-result-item calc-result-item--highlight">
+          <div class="calc-result-item__label">Total received</div>
+          <div class="calc-result-item__value" id="r-total">—</div>
+        </div>
+        <div class="calc-result-item">
+          <div class="calc-result-item__label">Cost as % of invoice</div>
+          <div class="calc-result-item__value" id="r-cost-pct">—</div>
+        </div>
+        <div class="calc-result-item calc-result-item--warning">
+          <div class="calc-result-item__label">Effective APR</div>
+          <div class="calc-result-item__value" id="r-apr">—</div>
+        </div>
+      </div>
+      <p class="calc-note" id="r-note"></p>
+    </div>
+  </div>
+
+  <!-- Remaining markdown content (skips the DEVELOPER NOTE comment) -->
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>
+
+<script>
+(function () {
+  function fmt(n) {
+    return '$' + n.toLocaleString('en-US', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
+  }
+  function fmtPct(n) {
+    return n.toFixed(2) + '%';
+  }
+
+  function calculate() {
+    const invoice   = parseFloat(document.getElementById('c-invoice').value) || 0;
+    const advRate   = parseFloat(document.getElementById('c-advance').value) / 100 || 0;
+    const feeRate   = parseFloat(document.getElementById('c-fee').value) / 100 || 0;
+    const feePeriod = parseFloat(document.getElementById('c-period').value) || 30;
+    const payDays   = parseFloat(document.getElementById('c-days').value) || 30;
+
+    if (invoice <= 0) return;
+
+    const advance        = invoice * advRate;
+    const reserve        = invoice - advance;
+    const periods        = payDays / feePeriod;
+    const feeCharged     = feeRate * invoice * periods;
+    const netReserve     = reserve - feeCharged;
+    const totalReceived  = advance + netReserve;
+    const costPct        = (feeCharged / invoice) * 100;
+    // Effective APR: (fee / advance) / (payDays / 365) * 100
+    const apr            = advance > 0 ? (feeCharged / advance) / (payDays / 365) * 100 : 0;
+
+    document.getElementById('r-advance').textContent       = fmt(advance);
+    document.getElementById('r-reserve').textContent       = fmt(reserve);
+    document.getElementById('r-fee').textContent           = fmt(feeCharged);
+    document.getElementById('r-net-reserve').textContent   = fmt(Math.max(0, netReserve));
+    document.getElementById('r-total').textContent         = fmt(Math.max(0, totalReceived));
+    document.getElementById('r-cost-pct').textContent      = fmtPct(costPct);
+    document.getElementById('r-apr').textContent           = fmtPct(apr);
+
+    const note = netReserve < 0
+      ? '⚠ At this fee rate and payment speed the fee exceeds the reserve — your total received is less than your advance.'
+      : `Your net factoring cost is ${fmtPct(costPct)} of the invoice value (${fmtPct(apr)} effective APR annualised).`;
+    document.getElementById('r-note').textContent = note;
+
+    const results = document.getElementById('calc-results');
+    results.classList.add('visible');
+    results.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
+  document.getElementById('calc-submit').addEventListener('click', calculate);
+
+  // Also calculate on Enter in any input
+  document.querySelectorAll('#calc input').forEach(function(el) {
+    el.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') calculate();
+    });
+  });
+
+  // Run once on load with default values
+  calculate();
+})();
+</script>

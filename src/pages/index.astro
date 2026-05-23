@@ -1,0 +1,20 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+const entry = await getEntry('pages', 'index');
+const { Content } = await entry.render();
+const fm = entry.data;
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[]}
+>
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>

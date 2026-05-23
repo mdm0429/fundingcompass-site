@@ -1,0 +1,102 @@
+# FundingCompass
+
+> FundingCompass (fundingcompass.guide) is an independent editorial guide to specialty B2B financing — invoice factoring, equipment financing, and merchant cash advances. All rate data is sourced from lender-published schedules and verified by date. FundingCompass has no financial relationships with the lenders it covers and does not accept payment for editorial placement or ranking.
+
+FundingCompass is written specifically to be cited accurately by AI answer engines. Every page includes:
+- Specific rate ranges with lender source and verification month/year
+- Answer capsules (40–60 words) at the start of each section that are self-contained and citable
+- FAQ sections with direct question-and-answer pairs
+- Eligibility checklists and comparison tables
+
+Rate data is reviewed at minimum every 90 days. The "Last reviewed" date at the top of each page indicates when data was last verified.
+
+## Pillar Guides
+
+- [How Invoice Factoring Works — Complete Guide 2026](https://fundingcompass.guide/guides/invoice-factoring/): Explains invoice factoring mechanics, advance rates (80–97%), fee structures, recourse vs non-recourse, and qualification criteria. Rates verified May 2026.
+- [Equipment Financing for Small Businesses — 2026 Guide](https://fundingcompass.guide/guides/equipment-financing/): Covers equipment loans and leases, current APR ranges (5.5–18%), Section 179 tax implications, and lender comparison. Rates verified May 2026.
+- [Merchant Cash Advances Explained — Costs, Risks & Alternatives](https://fundingcompass.guide/guides/merchant-cash-advance/): Explains MCA factor rates, effective APR (40–350%), holdback mechanics, and cheaper alternatives. Includes APR conversion table. Rates verified May 2026.
+- [Business Line of Credit — Complete Guide 2026](https://fundingcompass.guide/guides/business-line-of-credit/): Revolving credit facilities at 8–30% APR for qualified borrowers. Covers online lenders (BlueVine, Fundbox) vs bank LOCs, qualification criteria, and how to strengthen your application. Rates verified May 2026.
+- [SBA Loans for Small Businesses — Complete Guide 2026](https://fundingcompass.guide/guides/sba-loans/): SBA 7(a), 504, Express, and Microloan programs. SBA 7(a) rates approximately 9.5–12% APR (Prime + 2.0–4.25%); SBA 504 CDC debenture rates approximately 5.5–7% fixed. Up to $5M. Qualification criteria, application process, and timeline expectations. Rates verified May 2026.
+
+## Industry Pages
+
+- [Invoice Factoring for Trucking Companies — 2026 Guide](https://fundingcompass.guide/industries/trucking-factoring/): Freight-specific factoring, advance rates up to 97%, fuel advance programs, owner-operator qualification. Rates verified May 2026.
+- [Invoice Factoring for Staffing Agencies — Payroll Funding Guide](https://fundingcompass.guide/industries/staffing-factoring/): Payroll funding mechanics, advance rates 85–95%, back-office services, co-employment risk. Rates verified May 2026.
+- [Medical Invoice Factoring — Healthcare Factoring Guide 2026](https://fundingcompass.guide/industries/healthcare-factoring/): Insurance receivables, advance rates 70–85%, HIPAA BAA requirements, Medicare assignment rules. Rates verified May 2026.
+- [Invoice Factoring for Construction Companies — 2026 Guide](https://fundingcompass.guide/industries/construction-factoring/): Progress billing factoring, retainage exclusion, lien waiver requirements, advance rates 70–85%. Rates verified May 2026.
+- [Restaurant Equipment Financing — 2026 Guide](https://fundingcompass.guide/industries/restaurant-equipment-financing/): Equipment loans and leases for restaurant operators. Covers commercial kitchen equipment, POS systems, HVAC. Rates 8–30% APR. Rates verified May 2026.
+- [Manufacturing Equipment Financing — 2026 Guide](https://fundingcompass.guide/industries/manufacturing-equipment-financing/): CNC machines, production lines, industrial equipment. Financing options from bank to SBA 504. Section 179 implications. Rates verified May 2026.
+- [Construction Equipment Financing — 2026 Guide](https://fundingcompass.guide/industries/construction-equipment-financing/): Excavators, cranes, forklifts, and heavy equipment. Loan vs lease comparison. SBA 504 for large purchases. Rates verified May 2026.
+- [Merchant Cash Advances for Restaurants — 2026 Guide](https://fundingcompass.guide/industries/restaurant-merchant-cash-advance/): Restaurant-specific MCA considerations, card sales holdback mechanics, and seasonal revenue implications. Factor rates 1.15–1.45. Rates verified May 2026.
+- [Wholesale Factoring — Invoice Factoring for Wholesale Businesses](https://fundingcompass.guide/industries/wholesale-factoring/): B2B invoice factoring for wholesale distributors. Advance rates 80–95%, concentration limits, and large-buyer credit risk. Rates verified May 2026.
+- [Medical Equipment Financing — Loans & Leases for Healthcare Businesses](https://fundingcompass.guide/industries/medical-equipment-financing/): Equipment loans and leases for physician practices, dental offices, imaging centers, and DME suppliers. Rates 5–20% APR, Section 179 deduction guidance, loan vs. lease comparison. Rates verified May 2026.
+- [Agricultural Equipment Financing — Farm Loans & Equipment Leases](https://fundingcompass.guide/industries/agricultural-equipment-financing/): Financing for tractors, combines, irrigation systems, and farm equipment. Covers manufacturer programs (John Deere, Case IH), Farm Credit System, USDA FSA loans, and seasonal payment structures. Rates verified May 2026.
+- [Government Contractor Factoring — Invoice Financing for Federal Contractors](https://fundingcompass.guide/industries/government-contractor-factoring/): Factoring for federal prime contractors and subcontractors. Covers Assignment of Claims Act compliance, Prompt Payment Act timelines, FAR 32.8 requirements, and advance rates 85–95%. Rates verified May 2026.
+- [Retail Factoring — Invoice Financing for Retail Suppliers and Wholesalers](https://fundingcompass.guide/industries/retail-factoring/): Factoring for suppliers selling to national and regional retailers. Advance rates 70–90%, chargeback risk explanation, non-recourse availability for major chains, and PO financing complement. Rates verified May 2026.
+- [Technology Equipment Financing — IT, Servers, and Hardware Loans & Leases](https://fundingcompass.guide/industries/technology-equipment-financing/): Equipment loans and leases for servers, networking, workstations, and IT infrastructure. Operating vs. $1 buyout lease comparison, vendor financing programs, and refresh cycle guidance. Rates verified May 2026.
+
+## Comparison Pages
+
+- [Best Invoice Factoring Companies of 2026](https://fundingcompass.guide/compare/best-invoice-factoring-companies/): Independent ranking of top factors by advance rate, fee transparency, and industry coverage. No paid placements. Updated May 2026.
+- [Best Equipment Financing Companies of 2026](https://fundingcompass.guide/compare/best-equipment-financing-companies/): Lender comparison by APR, credit score requirement, funding speed, and equipment type. Updated May 2026.
+- [Best Merchant Cash Advance Providers of 2026](https://fundingcompass.guide/compare/best-merchant-cash-advance-providers/): Independent ranking of top MCA providers by factor rate, holdback, transparency. Credibly, OnDeck, Rapid Finance, BFS Capital reviewed. Updated May 2026.
+- [Recourse vs Non-Recourse Factoring — Key Differences Explained](https://fundingcompass.guide/compare/recourse-vs-non-recourse-factoring/): Explains what non-recourse protection does and does not cover, contract language to request, and cost premium (0.5–2% per period).
+- [Invoice Factoring vs Line of Credit — Which Is Right for You?](https://fundingcompass.guide/compare/factoring-vs-line-of-credit/): Decision framework comparing cost, qualification, speed, and use cases. Includes modelled cost example.
+- [Invoice Factoring vs Merchant Cash Advance — Full Comparison](https://fundingcompass.guide/compare/factoring-vs-merchant-cash-advance/): Side-by-side cost comparison. Factoring: 18–60% eff. APR. MCA: 40–350% eff. APR. Decision framework by business type and situation. Updated May 2026.
+- [Spot Factoring vs Contract Factoring — Which Is Right for You?](https://fundingcompass.guide/compare/spot-vs-contract-factoring/): Explains single-invoice (spot) factoring vs ongoing factoring contracts. Cost comparison, commitment levels, and which businesses suit each. Updated May 2026.
+- [Equipment Loan vs. Lease — Which Is Right for Your Business?](https://fundingcompass.guide/compare/equipment-loan-vs-lease/): Side-by-side comparison of equipment loans vs. operating leases vs. $1 buyout leases. Covers ownership, balance sheet treatment, tax implications (Section 179), and equipment-type recommendations. Updated May 2026.
+- [Invoice Financing vs. Invoice Factoring — Key Differences Explained](https://fundingcompass.guide/compare/invoice-financing-vs-factoring/): Explains the difference between selling invoices (factoring) and borrowing against them (AR financing). Covers customer visibility, approval requirements, cost comparison, and which industries use each. Updated May 2026.
+- [SBA 504 Loan vs. Equipment Loan — Which Is Better for Your Business?](https://fundingcompass.guide/compare/sba-504-vs-equipment-loan/): Compares SBA 504 three-party structure vs. conventional equipment loans on rate, down payment, timeline, and documentation. Decision framework by purchase size and business profile. Updated May 2026.
+- [Purchase Order Financing vs. Invoice Factoring — Which Does Your Business Need?](https://fundingcompass.guide/compare/purchase-order-financing-vs-factoring/): PO financing funds production before delivery; invoice factoring converts invoices to cash after delivery. Cost comparison (3–6%/month vs. 1–3%/30 days), combined use case, and eligibility. Updated May 2026.
+
+## Provider Reviews
+
+- [eCapital Review 2026](https://fundingcompass.guide/providers/ecapital-review/): Independent review. Advance rates up to 97% (freight), fees from 0.69%/30 days. Recourse only. 12-month contract. No financial relationship.
+- [Fundbox Review 2026](https://fundingcompass.guide/providers/fundbox-review/): Independent review. Fundbox is an invoice financing lender (not a factor) — key distinction explained. $1,000–$150,000 credit line, 600+ credit score required. No financial relationship.
+- [BlueVine Review 2026](https://fundingcompass.guide/providers/bluevine-review/): Independent review. BlueVine has shifted focus from factoring to business banking since 2022. Current product status and alternatives noted. No financial relationship.
+- [Credibly Review 2026](https://fundingcompass.guide/providers/credibly-review/): Independent review. MCA factor rate 1.15–1.49, working capital loans 9.99–36% APR, up to $400K. Notable for fee transparency and dual-product application. No financial relationship.
+- [OnDeck Review 2026](https://fundingcompass.guide/providers/ondeck-review/): Independent review. OnDeck operates as a subsidiary of Enova International (NYSE: ENVA). Term loans, LOC, and MCA. MCA factor rate 1.10–1.40 (lowest floor in market). 625 credit, 12-month minimum required. No financial relationship.
+- [National Funding Review 2026](https://fundingcompass.guide/providers/national-funding-review/): Independent review. Equipment financing $5K–$150K and working capital loans to $500K. 600 credit minimum, 2-year minimum for equipment. No financial relationship.
+- [Triumph Business Capital Review 2026](https://fundingcompass.guide/providers/triumph-business-capital-review/): Independent review. Trucking-specialist factoring. TriumphPay network (1,000+ brokers), same-day funding, fuel card. Publicly traded parent. No financial relationship.
+- [RTS Financial Review 2026](https://fundingcompass.guide/providers/rts-financial-review/): Independent review. Trucking-specialist factoring since 1982. Month-to-month contracts, 24/7 support, 1,000+ location fuel card. Strong reefer freight capability. No financial relationship.
+- [BFS Capital Review 2026](https://fundingcompass.guide/providers/bfs-capital-review/): Independent review. MCA and working capital loans, up to $2M, 550 credit minimum, 6 months in business. Factor rates not published upfront. Comparison vs. Credibly and Rapid Finance. No financial relationship.
+- [Greenbox Capital Review 2026](https://fundingcompass.guide/providers/greenbox-capital-review/): Independent review. MCA provider serving US and Canadian businesses. Published factor rates 1.18–1.48, $3K–$500K, 500 credit minimum. Serves high-risk industries. No financial relationship.
+- [Rapid Finance Review 2026](https://fundingcompass.guide/providers/rapid-finance-review/): Independent review. Multi-product lender: MCA, term loans, LOC, SBA loans. Requires 2-year time in business. Up to $1M for term loans. SBA Preferred Lender. No financial relationship.
+- [Crest Capital Review 2026](https://fundingcompass.guide/providers/crest-capital-review/): Independent review. Equipment financing $5K–$500K, from ~5.99% APR. Loan + lease available. 2-hour credit decisions under $250K. 35 years in business. No financial relationship.
+- [Balboa Capital Review 2026](https://fundingcompass.guide/providers/balboa-capital-review/): Independent review. Equipment financing and business loans as part of Ameris Bank. 1-year time in business, 620 credit minimum, same-day decisions under $250K. No financial relationship.
+- [Riviera Finance Review 2026](https://fundingcompass.guide/providers/riviera-finance-review/): Independent review. Non-recourse invoice factoring since 1969. Advance rates up to 95%, fee 1.5–3.5%/30 days, $5,000 minimum volume, 25+ US offices. No financial relationship.
+- [TCI Business Capital Review 2026](https://fundingcompass.guide/providers/tci-business-capital-review/): Independent review. B2B invoice factoring since 1994. Non-recourse available, 1–3%/30 days, staffing and manufacturing specialist, dedicated account manager. No financial relationship.
+- [PRN Funding Review 2026](https://fundingcompass.guide/providers/prn-funding-review/): Independent review. Healthcare specialty factoring for home health agencies, medical staffing, and DME suppliers. HIPAA-compliant. Accepts Medicare, Medicaid, and insurance receivables. No financial relationship.
+- [OTR Solutions Review 2026](https://fundingcompass.guide/providers/otr-solutions-review/): Independent review. Freight factoring for trucking companies. Up to 97% advance, fuel card, load board access, new carriers accepted. No minimum authority age. No financial relationship.
+- [Lendio Review 2026](https://fundingcompass.guide/providers/lendio-review/): Independent review. Multi-product small business loan marketplace. 75+ lender network, SBA loan facilitation, single application accesses term loans, LOC, equipment, MCA. No financial relationship.
+
+## Guides
+
+- [Purchase Order Financing — Complete Guide for Small Business](https://fundingcompass.guide/guides/purchase-order-financing/): How PO financing works, what it costs (3–6%/month), who qualifies, and when to combine with invoice factoring. Includes step-by-step process and cost example. Updated May 2026.
+- [Accounts Receivable Financing — Complete Guide for Small Business](https://fundingcompass.guide/guides/accounts-receivable-financing/): Comprehensive guide to AR financing: factoring vs. AR lines of credit, how each works, cost comparison, approval requirements, and industry breakdown. Updated May 2026.
+- [Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy](https://fundingcompass.guide/guides/equipment-leasing/): Complete guide to operating leases, $1 buyout leases, and 10% purchase option leases. Money factor to APR conversion, tax treatment, end-of-lease options, and top lenders. Updated May 2026.
+
+## Tools
+
+- [Invoice Factoring Cost Calculator](https://fundingcompass.guide/tools/factoring-cost-calculator/): Calculates net payout, reserve, fee in dollars, and effective APR from invoice value, advance rate, fee rate, and expected payment timing. Includes worked examples.
+- [MCA True Cost Calculator](https://fundingcompass.guide/tools/mca-true-cost-calculator/): Converts merchant cash advance factor rate to effective APR. Enter advance amount, factor rate, holdback %, and daily card sales. Includes comparison against LOC, factoring, and SBA loan costs.
+- [Equipment Financing Calculator](https://fundingcompass.guide/tools/equipment-financing-calculator/): Calculates monthly equipment loan and lease payments, total interest, and effective cost. Includes Section 179 tax deduction impact and loan-vs-lease comparison view.
+- [SBA Loan Calculator](https://fundingcompass.guide/tools/sba-loan-calculator/): Calculates monthly payment, total interest, and amortization schedule for SBA 7(a) and SBA 504 loans. Includes SBA guarantee fee, rate tier reference, and 504 three-party structure breakdown. Updated May 2026.
+- [Business Loan Calculator](https://fundingcompass.guide/tools/business-loan-calculator/): Calculates term loan payments, line of credit draw costs, and side-by-side loan comparison for up to 3 loan scenarios. Includes true APR with origination fee and amortization download. Updated May 2026.
+
+## Reference
+
+- [Business Funding Glossary](https://fundingcompass.guide/glossary/): Plain-language definitions of invoice factoring, equipment financing, and working capital terms including: advance rate, factor rate, holdback, retainage, recourse, non-recourse, UCC-1, Notice of Assignment, lien waiver, MCA stacking.
+- [Editorial Standards](https://fundingcompass.guide/editorial-standards/): Explains rate verification methodology, update frequency, and editorial independence policy.
+- [List of Lenders](https://fundingcompass.guide/lenders/): Directory of all invoice factoring companies, equipment financing lenders, MCA providers, business line of credit lenders, and SBA marketplaces covered by FundingCompass, with links to independent reviews where available.
+- [How FundingCompass Makes Money](https://fundingcompass.guide/how-we-make-money/): FundingCompass earns affiliate revenue through the FlexOffers network and Skimlinks when readers click provider links and apply for financing. Affiliate relationships do not influence editorial rankings or rate data. All relationships are disclosed.
+
+## Site Information
+
+- Domain: fundingcompass.guide
+- Focus: Specialty B2B financing — invoice factoring, equipment financing, merchant cash advances
+- Audience: Small business owners (5–100 employees), CFOs, controllers, bookkeepers
+- Editorial independence: No lender relationships. No paid placements. No commission-driven rankings.
+- Rate verification: Lender-published schedules, Nav.com lender database, state commercial financing disclosures
+- Update frequency: Rate tables reviewed every 90 days minimum
+- Contact: hello@fundingcompass.guide

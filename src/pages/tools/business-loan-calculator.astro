@@ -1,0 +1,991 @@
+---
+import { getEntry } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { extractFaqs } from '../../utils/faq';
+const entry = await getEntry('pages', 'tools/business-loan-calculator');
+const fm = entry.data;
+const { Content } = await entry.render();
+const faqItems = extractFaqs(entry.body);
+---
+
+<Layout
+  title={fm.title}
+  description={fm.description}
+  canonical={fm.canonical}
+  lastReviewed={fm.last_reviewed}
+  schema={fm.schema}
+  breadcrumbs={[{ name: 'Tools', url: '/' }]}
+  faqItems={faqItems}
+>
+  <nav aria-label="Breadcrumb">
+    <ol class="breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li><a href="/">Tools</a></li>
+      <li aria-current="page">Business Loan Calculator</li>
+    </ol>
+  </nav>
+
+  {fm.last_reviewed && (
+    <div class="article-meta">
+      <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  )}
+
+  <!-- ── Business Loan Calculator ──────────────────────────────── -->
+  <div class="calc-box" id="bl-calc">
+    <h2>Business Loan Calculator</h2>
+
+    <div class="bl-tabs" role="tablist">
+      <button class="bl-tab bl-tab--active" id="bl-tab-term" role="tab" aria-selected="true" aria-controls="bl-panel-term" type="button">Term Loan</button>
+      <button class="bl-tab" id="bl-tab-loc" role="tab" aria-selected="false" aria-controls="bl-panel-loc" type="button">Line of Credit</button>
+      <button class="bl-tab" id="bl-tab-compare" role="tab" aria-selected="false" aria-controls="bl-panel-compare" type="button">Compare Loans</button>
+    </div>
+
+    <!-- ── TERM LOAN TAB ── -->
+    <div class="bl-panel" id="bl-panel-term" role="tabpanel" aria-labelledby="bl-tab-term">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="t-amount">Loan amount ($)</label>
+          <input type="text" id="t-amount" value="100,000" inputmode="numeric" />
+        </div>
+        <div class="calc-field">
+          <label for="t-rate">Annual interest rate (%) <span class="bl-helper">Enter the APR, not a monthly or weekly rate.</span></label>
+          <input type="number" id="t-rate" value="10.0" min="0.1" max="100" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label for="t-term">Loan term</label>
+          <select id="t-term">
+            <option value="6">6 months</option>
+            <option value="12">12 months</option>
+            <option value="18">18 months</option>
+            <option value="24">24 months</option>
+            <option value="36">36 months</option>
+            <option value="48">48 months</option>
+            <option value="60" selected>60 months</option>
+            <option value="84">84 months</option>
+            <option value="120">10 years</option>
+            <option value="180">15 years</option>
+            <option value="300">25 years</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label for="t-frequency">Payment frequency</label>
+          <select id="t-frequency">
+            <option value="monthly" selected>Monthly</option>
+            <option value="weekly">Weekly</option>
+            <option value="biweekly">Bi-weekly</option>
+            <option value="daily">Daily</option>
+          </select>
+        </div>
+        <div class="calc-field">
+          <label for="t-origination">Origination fee (%) <span class="bl-helper">Many online lenders charge 1–5%. Include to see true APR.</span></label>
+          <input type="number" id="t-origination" value="0" min="0" max="10" step="0.25" />
+        </div>
+      </div>
+
+      <div class="calc-results" id="t-results">
+        <div class="calc-results__grid">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label" id="t-payment-label">Monthly Payment</div>
+            <div class="calc-result-item__value" id="t-payment">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Amount Paid</div>
+            <div class="calc-result-item__value" id="t-total-paid">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Interest Paid</div>
+            <div class="calc-result-item__value" id="t-total-interest">—</div>
+          </div>
+          <div class="calc-result-item" id="t-fee-card" style="display:none">
+            <div class="calc-result-item__label">Origination Fee</div>
+            <div class="calc-result-item__value" id="t-fee-amount">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">True APR</div>
+            <div class="calc-result-item__value" id="t-true-apr">—</div>
+          </div>
+        </div>
+
+        <h3 class="bl-section-heading">Amortization Schedule</h3>
+        <div class="table-wrap">
+          <table class="bl-amort-table" id="t-amort-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Date</th>
+                <th>Payment</th>
+                <th>Principal</th>
+                <th>Interest</th>
+                <th>Balance</th>
+              </tr>
+            </thead>
+            <tbody id="t-amort-body"></tbody>
+          </table>
+        </div>
+        <div class="bl-amort-controls">
+          <button type="button" class="bl-btn-secondary" id="t-show-all">Show all payments</button>
+          <button type="button" class="bl-btn-secondary" id="t-csv-download">Download CSV</button>
+        </div>
+        <p class="calc-note" id="t-amort-note"></p>
+      </div>
+    </div>
+
+    <!-- ── LINE OF CREDIT TAB ── -->
+    <div class="bl-panel" id="bl-panel-loc" role="tabpanel" aria-labelledby="bl-tab-loc" style="display:none">
+      <div class="calc-fields">
+        <div class="calc-field">
+          <label for="l-limit">Credit limit ($)</label>
+          <input type="text" id="l-limit" value="50,000" inputmode="numeric" />
+        </div>
+        <div class="calc-field">
+          <label for="l-draw">Draw amount ($)</label>
+          <input type="text" id="l-draw" value="25,000" inputmode="numeric" />
+        </div>
+        <div class="calc-field">
+          <label for="l-rate">Annual interest rate (%)</label>
+          <input type="number" id="l-rate" value="20.0" min="0.1" max="100" step="0.1" />
+        </div>
+        <div class="calc-field">
+          <label for="l-payback">Payback period (months) <span class="bl-helper">Lines of credit are revolving. This models a single draw repaid over the chosen period.</span></label>
+          <input type="number" id="l-payback" value="12" min="1" max="120" step="1" />
+        </div>
+      </div>
+
+      <div class="calc-results" id="l-results">
+        <div class="calc-results__grid">
+          <div class="calc-result-item calc-result-item--highlight">
+            <div class="calc-result-item__label">Monthly Payment</div>
+            <div class="calc-result-item__value" id="l-payment">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Total Interest on Draw</div>
+            <div class="calc-result-item__value" id="l-total-interest">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Available Credit Remaining</div>
+            <div class="calc-result-item__value" id="l-available">—</div>
+          </div>
+          <div class="calc-result-item">
+            <div class="calc-result-item__label">Cost per Dollar Borrowed</div>
+            <div class="calc-result-item__value" id="l-cost-per-dollar">—</div>
+          </div>
+        </div>
+
+        <h3 class="bl-section-heading">Comparison: LOC Draw vs. Equivalent Term Loan</h3>
+        <div class="table-wrap">
+          <table class="bl-compare-table" id="l-compare-table">
+            <thead>
+              <tr>
+                <th>Metric</th>
+                <th>Line of Credit Draw</th>
+                <th>Equivalent Term Loan</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Amount</td>
+                <td id="l-cmp-draw-amount">—</td>
+                <td id="l-cmp-loan-amount">—</td>
+              </tr>
+              <tr>
+                <td>Rate</td>
+                <td id="l-cmp-draw-rate">—</td>
+                <td id="l-cmp-loan-rate">—</td>
+              </tr>
+              <tr>
+                <td>Term</td>
+                <td id="l-cmp-draw-term">—</td>
+                <td id="l-cmp-loan-term">—</td>
+              </tr>
+              <tr>
+                <td>Monthly Payment</td>
+                <td id="l-cmp-draw-payment">—</td>
+                <td id="l-cmp-loan-payment">—</td>
+              </tr>
+              <tr>
+                <td>Total Interest</td>
+                <td id="l-cmp-draw-interest">—</td>
+                <td id="l-cmp-loan-interest">—</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="calc-note">A line of credit offers revolving access; the draw model above assumes you borrow once and repay over the payback period. Total cost equals a term loan at the same rate and term.</p>
+      </div>
+    </div>
+
+    <!-- ── COMPARE LOANS TAB ── -->
+    <div class="bl-panel" id="bl-panel-compare" role="tabpanel" aria-labelledby="bl-tab-compare" style="display:none">
+      <p class="bl-compare-intro">Enter details from up to three loan offers to find the lowest true cost.</p>
+
+      <div class="bl-compare-inputs">
+        <!-- Loan A -->
+        <div class="bl-loan-col">
+          <div class="bl-loan-col__header">
+            <input type="text" id="c-label-a" value="Loan A — Bank" class="bl-loan-label-input" />
+          </div>
+          <div class="calc-field">
+            <label for="c-amount-a">Amount ($)</label>
+            <input type="text" id="c-amount-a" value="100,000" inputmode="numeric" />
+          </div>
+          <div class="calc-field">
+            <label for="c-rate-a">Annual rate (%)</label>
+            <input type="number" id="c-rate-a" value="8.0" min="0.1" max="100" step="0.1" />
+          </div>
+          <div class="calc-field">
+            <label for="c-term-a">Term (months)</label>
+            <input type="number" id="c-term-a" value="60" min="1" max="360" step="1" />
+          </div>
+          <div class="calc-field">
+            <label for="c-fee-a">Origination fee (%)</label>
+            <input type="number" id="c-fee-a" value="1.0" min="0" max="10" step="0.25" />
+          </div>
+        </div>
+        <!-- Loan B -->
+        <div class="bl-loan-col">
+          <div class="bl-loan-col__header">
+            <input type="text" id="c-label-b" value="Loan B — Online" class="bl-loan-label-input" />
+          </div>
+          <div class="calc-field">
+            <label for="c-amount-b">Amount ($)</label>
+            <input type="text" id="c-amount-b" value="100,000" inputmode="numeric" />
+          </div>
+          <div class="calc-field">
+            <label for="c-rate-b">Annual rate (%)</label>
+            <input type="number" id="c-rate-b" value="24.0" min="0.1" max="100" step="0.1" />
+          </div>
+          <div class="calc-field">
+            <label for="c-term-b">Term (months)</label>
+            <input type="number" id="c-term-b" value="24" min="1" max="360" step="1" />
+          </div>
+          <div class="calc-field">
+            <label for="c-fee-b">Origination fee (%)</label>
+            <input type="number" id="c-fee-b" value="3.0" min="0" max="10" step="0.25" />
+          </div>
+        </div>
+        <!-- Loan C -->
+        <div class="bl-loan-col">
+          <div class="bl-loan-col__header">
+            <input type="text" id="c-label-c" value="Loan C" class="bl-loan-label-input" />
+          </div>
+          <div class="calc-field">
+            <label for="c-amount-c">Amount ($)</label>
+            <input type="text" id="c-amount-c" value="" inputmode="numeric" placeholder="Optional" />
+          </div>
+          <div class="calc-field">
+            <label for="c-rate-c">Annual rate (%)</label>
+            <input type="number" id="c-rate-c" value="" min="0.1" max="100" step="0.1" placeholder="—" />
+          </div>
+          <div class="calc-field">
+            <label for="c-term-c">Term (months)</label>
+            <input type="number" id="c-term-c" value="" min="1" max="360" step="1" placeholder="—" />
+          </div>
+          <div class="calc-field">
+            <label for="c-fee-c">Origination fee (%)</label>
+            <input type="number" id="c-fee-c" value="" min="0" max="10" step="0.25" placeholder="—" />
+          </div>
+        </div>
+      </div>
+
+      <div id="c-results">
+        <h3 class="bl-section-heading">Side-by-Side Comparison</h3>
+        <div class="table-wrap">
+          <table class="bl-compare-table" id="c-compare-table">
+            <thead>
+              <tr>
+                <th>Metric</th>
+                <th id="c-th-a">Loan A</th>
+                <th id="c-th-b">Loan B</th>
+                <th id="c-th-c">Loan C</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Monthly payment</td>
+                <td id="c-monthly-a">—</td>
+                <td id="c-monthly-b">—</td>
+                <td id="c-monthly-c">—</td>
+              </tr>
+              <tr>
+                <td>Total interest</td>
+                <td id="c-interest-a">—</td>
+                <td id="c-interest-b">—</td>
+                <td id="c-interest-c">—</td>
+              </tr>
+              <tr>
+                <td>Origination fee</td>
+                <td id="c-origfee-a">—</td>
+                <td id="c-origfee-b">—</td>
+                <td id="c-origfee-c">—</td>
+              </tr>
+              <tr class="bl-compare-total">
+                <td>Total cost</td>
+                <td id="c-total-a">—</td>
+                <td id="c-total-b">—</td>
+                <td id="c-total-c">—</td>
+              </tr>
+              <tr>
+                <td>True APR</td>
+                <td id="c-apr-a">—</td>
+                <td id="c-apr-b">—</td>
+                <td id="c-apr-c">—</td>
+              </tr>
+              <tr>
+                <td>Payoff date</td>
+                <td id="c-payoff-a">—</td>
+                <td id="c-payoff-b">—</td>
+                <td id="c-payoff-c">—</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="bl-winner-note" id="c-winner-note"></p>
+
+        <!-- SVG Bar Chart -->
+        <h3 class="bl-section-heading">Total Cost Comparison</h3>
+        <div class="bl-chart-wrap" id="bl-chart-wrap">
+          <svg id="bl-bar-chart" viewBox="0 0 540 220" xmlns="http://www.w3.org/2000/svg" aria-label="Total cost bar chart" role="img">
+            <title>Total cost comparison chart</title>
+            <!-- bars rendered by JS -->
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <p class="calc-disclaimer">This calculator provides payment estimates based on standard amortization formulas. Actual loan payments, rates, and fees vary by lender and loan agreement. True APR includes origination fee; other fees (closing costs, prepayment penalties) are not included. FundingCompass is not a lender and does not provide loan products.</p>
+  </div>
+
+  <div class="prose">
+    <Content />
+  </div>
+</Layout>
+
+<style>
+  /* ── Tab nav ── */
+  .bl-tabs {
+    display: flex;
+    gap: 0.25rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid #e0e4ea;
+    flex-wrap: wrap;
+  }
+  .bl-tab {
+    padding: 0.6rem 1.2rem;
+    background: none;
+    border: none;
+    border-bottom: 3px solid transparent;
+    margin-bottom: -2px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #5a6478;
+    transition: color 0.15s, border-color 0.15s;
+    font-family: inherit;
+  }
+  .bl-tab:hover { color: var(--color-brand-500); }
+  .bl-tab--active {
+    color: var(--color-brand-500);
+    border-bottom-color: var(--accent, #0073e6);
+  }
+
+  /* ── Helper text ── */
+  .bl-helper {
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 400;
+    color: #6b7280;
+    margin-top: 0.2rem;
+  }
+
+  /* ── Section heading inside calc ── */
+  .bl-section-heading {
+    margin: 1.5rem 0 0.75rem;
+    font-size: 1rem;
+    color: var(--color-brand-500);
+  }
+
+  /* ── Amortization table ── */
+  .bl-amort-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+  .bl-amort-table th,
+  .bl-amort-table td {
+    padding: 0.4rem 0.6rem;
+    border: 1px solid #e0e4ea;
+    text-align: right;
+    white-space: nowrap;
+  }
+  .bl-amort-table th:first-child,
+  .bl-amort-table td:first-child { text-align: center; }
+  .bl-amort-table th:nth-child(2),
+  .bl-amort-table td:nth-child(2) { text-align: left; }
+  .bl-amort-table th {
+    background: var(--color-brand-500);
+    color: #fff;
+    font-weight: 600;
+  }
+  .bl-amort-table tr:nth-child(even) td { background: #f7f9fb; }
+
+  /* ── Amortization controls ── */
+  .bl-amort-controls {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+    flex-wrap: wrap;
+  }
+  .bl-btn-secondary {
+    padding: 0.45rem 1rem;
+    background: #fff;
+    border: 1px solid #c8cfd8;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--color-brand-500);
+    font-family: inherit;
+    transition: background 0.15s;
+  }
+  .bl-btn-secondary:hover { background: #f0f4f8; }
+
+  /* ── Compare loan columns ── */
+  .bl-compare-intro {
+    margin-bottom: 1rem;
+    color: #5a6478;
+    font-size: 0.9rem;
+  }
+  .bl-compare-inputs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  @media (max-width: 680px) {
+    .bl-compare-inputs { grid-template-columns: 1fr; }
+  }
+  .bl-loan-col__header { margin-bottom: 0.75rem; }
+  .bl-loan-label-input {
+    width: 100%;
+    padding: 0.4rem 0.6rem;
+    border: 1px solid #c8cfd8;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--color-brand-500);
+    background: #f7f9fb;
+    font-family: inherit;
+  }
+
+  /* ── Compare table ── */
+  .bl-compare-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+  .bl-compare-table th,
+  .bl-compare-table td {
+    padding: 0.45rem 0.75rem;
+    border: 1px solid #e0e4ea;
+    text-align: right;
+  }
+  .bl-compare-table th:first-child,
+  .bl-compare-table td:first-child { text-align: left; }
+  .bl-compare-table th {
+    background: var(--color-brand-500);
+    color: #fff;
+    font-weight: 600;
+  }
+  .bl-compare-table tr:nth-child(even) td { background: #f7f9fb; }
+  .bl-compare-total td { font-weight: 700; }
+  .bl-winner { background: #d4edda !important; color: #155724; }
+
+  /* ── Winner note ── */
+  .bl-winner-note {
+    margin-top: 0.75rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #155724;
+    min-height: 1.2rem;
+  }
+
+  /* ── SVG chart ── */
+  .bl-chart-wrap {
+    margin-top: 0.5rem;
+    border: 1px solid #e0e4ea;
+    border-radius: 6px;
+    background: #fafbfc;
+    padding: 0.5rem;
+    overflow: hidden;
+  }
+  #bl-bar-chart { width: 100%; display: block; }
+
+  /* ── Disclaimer ── */
+  .calc-disclaimer {
+    margin-top: 1.5rem;
+    font-size: 0.8rem;
+    color: #6b7280;
+    border-top: 1px solid #e0e4ea;
+    padding-top: 1rem;
+  }
+</style>
+
+<script>
+(function () {
+
+  /* ── Utilities ─────────────────────────────────────────────── */
+  function parseCurrency(str) {
+    if (!str) return NaN;
+    return parseFloat(String(str).replace(/,/g, '')) || NaN;
+  }
+
+  function fmtCurrency(n) {
+    if (isNaN(n)) return '—';
+    return '$' + Math.round(n).toLocaleString('en-US');
+  }
+
+  function fmtCurrencyDec(n) {
+    if (isNaN(n)) return '—';
+    return '$' + n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  }
+
+  function fmtPct(n, d) {
+    if (isNaN(n) || !isFinite(n)) return '—';
+    return n.toFixed(d != null ? d : 2) + '%';
+  }
+
+  function fmtDate(d) {
+    return d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+  }
+
+  /* ── Core amortization ─────────────────────────────────────── */
+  function calcPayment(principal, annualRate, periods) {
+    if (principal <= 0 || periods <= 0) return NaN;
+    if (annualRate === 0) return principal / periods;
+    const r = annualRate / 100 / periods; // per-period rate (adjusted below)
+    return principal * (r * Math.pow(1 + r, periods)) / (Math.pow(1 + r, periods) - 1);
+  }
+
+  // Returns { payment, nPeriods, periodicRate, periodsPerYear }
+  function buildLoanParams(principal, annualRatePct, termMonths, frequency) {
+    const freqMap = { monthly: 12, weekly: 52, biweekly: 26, daily: 365 };
+    const ppy = freqMap[frequency] || 12;
+    const nPeriods = Math.round(termMonths / 12 * ppy);
+    const r = annualRatePct / 100 / ppy;
+    const payment = (r === 0)
+      ? principal / nPeriods
+      : principal * (r * Math.pow(1 + r, nPeriods)) / (Math.pow(1 + r, nPeriods) - 1);
+    return { payment, nPeriods, r, ppy };
+  }
+
+  function buildSchedule(principal, payment, r, nPeriods, startDate, ppy) {
+    const rows = [];
+    let balance = principal;
+    const msPerPeriod = (365.25 / ppy) * 86400000;
+    const d = new Date(startDate);
+    for (let i = 1; i <= nPeriods; i++) {
+      // advance date
+      if (ppy === 12) {
+        d.setMonth(d.getMonth() + 1);
+      } else {
+        d.setTime(d.getTime() + msPerPeriod);
+      }
+      const interest = balance * r;
+      let principal_pmt = payment - interest;
+      if (i === nPeriods) {
+        // final payment adjustment
+        principal_pmt = balance;
+      }
+      const pmt = principal_pmt + interest;
+      balance = Math.max(0, balance - principal_pmt);
+      rows.push({
+        num: i,
+        date: new Date(d),
+        payment: pmt,
+        principal: principal_pmt,
+        interest,
+        balance
+      });
+    }
+    return rows;
+  }
+
+  // Newton's method true APR
+  function calcTrueAPR(netProceeds, payment, nPeriods) {
+    if (netProceeds <= 0 || payment <= 0 || nPeriods <= 0) return NaN;
+    let r = 0.08 / 12;
+    for (let iter = 0; iter < 100; iter++) {
+      const f  = payment * (1 - Math.pow(1 + r, -nPeriods)) / r - netProceeds;
+      const fp = payment * (
+        (Math.pow(1 + r, -nPeriods) * nPeriods / r) -
+        (1 - Math.pow(1 + r, -nPeriods)) / r / r
+      );
+      const rNew = r - f / fp;
+      if (Math.abs(rNew - r) < 1e-10) { r = rNew; break; }
+      r = rNew;
+    }
+    return r * 12 * 100; // annualised %
+  }
+
+  /* ── Currency input formatting ─────────────────────────────── */
+  function setupCurrencyInput(el) {
+    el.addEventListener('input', function () {
+      const raw = el.value.replace(/[^0-9]/g, '');
+      if (!raw) { el.value = ''; return; }
+      el.value = parseInt(raw, 10).toLocaleString('en-US');
+    });
+  }
+  document.querySelectorAll('#bl-calc input[inputmode="numeric"]').forEach(setupCurrencyInput);
+
+  /* ── Tab switching ─────────────────────────────────────────── */
+  const tabs    = document.querySelectorAll('.bl-tab');
+  const panels  = document.querySelectorAll('.bl-panel');
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      tabs.forEach(function (t) {
+        t.classList.remove('bl-tab--active');
+        t.setAttribute('aria-selected', 'false');
+      });
+      panels.forEach(function (p) { p.style.display = 'none'; });
+      tab.classList.add('bl-tab--active');
+      tab.setAttribute('aria-selected', 'true');
+      const panelId = tab.getAttribute('aria-controls');
+      const panel = document.getElementById(panelId);
+      if (panel) panel.style.display = 'block';
+      // recalc active tab
+      if (panelId === 'bl-panel-term')    calcTerm();
+      if (panelId === 'bl-panel-loc')     calcLOC();
+      if (panelId === 'bl-panel-compare') calcCompare();
+    });
+  });
+
+  /* ══════════════════════════════════════════════════════════════
+     TERM LOAN
+  ══════════════════════════════════════════════════════════════ */
+  let termAllRows  = [];
+  let termShowAll  = false;
+
+  function calcTerm() {
+    const principal  = parseCurrency(document.getElementById('t-amount').value);
+    const rate       = parseFloat(document.getElementById('t-rate').value);
+    const termMonths = parseInt(document.getElementById('t-term').value, 10);
+    const frequency  = document.getElementById('t-frequency').value;
+    const origPct    = parseFloat(document.getElementById('t-origination').value) || 0;
+
+    // Payment label
+    const labelMap = { monthly: 'Monthly Payment', weekly: 'Weekly Payment', biweekly: 'Bi-Weekly Payment', daily: 'Daily Payment' };
+    document.getElementById('t-payment-label').textContent = labelMap[frequency] || 'Payment';
+
+    if (isNaN(principal) || isNaN(rate) || isNaN(termMonths)) {
+      ['t-payment','t-total-paid','t-total-interest','t-fee-amount','t-true-apr'].forEach(function (id) {
+        document.getElementById(id).textContent = '—';
+      });
+      return;
+    }
+
+    const { payment, nPeriods, r, ppy } = buildLoanParams(principal, rate, termMonths, frequency);
+    const totalPaid     = payment * nPeriods;
+    const totalInterest = totalPaid - principal;
+    const origFee       = principal * origPct / 100;
+    const netProceeds   = principal - origFee;
+    const trueAPR       = origPct > 0 ? calcTrueAPR(netProceeds, payment, nPeriods) * (ppy / 12) * (12 / ppy)
+                        : rate;
+    // Recalculate true APR properly: monthly-equivalent APR
+    const trueAPRval    = origPct > 0 ? calcTrueAPR(netProceeds, payment, nPeriods) : rate;
+
+    document.getElementById('t-payment').textContent       = fmtCurrency(payment);
+    document.getElementById('t-total-paid').textContent    = fmtCurrency(totalPaid + origFee);
+    document.getElementById('t-total-interest').textContent = fmtCurrency(totalInterest);
+    document.getElementById('t-fee-amount').textContent    = fmtCurrency(origFee);
+    document.getElementById('t-fee-card').style.display    = origPct > 0 ? '' : 'none';
+    document.getElementById('t-true-apr').textContent      = fmtPct(trueAPRval);
+
+    // Build amortization schedule
+    termAllRows = buildSchedule(principal, payment, r, nPeriods, new Date(), ppy);
+    termShowAll = false;
+    renderTermAmort();
+
+    // Show/all button text
+    document.getElementById('t-show-all').textContent = 'Show all ' + nPeriods + ' payments';
+    document.getElementById('t-amort-note').textContent = '';
+  }
+
+  function renderTermAmort() {
+    const tbody  = document.getElementById('t-amort-body');
+    const rows   = termShowAll ? termAllRows : termAllRows.slice(0, 12);
+    const note   = document.getElementById('t-amort-note');
+    tbody.innerHTML = '';
+    rows.forEach(function (row) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = [
+        '<td>' + row.num + '</td>',
+        '<td>' + fmtDate(row.date) + '</td>',
+        '<td>' + fmtCurrencyDec(row.payment) + '</td>',
+        '<td>' + fmtCurrencyDec(row.principal) + '</td>',
+        '<td>' + fmtCurrencyDec(row.interest) + '</td>',
+        '<td>' + fmtCurrencyDec(row.balance) + '</td>',
+      ].join('');
+      tbody.appendChild(tr);
+    });
+    if (!termShowAll && termAllRows.length > 12) {
+      note.textContent = 'Showing first 12 of ' + termAllRows.length + ' payments.';
+    } else {
+      note.textContent = '';
+    }
+  }
+
+  document.getElementById('t-show-all').addEventListener('click', function () {
+    termShowAll = !termShowAll;
+    renderTermAmort();
+    this.textContent = termShowAll
+      ? 'Show fewer'
+      : 'Show all ' + termAllRows.length + ' payments';
+  });
+
+  document.getElementById('t-csv-download').addEventListener('click', function () {
+    if (!termAllRows.length) return;
+    const lines = ['Payment,Date,Payment Amount,Principal,Interest,Balance'];
+    termAllRows.forEach(function (row) {
+      lines.push([
+        row.num,
+        fmtDate(row.date),
+        row.payment.toFixed(2),
+        row.principal.toFixed(2),
+        row.interest.toFixed(2),
+        row.balance.toFixed(2)
+      ].join(','));
+    });
+    const blob = new Blob([lines.join('\n')], { type: 'text/csv' });
+    const url  = window.URL.createObjectURL(blob);
+    const a    = document.createElement('a');
+    a.href     = url;
+    a.download = 'amortization-schedule.csv';
+    a.click();
+    window.URL.revokeObjectURL(url);
+  });
+
+  // Term loan inputs
+  ['t-amount','t-rate','t-term','t-frequency','t-origination'].forEach(function (id) {
+    const el = document.getElementById(id);
+    if (el) {
+      el.addEventListener('input', calcTerm);
+      el.addEventListener('change', calcTerm);
+    }
+  });
+
+  /* ══════════════════════════════════════════════════════════════
+     LINE OF CREDIT
+  ══════════════════════════════════════════════════════════════ */
+  function calcLOC() {
+    const limit   = parseCurrency(document.getElementById('l-limit').value);
+    const draw    = parseCurrency(document.getElementById('l-draw').value);
+    const rate    = parseFloat(document.getElementById('l-rate').value);
+    const months  = parseInt(document.getElementById('l-payback').value, 10);
+
+    if (isNaN(limit) || isNaN(draw) || isNaN(rate) || isNaN(months)) {
+      ['l-payment','l-total-interest','l-available','l-cost-per-dollar'].forEach(function (id) {
+        document.getElementById(id).textContent = '—';
+      });
+      return;
+    }
+
+    const r         = rate / 100 / 12;
+    const payment   = (r === 0) ? draw / months
+                    : draw * (r * Math.pow(1 + r, months)) / (Math.pow(1 + r, months) - 1);
+    const totalPaid = payment * months;
+    const interest  = totalPaid - draw;
+    const available = Math.max(0, limit - draw);
+    const cpd       = draw > 0 ? (interest / draw * 100) : 0;
+
+    document.getElementById('l-payment').textContent        = fmtCurrency(payment);
+    document.getElementById('l-total-interest').textContent = fmtCurrency(interest);
+    document.getElementById('l-available').textContent      = fmtCurrency(available);
+    document.getElementById('l-cost-per-dollar').textContent = fmtPct(cpd, 2);
+
+    // Comparison columns
+    document.getElementById('l-cmp-draw-amount').textContent   = fmtCurrency(draw);
+    document.getElementById('l-cmp-loan-amount').textContent   = fmtCurrency(draw);
+    document.getElementById('l-cmp-draw-rate').textContent     = fmtPct(rate, 1);
+    document.getElementById('l-cmp-loan-rate').textContent     = fmtPct(rate, 1);
+    document.getElementById('l-cmp-draw-term').textContent     = months + ' mo';
+    document.getElementById('l-cmp-loan-term').textContent     = months + ' mo';
+    document.getElementById('l-cmp-draw-payment').textContent  = fmtCurrency(payment);
+    document.getElementById('l-cmp-loan-payment').textContent  = fmtCurrency(payment);
+    document.getElementById('l-cmp-draw-interest').textContent = fmtCurrency(interest);
+    document.getElementById('l-cmp-loan-interest').textContent = fmtCurrency(interest);
+  }
+
+  ['l-limit','l-draw','l-rate','l-payback'].forEach(function (id) {
+    const el = document.getElementById(id);
+    if (el) {
+      el.addEventListener('input', calcLOC);
+      el.addEventListener('change', calcLOC);
+    }
+  });
+
+  /* ══════════════════════════════════════════════════════════════
+     COMPARE LOANS
+  ══════════════════════════════════════════════════════════════ */
+  function calcOneLoan(suffix) {
+    const amount  = parseCurrency(document.getElementById('c-amount-' + suffix).value);
+    const rate    = parseFloat(document.getElementById('c-rate-' + suffix).value);
+    const termMo  = parseInt(document.getElementById('c-term-' + suffix).value, 10);
+    const feePct  = parseFloat(document.getElementById('c-fee-' + suffix).value) || 0;
+    const label   = document.getElementById('c-label-' + suffix).value || ('Loan ' + suffix.toUpperCase());
+
+    if (isNaN(amount) || isNaN(rate) || isNaN(termMo) || amount <= 0 || termMo <= 0) return null;
+
+    const r         = rate / 100 / 12;
+    const payment   = (r === 0) ? amount / termMo
+                    : amount * (r * Math.pow(1 + r, termMo)) / (Math.pow(1 + r, termMo) - 1);
+    const totalPaid = payment * termMo;
+    const interest  = totalPaid - amount;
+    const origFee   = amount * feePct / 100;
+    const totalCost = interest + origFee;
+    const netProceeds = amount - origFee;
+    const trueAPR   = feePct > 0 ? calcTrueAPR(netProceeds, payment, termMo) : rate;
+
+    // Payoff date
+    const payoffDate = new Date();
+    payoffDate.setMonth(payoffDate.getMonth() + termMo);
+
+    return { label, amount, rate, termMo, payment, interest, origFee, totalCost, trueAPR, payoffDate };
+  }
+
+  function calcCompare() {
+    const loans = ['a','b','c'].map(calcOneLoan);
+    const suffixes = ['a','b','c'];
+
+    // Update column headers
+    suffixes.forEach(function (s, i) {
+      const label = document.getElementById('c-label-' + s).value || ('Loan ' + s.toUpperCase());
+      document.getElementById('c-th-' + s).textContent = label;
+    });
+
+    // Lowest total cost among valid loans
+    const valid = loans.filter(function (l) { return l !== null; });
+    const minCost = valid.length ? Math.min.apply(null, valid.map(function (l) { return l.totalCost; })) : null;
+
+    suffixes.forEach(function (s, i) {
+      const l = loans[i];
+      const cells = ['c-monthly-','c-interest-','c-origfee-','c-total-','c-apr-','c-payoff-'];
+      if (!l) {
+        cells.forEach(function (c) {
+          document.getElementById(c + s).textContent = '—';
+          document.getElementById(c + s).className = '';
+        });
+        ['c-monthly-','c-interest-','c-origfee-','c-total-','c-apr-','c-payoff-'].forEach(function (c) {
+          document.getElementById(c + s).classList.remove('winner');
+        });
+        return;
+      }
+
+      document.getElementById('c-monthly-' + s).textContent  = fmtCurrency(l.payment);
+      document.getElementById('c-interest-' + s).textContent = fmtCurrency(l.interest);
+      document.getElementById('c-origfee-' + s).textContent  = l.origFee > 0 ? fmtCurrency(l.origFee) : '$0';
+      document.getElementById('c-total-' + s).textContent    = fmtCurrency(l.totalCost);
+      document.getElementById('c-apr-' + s).textContent      = fmtPct(l.trueAPR, 2);
+      document.getElementById('c-payoff-' + s).textContent   = fmtDate(l.payoffDate);
+
+      // Highlight winner
+      const isWinner = minCost !== null && Math.abs(l.totalCost - minCost) < 0.01;
+      ['c-monthly-','c-interest-','c-origfee-','c-total-','c-apr-','c-payoff-'].forEach(function (c) {
+        const cell = document.getElementById(c + s);
+        if (isWinner) cell.classList.add('bl-winner');
+        else cell.classList.remove('bl-winner');
+      });
+    });
+
+    // Winner note
+    const winnerNote = document.getElementById('c-winner-note');
+    if (valid.length >= 2 && minCost !== null) {
+      const winner = loans.find(function (l) { return l && Math.abs(l.totalCost - minCost) < 0.01; });
+      winnerNote.textContent = winner
+        ? '✓ ' + winner.label + ' has the lowest total cost (' + fmtCurrency(winner.totalCost) + ').'
+        : '';
+    } else {
+      winnerNote.textContent = '';
+    }
+
+    // SVG bar chart
+    renderBarChart(loans, suffixes);
+  }
+
+  function renderBarChart(loans, suffixes) {
+    const svg    = document.getElementById('bl-bar-chart');
+    const W      = 540, H = 220;
+    const padL   = 80, padR = 20, padT = 20, padB = 50;
+    const chartW = W - padL - padR;
+    const chartH = H - padT - padB;
+    const colors = ['#0073e6','#e85d04','#2ecc71'];
+    const DARK   = ['#005bb5','#b84800','#27ae60'];
+
+    const valid = loans.map(function (l, i) {
+      return l ? { label: l.label, value: l.totalCost, color: colors[i], dark: DARK[i] } : null;
+    }).filter(Boolean);
+
+    if (!valid.length) { svg.innerHTML = ''; return; }
+
+    const maxVal = Math.max.apply(null, valid.map(function (v) { return v.value; }));
+    const nBars  = valid.length;
+    const barW   = Math.min(100, (chartW / nBars) * 0.6);
+    const gap    = chartW / nBars;
+
+    let svgContent = '';
+
+    // Y-axis gridlines & labels
+    const ticks = 4;
+    for (let t = 0; t <= ticks; t++) {
+      const val = maxVal * t / ticks;
+      const y   = padT + chartH - (chartH * t / ticks);
+      svgContent += '<line x1="' + padL + '" y1="' + y + '" x2="' + (W - padR) + '" y2="' + y + '" stroke="#e0e4ea" stroke-width="1"/>';
+      const label = val >= 1000000 ? '$' + (val/1000000).toFixed(1) + 'M'
+                  : val >= 1000    ? '$' + Math.round(val/1000) + 'K'
+                  : '$' + Math.round(val);
+      svgContent += '<text x="' + (padL - 6) + '" y="' + (y + 4) + '" text-anchor="end" font-size="11" fill="#6b7280">' + label + '</text>';
+    }
+
+    // Bars
+    valid.forEach(function (item, i) {
+      const barH = maxVal > 0 ? (item.value / maxVal) * chartH : 0;
+      const x    = padL + gap * i + (gap - barW) / 2;
+      const y    = padT + chartH - barH;
+
+      svgContent += '<rect x="' + x + '" y="' + y + '" width="' + barW + '" height="' + barH + '" fill="' + item.color + '" rx="3"/>';
+
+      // Value label on bar
+      const valLabel = item.value >= 1000000 ? '$' + (item.value/1000000).toFixed(1) + 'M'
+                     : '$' + Math.round(item.value/1000) + 'K';
+      svgContent += '<text x="' + (x + barW/2) + '" y="' + (y - 5) + '" text-anchor="middle" font-size="11" fill="' + item.dark + '" font-weight="600">' + valLabel + '</text>';
+
+      // X-axis label
+      const truncLabel = item.label.length > 12 ? item.label.slice(0,11) + '…' : item.label;
+      svgContent += '<text x="' + (x + barW/2) + '" y="' + (padT + chartH + 18) + '" text-anchor="middle" font-size="11" fill="#374151">' + truncLabel + '</text>';
+    });
+
+    // Axes
+    svgContent += '<line x1="' + padL + '" y1="' + padT + '" x2="' + padL + '" y2="' + (padT + chartH) + '" stroke="#6b7280" stroke-width="1.5"/>';
+    svgContent += '<line x1="' + padL + '" y1="' + (padT + chartH) + '" x2="' + (W - padR) + '" y2="' + (padT + chartH) + '" stroke="#6b7280" stroke-width="1.5"/>';
+
+    svg.innerHTML = svgContent;
+  }
+
+  // Compare loan inputs
+  ['a','b','c'].forEach(function (s) {
+    ['c-label-','c-amount-','c-rate-','c-term-','c-fee-'].forEach(function (prefix) {
+      const el = document.getElementById(prefix + s);
+      if (el) {
+        el.addEventListener('input', calcCompare);
+        el.addEventListener('change', calcCompare);
+      }
+    });
+  });
+
+  /* ── Initial calculations ──────────────────────────────────── */
+  calcTerm();
+  calcLOC();
+  calcCompare();
+
+})();
+</script>

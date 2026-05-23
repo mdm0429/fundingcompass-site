@@ -1,0 +1,6 @@
+---
+import { getEntry } from 'astro:content';
+import ArticlePage from '../../layouts/ArticlePage.astro';
+const entry = await getEntry('pages', 'compare/sba-504-vs-equipment-loan');
+---
+<ArticlePage entry={entry} breadcrumbs={[{ name: 'Compare', url: '/' }]} />

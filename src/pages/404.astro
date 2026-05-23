@@ -1,0 +1,28 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout
+  title="Page Not Found"
+  description="The page you are looking for does not exist on FundingCompass."
+  canonical="https://fundingcompass.guide/404/"
+  schema={[]}
+>
+  <div class="error-page">
+    <p style="font-size:5rem;color:var(--border-default);font-weight:500;margin-bottom:0;font-family:var(--font-display);">404</p>
+    <h2 style="margin-top:0;">Page not found</h2>
+    <p style="color:var(--text-secondary);margin:1rem auto 2rem;max-width:40ch;">The page you requested doesn't exist. It may have moved or been removed.</p>
+    <p>
+      <a href="/" class="btn btn--primary btn--md">← Back to home</a>
+    </p>
+    <aside class="related-resources" style="max-width:380px;margin:2rem auto;text-align:left;">
+      <div class="related-resources__title">Popular Pages</div>
+      <ul class="related-resources__list">
+        <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
+        <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>
+        <li><a href="/compare/best-invoice-factoring-companies/">Best Factoring Companies</a></li>
+        <li><a href="/tools/factoring-cost-calculator/">Factoring Calculator</a></li>
+        <li><a href="/glossary/">Glossary</a></li>
+      </ul>
+    </aside>
+  </div>
+</Layout>

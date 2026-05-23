@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import ArticlePage from '../../layouts/ArticlePage.astro';
+// Astro may strip /index from subdirectory index.md IDs
+const entry = await getEntry('pages', 'glossary/index') ?? await getEntry('pages', 'glossary');
+---
+<ArticlePage entry={entry} breadcrumbs={[{ name: 'Glossary', url: '/glossary/' }]} />

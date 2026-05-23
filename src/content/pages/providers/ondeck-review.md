@@ -1,0 +1,219 @@
+---
+title: "OnDeck Review 2026 — Business Term Loans, Lines of Credit & MCAs"
+description: "OnDeck offers term loans at 29–97% APR, lines of credit, and MCAs at 1.10–1.40 factor rate. Independent review with real costs and eligibility requirements."
+canonical: "https://fundingcompass.guide/providers/ondeck-review/"
+last_reviewed: "2026-05-01"
+schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
+---
+
+# OnDeck Review 2026 — Business Term Loans, Lines of Credit & MCAs
+
+*Last reviewed: May 2026 — Rates and terms verified via OnDeck's published product pages and Enova International (NYSE: ENVA) SEC filings. FundingCompass has no financial relationship with OnDeck. This review reflects our independent assessment.*
+
+---
+
+<div class="cta-unit">
+  <div class="cta-unit__header">
+    <div class="cta-unit__logo-area">
+      <div class="cta-unit__logo cta-unit__logo--text">OD</div>
+      <div>
+        <div class="cta-unit__name">OnDeck</div>
+        <div class="cta-unit__category">Business Loans</div>
+      </div>
+    </div>
+  </div>
+  <div class="cta-unit__body">
+    <div class="cta-unit__metrics">
+      <div class="cta-metric">
+        <div class="cta-metric__label">Term Loan APR</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">29–97%</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">MCA Factor Rate</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">1.10–1.40</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">Min. Credit Score</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">625</div>
+      </div>
+      <div class="cta-metric">
+        <div class="cta-metric__label">Min. Monthly Revenue</div>
+        <div class="cta-metric__value" style="font-variant-numeric: tabular-nums lining-nums;">$12,000</div>
+      </div>
+    </div>
+    <div class="cta-unit__footer">
+      <div class="cta-unit__best-for">Subsidiary of publicly traded Enova International with the lowest published MCA factor floor (1.10) in the market. Offers term loans, lines of credit, and MCAs through one application for businesses with 12+ months of history.</div>
+      <div class="cta-unit__actions">
+        <a href="https://www.ondeck.com/" class="btn btn--accent btn--md" target="_blank" rel="nofollow noopener">Apply Now</a>
+        <a href="https://fundingcompass.guide/providers/ondeck-review/" class="btn btn--outline btn--md">Full Review</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+## Summary Verdict
+
+OnDeck operates as a subsidiary of Enova International (NYSE: ENVA), a publicly traded specialty finance company — which means its disclosures, compliance practices, and financial reporting are subject to regulatory scrutiny that private MCA providers don't face. Its primary products are short-term business loans and lines of credit; the MCA is a secondary offering. Businesses that qualify for OnDeck's better rates (625+ credit, 12+ months history) can access some of the lower factor rates in the market (1.10 floor). Those that don't qualify for the best tiers will find rates comparable to competitors.
+
+**Best for:** Established businesses (12+ months) with 625+ credit that want a term loan or LOC from a regulated lender operating under a publicly traded parent company — or an MCA with one of the lower factor rate floors in the market.
+
+**Not ideal for:** New businesses (under 12 months), credit scores below 600, or businesses needing more than $250,000 in MCA funding.
+
+---
+
+## At a Glance
+
+| Product | Cost | Max Amount | Min. Credit | Min. Monthly Revenue | Speed |
+|---|---|---|---|---|---|
+| Term Loan | 29–97% APR | $250,000 | 625 | $12,000 | Same day–2 days |
+| Line of Credit | 29–97% APR | $100,000 | 625 | $12,000 | Same day |
+| Merchant Cash Advance | 1.10–1.40 factor | $250,000 | 625 | $12,000 | Same day |
+
+*Min. time in business for all products: 12 months.*
+*Rates verified May 2026 via OnDeck published terms.*
+
+---
+
+## What OnDeck Offers
+
+OnDeck provides three products — a short-term term loan, a revolving line of credit, and a merchant cash advance. Unlike pure MCA providers, OnDeck's core business is lending: term loans and lines of credit. The MCA is available but secondary, and OnDeck's underwriting is more rigorous than brokers or specialist MCA providers. This rigour is the tradeoff: tighter eligibility, but better rates for those who qualify.
+
+**Term Loan:** Fixed repayment over a set term (typically 3–24 months). Daily or weekly ACH repayment. APR range 29–97%. Best for businesses with a specific capital need and defined payback period.
+
+**Line of Credit:** Revolving $100,000 maximum. Draw funds, repay, draw again. APR range 29–97%. Best for ongoing working capital needs — inventory, payroll gaps, seasonal purchases.
+
+**Merchant Cash Advance:** Factor rate 1.10–1.40. Holdback percentage varies. Best for businesses with strong card sales volume that want MCA flexibility. The lower end of the factor rate range (1.10–1.15) is only available to highly qualified applicants.
+
+---
+
+## OnDeck Term Loan — Full Cost Breakdown
+
+**Example: $100,000 term loan, 18-month term, 45% APR**
+
+- Total repayment: $100,000 principal + $42,968 interest
+- Monthly payment equivalent: ~$8,000
+- Daily ACH: ~$267
+
+At 45% APR, the effective cost is meaningful — this is not cheap financing. However, at the lower end of OnDeck's range (29% APR for well-qualified borrowers), the same $100,000 over 18 months costs $27,408 in interest — significantly below most MCA alternatives.
+
+**The critical variable is which rate tier you qualify for.** Published APR ranges are wide. The only way to know your rate is to apply and receive an offer.
+
+---
+
+## OnDeck MCA — Cost Breakdown
+
+**Example: $80,000 MCA at 1.25 factor rate**
+
+- Total repayment: $80,000 × 1.25 = $100,000
+- Total cost: $20,000
+- At 20% holdback on $4,000/day card sales: $800/day collected
+- Days to repay: 125 days (~4 months)
+- Effective APR: ~73%
+
+OnDeck's 1.10 factor floor is the lowest published floor among major MCA providers. At a 1.10 factor, a $100,000 advance costs $10,000 total — roughly half the cost of a 1.20 factor advance. The catch: the 1.10 rate requires strong credit, 12+ months in business, and consistent revenue — conditions that may also open cheaper financing options entirely.
+
+---
+
+## Who Qualifies
+
+OnDeck's stated requirements (all products):
+
+- Personal credit score: 625+
+- Time in business: 12+ months
+- Monthly revenue: $12,000+ ($144,000+ annually)
+- Business bank account required
+- No open bankruptcies
+
+OnDeck is stricter than many alternative lenders. Businesses with 6–11 months of history, or credit scores below 625, will not qualify and should look at Credibly (500 credit minimum) or BFS Capital.
+
+**OnDeck operates in all 50 US states.** It is a subsidiary of Enova International (NYSE: ENVA), a publicly traded specialty finance company subject to SEC reporting requirements — a meaningful indicator of institutional compliance standards.
+
+---
+
+## Regulatory Standing
+
+OnDeck, as a subsidiary of Enova International (NYSE: ENVA), benefits from the transparency obligations of a public company. Enova files quarterly and annual reports with the SEC, and its underwriting and collection practices are subject to greater scrutiny than private MCA providers. For businesses evaluating lender risk and compliance practices, Enova's public company status is a genuine differentiator.
+
+OnDeck has complied with commercial financing disclosure requirements in California, New York, Utah, and Virginia — which require disclosure of total cost, effective APR, and finance charges before signing.
+
+---
+
+## Pros and Cons
+
+**Pros:**
+- Subsidiary of a publicly traded company (Enova International) — higher compliance and disclosure standards than private MCA providers
+- Lowest published MCA factor floor in the market (1.10)
+- Three products in one application — term loan, LOC, and MCA
+- Same-day funding for established accounts
+- Operates in all 50 states
+- Commercial financing disclosure compliance in applicable states
+
+**Cons:**
+- 12-month minimum time in business is one of the higher bars in the market
+- 625 credit score minimum excludes many small businesses
+- Term loan and LOC APRs (29–97%) are high — comparable to other online lenders at the top of the range
+- $250,000 MCA cap is lower than Rapid Finance or BFS Capital ($500,000)
+
+---
+
+## OnDeck vs. Competitors
+
+| | OnDeck | Credibly | Kabbage (Amex) | Rapid Finance |
+|---|---|---|---|---|
+| MCA factor rate | 1.10–1.40 | 1.15–1.49 | N/A | 1.15–1.45 |
+| LOC available | Yes | No (LOC via Credibly working capital loan) | Yes | No |
+| Term loan | Yes | Yes | No | No |
+| Min. credit score | 625 | 500 | 640 | 550 |
+| Min. time in business | 12 months | 6 months | 12 months | 2 years |
+| Public company | Yes | No | No (Amex subsidiary) | No |
+
+---
+
+## Alternatives Worth Evaluating First
+
+OnDeck's rates are meaningfully above bank and SBA financing for well-qualified borrowers. Before committing:
+
+- **Bank line of credit:** Wells Fargo and Chase offer LOCs at Prime + 1–5% (~9–13%) to businesses with 2+ years of history and 680+ credit. See [Business Line of Credit guide](/guides/business-line-of-credit/).
+- **SBA loan:** If you can wait 30–60 days, SBA 7(a) rates are 10–13% APR for amounts up to $5M. See [SBA Loans guide](/guides/sba-loans/).
+- **Invoice factoring:** If you have B2B invoices, factoring costs 18–60% effective APR — less than OnDeck's term loan or LOC for most scenarios. See [Invoice Factoring guide](/guides/invoice-factoring/).
+
+If you've ruled out cheaper options and need a regulated lender backed by a publicly traded company with strong compliance practices, OnDeck is the most institutional choice in the online alternative lending space.
+
+---
+
+## Application Process
+
+Apply directly at [OnDeck.com](https://www.ondeck.com/).
+
+---
+
+## Frequently Asked Questions
+
+**Does OnDeck do a hard credit pull?**
+OnDeck uses a soft pull for pre-qualification. A hard pull occurs only if you accept a loan offer. The soft pull does not affect your credit score.
+
+**Can I get a line of credit and a term loan from OnDeck simultaneously?**
+OnDeck allows qualified borrowers to hold both products simultaneously. Combined facility limits apply — meaning your total exposure across both products cannot exceed OnDeck's underwriting threshold for your profile.
+
+**How fast is OnDeck's same-day funding?**
+Same-day funding applies to established OnDeck customers with existing accounts. For new applicants, funding typically takes 1–2 business days after signing. Applications received before noon on business days are more likely to fund the same day.
+
+**What is OnDeck's origination fee?**
+OnDeck charges an origination fee of 0–4% of the loan amount, depending on the product and your credit profile. This fee is disclosed before signing and is included in the APR calculation. Check your specific offer for the exact fee.
+
+**Does OnDeck report to business credit bureaus?**
+OnDeck reports on-time payments to Equifax Business. This is relatively uncommon among online alternative lenders — timely repayment can contribute to building your business credit profile.
+
+**Can I renew my OnDeck loan before it's paid off?**
+Yes — OnDeck offers renewal before full repayment in some cases. At renewal, any outstanding balance is rolled into the new loan. Be aware that rolling over adds the new origination fee and extends your total cost — review the economics carefully before renewing rather than paying off.
+
+---
+
+<aside class="related-resources">
+  <div class="related-resources__title">Related Resources</div>
+  <ul class="related-resources__list">
+    <li><a href="/guides/business-line-of-credit/">Business Line of Credit — Complete Guide</a></li>
+    <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances — Complete Guide</a></li>
+    <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers of 2026</a></li>
+  </ul>
+</aside>
