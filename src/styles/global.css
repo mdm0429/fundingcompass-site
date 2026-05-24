@@ -347,13 +347,14 @@ hr {
 
 .site-nav a:hover,
 .site-nav__trigger:hover,
-.site-nav__item--has-sub:hover > .site-nav__trigger,
+.site-nav__item--has-sub.is-open > .site-nav__trigger,
 .site-nav a[aria-current="page"] {
   background: rgba(255,255,255,0.15);
   color: #fff;
 }
 
-/* Dropdown arrow */
+/* Dropdown arrow — rotates via JS-controlled .is-open class, never via :hover,
+   so no child transform can break the header's sticky compositor layer */
 .site-nav__arrow {
   font-size: 0.6rem;
   margin-left: 3px;
@@ -361,13 +362,15 @@ hr {
   display: inline-block;
   transition: transform var(--transition-fast);
 }
-.site-nav__item--has-sub:hover .site-nav__arrow { transform: rotate(180deg); }
+.site-nav__item--has-sub.is-open .site-nav__arrow { transform: rotate(180deg); }
 
-/* Dropdown panel */
+/* Dropdown panel — JS controls open/close via .is-open on the parent LI.
+   A 150ms mouseleave delay in JS gives the cursor time to cross the 4px gap
+   before the panel closes, so no ::before bridge tricks are needed. */
 .site-nav__sub {
   display: none;
   position: absolute;
-  top: calc(100% + 6px);
+  top: calc(100% + 4px);
   left: 0;
   background: var(--color-brand-600);
   border-top: 2px solid var(--color-accent-400);
@@ -379,10 +382,10 @@ hr {
   z-index: var(--z-dropdown);
 }
 
-.site-nav__item--has-sub:hover .site-nav__sub,
-.site-nav__item--has-sub:focus-within .site-nav__sub { display: block; }
+.site-nav__item--has-sub.is-open .site-nav__sub { display: block; }
 
 .site-nav__sub a {
+  display: block;
   padding: 8px 16px;
   font-size: var(--text-sm);
   border-radius: 0;
@@ -1414,6 +1417,7 @@ article a.btn--accent:hover {
     color: rgba(255,255,255,0.9);
   }
 
+  /* On mobile all sub-menus are always visible — override .is-open gate */
   .site-nav__item--has-sub .site-nav__sub {
     display: block;
     position: static;
