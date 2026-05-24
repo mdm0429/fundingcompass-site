@@ -71,17 +71,24 @@ Staffing agencies face a structural timing mismatch that makes factoring nearly 
 
 ## How Staffing Factoring Works
 
+<blockquote class="stat-quote">
+  <p><strong>Staffing factoring advances 85–95% of client invoices within 24 hours — enabling agencies to meet weekly payroll without drawing down a bank credit line.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 The mechanics follow standard [receivables financing](/guides/invoice-factoring/), with modifications for staffing's weekly billing cycles:
 
-1. **You place workers and send weekly invoices to clients.** Invoices are typically based on hours worked at the billable rate.
+### Step 1 — Invoice and Submit
 
-2. **You submit invoices to your staffing factor.** Most staffing factors provide dedicated online portals that integrate with common staffing software (Bullhorn, JobDiva, TempWorks).
+You place workers and send weekly invoices to clients. Invoices are typically based on hours worked at the billable rate. You submit invoices to your staffing factor — most staffing factors provide dedicated online portals that integrate with common staffing software (Bullhorn, JobDiva, TempWorks).
 
-3. **The factor advances 85–95% within 24 hours.** You use the advance to fund payroll.
+### Step 2 — Advance to Fund Payroll
 
-4. **Your client pays the factor on their normal terms.** The factor collects directly. Clients receive a notice of assignment.
+The factor advances 85–95% within 24 hours. You use the advance to fund payroll.
 
-5. **Reserve released when client pays.** You receive the remaining 5–15% minus the factoring fee once the client pays.
+### Step 3 — Client Payment and Reserve Release
+
+Your client pays the factor on their normal terms. The factor collects directly. Clients receive a notice of assignment. You receive the remaining 5–15% minus the factoring fee once the client pays.
 
 **Payroll funding specialisation:** Some staffing factors (Capital Plus Financial, Triumph Staffing Capital) offer full back-office services in addition to factoring: payroll processing, tax withholding, workers' compensation insurance, and even employer-of-record (EOR) services. This can dramatically reduce administrative overhead for growing agencies.
 
@@ -114,7 +121,14 @@ The mechanics follow standard [receivables financing](/guides/invoice-factoring/
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A staffing agency billing $100,000/month in client invoices using Triumph Business Capital's 90% advance rate and 2% fee would receive $90,000 upfront within 24 hours and pay $2,000 in factoring fees per 30-day period. If the same agency uses Capital Plus Financial's full back-office services (full back-office adds approximately 1% of payroll), total monthly cost on $90,000 in payroll funding would be approximately $2,900.</p></div>
+  <div class="callout__body">
+<pre><code>Monthly client invoices  : $100,000
+Advance rate             : 90%
+Upfront advance          : $90,000  (within 24 hours)
+Factoring fee (2%)       : $2,000   per 30-day period
+Back-office add-on (~1%) : +$900    (Capital Plus full back-office)
+Total monthly cost       : $2,900</code></pre>
+  </div>
 </div>
 
 ---
@@ -209,7 +223,7 @@ An established staffing agency with 24+ months of history and strong credit can 
   </details>
   <details open>
     <summary>Can I use staffing factoring if I also have a bank line of credit?</summary>
-    <p>This depends on your bank agreement. Most business lines of credit include a borrowing base restriction that treats accounts receivable as collateral. If your bank has a blanket UCC-1 (a public lien notice filed against your business assets) lien on your receivables, you cannot also factor those same receivables without the bank's consent. Review your loan agreement or consult your banker before pursuing factoring alongside an existing credit facility.</p>
+    <p>This depends on your bank agreement. Most business lines of credit include a borrowing base restriction that treats accounts receivable as collateral. If your bank has a blanket Uniform Commercial Code (UCC)-1 lien on your receivables, you cannot also factor those same receivables without the bank's consent. Review your loan agreement or consult your banker before pursuing factoring alongside an existing credit facility.</p>
   </details>
 </section>
 

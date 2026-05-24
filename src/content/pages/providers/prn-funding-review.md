@@ -137,6 +137,11 @@ PRN Funding operates as a specialty healthcare receivables factor. Unlike genera
 
 **Medical Billing Company Factoring:** PRN Funding also works with medical billing companies that hold receivables on behalf of provider clients.
 
+<blockquote class="stat-quote">
+  <p><strong>PRN Funding advances up to 80% of healthcare invoice value with same-day funding and a HIPAA Business Associate Agreement included as standard — one of the only factors in the US that accepts Medicare, Medicaid, and managed care receivables that general B2B factors decline entirely.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Why Healthcare Factoring Is Different
@@ -146,7 +151,7 @@ Most general factoring companies decline healthcare receivables because they are
 - **Insurance adjustments:** Insurance companies routinely adjust claims below billed charges. The final payment amount is often uncertain until the Explanation of Benefits (EOB) is received.
 - **Medicare and Medicaid audits:** Government payer receivables are subject to retrospective audits and recoupment, meaning payments can be reversed months or years later.
 - **HIPAA (the Health Insurance Portability and Accountability Act) compliance:** Healthcare billing involves Protected Health Information (PHI) — any party touching the receivables must be HIPAA-compliant.
-- **Credentialing requirements:** Payers require provider credentialing — a factor that doesn't understand this cannot effectively collect on healthcare AR.
+- **Credentialing requirements:** Payers require provider credentialing — a factor that doesn't understand this cannot effectively collect on healthcare accounts receivable (AR).
 
 PRN Funding's team is specifically trained in healthcare billing and HIPAA compliance, which is why it can serve this market where general factors cannot.
 
@@ -232,7 +237,7 @@ PRN Funding is the broadest healthcare factor of the three — it handles insura
 
 - **General invoice factoring:** If your business has non-healthcare commercial receivables alongside healthcare receivables, consider whether a general factor like Riviera Finance or TCI Business Capital can handle the non-healthcare portion. See [Invoice Factoring Guide](/guides/invoice-factoring/).
 - **Business line of credit:** For operating capital needs not specifically tied to outstanding invoices, a business line of credit at 15–30% APR (annual percentage rate) may be simpler. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
-- **SBA 7(a) loan:** Healthcare businesses with 2+ years of operation and strong financials may qualify for SBA financing at 10–13% APR. See [SBA Loans Guide](/guides/sba-loans/).
+- **SBA 7(a) loan:** Healthcare businesses with 2+ years of operation and strong financials may qualify for Small Business Administration (SBA) financing at 10–13% APR. See [SBA Loans Guide](/guides/sba-loans/).
 
 ---
 

@@ -24,6 +24,11 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
+<blockquote class="stat-quote">
+  <p><strong>Technology equipment financing rates run 5–15% APR — slightly higher than construction or medical equipment because servers and networking gear lose 80–90% of their value in 5 years.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Technology equipment financing provides loans and leases for businesses purchasing servers, networking infrastructure, workstations, storage systems, and other IT hardware. Technology depreciates faster than most equipment categories — a server that costs $50,000 today may be worth $5,000 in 5 years — making leasing particularly popular for tech. Operating leases allow businesses to refresh hardware on a regular cycle without owning depreciating assets. For businesses that need to own their equipment or cannot qualify for lease terms, equipment lending offers fixed monthly payments with ownership at payoff. Rates for technology equipment typically run 5–15% APR (annual percentage rate) as of May 2026, with leasing available at competitive money factors through major vendors and independent lenders.
 
 ---
@@ -93,19 +98,22 @@ Almost every industry relies on technology infrastructure, making this one of th
 
 Technology's rapid depreciation makes the lease vs. loan decision particularly important. The key question: will you want to use this equipment in 5 years, or will it be obsolete?
 
-**Equipment Loan — Best When:**
+### Equipment Loan — Best When
+
 - Equipment has long useful life (5–10+ years) — industrial servers, specialized scientific equipment
 - You want to own the asset and build equity
 - Tax strategy benefits from Section 179 deduction in the purchase year
 - The vendor doesn't offer a competitive lease program
 
-**Operating Lease — Best When:**
+### Operating Lease — Best When
+
 - Equipment becomes obsolete in 3–5 years (standard hardware, desktops, networking gear)
 - You want the ability to refresh hardware at lease end
 - You want to keep the asset off your balance sheet (operating lease treatment)
 - Predictable monthly payments are more important than asset ownership
 
-**$1 Buyout Lease — Best When:**
+### $1 Buyout Lease — Best When
+
 - You want the payment structure of a lease but ownership at the end
 - Equipment has meaningful useful life beyond the lease term
 - Tax treatment under capital lease accounting matches your financial strategy
@@ -146,7 +154,14 @@ Operating leases are designed to match these refresh cycles — you lease for 3 
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A professional services firm deploying a $120,000 server and storage infrastructure package at 8% APR over 48 months would pay approximately $2,928/month. Under a 48-month fair market value operating lease for the same equipment, the monthly payment might be $2,400/month (lower because the lender retains residual value). At lease end, the firm can return the equipment and deploy a new-generation server — avoiding the $5,000–$10,000 residual value on 4-year-old hardware. For most technology deployments, the operating lease wins on total cost if the equipment will be replaced at term end.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment                : $120,000 server + storage package
+Loan (8% APR/48 months)  : ~$2,928/month
+FMV operating lease      : ~$2,400/month  (lender retains residual)
+Residual value at year 4 : $5,000–$10,000 on 4-year-old hardware
+Lease advantage          : return + refresh, avoid stranded asset</code></pre>
+<p>For most technology deployments, the operating lease wins on total cost if the equipment will be replaced at term end.</p>
+  </div>
 </div>
 
 ---

@@ -19,12 +19,17 @@ The factoring fee is typically the smallest source of surprise cost. The contrac
       <li>Always request a complete fee schedule as a separate document — the main contract often omits individual fees like wire charges, monthly minimums, and setup costs.</li>
       <li>Non-recourse protection is only as strong as the contract language defining it — broad carve-outs can make it functionally worthless.</li>
       <li>Auto-renewal and early termination clauses together are the most common source of unexpected cost — understand both before signing.</li>
-      <li>A UCC-1 lien on "all assets" rather than receivables only can block you from other financing for the entire contract term.</li>
+      <li>A Uniform Commercial Code (UCC)-1 lien on "all assets" rather than receivables only can block you from other financing for the entire contract term.</li>
     </ul>
   </div>
 </div>
 
 ---
+
+<blockquote class="stat-quote">
+  <p><strong>Automatic contract renewal clauses and early termination fees calculated on the full credit limit — not actual usage — are among the most common sources of unexpected cost in factoring agreements.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ## Red Flag #1: Fees Not Itemized in the Rate Sheet
 
@@ -60,7 +65,13 @@ The factoring fee is typically the smallest source of surprise cost. The contrac
 
 **What it is:** A contract clause that requires you to factor a minimum dollar amount of invoices each month (or each quarter), with a fee assessed if your actual volume falls short of the minimum.
 
-**Why it matters:** Minimum volume penalties turn a variable-cost financing tool into a fixed-cost obligation. If your business is seasonal, project-based, or growing unpredictably, you may have months where you have little to factor — but still owe the minimum fee. A $50,000/month minimum with a 1% penalty for shortfalls means you owe $500/month in months where you factor nothing. Over 12 months, that's $6,000 in fees for access you didn't use.
+**Why it matters:** Minimum volume penalties turn a variable-cost financing tool into a fixed-cost obligation. If your business is seasonal, project-based, or growing unpredictably, you may have months where you have little to factor — but still owe the minimum fee.
+
+<pre><code>Example: minimum volume penalty impact
+  Monthly minimum:       $50,000 factored
+  Shortfall penalty:     1% of unfactored amount
+  Fee on a zero-volume month: $500
+  Over 12 slow months:   $6,000 in fees for access you didn't use</code></pre>
 
 **What to ask instead:** "Is there a minimum monthly or quarterly factoring volume requirement? If so, what is the penalty for falling short, and is there any grace period or waiver for slow months?"
 

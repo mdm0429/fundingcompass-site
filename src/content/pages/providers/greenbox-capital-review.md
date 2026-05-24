@@ -76,9 +76,9 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Greenbox Capital is a Miami-based alternative lender offering merchant advances and short-term business funding to small businesses in the US and Canada. It serves a wide range of industries including many that larger lenders decline — retail, restaurants, healthcare, transportation, and construction. Factor rates run higher than bank alternatives but are typical for the MCA market, and Greenbox is transparent about disclosing them before you sign. Funding as fast as 24 hours makes it a viable option when speed is the priority and cheaper options have been exhausted.
+Greenbox Capital is a Miami-based alternative lender offering merchant advances and short-term business funding to small businesses in the US and Canada. It serves a wide range of industries including many that larger lenders decline — retail, restaurants, healthcare, transportation, and construction. Factor rates run higher than bank alternatives but are typical for the merchant cash advance (MCA) market, and Greenbox is transparent about disclosing them before you sign. Funding as fast as 24 hours makes it a viable option when speed is the priority and cheaper options have been exhausted.
 
-**Best for:** Businesses with $7,500+/month in revenue that need fast capital and have been declined by banks or SBA (Small Business Administration) programs — particularly businesses in non-traditional industries or with lower credit scores, including some high-risk merchant categories that most MCA (merchant cash advance) providers decline.
+**Best for:** Businesses with $7,500+/month in revenue that need fast capital and have been declined by banks or Small Business Administration (SBA) programs — particularly businesses in non-traditional industries or with lower credit scores, including some high-risk merchant categories that most MCA providers decline.
 
 **Not ideal for:** Businesses that qualify for a business line of credit, SBA loan, or invoice factoring, all of which carry significantly lower effective costs.
 
@@ -129,6 +129,11 @@ Greenbox Capital operates as a direct funder for small businesses that need fast
 **Short-Term Business Funding:** Greenbox also offers short-term loans repaid via daily or weekly ACH, with set terms rather than revenue-based holdback. This structure suits businesses with consistent bank deposits rather than card-heavy revenue.
 
 Greenbox serves a notably broad industry list including many businesses that mainstream MCA providers decline: cannabis-adjacent businesses, adult entertainment-adjacent businesses, and high-risk merchant categories. Confirm eligibility at application.
+
+<blockquote class="stat-quote">
+  <p><strong>Greenbox Capital's published factor rate range of 1.18–1.48 means a $50,000 advance costs between $9,000 (at 1.18) and $24,000 (at 1.48) in total fees — with a $7,500/month revenue floor that is the lowest threshold among major MCA providers reviewed.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 

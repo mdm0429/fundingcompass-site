@@ -81,6 +81,11 @@ Invoice factoring converts outstanding B2B invoices into immediate cash — you 
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Invoice factoring fees run 1–5% per 30 days (18–60% effective APR); merchant cash advance factor rates of 1.20–1.50 translate to 40–350% effective APR — for the same $50,000 and 45-day window, factoring costs $1,800 vs. $15,000 for an MCA.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Comparison — Modelled Example
@@ -89,20 +94,21 @@ Same business, same capital need, two different products.
 
 **The business:** A staffing agency needs $50,000 for 45 days to cover payroll while waiting on client payments.
 
-**Option A — Invoice Factoring**
-- $60,000 outstanding invoice, advance rate 90% = $54,000 advance
-- Fee: 2% per 30 days × 1.5 periods = 3% = $1,800
-- Net received: $54,000 (now) + $3,600 (reserve minus fee, when client pays)
-- Total cost: $1,800
+<pre><code>Option A — Invoice Factoring
+  Invoice:        $60,000 outstanding (net-45)
+  Advance rate:   90% = $54,000 upfront
+  Fee:            2%/30 days × 1.5 periods = 3% = $1,800
+  Reserve:        $3,600 released when client pays
+  Total cost:     $1,800   |   Effective APR: ~24%
 
-**Option B — Merchant Cash Advance**
-- $50,000 advance at 1.30 factor rate = $65,000 total repayment
-- Holdback: 15% of $4,000/day card sales = $600/day
-- Days to repay: 108
-- Total cost: $15,000
-- Effective APR: ~101%
+Option B — Merchant Cash Advance
+  Advance:        $50,000 at factor rate 1.30
+  Total repay:    $65,000 (fixed, regardless of speed)
+  Holdback:       15% of $4,000/day = $600/day deducted
+  Days to repay:  ~108 days
+  Total cost:     $15,000  |   Effective APR: ~101%
 
-**Cost difference: $13,200 in favour of factoring — for the same $50,000 and the same 45-day window.**
+Cost difference: $13,200 in favour of factoring — same $50,000, same 45-day window</code></pre>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>
@@ -182,7 +188,7 @@ This example assumes the business has B2B invoices to factor. If it only has car
   <h2>Frequently Asked Questions</h2>
   <details open>
     <summary>Can a business use both factoring and an MCA at the same time?</summary>
-    <p>Potentially, but with complications. A factoring company files a UCC-1 lien on your accounts receivable. An MCA provider typically files a UCC-1 on future receivables and all business assets. These competing liens may conflict. In practice, many businesses do carry both simultaneously — but both providers need to be aware of each other, and running both means combined holdbacks that can squeeze daily cash flow severely.</p>
+    <p>Potentially, but with complications. A factoring company files a Uniform Commercial Code (UCC)-1 lien on your accounts receivable. An MCA provider typically files a UCC-1 on future receivables and all business assets. These competing liens may conflict. In practice, many businesses do carry both simultaneously — but both providers need to be aware of each other, and running both means combined holdbacks that can squeeze daily cash flow severely.</p>
   </details>
   <details open>
     <summary>Which is faster — factoring or an MCA?</summary>

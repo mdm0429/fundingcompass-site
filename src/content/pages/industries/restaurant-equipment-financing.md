@@ -24,6 +24,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Restaurants Use Equipment Financing
 
+<blockquote class="stat-quote">
+  <p><strong>Restaurant equipment financing rates run 6–20% APR with same-day funding available from multiple lenders for purchases under $75,000.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fryers, espresso machines — depreciates quickly but costs significantly upfront. Equipment lending lets restaurants acquire the equipment now and pay over 24–60 months at 6–20% APR (annual percentage rate), preserving cash for payroll, inventory, and marketing. Because the equipment itself serves as collateral, approval is more accessible than unsecured operating capital loans — even for restaurants with limited credit history.
 
 <div class="stat-grid stat-grid--4">
@@ -107,20 +112,35 @@ Most commercial kitchen and front-of-house equipment qualifies, including:
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A restaurant purchasing a $60,000 commercial kitchen package (range, hood, dishwasher, and refrigeration) at 8% APR over 60 months would pay approximately $1,216/month. Using the Section 179 deduction, the full $60,000 could be deducted in the purchase year — at a 25% effective tax rate, that generates $15,000 in immediate tax savings, reducing the effective net cost of the equipment to $45,000.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment purchase       : $60,000  (range, hood, dishwasher, refrigeration)
+APR / term               : 8% APR over 60 months
+Monthly payment          : ~$1,216/month
+Section 179 deduction    : $60,000  (full purchase year deduction)
+Tax savings (25% rate)   : $15,000
+Effective net cost       : $45,000</code></pre>
+  </div>
 </div>
 
 ---
 
 ## Who Qualifies
 
-**Established restaurants (2+ years, 650+ credit):** Qualify for the full lender pool at competitive rates. Crest Capital and Currency Capital offer the best rates for this profile.
+### Established Restaurants (2+ Years, 650+ Credit)
 
-**Newer restaurants (6–24 months, 620+ credit):** National Funding and Balboa Capital are the most accessible options. Expect rates in the 10–20% APR range.
+Qualify for the full lender pool at competitive rates. Crest Capital and Currency Capital offer the best rates for this profile.
 
-**Startups and pre-opening:** Some lenders (Taycor, TimePayment) finance pre-opening restaurants with a detailed business plan and owner's personal guarantee. Down payments of 20–30% are typical.
+### Newer Restaurants (6–24 Months, 620+ Credit)
 
-**Challenged credit (below 600):** TimePayment and some equipment dealers offer financing for credit scores as low as 500–550. Rates are high (20–35%) but the option exists.
+National Funding and Balboa Capital are the most accessible options. Expect rates in the 10–20% APR range.
+
+### Startups and Pre-Opening
+
+Some lenders (Taycor, TimePayment) finance pre-opening restaurants with a detailed business plan and owner's personal guarantee. Down payments of 20–30% are typical.
+
+### Challenged Credit (Below 600)
+
+TimePayment and some equipment dealers offer financing for credit scores as low as 500–550. Rates are high (20–35%) but the option exists.
 
 ---
 
@@ -176,7 +196,7 @@ The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/secti
   </details>
   <details open>
     <summary>How does equipment financing affect my ability to get other loans?</summary>
-    <p>Equipment financing lenders file a UCC-1 lien specifically against the financed equipment — not against your entire business. This is less restrictive than a blanket lien (common with working capital loans) and generally does not prevent you from obtaining additional financing secured by other assets.</p>
+    <p>Equipment financing lenders file a Uniform Commercial Code (UCC)-1 lien specifically against the financed equipment — not against your entire business. This is less restrictive than a blanket lien (common with working capital loans) and generally does not prevent you from obtaining additional financing secured by other assets.</p>
   </details>
   <details open>
     <summary>What if my restaurant needs to close before the loan is paid off?</summary>
@@ -184,7 +204,7 @@ The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/secti
   </details>
   <details open>
     <summary>Is equipment financing better than using a business line of credit for equipment?</summary>
-    <p>For equipment purchases, dedicated machinery financing is almost always better than a line of credit. Equipment financing offers longer terms (up to 84 months vs. 12 months typical for LOC), lower rates for the same credit profile (because the equipment is collateral), and does not consume your revolving credit capacity. Reserve your line of credit for working capital needs where the flexibility of revolving credit has genuine value.</p>
+    <p>For equipment purchases, dedicated machinery financing is almost always better than a line of credit. Equipment financing offers longer terms (up to 84 months vs. 12 months typical for a line of credit (LOC)), lower rates for the same credit profile (because the equipment is collateral), and does not consume your revolving credit capacity. Reserve your line of credit for working capital needs where the flexibility of revolving credit has genuine value.</p>
   </details>
 </section>
 

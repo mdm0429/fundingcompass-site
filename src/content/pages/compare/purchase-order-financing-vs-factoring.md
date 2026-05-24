@@ -76,6 +76,11 @@ PO funding and invoice factoring both help businesses access cash tied up in the
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>PO financing costs 3–6%/month (before delivery); invoice factoring costs 1–3%/30 days (after delivery) — for a $200,000 order with 1-month production and 2-month payment cycle, combined fees total ~$14,800 (7.4% of order value).</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## How Purchase Order Financing Works
@@ -91,12 +96,12 @@ PO financing solves the gap between receiving a large order and having the cash 
 
 **Key feature:** PO financing goes directly to your supplier — you don't receive the cash yourself. The financier controls the payment to ensure goods are actually produced and shipped.
 
-**Example:**
-- Customer PO: $200,000 for 10,000 units
-- Your supplier cost: $120,000
-- PO financier advances: $120,000 to supplier (100% of supplier cost)
-- PO financing fee: 4% per month × 2 months (time from supplier payment to customer invoice payment) = 8% of $120,000 = $9,600
-- You receive: $200,000 (customer pays) − $120,000 (repay PO financer) − $9,600 (fees) = $70,400 profit (before other costs)
+<pre><code>PO Financing Example — $200,000 customer order
+  Customer PO value:      $200,000 (10,000 units)
+  Supplier cost:          $120,000
+  PO financer advances:   $120,000 directly to supplier
+  Fee:                    4%/mo × 2 months = 8% × $120,000 = $9,600
+  Net to you:             $200,000 − $120,000 − $9,600 = $70,400 profit (before other costs)</code></pre>
 
 Without PO financing, you'd need $120,000 in cash to pay your supplier before receiving the customer's $200,000 payment.
 

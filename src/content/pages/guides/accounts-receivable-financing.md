@@ -28,6 +28,23 @@ Accounts receivable (AR) financing is a broad category of funding that uses your
 
 Both products serve the same fundamental purpose — eliminating the cash flow gap created by net-30 (your customer has 30 days to pay), net-60 (your customer has 60 days to pay), and net-90 payment terms — but they work differently and suit different business situations.
 
+<blockquote class="stat-quote">
+  <p><strong>Invoice factoring advances 80–97% of invoice face value and charges 1–5% per 30-day period; AR lines of credit advance 70–90% at 0.03–0.06% per day.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#two-types-of-ar-financing">Two Types of AR Financing</a></li>
+    <li><a href="#what-ar-financing-costs">What It Costs</a></li>
+    <li><a href="#who-qualifies">Who Qualifies</a></li>
+    <li><a href="#industries-that-use-ar-financing-most">Industries</a></li>
+    <li><a href="#how-to-choose-between-factoring-and-an-ar-line-of-credit">How to Choose</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
+
 <div class="pros-cons">
   <div class="pros">
     <h4>Pros</h4>
@@ -81,7 +98,9 @@ Both products serve the same fundamental purpose — eliminating the cash flow g
 
 ## The Problem AR Financing Solves
 
-Businesses that sell to other businesses (B2B) routinely extend payment terms. A staffing agency places 50 nurses this week but won't receive payment from the hospital for 45 days. A manufacturer ships $200,000 in product but won't collect for 60 days. A government contractor delivers services in March but receives payment in May.
+Businesses that sell to other businesses (B2B) routinely extend payment terms.
+
+A staffing agency places 50 nurses this week but won't receive payment from the hospital for 45 days. A manufacturer ships $200,000 in product but won't collect for 60 days. A government contractor delivers services in March but receives payment in May.
 
 Meanwhile, operating expenses — payroll, rent, supplies, insurance — are due monthly. The gap between cash out (expenses) and cash in (customer payments) creates a working capital deficit.
 
@@ -147,23 +166,23 @@ With invoice financing, you borrow money using your outstanding invoices as coll
 
 ### Factoring Fee Example
 
-Invoice: $100,000 | Advance rate: 90% | Fee: 2% per 30 days | Customer pays in 45 days
-
-- Immediate advance: $90,000
-- Factoring fee: 2% × 1.5 months = 3% = $3,000
-- Reserve released: $100,000 − $90,000 − $3,000 = **$7,000**
-- Total cost: $3,000 (3% of invoice value)
-- Effective APR equivalent (the annualized cost of financing, accounting for all fees and repayment speed): approximately 24%
+<pre><code>Invoice value:       $100,000
+Advance (90%):       $90,000
+Customer pays in:    45 days
+Fee (2% × 1.5 mo):  $3,000
+Reserve released:    $100,000 − $90,000 − $3,000 = $7,000
+Total cost:          $3,000 (3% of invoice value)
+Effective APR:       ~24%</code></pre>
 
 ### AR Line of Credit Example
 
-Invoice: $100,000 | Advance: 80% = $80,000 | Rate: 0.04%/day | Customer pays in 45 days
-
-- Immediate advance: $80,000
-- Interest: $80,000 × 0.04% × 45 days = **$1,440**
-- Plus any origination/draw fees (varies by lender)
-- Total cost: $1,440+ (approximately 1.8% of invoice value)
-- Effective APR equivalent: approximately 14–18% depending on fees
+<pre><code>Invoice value:       $100,000
+Advance (80%):       $80,000
+Daily rate:          0.04%/day
+Customer pays in:    45 days
+Interest:            $80,000 × 0.04% × 45 = $1,440
+Total cost:          $1,440+ (approx. 1.8% of invoice value)
+Effective APR:       ~14–18% depending on fees</code></pre>
 
 AR lines of credit can be cheaper than factoring if your customers pay quickly and you have adequate credit to qualify. For slower-paying customers (60–90 days), the cost differential narrows.
 
@@ -171,12 +190,12 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A government contractor factors a $100,000 invoice at a 90% advance rate with a 2% factoring fee per 30 days. The customer pays in 45 days.</p>
-    <ul>
-      <li>Immediate advance: $90,000 (90% of $100,000)</li>
-      <li>Factoring fee: 2% × 1.5 months = $3,000</li>
-      <li>Reserve released: $100,000 − $90,000 − $3,000 = $7,000</li>
-      <li>Effective APR (annualized cost of financing, accounting for all fees and repayment speed): approximately 24%</li>
-    </ul>
+<pre><code>Invoice value:       $100,000
+Advance (90%):       $90,000
+Customer pays in:    45 days
+Fee (2% × 1.5 mo):  $3,000
+Reserve released:    $7,000
+Effective APR:       ~24%</code></pre>
     <p>An AR line of credit on the same invoice at 0.04%/day over 45 days costs approximately $1,620 — about 46% cheaper, but requires 1–2+ years in business and a 600+ credit score to qualify.</p>
   </div>
 </div>
@@ -202,6 +221,8 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 - AR quality: Creditworthy customers with invoices under 90 days
 - Industries: Most B2B industries
 
+Invoice factoring is the more accessible AR financing product for newer or credit-constrained businesses, while AR lines of credit offer lower cost and customer privacy for established businesses that meet the 1–2+ year and 600+ credit score requirements.
+
 ---
 
 ## Industries That Use AR Financing Most
@@ -221,6 +242,8 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 - Technology services
 - Financial services
 - Any industry with highly sensitive customer relationships
+
+Industry context shapes which AR financing structure is practical — factoring's customer notification requirement makes it well-suited for sectors like staffing and trucking where it is standard practice, while AR lines of credit fit industries where customer discretion is a competitive necessity.
 
 ---
 
@@ -253,7 +276,7 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 
 **Non-recourse factoring:** The factor absorbs the credit risk if the customer becomes insolvent. Fees are slightly higher.
 
-**Notice of assignment:** A formal notice sent to your customer directing them to pay the factor rather than you. Required in factoring transactions. Factors typically file a UCC-1 lien against your receivables to perfect their security interest — see the <a href="https://www.law.cornell.edu/ucc/9" rel="noopener">Cornell LII overview of UCC Article 9</a> for how secured transactions in receivables work.
+**Notice of assignment:** A formal notice sent to your customer directing them to pay the factor rather than you. Required in factoring transactions. Factors typically file a Uniform Commercial Code (UCC)-1 lien against your receivables to perfect their security interest — see the <a href="https://www.law.cornell.edu/ucc/9" rel="noopener">Cornell LII overview of UCC Article 9</a> for how secured transactions in receivables work.
 
 **Concentration limit:** Maximum percentage of your total AR that can come from a single customer. Factors limit concentration to manage risk.
 
@@ -344,3 +367,11 @@ The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically 25–50%," "typically involves a soft credit pull," "typically require 1–2+ years," "may view this negatively."
+Missing specificity: No Rule 8 substitutions were needed — no vague phrases from the target list appeared without specific data already on the page.
+Acronyms: AR was already expanded in the opening paragraph as "Accounts receivable (AR) financing." APR was already expanded in the cons bullet. UCC expanded to "Uniform Commercial Code (UCC)-1" on first prose body use in the Key Terms section. No remaining undefined specialist terms.
+Passive voice: "is based on your customers' credit," "is sold to a third party," "are notified you are factoring," "is held in reserve" — candidates for active voice review.
+-->

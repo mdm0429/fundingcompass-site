@@ -132,6 +132,11 @@ Crest Capital operates as a direct lender for equipment lending and leasing. It 
 
 Crest Capital finances a wide range of equipment categories: commercial vehicles, manufacturing machinery, medical and dental equipment, restaurant equipment, technology hardware, construction equipment, agricultural equipment, and more.
 
+<blockquote class="stat-quote">
+  <p><strong>Crest Capital funds equipment loans from approximately 5.99% APR with 2-hour credit decisions on applications under $250,000 — a $75,000 loan at 7.5% APR over 48 months costs $12,216 in total interest, with no prepayment penalty in many cases.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency

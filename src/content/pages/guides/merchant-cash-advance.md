@@ -24,9 +24,28 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is a Merchant Cash Advance?
 
-A MCA (merchant cash advance) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs (annual percentage rates) typically range from 40–350%, making them among the most expensive forms of business financing available. Rate ranges are based on lender-published terms as of May 2026. The Consumer Financial Protection Bureau publishes guidance on [understanding merchant cash advances](https://www.consumerfinance.gov/small-business-lending/) as part of its small business lending resources — worth reading before you sign anything.
+A merchant cash advance (MCA) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs (annual percentage rates) typically range from 40–350%, making them among the most expensive forms of business financing available.
+
+Rate ranges are based on lender-published terms as of May 2026. The Consumer Financial Protection Bureau publishes guidance on [understanding merchant cash advances](https://www.consumerfinance.gov/small-business-lending/) as part of its small business lending resources — worth reading before you sign anything.
 
 This guide is written to help you understand exactly what you are buying before you sign. MCAs are sometimes the right choice. More often, there is a cheaper option.
+
+<blockquote class="stat-quote">
+  <p><strong>MCAs carry effective APRs of 40–350% — a 1.35 factor rate repaid over 45 days equals approximately 284% APR.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#how-an-mca-works--the-mechanics">How It Works</a></li>
+    <li><a href="#the-true-cost-of-an-mca--annualised">True Cost</a></li>
+    <li><a href="#when-an-mca-might-make-sense">When It Makes Sense</a></li>
+    <li><a href="#when-an-mca-is-the-wrong-choice">When to Avoid</a></li>
+    <li><a href="#mca-alternatives-to-evaluate-first">Alternatives</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
 
 <div class="pros-cons">
   <div class="pros">
@@ -87,7 +106,11 @@ This guide is written to help you understand exactly what you are buying before 
 
 ## How an MCA Works — The Mechanics
 
+### Factor Rate and Total Cost
+
 **Factor rate.** Instead of an interest rate, MCAs use a [factor rate](/glossary/) — a decimal multiplier applied to the advance amount. A $50,000 advance at a 1.35 factor rate means you repay $67,500 (50,000 × 1.35). The cost is fixed: you pay $17,500 regardless of how quickly you repay.
+
+### Daily Holdback and Repayment Speed
 
 **Holdback percentage.** The MCA provider collects repayment by taking a fixed percentage of your daily credit and debit card sales — typically 10–25%. This is the [holdback](/glossary/) or retrieval rate.
 
@@ -95,10 +118,12 @@ This guide is written to help you understand exactly what you are buying before 
 
 **Example:** $50,000 advance, 1.35 factor rate, 15% holdback, $10,000/day average sales.
 
-- Daily holdback = $1,500
-- Total repayment = $67,500
-- Days to repay = 45
-- Effective APR = ($17,500 ÷ $50,000) ÷ (45 ÷ 365) = **284% APR**
+<pre><code>Advance amount:      $50,000
+Factor rate:         1.35
+Total repayment:     $67,500
+Daily holdback:      $10,000 × 15% = $1,500/day
+Days to repay:       45
+Effective APR:       ($17,500 ÷ $50,000) ÷ (45 ÷ 365) = ~284%</code></pre>
 
 The same advance repaid over 90 days produces an effective APR of 142%. Over 180 days, 71%. Repayment speed — driven by your sales volume — is the dominant variable in MCA cost.
 
@@ -141,12 +166,12 @@ The absence of an APR in MCA marketing is not an oversight — it is a feature f
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A restaurant takes a $30,000 merchant advance at a 1.30 factor rate with a 12% daily holdback (the fixed percentage of your daily credit card sales automatically deducted to repay the MCA) and $5,000/day in average card sales.</p>
-    <ul>
-      <li>Total repayment: $30,000 × 1.30 = $39,000</li>
-      <li>Daily holdback: $5,000 × 12% = $600/day</li>
-      <li>Days to repay: $39,000 ÷ $600 = 65 days</li>
-      <li>Effective APR (annualized cost of financing, accounting for all fees and repayment speed): approximately 168%</li>
-    </ul>
+<pre><code>Advance amount:      $30,000
+Factor rate:         1.30
+Total repayment:     $30,000 × 1.30 = $39,000
+Daily holdback:      $5,000 × 12% = $600/day
+Days to repay:       $39,000 ÷ $600 = 65 days
+Effective APR:       ~168%</code></pre>
     <p>The same $30,000 from an SBA microloan at 10% APR for 90 days would cost approximately $735 in interest — compared to $9,000 in merchant funding fees.</p>
   </div>
 </div>
@@ -164,6 +189,8 @@ Despite the cost, MCAs occupy a real niche. They are appropriate in narrow circu
 **3. You are a seasonal business with predictable recovery.** The flexible repayment (holdback scales with sales) means an MCA payment automatically drops in slow months — unlike a fixed loan payment.
 
 **4. Speed is critical and nothing else qualifies.** MCAs can fund in 24–48 hours with minimal documentation. If the cost of delay exceeds the cost of the MCA, the math may support it.
+
+An MCA is a legitimate tool in a narrow set of circumstances — but only when the expected return on the funded opportunity clearly exceeds the 40–350% effective APR cost of the advance.
 
 ---
 
@@ -217,9 +244,11 @@ Before signing an MCA, run through this checklist:
 
 - **Invoice factoring** — if you have outstanding B2B invoices, factoring is typically 50–80% cheaper than an MCA for the same cash amount. See [How Invoice Factoring Works](/guides/invoice-factoring/).
 - **Business line of credit** — if you have 12+ months in business and 600+ credit score, a line of credit costs a fraction of an MCA.
-- **SBA microloan** — for amounts under $50,000, SBA microloans offer rates of 8–13% APR. Slower (4–8 weeks) but far cheaper.
+- **SBA microloan** — for amounts under $50,000, Small Business Administration (SBA) microloans offer rates of 8–13% APR. Slower (4–8 weeks) but far cheaper.
 - **Equipment financing** — if the capital need is tied to an equipment purchase, equipment financing (5.5–18% APR) is almost always cheaper.
 - **CDFI loans** — Community Development Financial Institutions often lend to underserved businesses at 10–20% APR with more flexible credit requirements than banks.
+
+Running through this checklist before signing an MCA can save tens of thousands of dollars in financing costs — invoice factoring (18–60% effective APR), a business line of credit (8–30% APR), and SBA microloans (8–13% APR) are all substantially cheaper for businesses that qualify.
 
 ---
 
@@ -260,7 +289,9 @@ Before signing an MCA, run through this checklist:
 
 **Who this is for:** Businesses with consistent daily credit card volume ($10,000+/month), a short-term high-return opportunity (buying inventory for a confirmed large event, bridging a seasonal gap), and no viable alternative merchant funding option available in the required timeframe.
 
-**Who should look elsewhere:** Businesses using an MCA to cover recurring operating costs such as payroll or rent — this is a debt trap signal. If you have B2B invoices, invoice factoring is typically 50–80% cheaper. If you have 12+ months in business and a 600+ credit score, a business line of credit costs a fraction of an MCA.
+**Who should look elsewhere:** Businesses using an MCA to cover recurring operating costs such as payroll or rent — this is a debt trap signal.
+
+If you have B2B invoices, invoice factoring is typically 50–80% cheaper. If you have 12+ months in business and a 600+ credit score, a business line of credit costs a fraction of an MCA.
 
 Several states — including California (SB 1235), New York, Utah, and Virginia — now require APR disclosure on commercial financing. The [FTC provides guidance on small-business financing practices](https://www.ftc.gov/business-guidance/credit-finance) that applies nationally, and the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) cover complaint processes if you believe a provider has engaged in deceptive practices.
 
@@ -284,3 +315,11 @@ Several states — including California (SB 1235), New York, Utah, and Virginia 
     <li><a href="/compare/factoring-vs-merchant-cash-advance/">Invoice Factoring vs. Merchant Cash Advance</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically runs 10–25%," "may result in collections activity," "often by applying to a different provider."
+Missing specificity: No Rule 8 substitutions were needed — no vague phrases matched the target list on this page. All ranges and timeframes were already stated specifically.
+Acronyms: MCA fixed from "A MCA (merchant cash advance)" to "A merchant cash advance (MCA)" per required first-use format. SBA expanded to "Small Business Administration (SBA)" on first prose use in the Alternatives section. APR was already expanded in the first paragraph. No remaining undefined specialist terms.
+Passive voice: "is collected daily or weekly," "are required to disclose," "are not subject to the same usury laws" — candidates for active voice review.
+-->

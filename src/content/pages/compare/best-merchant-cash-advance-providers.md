@@ -26,7 +26,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## A Note Before This List
 
-MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, SBA loans — and determined that merchant funding is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/). For context on small business financing practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
+MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, Small Business Administration (SBA) loans — and determined that merchant funding is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/). For context on small business financing practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 With that context, here is an independent assessment of the major providers.
 
@@ -306,6 +306,11 @@ With that context, here is an independent assessment of the major providers.
   </div>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>MCA effective APRs range from 40–350% — a $30,000 advance at factor rate 1.25 costs $7,500 total vs. $5,892 for the same amount via equipment financing at 12% APR over 36 months; the MCA also compresses cash flow daily through holdback deductions.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Provider Profiles
@@ -323,7 +328,7 @@ Credibly stands out in an opaque industry for publishing its factor rate range a
 
 Credibly operates in most US states and has compliance processes for states with commercial financing disclosure requirements.
 
-**Best for:** Businesses that want to compare MCA and LOC options in one place, and those who value fee transparency.
+**Best for:** Businesses that want to compare MCA and line of credit (LOC) options in one place, and those who value fee transparency.
 **Not ideal for:** Businesses needing over $400,000 or those with monthly revenue below $15,000.
 
 ---
@@ -382,15 +387,23 @@ BFS Capital (now part of a larger alternative lending group) works with business
 
 **Scenario:** A restaurant with $40,000/month in card sales needs $30,000 for kitchen equipment repairs.
 
-- **Credibly MCA** at factor rate 1.25, 15% daily holdback (the percentage of daily sales automatically deducted for MCA repayment):
-  - Total repayment: $37,500 ($30,000 × 1.25)
-  - Daily card sales: ~$1,333; daily deduction: $200 (15%)
-  - Estimated payoff: ~188 days
-  - Effective APR: ~55%
+<pre><code>Restaurant — $40,000/month card sales, $30,000 needed for kitchen equipment repairs
 
-- **Alternative (equipment financing):** Balboa Capital at 12% APR on $30,000 over 36 months: Monthly payment $997; total interest paid $5,892; effective APR 12%
+Option A — Credibly MCA (factor rate 1.25, 15% holdback)
+  Total repayment:  $37,500 ($30,000 × 1.25)
+  Daily card sales: ~$1,333
+  Daily deduction:  $200 (15% holdback)
+  Payoff time:      ~188 days
+  Total cost:       $7,500   |   Effective APR: ~55%
 
-The MCA costs roughly $7,500 vs. $5,892 for equipment financing — and the MCA repayment compresses cash flow daily while equipment financing has a fixed monthly payment. If the restaurant cannot qualify for equipment financing, the MCA may be the only option. Rates depend on credit score, revenue consistency, and existing MCA obligations.
+Option B — Equipment Financing (Balboa Capital, 12% APR, 36 months)
+  Monthly payment:  $997
+  Total interest:   $5,892
+  Total cost:       $5,892   |   Effective APR: 12%
+
+MCA premium over equipment financing: ~$1,608 more — plus daily cash-flow compression vs. fixed monthly payment</code></pre>
+
+If the restaurant cannot qualify for equipment financing, the MCA may be the only option. Rates depend on credit score, revenue consistency, and existing MCA obligations.
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

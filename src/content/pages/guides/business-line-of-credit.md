@@ -24,9 +24,26 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is a Business Line of Credit?
 
-A business LOC (line of credit) is a revolving credit facility that lets you draw funds up to a set limit, repay them, and draw again — as many times as needed. Current rates range from 8–30% APR (annual percentage rate) for qualified borrowers, and you only pay interest on the amount you actually draw, not the full credit limit. Rates depend on credit profile, collateral, and term length. Think of it as a business credit card without the card: a flexible pool of capital available on demand. Rate ranges are based on lender-published schedules as of May 2026.
+A business line of credit (LOC) is a revolving credit facility that lets you draw funds up to a set limit, repay them, and draw again — as many times as needed. Current rates range from 8–30% APR (annual percentage rate) for qualified borrowers, and you only pay interest on the amount you actually draw, not the full credit limit. Rates depend on credit profile, collateral, and term length. Think of it as a business credit card without the card: a flexible pool of capital available on demand. Rate ranges are based on lender-published schedules as of May 2026.
 
 A line of credit is not a term loan. There is no fixed repayment schedule — you draw and repay on your timeline, subject to minimum payment requirements. Limits typically range from $10,000 to $500,000 for small businesses.
+
+<blockquote class="stat-quote">
+  <p><strong>You pay interest only on the drawn balance: a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#how-a-business-line-of-credit-works">How It Works</a></li>
+    <li><a href="#current-business-line-of-credit-rates--2026">Current Rates</a></li>
+    <li><a href="#secured-vs-unsecured-lines-of-credit">Secured vs. Unsecured</a></li>
+    <li><a href="#who-qualifies-for-a-business-line-of-credit">Who Qualifies</a></li>
+    <li><a href="#how-to-strengthen-your-loc-application">How to Strengthen Your Application</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
 
 <div class="pros-cons">
   <div class="pros">
@@ -35,7 +52,7 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
       <li>You pay interest only on the amount you draw — a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest</li>
       <li>Revolving structure means repaid funds immediately restore your available balance — one facility handles recurring working capital needs indefinitely</li>
       <li>Online lenders (BlueVine, Fundbox) approve businesses as young as 6 months with 600+ credit scores, with funding in as little as 24 hours</li>
-      <li>Cheapest flexible financing product for businesses that qualify — 8–30% APR vs. 40–350% for MCAs</li>
+      <li>Cheapest flexible financing product for businesses that qualify — 8–30% APR vs. 40–350% for merchant cash advances (MCAs)</li>
     </ul>
   </div>
   <div class="cons">
@@ -82,11 +99,15 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
 
 ## How a Business Line of Credit Works
 
+### Drawing and Repaying Funds
+
 **The credit limit.** Your lender approves a maximum borrowing amount based on your revenue, credit score, and business history. This limit does not change unless you request a review.
 
 **Drawing funds.** You access funds by transferring from the credit line to your business checking account — often same-day for established accounts. Some lenders provide a dedicated credit card or cheque book linked to the line.
 
 **Interest calculation.** Interest accrues only on the outstanding drawn balance, calculated daily. If your limit is $100,000 and you have drawn $25,000, you pay interest only on the $25,000.
+
+### Repayment and Annual Renewal
 
 **Repayment.** Most lines require minimum monthly payments (interest-only or a small percentage of the balance). Full repayment restores your available credit for future draws. Unlike a term loan, there is no fixed end date — lines renew annually upon review.
 
@@ -116,12 +137,14 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A wholesale distributor draws $40,000 from a $75,000 business LOC at 18% APR to cover a 45-day inventory gap before a major seasonal order is paid.</p>
-    <ul>
-      <li>Amount drawn: $40,000</li>
-      <li>Interest: $40,000 × 18% ÷ 365 × 45 = approximately $888</li>
-      <li>Net proceeds available immediately: $40,000</li>
-      <li>Effective APR (the annualized cost of financing, accounting for all fees and repayment speed): 18%</li>
-    </ul>
+<pre><code>Amount drawn:        $40,000
+APR:                 18%
+Draw period:         45 days
+Interest:            $40,000 × 18% ÷ 365 × 45 = ~$888
+Effective APR:       18%
+
+MCA alternative (1.30 factor rate): $12,000 in fees
+LOC savings vs. MCA: $11,112</code></pre>
     <p>The same operating capital need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more for the identical cash amount.</p>
   </div>
 </div>
@@ -164,6 +187,8 @@ Most online lender LOCs are technically unsecured but require a personal guarant
 - Outstanding tax liens (may be worked around with IRS payment plan documentation)
 - Business less than 3 months old
 
+A business line of credit is the most flexible and cost-effective revolving working capital product available to small businesses — but meeting the 600+ credit score, $100,000+ annual revenue, and 6+ months in business thresholds is the prerequisite for accessing it.
+
 ---
 
 ## Business LOC vs. Invoice Factoring vs. MCA
@@ -177,7 +202,9 @@ Most online lender LOCs are technically unsecured but require a personal guarant
 | Repayment | Flexible draw-and-repay | Reserve after customer pays | % of daily sales |
 | Best for | Ongoing working capital | B2B invoice gap | Last resort / high-return windows |
 
-For businesses that qualify, a line of credit is almost always cheaper than either factoring or an MCA. The qualification bar is higher — but worth clearing if you can. See [Invoice Factoring vs. Line of Credit](/compare/factoring-vs-line-of-credit/) for a detailed cost model. The <a href="https://www.consumerfinance.gov/small-business-lending/" rel="noopener">CFPB small-business lending resources</a> provide guidance on understanding line of credit terms and your rights as a small business borrower.
+For businesses that qualify, a line of credit is almost always cheaper than either factoring or an MCA. The qualification bar is higher — but worth clearing if you can. See [Invoice Factoring vs. Line of Credit](/compare/factoring-vs-line-of-credit/) for a detailed cost model.
+
+The <a href="https://www.consumerfinance.gov/small-business-lending/" rel="noopener">CFPB small-business lending resources</a> provide guidance on understanding line of credit terms and your rights as a small business borrower.
 
 ---
 
@@ -256,3 +283,11 @@ The [CFPB small-business lending resources](https://www.consumerfinance.gov/cons
     <li><a href="/providers/fundbox-review/">Fundbox Review</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically require a personal guarantee," "may trigger a limit review," "typically have a 12-month term," "may be worked around."
+Missing specificity: No Rule 8 substitutions were needed — no vague target phrases appeared without accompanying specific data on this page.
+Acronyms: LOC reformatted from "LOC (line of credit)" to "line of credit (LOC)" per required first-use format. MCA expanded to "merchant cash advances (MCAs)" on its first prose use in the pros-cons section. APR was already expanded in the opening paragraph. UCC was already expanded in the cons bullet ("UCC-1 (a public lien notice filed when a lender takes a security interest in your business assets)"). No remaining undefined specialist terms.
+Passive voice: "is drawn from," "are reviewed at renewal," "are typically expressed," "can be drawn, repaid, and drawn again" — candidates for active voice review.
+-->

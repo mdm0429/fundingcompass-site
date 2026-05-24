@@ -127,13 +127,18 @@ Triumph Business Capital is the dominant receivables financing provider in the t
 
 Triumph Business Capital operates as a division of Triumph Financial, a publicly traded bank holding company (NASDAQ: TBK). The banking charter backing Triumph Business Capital is a material differentiator — it means Triumph is regulated by federal banking authorities, subject to capital requirements, and held to higher compliance standards than independent factoring companies.
 
-**Invoice Factoring:** Triumph purchases outstanding freight invoices from carriers and owner-operators. Upon delivering a load and submitting a BOL (bill of lading), the carrier receives the invoice amount minus Triumph's fee — same day for approved brokers and shippers, within 24–48 hours for others.
+**Invoice Factoring:** Triumph purchases outstanding freight invoices from carriers and owner-operators. Upon delivering a load and submitting a bill of lading (BOL), the carrier receives the invoice amount minus Triumph's fee — same day for approved brokers and shippers, within 24–48 hours for others.
 
 **TriumphPay Network:** Triumph has built TriumphPay — a payment network used by freight brokers to pay carriers through their factoring companies. Over 1,000 freight brokers participate in TriumphPay. When your broker is in the network, Triumph can verify and fund invoices without waiting for the broker to mail or wire payment — which is the mechanism behind same-day funding.
 
 **Triumph Fuel Card:** A dedicated fuel card accepted at major truck stops nationwide. Cardholders receive per-gallon discounts (typically $0.10–$0.25/gallon based on volume) and can access a portion of their outstanding invoice value at the pump before the invoice is fully funded.
 
 **Non-Recourse Factoring:** Triumph offers non-recourse factoring on approved debtors — meaning if an approved broker or shipper becomes insolvent and cannot pay, Triumph absorbs the loss. Non-recourse fees are higher than recourse fees, but the credit risk protection is valuable for carriers working with newer or smaller brokers. See [Recourse vs. Non-Recourse Factoring](/compare/recourse-vs-non-recourse-factoring/).
+
+<blockquote class="stat-quote">
+  <p><strong>Triumph Business Capital's TriumphPay network covers 1,000+ freight brokers for automated same-day invoice verification and funding — and its up to 100% advance rate (minus fee) is the highest published rate in trucking factoring, versus the 90–97% industry standard.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 
@@ -158,9 +163,9 @@ Triumph does not publish a single fixed fee. Fees depend on:
 - Gross invoices: $25,000
 - Triumph fee (3%): $750
 - Net received: $24,250
-- Annualised cost: $9,000 (approximately 36% effective APR (the annualized cost of financing, accounting for all fees and repayment speed) vs. waiting 30–45 days)
+- Annualised cost: $9,000 (approximately 36% effective annual percentage rate (APR) vs. waiting 30–45 days)
 
-The effective APR (annual percentage rate) comparison is relevant when evaluating factoring against a line of credit — but for truckers without access to bank financing, factoring's same-day cash flow benefit often outweighs the cost. For a plain-language explanation of what lenders must disclose about costs and recourse terms, see the <a href="https://www.ftc.gov/business-guidance/credit-finance" target="_blank" rel="noopener">FTC's small-business credit and financing guidance</a>.
+The effective APR comparison is relevant when evaluating factoring against a line of credit — but for truckers without access to bank financing, factoring's same-day cash flow benefit often outweighs the cost. For a plain-language explanation of what lenders must disclose about costs and recourse terms, see the <a href="https://www.ftc.gov/business-guidance/credit-finance" target="_blank" rel="noopener">FTC's small-business credit and financing guidance</a>.
 
 ---
 
@@ -225,7 +230,7 @@ For a full breakdown of the trade-offs: [Recourse vs. Non-Recourse Factoring](/c
 ## Alternatives Worth Evaluating
 
 **For trucking businesses with stronger financials:**
-- **Business line of credit:** If your business has 680+ credit and 2+ years of history, a bank LOC at 9–15% APR is significantly cheaper than factoring. Use it for payroll gaps and fuel while waiting on broker payments.
+- **Business line of credit:** If your business has 680+ credit and 2+ years of history, a bank line of credit (LOC) at 9–15% APR is significantly cheaper than factoring. Use it for payroll gaps and fuel while waiting on broker payments.
 - **Truist, Comerica, or commercial bank lending:** Banks with dedicated transportation divisions offer equipment financing and operating capital loans at competitive rates for established carriers.
 
 **Other trucking-specific factoring providers:**

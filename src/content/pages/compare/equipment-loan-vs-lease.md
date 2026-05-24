@@ -83,6 +83,11 @@ Equipment loans and leases both let you use business equipment without paying th
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Equipment loans build ownership from day one; operating leases cut monthly payments by 20–30% at the cost of no equity — on a $100,000 purchase, a lease costs ~$96,000 total vs. ~$121,680 for a loan, but requires return or buyout at term end.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## How Equipment Loans Work
@@ -95,14 +100,12 @@ An equipment loan is a fixed-term loan secured by the equipment itself. The lend
 - Rate: Fixed APR, typically 5–20% depending on credit, lender, and equipment
 - Collateral: The equipment itself secures the loan (no additional collateral typically required for standard equipment)
 
-**Total cost example (equipment loan):**
-- Equipment cost: $100,000
-- Down payment: $0
-- Term: 60 months
-- APR: 8%
-- Monthly payment: $2,028
-- Total payments: $121,680
-- Total interest: $21,680
+<pre><code>Equipment Loan — $100,000 purchase, 0% down, 60 months, 8% APR
+  Loan amount:    $100,000
+  Monthly:        $2,028
+  Total payments: $121,680
+  Total interest: $21,680
+  Ownership:      Yes, from day one</code></pre>
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model your specific purchase.
 

@@ -81,6 +81,11 @@ A business line of credit gives you a revolving pool of funds to draw from as ne
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Invoice factoring costs 18–60% effective APR; a business line of credit costs 8–30% APR — for a qualified business, the LOC saves $15,000–$40,000 per year on $100,000 in utilisation. The cost difference is $2,334 in favour of the LOC on a $100,000 draw at 60-day customer payment.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## When Invoice Factoring Wins
@@ -122,18 +127,20 @@ If your gross margin is 12–15%, factoring fees (1–3% per 30 days on the invo
 
 A business needs $100,000 in working capital for 60 days, drawn against $120,000 in outstanding invoices. Customer payment arrives at day 60.
 
-**Option A — Invoice Factoring**
-- Advance rate: 90% of $120,000 = $108,000 advance
-- Fee: 2% per 30 days × 2 periods = 4% of face value = $4,800
-- Net received: $108,000 − $4,800 = $103,200 (plus reserve release of ~$7,200 when customer pays)
-- Total cost: $4,800
+<pre><code>Business needs $100,000 for 60 days against $120,000 in outstanding invoices
 
-**Option B — Business Line of Credit**
-- Draw: $100,000 at 15% APR
-- Interest for 60 days: $100,000 × (15% ÷ 365) × 60 = $2,466
-- Total cost: $2,466
+Option A — Invoice Factoring (2%/30 days, 90% advance rate)
+  Advance:         $108,000 (90% of $120,000)
+  Fee:             2% × 2 periods = 4% × $120,000 = $4,800
+  Reserve:         ~$7,200 released when customer pays
+  Total cost:      $4,800
 
-**Cost difference: $2,334 in favour of the line of credit for this scenario.**
+Option B — Business Line of Credit (15% APR)
+  Draw:            $100,000
+  Interest:        $100,000 × (15% ÷ 365) × 60 days = $2,466
+  Total cost:      $2,466
+
+Cost difference: $2,334 in favour of the LOC (gap widens to $4,734 at 90-day payment)</code></pre>
 
 At 30-day customer payment, factoring fees halve ($2,400) and the gap narrows to $934. At 90-day payment, factoring costs $7,200 and the gap widens to $4,734.
 

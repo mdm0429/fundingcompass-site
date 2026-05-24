@@ -81,6 +81,11 @@ The distinction sounds simple. It becomes complicated in practice because "non-r
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Non-recourse factoring costs 0.5–2% more per 30-day period than recourse — at $100,000/month in factoring volume, a 1% premium adds up to $12,000 per year, and protection triggers only on verified customer insolvency, not on disputes or slow payment.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## The Critical Nuance — What Non-Recourse Does Not Cover
@@ -122,6 +127,14 @@ Before signing any non-recourse factoring agreement, request and review the spec
 ## When Non-Recourse Is Worth the Premium
 
 Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That premium adds up:
+
+<pre><code>Non-Recourse Premium Cost — Annual Impact (1% premium per 30-day period)
+  Monthly volume:   $50,000  → extra cost: $500/mo  = $6,000/yr
+  Monthly volume:  $100,000  → extra cost: $1,000/mo = $12,000/yr
+  Monthly volume:  $250,000  → extra cost: $2,500/mo = $30,000/yr
+
+Break-even: the premium is worth paying only if expected annual
+customer insolvency losses exceed the annual premium cost.</code></pre>
 
 <div class="comp-table-wrap">
   <table class="comp-table">

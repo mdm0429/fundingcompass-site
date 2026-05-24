@@ -124,6 +124,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 **Technology integration.** eCapital's freight portal integrates with major load boards and TMS systems. Document submission via mobile app is standard. For high-volume carriers, the operational efficiency of the technology offsets some of the contract inflexibility.
 
+<blockquote class="stat-quote">
+  <p><strong>eCapital advances up to 97% of freight invoice value — among the highest published advance rates in the industry — with freight invoices funded in 2–4 hours and fees from 0.69% per 30 days for qualifying high-volume accounts.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## eCapital's Limitations

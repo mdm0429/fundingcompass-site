@@ -24,6 +24,11 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
+<blockquote class="stat-quote">
+  <p><strong>Government contractor factoring advances 85–95% of federal invoice value at fees of 1–3% per 30-day period — the lowest rates of any industry because federal agencies carry virtually zero insolvency risk.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Government contractor receivables financing converts outstanding federal invoices into immediate cash — bridging the gap between when work is delivered and when the government pays (typically 30–45 days under the Prompt Payment Act, though delays are common). Unlike commercial factoring, government contractor factoring must comply with the Federal Acquisition Regulation (FAR) — specifically the Assignment of Claims Act, which governs how receivables from federal contracts can be assigned to a third party. Advance rates reach 90–95% of invoice value, with factoring fees of 1–3% per 30 days. This is a mature, well-regulated market with numerous experienced lenders.
 
 <div class="pros-cons">
@@ -122,16 +127,19 @@ Government contractor factoring is generally **less expensive than commercial fa
 - Payment timelines are regulated and predictable under the Prompt Payment Act
 - The legal framework is clear and enforceable
 
-**Typical rate range:**
+### Typical Rate Range by Contract Volume
+
 - High-volume contracts ($500K+/year): 1.0–1.75% per 30 days
 - Mid-volume contracts ($100K–$500K/year): 1.5–2.5% per 30 days
 - Smaller contracts (under $100K/year): 2–3% per 30 days
 
-**Cost example:**
-- Monthly invoicing: $100,000
-- Advance rate: 90% → receive $90,000 immediately
-- Factoring fee at 2%/30 days, prorated to 35 days: $100,000 × 2% × (35/30) = $2,333
-- Agency pays in 35 days: reserve released = $100,000 − $90,000 − $2,333 = $7,667
+### Cost Example
+
+<pre><code>Monthly invoicing           : $100,000
+Advance rate (90%)          : $90,000   received immediately
+Factoring fee (2%/30 days)  : $100,000 × 2% × (35/30) = $2,333
+Agency pays in 35 days
+Reserve released            : $100,000 − $90,000 − $2,333 = $7,667</code></pre>
 
 <dl>
   <dt>Assignment of Claims Act (31 U.S.C. § 3727)</dt>
@@ -148,7 +156,13 @@ Government contractor factoring is generally **less expensive than commercial fa
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A small IT services contractor invoicing $100,000/month to a civilian federal agency using TCI Business Capital's 90% advance rate and 2% fee would receive $90,000 upfront and pay $2,000 in fees per 30-day period. If the agency pays in 35 days (common even under the Prompt Payment Act), the prorated fee totals $2,333 — leaving a reserve release of $7,667 when the agency pays.</p></div>
+  <div class="callout__body">
+<pre><code>Monthly invoicing (civilian agency) : $100,000
+Advance rate (90%)                  : $90,000  upfront
+Factoring fee (2%/30 days)          : $2,000   per period
+Prorated fee if agency pays day 35  : $2,333
+Reserve release at payment          : $7,667</code></pre>
+  </div>
 </div>
 
 ---
@@ -191,7 +205,7 @@ Contact prospective factors directly and ask specifically about their Assignment
 
 ## SBA Contracting Financing Programs
 
-The SBA offers programs specifically for small business government contractors:
+The Small Business Administration (SBA) offers programs specifically for small business government contractors:
 
 **SBA 7(a) Working Capital Line of Credit:** Revolving line of credit for government contractors, secured by the contract itself. Rates are 10–13% APR (annual percentage rate) — lower than factoring fees for ongoing use, though require stronger credit and more documentation. Learn more at the [SBA funding programs page](https://www.sba.gov/funding-programs/loans).
 

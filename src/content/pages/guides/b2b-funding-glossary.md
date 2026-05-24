@@ -8,7 +8,7 @@ schema: ["DefinedTermSet", "Article", "BreadcrumbList"]
 
 # B2B Funding Glossary — 40 Terms Every Business Owner Should Know [2026]
 
-This glossary defines 40 terms that appear in factoring agreements, equipment loan documents, MCA contracts, and SBA applications. Definitions are written for business owners, not finance professionals. Where a term is commonly misunderstood, we note the misconception directly.
+This glossary defines 40 terms that appear in factoring agreements, equipment loan documents, merchant cash advance (MCA) contracts, and Small Business Administration (SBA) applications. Definitions are written for business owners, not finance professionals. Where a term is commonly misunderstood, we note the misconception directly.
 
 <div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
@@ -23,6 +23,11 @@ This glossary defines 40 terms that appear in factoring agreements, equipment lo
 </div>
 
 ---
+
+<blockquote class="stat-quote">
+  <p><strong>This glossary covers 40 financing terms across four product categories — invoice factoring, equipment financing, merchant cash advances, and SBA loans — written in plain English for business owners.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 <dl>
 
@@ -51,7 +56,15 @@ This glossary defines 40 terms that appear in factoring agreements, equipment lo
 <dd>A contractual condition in a loan or credit agreement that the borrower must maintain. Financial covenants require you to maintain specific metrics — minimum revenue, minimum cash balance, maximum debt-to-equity ratio. Operational covenants may restrict what you can do without lender approval — taking on additional debt, selling assets, changing ownership. Violating a covenant is a "covenant breach" that can trigger default, accelerated repayment, or increased interest rates even if you have not missed a payment.</dd>
 
 <dt>Daily Factor Rate</dt>
-<dd>The per-day cost of an MCA expressed as a percentage of the advance amount. To convert a factor rate to a daily rate: (Factor Rate − 1) ÷ Estimated Days to Repay. Example: factor rate 1.30, estimated 120-day repayment = 0.30 ÷ 120 = 0.25% per day. To annualize: 0.25% × 365 = 91.25% APR. Daily factor rates are useful for comparing MCAs with different terms, but estimates depend on assumed repayment duration — which is not guaranteed.</dd>
+<dd>The per-day cost of an MCA expressed as a percentage of the advance amount. To convert a factor rate to a daily rate: (Factor Rate − 1) ÷ Estimated Days to Repay.
+
+<pre><code>Example:
+  Factor rate:             1.30
+  Estimated repayment:     120 days
+  Daily rate:  0.30 ÷ 120 = 0.25% per day
+  Annualized:  0.25% × 365 = 91.25% APR</code></pre>
+
+Daily factor rates are useful for comparing MCAs with different terms, but estimates depend on assumed repayment duration — which is not guaranteed.</dd>
 
 <dt>Debenture</dt>
 <dd>In the SBA 504 loan context, the debenture is the bond issued by the Certified Development Company (CDC) to fund the SBA's 40% portion of a 504 project. SBA 504 debenture rates are fixed, set monthly, and typically range from 5.5–7% — lower than conventional equipment loan rates. The debenture is separate from the conventional lender's 50% portion, which carries market rates. When you see "SBA 504 debenture rate," it refers specifically to this CDC-issued fixed-rate portion.</dd>

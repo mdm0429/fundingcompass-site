@@ -126,6 +126,11 @@ OnDeck provides three products — a short-term term loan, a revolving line of c
 
 **Merchant Cash Advance:** Factor rate 1.10–1.40. Holdback percentage varies. Best for businesses with strong card sales volume that want MCA flexibility. The lower end of the factor rate range (1.10–1.15) is only available to highly qualified applicants.
 
+<blockquote class="stat-quote">
+  <p><strong>OnDeck's MCA factor rate floor of 1.10 is the lowest published floor among major MCA providers — a $100,000 advance at 1.10 costs $10,000 total, roughly half the $20,000 cost at a 1.20 factor rate offered by competing providers.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## OnDeck Term Loan — Full Cost Breakdown
@@ -213,7 +218,7 @@ OnDeck has complied with commercial financing disclosure requirements in Califor
 
 ## Alternatives Worth Evaluating First
 
-OnDeck's rates are meaningfully above bank and SBA financing for well-qualified borrowers. Before committing:
+OnDeck's rates are meaningfully above bank and Small Business Administration (SBA) financing for well-qualified borrowers. Before committing:
 
 - **Bank line of credit:** Wells Fargo and Chase offer LOCs at Prime + 1–5% (~9–13%) to businesses with 2+ years of history and 680+ credit. See [Business Line of Credit guide](/guides/business-line-of-credit/).
 - **SBA loan:** If you can wait 30–60 days, SBA 7(a) rates are 10–13% APR for amounts up to $5M. See [SBA Loans guide](/guides/sba-loans/).

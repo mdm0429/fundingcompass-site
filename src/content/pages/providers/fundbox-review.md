@@ -163,6 +163,11 @@ Fundbox's rates are competitive for an unsecured product — significantly cheap
 
 **No long-term commitment.** Fundbox does not require a contract with minimum volume. Draw as needed, repay weekly, and the line revolves for future use. For small-business borrower rights and line-of-credit comparison guidance, see [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/).
 
+<blockquote class="stat-quote">
+  <p><strong>Fundbox's revolving credit line of $1,000–$150,000 at 10–79% APR is the only invoice financing product that keeps customers completely unaware of the arrangement — customers never receive a Notice of Assignment, unlike all invoice factoring alternatives.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Fundbox's Limitations

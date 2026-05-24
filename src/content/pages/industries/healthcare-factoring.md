@@ -26,6 +26,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Healthcare Factoring Advance Rates Are Lower
 
+<blockquote class="stat-quote">
+  <p><strong>Healthcare factoring advances 70–85% of insurance receivables — the lowest advance rate across all industries, reflecting a 5–20% industry-wide claim denial rate.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Healthcare factoring advances 70–85% of insurance receivables — significantly less than the 90–97% advance rates typical in freight or staffing. The lower advance rate reflects a genuine risk: insurance claim denial rates in the US range from 5–20%, and a denied or adjusted claim reduces the collectible value of the invoice. Factors hold the larger reserve (15–30%) to cover claim adjustments, co-pay shortfalls, and coordination-of-benefits disputes that routinely reduce what a payer actually remits.
 
 Any factor handling protected health information must comply with HIPAA (Health Insurance Portability and Accountability Act) — see the [HHS HIPAA guidance for professionals](https://www.hhs.gov/hipaa/for-professionals/index.html) for the compliance requirements that govern healthcare data sharing with third-party lenders.
@@ -77,7 +82,9 @@ Understanding this before you approach a factor will help you model your actual 
 
 Healthcare factoring operates differently from standard receivables financing in two important ways: the payer is an insurance company (not a business client), and HIPAA compliance governs every data exchange.
 
-**Eligible receivables.** Healthcare factors typically advance on:
+### Eligible Receivables
+
+Healthcare factors typically advance on:
 - Commercial insurance claims (BCBS, Aetna, Cigna, UnitedHealthcare, etc.)
 - Medicare and Medicaid receivables (some factors, not all)
 - Workers' compensation billing
@@ -89,7 +96,8 @@ Healthcare factoring operates differently from standard receivables financing in
   <div class="callout__body"><p>Any factor handling protected health information (PHI) — which includes patient names tied to billing data — must comply with HIPAA (Health Insurance Portability and Accountability Act) as a <a href="/glossary/">business associate</a> and sign a <a href="/glossary/">Business Associate Agreement (BAA)</a> with your practice. Submitting receivables to a non-HIPAA-compliant factor is a HIPAA violation. Confirm BAA execution before sharing any patient-linked billing data.</p></div>
 </div>
 
-**The advance and collections process:**
+### The Advance and Collections Process
+
 1. You submit claims to the factor with payer and patient billing data (under a signed BAA)
 2. The factor verifies eligibility and payer creditworthiness
 3. The factor advances 70–85% of the billed amount
@@ -125,7 +133,14 @@ Healthcare factoring operates differently from standard receivables financing in
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A home health agency billing $50,000/month in commercial insurance receivables through PRN Funding at an 80% advance rate and 3% fee would receive $40,000 upfront within 24 hours and pay $1,500 in factoring fees per 30-day period. If the payer mix is primarily BCBS and Aetna with a denial rate below 10%, the agency qualifies for the higher end of PRN's advance range.</p></div>
+  <div class="callout__body">
+<pre><code>Monthly insurance receivables : $50,000
+Advance rate                  : 80%
+Upfront advance               : $40,000  (within 24 hours)
+Factoring fee (3%)            : $1,500   per 30-day period
+Reserve release (at payment)  : $50,000 − $40,000 − $1,500 = $8,500</code></pre>
+<p>If the payer mix is primarily BCBS and Aetna with a denial rate below 10%, the agency qualifies for the higher end of PRN's advance range.</p>
+  </div>
 </div>
 
 ---
@@ -217,7 +232,7 @@ Improving your denial rate before approaching a healthcare factor will directly 
   </details>
   <details open>
     <summary>What is the minimum monthly volume for healthcare factoring?</summary>
-    <p>Most healthcare factors require $25,000–$50,000 in monthly insurance receivables. Some smaller factors or healthcare-focused fintech lenders work with practices billing as little as $10,000/month, at higher rates. Below $10,000 monthly, factoring is generally not economical — other operating capital solutions (SBA microloan, practice management financing) are more appropriate.</p>
+    <p>Most healthcare factors require $25,000–$50,000 in monthly insurance receivables. Some smaller factors or healthcare-focused fintech lenders work with practices billing as little as $10,000/month, at higher rates. Below $10,000 monthly, factoring is generally not economical — other operating capital solutions (Small Business Administration (SBA) microloan, practice management financing) are more appropriate.</p>
   </details>
 </section>
 

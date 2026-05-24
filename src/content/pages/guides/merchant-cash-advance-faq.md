@@ -40,10 +40,15 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>Is a merchant cash advance a loan?</summary>
-<p>No — legally, an MCA is structured as a purchase of future receivables, not a loan. This distinction matters: because MCAs are not classified as loans in most states, they are not subject to usury laws that cap interest rates, and providers are not required to disclose an APR. This legal structure is why MCA effective APRs can legally reach 200–350% — rates that would be illegal for a conventional loan in most states. California, New York, and a few other states have enacted commercial financing disclosure laws, but federal MCA regulation remains limited.</p>
+<p>No — legally, an MCA is structured as a purchase of future receivables, not a loan. This distinction matters: because MCAs are not classified as loans in most states, they are not subject to usury laws that cap interest rates, and providers are not required to disclose an annual percentage rate (APR). This legal structure is why MCA effective APRs can legally reach 200–350% — rates that would be illegal for a conventional loan in most states. California, New York, and a few other states have enacted commercial financing disclosure laws, but federal MCA regulation remains limited.</p>
 </details>
 
 </section>
+
+<blockquote class="stat-quote">
+  <p><strong>Merchant cash advance effective APRs typically fall in the 40–350% range — rates that would be illegal for a conventional loan in most states, but are permitted because MCAs are structured as receivables purchases, not loans.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 
@@ -63,7 +68,15 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>What is the effective APR of a merchant cash advance?</summary>
-<p>Effective APR for MCAs typically falls in the 40–350% range, though extreme cases can exceed 400%. The calculation: (Total Fee ÷ Advance Amount) ÷ Estimated Days to Repay × 365. Example: $100,000 advance, factor rate 1.30, estimated 180-day repayment = ($30,000 ÷ $100,000) ÷ 180 × 365 = 60.8% APR. The same $30,000 fee repaid in 90 days = 121.7% APR. Faster repayment means higher APR — this is why MCAs that renew frequently are especially expensive.</p>
+<p>Effective APR for MCAs typically falls in the 40–350% range, though extreme cases can exceed 400%. The calculation: (Total Fee ÷ Advance Amount) ÷ Estimated Days to Repay × 365.
+
+<pre><code>Advance:          $100,000
+Factor rate:      1.30
+Total repayment:  $130,000
+Total fee:        $30,000
+
+180-day repayment → ($30,000 ÷ $100,000) ÷ 180 × 365 = 60.8% APR
+ 90-day repayment → ($30,000 ÷ $100,000) ÷  90 × 365 = 121.7% APR</code></pre> Faster repayment means higher APR — this is why MCAs that renew frequently are especially expensive.</p>
 </details>
 
 <details open>
@@ -127,7 +140,7 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>What is the cheapest alternative to a merchant cash advance?</summary>
-<p>Ranked by typical effective APR, cheapest to most expensive: (1) SBA loan (9.5–12% APR) — requires strong credit and 2+ months to fund. (2) Business line of credit (8–30% APR) — requires 2+ years in business, 600+ credit score. (3) Equipment financing (5.5–18% APR) — if the funds are for equipment purchase. (4) Invoice factoring (18–60% effective APR) — if you have B2B invoices. (5) Merchant cash advance (40–350% effective APR). The right alternative depends on your time frame, credit profile, and what the funds are for.</p>
+<p>Ranked by typical effective APR, cheapest to most expensive: (1) Small Business Administration (SBA) loan (9.5–12% APR) — requires strong credit and 2+ months to fund. (2) Business line of credit (8–30% APR) — requires 2+ years in business, 600+ credit score. (3) Equipment financing (5.5–18% APR) — if the funds are for equipment purchase. (4) Invoice factoring (18–60% effective APR) — if you have B2B invoices. (5) Merchant cash advance (40–350% effective APR). The right alternative depends on your time frame, credit profile, and what the funds are for.</p>
 </details>
 
 <details open>

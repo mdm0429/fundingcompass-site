@@ -76,13 +76,18 @@ Spot factoring (also called selective factoring) lets you submit individual invo
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Spot factoring costs 0.5–1.5% more per 30-day period than contract factoring — at $50,000/month in consistent invoice volume, contract factoring saves ~$3,000 per year, but early termination fees of 1–3% of contracted monthly volume can erase that saving if your business changes course.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Which Should You Choose?
 
 **Choose spot factoring if:** your invoice volume varies significantly month-to-month (seasonal businesses, project-based companies), you want to test a factor before committing to a 12-month agreement, you only need factoring 3–4 times per year, or you have a single large invoice you want to factor without entering an ongoing relationship. Spot factoring premium of 0.5–1.5% per period is cheaper than paying contract minimums in slow months.
 
-**Choose contract factoring if:** you have consistent, predictable invoice volume above the minimum threshold ($10,000–$50,000/month depending on the factor), you want the factor to manage your entire AR function (invoicing follow-up, aging reports, collections), or you are in a high-growth phase where a committed funding partner at lower rates benefits you over a 12-month period. At $50,000/month in consistent volume, contract factoring saves ~$3,000/year vs. spot rates.
+**Choose contract factoring if:** you have consistent, predictable invoice volume above the minimum threshold ($10,000–$50,000/month depending on the factor), you want the factor to manage your entire accounts receivable (AR) function (invoicing follow-up, aging reports, collections), or you are in a high-growth phase where a committed funding partner at lower rates benefits you over a 12-month period. At $50,000/month in consistent volume, contract factoring saves ~$3,000/year vs. spot rates.
 
 ---
 
@@ -111,6 +116,17 @@ Spot factoring (also called selective factoring) lets you submit individual invo
 ## Cost Comparison — Annual Fees
 
 A business factors $50,000/month in invoices with 30-day customer payment.
+
+<pre><code>Annual Fee Comparison — $50,000/month, 30-day customer payment
+
+                      Spot Factoring    Contract Factoring
+  Fee rate:           2.5%/30 days      2.0%/30 days
+  Monthly fee:        $1,250            $1,000
+  Annual fee:         $15,000           $12,000
+  Annual saving:      —                 $3,000
+
+  Risk: if volume drops below minimum in any month, shortfall fees
+  can eliminate the annual saving entirely — model your slowest months.</code></pre>
 
 <div class="comp-table-wrap">
   <table class="comp-table">

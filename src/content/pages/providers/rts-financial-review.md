@@ -129,13 +129,18 @@ RTS Financial is one of the largest independent receivables financing companies 
 
 RTS Financial is a privately held, transportation-only factoring company. Unlike Triumph (publicly traded bank holding company) or generalist factors, RTS has spent four decades exclusively serving the trucking industry. This specialisation shows in its products:
 
-**Invoice Factoring:** RTS purchases outstanding freight invoices. You submit your BOL and rate confirmation; RTS verifies the load and funds up to 97% of the invoice value — same day via ACH to your business account or immediately via the RTS Fuel Card at the pump. The 3% reserve (withheld until the broker pays) is released minus RTS's fee.
+**Invoice Factoring:** RTS purchases outstanding freight invoices. You submit your bill of lading (BOL) and rate confirmation; RTS verifies the load and funds up to 97% of the invoice value — same day via ACH to your business account or immediately via the RTS Fuel Card at the pump. The 3% reserve (withheld until the broker pays) is released minus RTS's fee.
 
 **RTS Fuel Card:** Accepted at over 1,000 truck stops nationwide, including Pilot, Flying J, Love's, and TA/Petro. Cardholders access per-gallon discounts and can draw against pending factored invoices at the pump before the invoice is fully processed. This is operationally significant — it means fuel money is available the moment you deliver a load, not 24 hours later.
 
 **24/7 Customer Support:** RTS operates around the clock, matching the realities of trucking — loads don't deliver on 9-to-5 schedules. Factoring issues at 2 AM on a Sunday are handled by live staff.
 
 **Non-Recourse Factoring:** Available on approved debtors. RTS absorbs credit loss if an approved broker or shipper becomes insolvent and fails to pay. Fees are higher for non-recourse than recourse arrangements. For an overview of carrier disclosure obligations and financing rights, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
+
+<blockquote class="stat-quote">
+  <p><strong>RTS Financial has operated as an exclusive trucking factoring specialist since 1982 — over 40 years — with same-day funding up to 97% advance rate, a 1,000-location fuel card network saving $0.15+/gallon, and flexible month-to-month contracts available for new carriers from day one of authority.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 

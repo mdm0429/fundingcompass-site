@@ -14,7 +14,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
-      <li>Restaurant MCAs carry factor rates of 1.15–1.49, translating to effective APRs of 40–300% — far more expensive than equipment financing (6–20% APR) or an SBA loan (~12% APR)</li>
+      <li>Restaurant merchant cash advances (MCAs) carry factor rates of 1.15–1.49, translating to effective annual percentage rates (APRs) of 40–300% — far more expensive than equipment financing (6–20% APR) or a Small Business Administration (SBA) loan (~12% APR)</li>
       <li>Approval is based on card sales volume and consistency, not credit score — accessible to restaurants with scores below 500 that cannot qualify for bank financing</li>
       <li>The main advantage is 24–48 hour funding for emergency short-term needs where no other financing is available or downtime cost exceeds the MCA fee</li>
       <li>Daily holdback (10–25% of daily card sales) reduces cash available for fixed costs — using an MCA for ongoing operating expenses will worsen, not solve, a structural cash flow problem</li>
@@ -26,7 +26,12 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Restaurants Are Targeted for MCAs
 
-Restaurants process high volumes of daily credit and debit card transactions — which makes them ideal candidates for MCA (merchant cash advance) holdback collection. MCA providers can see exactly how much a restaurant processes each day and calculate repayment with precision. This accessibility, combined with restaurants' frequent need for fast merchant funding (broken equipment, seasonal slow periods, sudden opportunities), makes the restaurant industry one of the heaviest users of MCA products.
+<blockquote class="stat-quote">
+  <p><strong>Restaurant MCA factor rates of 1.15–1.49 translate to effective APRs of 40–300% — far more expensive than equipment financing (6–20% APR) or an SBA loan (~12% APR).</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+Restaurants process high volumes of daily credit and debit card transactions — which makes them ideal candidates for MCA holdback collection. MCA providers can see exactly how much a restaurant processes each day and calculate repayment with precision. This accessibility, combined with restaurants' frequent need for fast merchant funding (broken equipment, seasonal slow periods, sudden opportunities), makes the restaurant industry one of the heaviest users of MCA products.
 
 It also means restaurant owners are aggressively marketed to by MCA providers. This guide exists to help you understand the real cost before signing anything.
 
@@ -57,13 +62,13 @@ It also means restaurant owners are aggressively marketed to by MCA providers. T
       <li>No fixed monthly payment — the holdback (the percentage of daily card sales automatically deducted for MCA repayment) adjusts with sales volume, so slow days automatically reduce the daily collection amount</li>
       <li>Approval is based on card sales volume and consistency, not credit score — accessible to restaurants with credit scores under 500 that cannot qualify for bank financing or equipment loans</li>
       <li>Funding in 24–48 hours for approved applications — faster than any alternative except emergency equipment financing from lenders like Balboa Capital or National Funding</li>
-      <li>No collateral requirement — the MCA is secured by future card receivables, not physical assets, so no UCC-1 lien is filed against kitchen equipment or other business property</li>
+      <li>No collateral requirement — the MCA is secured by future card receivables, not physical assets, so no Uniform Commercial Code (UCC)-1 lien is filed against kitchen equipment or other business property</li>
     </ul>
   </div>
   <div class="cons">
     <h4>Cons and Watch-outs</h4>
     <ul>
-      <li>Effective APR (annual percentage rate) of 40–300% — significantly more expensive than equipment financing (6–20% APR), a business line of credit (15–30% APR), or an SBA 7(a) loan (~12% APR)</li>
+      <li>Effective APR of 40–300% — significantly more expensive than equipment financing (6–20% APR), a business line of credit (15–30% APR), or an SBA 7(a) loan (~12% APR)</li>
       <li>Total repayment amount is fixed at signing — early payoff does not reduce what you owe; you pay advance × factor rate regardless of how quickly the balance is cleared</li>
       <li>Daily holdback reduces cash available for fixed costs — for a restaurant already managing payroll and rent, losing 10–25% of daily card sales to MCA repayment can create or worsen a cash flow crisis</li>
       <li>Stacking MCAs (taking a second advance before the first is repaid) compounds the cash flow problem — aggressive MCA sales tactics often target restaurants with existing advances</li>
@@ -77,13 +82,20 @@ It also means restaurant owners are aggressively marketed to by MCA providers. T
 
 The MCA provider advances a lump sum. Repayment is a fixed percentage of your daily credit and debit card sales — the holdback — collected until the total repayment amount is reached.
 
-**Example:** $40,000 advance, 1.35 factor rate (the multiplier applied to determine total repayment), 15% holdback, $3,000/day average card sales.
-- Daily holdback = $450
-- Total repayment = $54,000
-- Days to repay = 120
-- Effective APR = 106%
+### Repayment Calculation
 
-**Slow business days help — but not as much as you think.** If your card sales drop to $1,500/day in January, your daily holdback drops to $225. But you now take 240 days to repay instead of 120 — and you still owe $54,000 in total. The flexibility is real; the total cost is not reduced.
+<pre><code>Advance amount         : $40,000
+Factor rate            : 1.35
+Total repayment        : $54,000  ($40,000 × 1.35)
+Daily card sales       : $3,000
+Holdback rate          : 15%
+Daily holdback         : $450     ($3,000 × 15%)
+Days to repay          : 120      ($54,000 ÷ $450)
+Effective APR          : ~106%</code></pre>
+
+### The Slow-Day Illusion
+
+If your card sales drop to $1,500/day in January, your daily holdback drops to $225. But you now take 240 days to repay instead of 120 — and you still owe $54,000 in total. The flexibility is real; the total cost is not reduced.
 
 ---
 
@@ -108,7 +120,7 @@ Before signing an MCA, run through this checklist:
 
 **Seasonal slow period?** → A business line of credit (drawn only when needed, repaid when sales recover) costs 15–30% APR vs. 40–300% effective APR for an MCA. BlueVine and Fundbox both serve restaurants with 6+ months of history.
 
-**Renovation or expansion?** → <a href="https://www.sba.gov/funding-programs/loans">SBA (Small Business Administration) 7(a)</a> loan at ~12% APR. Slower (30–60 days) but costs a fraction of an MCA on amounts over $50,000.
+**Renovation or expansion?** → <a href="https://www.sba.gov/funding-programs/loans">SBA 7(a)</a> loan at ~12% APR. Slower (30–60 days) but costs a fraction of an MCA on amounts over $50,000.
 
 **Need cash against unpaid catering invoices?** → Invoice factoring converts outstanding B2B catering invoices to cash in 24–48 hours, typically at 18–36% effective APR. Much cheaper than an MCA for restaurants with B2B catering revenue.
 

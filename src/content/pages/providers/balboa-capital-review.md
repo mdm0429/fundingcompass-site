@@ -131,6 +131,11 @@ Balboa Capital operates as the direct small business lending platform within Ame
 
 Balboa Capital is a vendor financing partner for many equipment dealers and manufacturers, which means you may encounter Balboa as an embedded financing option when purchasing equipment through a vendor.
 
+<blockquote class="stat-quote">
+  <p><strong>Balboa Capital provides equipment financing from $5,000 to $500,000 with same-day credit decisions on transactions under $250,000 and a 1-year minimum time in business — lower than the 2-year requirement at both Crest Capital and National Funding.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency
@@ -187,8 +192,8 @@ As part of Ameris Bank, Balboa Capital operates with bank-level regulatory overs
 
 - **Stability:** Bank-owned lenders are subject to regulatory capital requirements and are less likely to exit the market suddenly than independent fintech lenders
 - **Data security:** Bank-level security standards for your financial information
-- **No predatory practices:** Bank regulation limits certain aggressive collection practices common in unregulated MCA markets
-- **Potential for relationship banking:** Established Balboa customers may be able to access other Ameris Bank products (deposit accounts, SBA loans) over time
+- **No predatory practices:** Bank regulation limits certain aggressive collection practices common in unregulated merchant cash advance (MCA) markets
+- **Potential for relationship banking:** Established Balboa customers may be able to access other Ameris Bank products (deposit accounts, Small Business Administration (SBA) loans) over time
 
 ---
 

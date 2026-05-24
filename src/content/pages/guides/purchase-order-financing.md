@@ -28,6 +28,23 @@ Purchase order (PO) financing is a funding arrangement where a finance company p
 
 PO financing is used by product-based businesses — importers, distributors, manufacturers, and wholesalers — that sell physical goods to creditworthy commercial or government customers.
 
+<blockquote class="stat-quote">
+  <p><strong>PO financing costs 3–6% per month on the advanced supplier amount — a 10-week financing period at 4%/month equals approximately 10% of the supplier invoice value.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#how-purchase-order-financing-works">How It Works</a></li>
+    <li><a href="#what-po-financing-costs">What It Costs</a></li>
+    <li><a href="#who-qualifies-for-po-financing">Who Qualifies</a></li>
+    <li><a href="#po-financing-vs-other-options">PO Financing vs. Alternatives</a></li>
+    <li><a href="#combining-po-financing-with-invoice-factoring">Combining with Factoring</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
+
 <div class="pros-cons">
   <div class="pros">
     <h4>Pros</h4>
@@ -100,6 +117,8 @@ The PO financing process follows a specific sequence:
 
 7. **You receive your profit.** After repaying the PO financier (including fees), you receive the remaining margin.
 
+Purchase order financing bridges the production-funding gap for businesses that win large orders but lack the cash to pay suppliers — the PO financier bears the supplier risk while you execute the order and collect from your customer.
+
 ---
 
 ## What PO Financing Costs
@@ -112,14 +131,16 @@ PO financing is more expensive than most business financing because the lender t
 - Some lenders charge a flat fee per transaction instead of a monthly rate
 
 **Cost example:**
-- Customer PO: $500,000
-- Supplier cost: $300,000 (40% gross margin on order)
-- PO financier pays supplier: $300,000
-- Production + shipping time: 6 weeks
-- Customer payment terms: net-30
-- Total financing period: approximately 10 weeks (2.5 months)
-- Fee: 4%/month × 2.5 months = 10% of $300,000 = **$30,000**
-- Your profit after PO financing fees: $200,000 (gross margin) − $30,000 (fees) = **$170,000**
+
+<pre><code>Customer PO:              $500,000
+Supplier cost (60%):      $300,000   (40% gross margin)
+PO financier advances:    $300,000
+Production + shipping:    6 weeks
+Customer terms:           net-30
+Total financing period:   ~10 weeks (2.5 months)
+Fee (4%/mo × 2.5 mo):    10% × $300,000 = $30,000
+Gross margin:             $200,000
+Net profit after fees:    $200,000 − $30,000 = $170,000</code></pre>
 
 Without PO financing, this order couldn't be fulfilled at all if you didn't have $300,000 in cash. A $170,000 profit is worth $30,000 in financing fees.
 
@@ -129,12 +150,12 @@ Without PO financing, this order couldn't be fulfilled at all if you didn't have
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A consumer goods importer wins a $500,000 purchase order from a major national retailer. Supplier cost is $300,000 (40% gross margin). The PO financier pays the supplier directly; production and shipping takes 6 weeks, and the retailer has net-30 (your customer has 30 days to pay) terms — a total financing period of approximately 10 weeks (2.5 months).</p>
-    <ul>
-      <li>Amount advanced to supplier: $300,000</li>
-      <li>Fee: 4%/month × 2.5 months = 10% × $300,000 = $30,000</li>
-      <li>Gross margin: $200,000 (40% of $500,000)</li>
-      <li>Net profit after PO financing fees: $200,000 − $30,000 = $170,000</li>
-    </ul>
+<pre><code>Customer PO:              $500,000
+Supplier cost:            $300,000   (40% gross margin)
+Amount advanced:          $300,000
+Fee (4%/mo × 2.5 mo):    10% × $300,000 = $30,000
+Gross margin:             $200,000
+Net profit after fees:    $200,000 − $30,000 = $170,000</code></pre>
     <p>Without PO financing, the order would be declined due to insufficient cash — making a $170,000 profit worth $30,000 in financing fees for this transaction.</p>
   </div>
 </div>
@@ -145,16 +166,22 @@ Without PO financing, this order couldn't be fulfilled at all if you didn't have
 
 PO financing approval is based primarily on your customer and the transaction — not on your business history or credit score.
 
+### Customer Requirements
+
 **Customer requirements:**
 - Creditworthy commercial or government entity (Fortune 500, major retailer, government agency)
 - Purchase order must be binding and enforceable
 - Customer must be in good standing (no prior payment disputes)
+
+### Transaction Requirements
 
 **Transaction requirements:**
 - Physical goods business (services are not eligible)
 - Clear path from PO to delivery to payment (supply chain must be established)
 - Adequate gross margin (typically 20%+ minimum, often 30%+ preferred)
 - Experienced management capable of fulfilling the order
+
+### Your Business Profile
 
 **Your business:**
 - Less critical than the customer and transaction
@@ -170,6 +197,8 @@ The <a href="https://www.consumerfinance.gov/small-business-lending/" rel="noope
 - Service businesses (no supplier payment step)
 - Businesses in regulated industries where goods require special handling
 
+PO financing qualifies transactions, not businesses — a startup with a binding purchase order from a Fortune 500 customer can qualify, while an established company with a weak customer or thin margin cannot.
+
 ---
 
 ## PO Financing vs. Other Options
@@ -181,7 +210,9 @@ The <a href="https://www.consumerfinance.gov/small-business-lending/" rel="noope
 | Business Line of Credit | Recurring operating capital needs | 15–30% APR | Varies |
 | SBA Loan | Large permanent working capital | 10–13% APR | 30–60 days |
 
-PO financing and receivables financing are often used together (see [PO Financing vs. Factoring](/compare/purchase-order-financing-vs-factoring/)). If you have a business line of credit adequate to fund the supplier, using the line of credit is cheaper (lower rate) than PO financing — but most small businesses with significant orders don't have adequate line availability.
+PO financing and receivables financing are often used together (see [PO Financing vs. Factoring](/compare/purchase-order-financing-vs-factoring/)).
+
+If you have a business line of credit adequate to fund the supplier, using the line of credit is cheaper (lower rate) than PO financing — but most small businesses with significant orders don't have adequate line availability.
 
 ---
 
@@ -197,6 +228,8 @@ PO financing and receivables financing are often used together (see [PO Financin
 - Orders from private companies without verifiable credit history
 - Conditional or soft orders (customer has right to cancel)
 - Very large orders relative to your business size (raises execution risk concerns)
+
+The strongest PO financing applications come from businesses with binding purchase orders from publicly traded companies, major national retailers, or government agencies — where the buyer's ability to pay is not in question.
 
 ---
 
@@ -231,6 +264,8 @@ PO financing is a specialty product — not all lenders offer it. When evaluatin
 - TCI Business Capital (for combined PO + factoring). See [TCI Business Capital Review](/providers/tci-business-capital-review/).
 - eCapital (commercial PO programs)
 - Riviera Finance (factoring, select PO arrangements). See [Riviera Finance Review](/providers/riviera-finance-review/).
+
+When selecting a PO financing provider, fee structure, minimum transaction size, international supplier capability, and the ability to combine PO financing with factoring are the four most important criteria to evaluate.
 
 ---
 
@@ -296,3 +331,11 @@ The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/
     <li><a href="/compare/purchase-order-financing-vs-factoring/">PO Financing vs. Invoice Factoring</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically 20%+ minimum, often 30%+ preferred," "slightly longer and cost slightly more," "typically advances 50–100%."
+Missing specificity: No Rule 8 substitutions were needed — no vague phrases from the target list appeared without specific data already on the page.
+Acronyms: PO was already expanded in the opening paragraph as "Purchase order (PO) financing." APR was already expanded in the cons bullet as "APR, annual percentage rate." BOL is defined in the dl block (excluded per Rule 6) and does not appear as a bare acronym in prose outside the dl — no prose expansion needed. No remaining undefined specialist terms.
+Passive voice: "is paid to your supplier," "are used together," "is repaid when your customer pays," "can be cancelled easily" — candidates for active voice review.
+-->

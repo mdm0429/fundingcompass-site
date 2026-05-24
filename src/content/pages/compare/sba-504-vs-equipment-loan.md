@@ -83,6 +83,11 @@ SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equip
   </table>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>SBA 504 fixes 40% of the purchase cost at 5.5–7% for 10 years — on a $500,000 equipment purchase, the combined monthly payment drops to ~$5,254 vs. ~$9,334 for a conventional 9% APR loan at 60 months.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## How the SBA 504 Loan Works
@@ -131,20 +136,21 @@ Conventional equipment loans are simpler: one lender, one loan, secured by the e
 
 The SBA 504 advantage grows with loan size. Let's compare both options on a $500,000 equipment purchase:
 
-**Option A — Conventional Equipment Loan:**
-- Amount: $500,000
-- Down payment: 10% ($50,000) → Loan amount $450,000
-- Rate: 9% APR (strong credit borrower)
-- Term: 60 months
-- Monthly payment: $9,334
-- Total interest over 60 months: $60,040
+<pre><code>Option A — Conventional Equipment Loan
+  Down payment:     $50,000 (10%)
+  Loan amount:      $450,000
+  Rate:             9% APR, 60 months
+  Monthly:          $9,334
+  Total interest:   $60,040 over 5 years
 
-**Option B — SBA 504:**
-- Down payment: 10% ($50,000)
-- Bank first lien (50%): $250,000 at 8% APR, 10 years → payment ~$3,034/month
-- SBA/CDC debenture (40%): $200,000 at 6.0% fixed, 10 years → payment ~$2,220/month
-- Total monthly: ~$5,254
-- Total interest over 10 years: ~$90,480
+Option B — SBA 504
+  Down payment:     $50,000 (10%)
+  Bank first (50%): $250,000 @ 8%, 10yr  → $3,034/mo
+  SBA/CDC (40%):    $200,000 @ 6%, 10yr  → $2,220/mo
+  Combined monthly: $5,254
+  Total interest:   ~$90,480 over 10 years
+
+Monthly savings with SBA 504: ~$4,080/month vs. conventional 5-year loan</code></pre>
 
 In this example, SBA 504 has a lower monthly payment ($5,254 vs $9,334) primarily because of the longer term (10 years vs 5 years). On a pure rate basis — comparing effective APR (the annualized cost of financing, accounting for all fees and repayment speed) — both are competitive. The real advantage shows for long-lived equipment where you want the certainty of a 10-year fixed rate on 40% of the purchase.
 

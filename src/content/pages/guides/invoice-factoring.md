@@ -28,6 +28,23 @@ Invoice factoring is a financing arrangement in which a business sells its unpai
 
 Factoring is not a loan. You are selling an asset (the receivable) rather than borrowing against it. This distinction matters for your balance sheet and for qualification — factors approve deals based primarily on your customers' creditworthiness, not yours.
 
+<blockquote class="stat-quote">
+  <p><strong>Factoring fees run 1–5% per 30-day period; annualised, a 2% fee equals approximately 24% effective APR at net-30 terms.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#how-invoice-factoring-works--step-by-step">How It Works</a></li>
+    <li><a href="#advance-rates-and-fees--what-to-expect">Rates & Fees</a></li>
+    <li><a href="#recourse-vs-non-recourse-factoring">Recourse vs. Non-Recourse</a></li>
+    <li><a href="#who-qualifies-for-invoice-factoring">Who Qualifies</a></li>
+    <li><a href="#how-to-choose-an-invoice-factoring-company">How to Choose</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
+
 <div class="pros-cons">
   <div class="pros">
     <h4>Pros</h4>
@@ -86,11 +103,15 @@ Factoring is not a loan. You are selling an asset (the receivable) rather than b
 
 ## How Invoice Factoring Works — Step by Step
 
+### Step 1: Submit Your Invoice
+
 **Step 1 — You deliver goods or services and issue an invoice.**
 Your customer receives a net-30 (your customer has 30 days to pay) or net-60 (your customer has 60 days to pay) invoice as usual.
 
 **Step 2 — You submit the invoice to your factor.**
 Most factors accept invoices via an online portal. Approval typically takes 24–48 hours on the first submission; same-day funding is common on subsequent invoices once the relationship is established.
+
+### Step 2: Receive the Advance
 
 **Step 3 — The factor advances 80–95% of the invoice value.**
 The advance rate depends on your industry, the creditworthiness of your customer, and the factoring company. Freight/trucking typically receives the highest advance rates (90–97%). Staffing companies receive 85–92%. General B2B companies receive 80–92%. Healthcare and construction receive lower rates (70–85%) due to claim dispute and retainage risks.
@@ -98,8 +119,12 @@ The advance rate depends on your industry, the creditworthiness of your customer
 **Step 4 — Your customer pays the factor directly.**
 The factor sends your customer a [Notice of Assignment](/glossary/) — a letter informing them that the invoice has been assigned and that payment should be sent to the factor. Some [spot factoring](/glossary/) arrangements allow undisclosed factoring, but this is less common.
 
+### Step 3: Factor Collects and Releases Reserve
+
 **Step 5 — The factor remits the reserve balance minus fees.**
 Once your customer pays, the factor releases the held-back reserve (5–20% of the invoice) less its factoring fee. If your customer paid in 30 days and your fee is 2% per 30-day period, you receive the reserve minus 2%.
+
+Invoice factoring's advance-and-reserve structure makes it a practical cash-flow tool for B2B companies that need working capital without taking on traditional debt.
 
 ---
 
@@ -125,12 +150,11 @@ Once your customer pays, the factor releases the held-back reserve (5–20% of t
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A staffing company factors a $50,000 invoice at a 90% advance rate and a 2% fee per 30-day period. The customer pays on net-45 terms.</p>
-    <ul>
-      <li>Immediate advance: $45,000 (90% of $50,000)</li>
-      <li>Factoring fee: 2% × 1.5 months = $1,500</li>
-      <li>Reserve released: $50,000 − $45,000 − $1,500 = $3,500</li>
-      <li>Effective APR: approximately 24% (annualised at 1.5-month payment cycle)</li>
-    </ul>
+<pre><code>Invoice value:       $50,000
+Advance (90%):       $45,000
+Fee (2% × 1.5 mo):   $1,500
+Reserve released:    $3,500
+Effective APR:       ~24% (net-45 terms)</code></pre>
     <p>Compare to a business line of credit at 12–15% APR — factoring costs more but funds in 24 hours with no credit score requirement for your business.</p>
   </div>
 </div>
@@ -186,6 +210,8 @@ Unlike bank loans, accounts receivable factoring approval centres on your custom
 **Termination fees.** Typical exit clauses require 30–90 days' notice and may charge 1–3% of your contracted volume as an early termination fee. Read this clause before signing.
 
 **Concentration limits.** Most factors cap exposure to a single customer at 20–25% of your factored portfolio. If one customer represents 50% of your revenue, disclose this upfront.
+
+Taken together, long-term contracts, termination fees, and concentration limits are the three contractual terms most likely to create friction — reviewing each before signing protects you from unexpected costs and constraints.
 
 ---
 
@@ -257,7 +283,9 @@ See [Best Invoice Factoring Companies of 2026](/compare/best-invoice-factoring-c
 
 **Who this is for:** B2B businesses generating $10,000–$25,000+ per month in invoices to creditworthy commercial or government customers, with payment terms of net-30 to net-90, that need immediate cash flow without taking on balance-sheet debt.
 
-**Who should look elsewhere:** Retail or B2C businesses, companies with gross margins below 15%, and businesses whose customers would react negatively to third-party collection contact. If you have 12+ months in business and a 600+ credit score, a business line of credit will almost always be cheaper.
+**Who should look elsewhere:** Retail or B2C businesses, companies with gross margins below 15%, and businesses whose customers would react negatively to third-party collection contact.
+
+If you have 12+ months in business and a 600+ credit score, a business line of credit will almost always be cheaper.
 
 Several states now require invoice factoring companies to disclose the equivalent APR — and the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) provide additional guidance on borrower rights when working with commercial financing companies.
 
@@ -281,3 +309,11 @@ Several states now require invoice factoring companies to disclose the equivalen
     <li><a href="/guides/accounts-receivable-financing/">Accounts Receivable Financing — Complete Guide</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically ranges," "typically takes," "may incur fees," "commonly."
+Missing specificity: No Rule 8 substitutions were needed — all vague phrases on this page were already accompanied by specific figures (e.g., "Most factors have monthly minimums ranging from $10,000 to $50,000," "Many factors require 6–24 month contracts").
+Acronyms: APR is already expanded in the Cons bullet and callout. UCC is already expanded in the FAQ. AR appears only as "accounts receivable" (spelled out) in prose — no bare acronym to expand. LOC appears only in a table cell (skipped per rules). No specialist terms were left undefined.
+Passive voice: "are notified" (cons bullet — "Your customers are notified you are factoring"), "is established" ("once the relationship is established"), "are frequently disputed" ("your invoices are frequently disputed") — candidates for active voice review.
+-->

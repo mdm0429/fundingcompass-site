@@ -40,7 +40,7 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>What is the difference between invoice factoring and invoice financing?</summary>
-<p>In invoice factoring, you sell the invoice — the factor owns it, collects from your customer, and takes the credit risk (in non-recourse arrangements). In invoice financing (also called accounts receivable financing or AR lending), you borrow against the invoice as collateral — the invoice stays on your books, you collect from your customer, and you repay the loan. Invoice financing is typically cheaper (8–20% APR vs. 18–60% effective APR for factoring) but requires stronger credit and does not outsource collections.</p>
+<p>In invoice factoring, you sell the invoice — the factor owns it, collects from your customer, and takes the credit risk (in non-recourse arrangements). In invoice financing (also called accounts receivable (AR) lending), you borrow against the invoice as collateral — the invoice stays on your books, you collect from your customer, and you repay the loan. Invoice financing is typically cheaper (8–20% annual percentage rate (APR) vs. 18–60% effective APR for factoring) but requires stronger credit and does not outsource collections.</p>
 </details>
 
 <details open>
@@ -49,6 +49,11 @@ schema: ["FAQPage", "BreadcrumbList"]
 </details>
 
 </section>
+
+<blockquote class="stat-quote">
+  <p><strong>Invoice factoring advance rates typically range from 80–97% of invoice face value, with fees of 1–5% per 30-day period depending on industry and customer credit quality.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 
@@ -68,7 +73,11 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>What is the effective APR of invoice factoring?</summary>
-<p>Effective APR for invoice factoring typically falls in the 18–60% range, though it can exceed 100% on short invoices with high fees. The formula: (Fee Rate ÷ Days to Payment) × 365. Example: 3% fee on a 30-day invoice = (0.03 ÷ 30) × 365 = 36.5% APR. Compare this against a business line of credit at 8–25% APR. Factoring is more expensive than most bank products but faster and accessible to businesses that cannot qualify for bank financing.</p>
+<p>Effective APR for invoice factoring typically falls in the 18–60% range, though it can exceed 100% on short invoices with high fees. The formula: (Fee Rate ÷ Days to Payment) × 365.
+
+<pre><code>Example: 3% fee on a 30-day invoice
+= (0.03 ÷ 30) × 365
+= 36.5% APR</code></pre> Compare this against a business line of credit at 8–25% APR. Factoring is more expensive than most bank products but faster and accessible to businesses that cannot qualify for bank financing.</p>
 </details>
 
 <details open>
@@ -86,7 +95,7 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>Who qualifies for invoice factoring?</summary>
-<p>Qualification is based primarily on your customers' creditworthiness, not yours. To qualify, you generally need: (1) B2B or B2G invoices (not consumer receivables), (2) customers with established credit histories, (3) invoices for work already delivered (no pre-billing), (4) no tax liens that would take priority over the factor's UCC-1 lien. Minimum monthly volume requirements vary by factor — some require $10,000/month, others have no minimum. Your own credit score matters less than in traditional lending.</p>
+<p>Qualification is based primarily on your customers' creditworthiness, not yours. To qualify, you generally need: (1) B2B or B2G invoices (not consumer receivables), (2) customers with established credit histories, (3) invoices for work already delivered (no pre-billing), (4) no tax liens that would take priority over the factor's Uniform Commercial Code (UCC)-1 lien. Minimum monthly volume requirements vary by factor — some require $10,000/month, others have no minimum. Your own credit score matters less than in traditional lending.</p>
 </details>
 
 <details open>
@@ -132,12 +141,12 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>How does invoice factoring compare to a business line of credit?</summary>
-<p>A business line of credit is almost always cheaper — typically 8–25% APR vs. 18–60% effective APR for factoring — but it is harder to qualify for and does not scale with your invoice volume. A line of credit requires strong personal and business credit, typically 2+ years in business, and a fixed credit limit. Factoring scales with your receivables, is accessible to startups and businesses with weak credit, and transfers collections to the factor. Use factoring when you cannot qualify for a line of credit, or need to outsource collections.</p>
+<p>A business line of credit (LOC) is almost always cheaper — typically 8–25% APR vs. 18–60% effective APR for factoring — but it is harder to qualify for and does not scale with your invoice volume. A line of credit requires strong personal and business credit, typically 2+ years in business, and a fixed credit limit. Factoring scales with your receivables, is accessible to startups and businesses with weak credit, and transfers collections to the factor. Use factoring when you cannot qualify for a line of credit, or need to outsource collections.</p>
 </details>
 
 <details open>
 <summary>Is invoice factoring better than a merchant cash advance?</summary>
-<p>For B2B businesses, invoice factoring is almost always preferable to a merchant cash advance. Factoring effective APR typically runs 18–60%; MCA effective APR typically runs 40–350%. Factoring is tied to your specific invoices — you only pay fees on what you factor. An MCA takes a fixed daily holdback from all card sales regardless of whether the advance is funding productive growth. The one case where an MCA beats factoring: if you have primarily consumer (B2C) revenue and no B2B invoices to factor.</p>
+<p>For B2B businesses, invoice factoring is almost always preferable to a merchant cash advance. Factoring effective APR typically runs 18–60%; merchant cash advance (MCA) effective APR typically runs 40–350%. Factoring is tied to your specific invoices — you only pay fees on what you factor. An MCA takes a fixed daily holdback from all card sales regardless of whether the advance is funding productive growth. The one case where an MCA beats factoring: if you have primarily consumer (B2C) revenue and no B2B invoices to factor.</p>
 </details>
 
 </section>

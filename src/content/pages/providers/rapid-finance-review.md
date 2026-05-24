@@ -76,9 +76,9 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Rapid Finance is a Maryland-based alternative lender with over 20 years of operation, offering merchant funding, small business loans, lines of credit, and SBA loans to established businesses. Its 2-year minimum time-in-business requirement makes it inaccessible to newer businesses, but for those that qualify, it offers a broader product suite than most MCA-only providers. Rapid Finance does not publish factor rates upfront — you must apply to see your offer. It is a legitimate option for established businesses that need fast capital and have been declined for bank financing.
+Rapid Finance is a Maryland-based alternative lender with over 20 years of operation, offering merchant funding, small business loans, lines of credit, and Small Business Administration (SBA) loans to established businesses. Its 2-year minimum time-in-business requirement makes it inaccessible to newer businesses, but for those that qualify, it offers a broader product suite than most merchant cash advance (MCA)-only providers. Rapid Finance does not publish factor rates upfront — you must apply to see your offer. It is a legitimate option for established businesses that need fast capital and have been declined for bank financing.
 
-**Best for:** Businesses with 2+ years in operation, $120,000+/year in revenue, and 550+ credit that need fast access to capital across multiple product types — including MCA (merchant cash advance), term loans, LOC (line of credit), or SBA (Small Business Administration) loans through one lender.
+**Best for:** Businesses with 2+ years in operation, $120,000+/year in revenue, and 550+ credit that need fast access to capital across multiple product types — including MCA, term loans, LOC (line of credit), or SBA loans through one lender.
 
 **Not ideal for:** Businesses under 2 years old (who should look at Credibly, Greenbox Capital, or BFS Capital instead), or businesses that qualify for SBA or bank financing at lower cost.
 
@@ -132,6 +132,11 @@ Rapid Finance operates a multi-product lending platform targeting established sm
 **SBA Loans:** Rapid Finance is an SBA-approved lender and can facilitate SBA 7(a) loans. If you qualify for SBA financing (680+ credit, 2+ years, strong revenue), this is the most cost-effective product in their suite.
 
 **Asset-Based Lending and Other Products:** Rapid Finance also offers bridge loans, asset-based lending, and healthcare financing for qualifying businesses. Confirm availability at application.
+
+<blockquote class="stat-quote">
+  <p><strong>Rapid Finance is one of the only MCA providers that is also an SBA-approved lender — meaning businesses can start with an MCA and potentially graduate to SBA 7(a) financing at 10–13% APR through the same lender relationship as they grow.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 

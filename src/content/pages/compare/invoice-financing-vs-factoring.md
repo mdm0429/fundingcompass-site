@@ -26,7 +26,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Invoice financing and accounts receivable factoring both convert outstanding B2B invoices into immediate cash — but they are fundamentally different products. With invoice factoring, you sell your invoices to a factoring company, which then collects from your customers directly. With invoice financing (also called accounts receivable financing or invoice discounting), you borrow against your invoices as collateral — your customers never know about the arrangement. Factoring is usually cheaper and simpler; invoice financing preserves customer relationships but costs slightly more. Most small businesses that want to access their AR cash find factoring the more practical solution. All rates are based on lender-published rates as of May 2026.
+Invoice financing and accounts receivable factoring both convert outstanding B2B invoices into immediate cash — but they are fundamentally different products. With invoice factoring, you sell your invoices to a factoring company, which then collects from your customers directly. With invoice financing (also called accounts receivable financing or invoice discounting), you borrow against your invoices as collateral — your customers never know about the arrangement. Factoring is usually cheaper and simpler; invoice financing preserves customer relationships but costs slightly more. Most small businesses that want to access their accounts receivable (AR) cash find factoring the more practical solution. All rates are based on lender-published rates as of May 2026.
 
 <dl>
   <dt>Invoice Factoring</dt>
@@ -77,6 +77,11 @@ Invoice financing and accounts receivable factoring both convert outstanding B2B
     </tbody>
   </table>
 </div>
+
+<blockquote class="stat-quote">
+  <p><strong>Invoice factoring advances 80–97% of invoice value; invoice financing advances 70–90% — factoring gives more upfront cash because the factor takes over collections. On an $80,000/month staffing account, factoring delivers $8,000 more in upfront cash for just $560 more in fees.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 
@@ -165,10 +170,21 @@ In most B2B contexts, factoring carries no stigma — it's a common working capi
 
 **Choose invoice financing if:** preserving your customer payment relationship is critical (professional services, consulting, high-touch B2B), you have strong business credit and 1–2+ years of history, or you prefer a revolving line of credit structure over per-invoice transactions.
 
-**Borrower example:** A staffing agency with $80,000/month in outstanding invoices and customers who pay in 45 days:
-- **Factoring** at 2.5% fee for 45 days: Fee = $2,000; advance = $72,000; factor collects from customers
-- **Invoice financing** at 0.04%/day for 45 days: Interest = $1,440; advance = $64,000 (80%); you collect from customers
-- **Conclusion:** Factoring gives $8,000 more upfront cash for $560 more in fees — and removes collection burden from your team
+<pre><code>Staffing agency — $80,000/month outstanding invoices, customers paying at 45 days
+
+Option A — Invoice Factoring (2.5% fee, 90% advance)
+  Advance:        $72,000 upfront (90% of $80,000)
+  Fee:            $2,000 (2.5% × 1.5 periods)
+  Collections:    Factor handles; customer pays factor directly
+  Effective APR:  ~20% annualized
+
+Option B — Invoice Financing (0.04%/day, 80% advance)
+  Advance:        $64,000 upfront (80% of $80,000)
+  Interest:       $1,440 (0.04%/day × 45 days × $80,000)
+  Collections:    You collect; customer never knows
+  Effective APR:  ~14.6% annualized
+
+Factoring advantage: $8,000 more upfront cash for $560 more in fees</code></pre>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

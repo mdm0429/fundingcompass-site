@@ -76,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-BFS Capital is a Florida-based alternative lender that has provided over $1 billion in operating capital financing to small and medium-sized businesses across more than 400 industries since its founding. It offers merchant advances and short-term working capital loans through its technology platform, with a fast application process and same-day or next-business-day funding in many cases. BFS Capital is a legitimate option for businesses that need fast capital and have exhausted cheaper alternatives — but like all MCA providers, its effective APR is high relative to bank or SBA financing.
+BFS Capital is a Florida-based alternative lender that has provided over $1 billion in operating capital financing to small and medium-sized businesses across more than 400 industries since its founding. It offers merchant advances and short-term working capital loans through its technology platform, with a fast application process and same-day or next-business-day funding in many cases. BFS Capital is a legitimate option for businesses that need fast capital and have exhausted cheaper alternatives — but like all merchant cash advance (MCA) providers, its effective APR is high relative to bank or Small Business Administration (SBA) financing.
 
 **Best for:** Businesses with $120,000+/year in revenue ($10,000+/month) and 550+ credit that need working capital quickly and have been declined by bank lenders or SBA (Small Business Administration) programs — including businesses in many of the 400+ industries BFS Capital serves.
 
@@ -129,11 +129,16 @@ BFS Capital operates a fintech lending platform serving businesses across all 50
 
 **Line of Credit (select accounts):** BFS Capital has offered lines of credit up to $100,000 for pre-qualified businesses. Availability and terms vary — confirm at application.
 
+<blockquote class="stat-quote">
+  <p><strong>BFS Capital's $2,000,000 maximum funding is the highest cap among major MCA providers — over four times larger than Credibly's $400,000 cap and significantly above Rapid Finance's $500,000 — making it the primary choice when businesses need advances above those thresholds.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency
 
-BFS Capital does not publish factor rates or effective APRs on its website — a common practice in the MCA (merchant cash advance) industry, though one that makes pre-application cost comparison difficult. California, New York, Utah, and Virginia now require MCA providers to disclose effective APR (annual percentage rate) before signing. If you're in one of those states, BFS Capital must show you the cost before you commit. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should request the effective APR of any MCA before signing.
+BFS Capital does not publish factor rates or effective APRs on its website — a common practice in the MCA industry, though one that makes pre-application cost comparison difficult. California, New York, Utah, and Virginia now require MCA providers to disclose effective APR before signing. If you're in one of those states, BFS Capital must show you the cost before you commit. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should request the effective APR of any MCA before signing.
 
 **Before applying:** Use the [MCA True Cost Calculator](/tools/mca-true-cost-calculator/) to model what different factor rate scenarios would cost at your daily card sales volume. Then compare the actual offer you receive against alternatives.
 

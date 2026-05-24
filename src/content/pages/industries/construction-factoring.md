@@ -26,6 +26,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Construction Factoring Is More Complex
 
+<blockquote class="stat-quote">
+  <p><strong>Construction factoring advances 70–85% of approved progress billings — retainage of 5–10% is excluded and cannot be advanced until project completion.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Construction accounts receivable factoring carries unique complications not present in other industries — [retainage](/glossary/), [lien waivers](/glossary/), and the multi-party payment chain (owner → GC → subcontractor → supplier) create risks that lead most general factors to decline construction invoices. Specialist construction factors advance 70–85% of approved progress billings — lower than the 90–97% typical in trucking or staffing — and the educational value here is high: understanding retainage and lien exposure before approaching a factor is essential.
 
 Progress billings submitted via AIA (American Institute of Architects billing format) G702/G703 forms are the accepted standard — factors familiar with construction expect this format.
@@ -85,17 +90,17 @@ Progress billings submitted via AIA (American Institute of Architects billing fo
 
 ## How Construction Factoring Works
 
-1. **You complete a portion of work and submit a progress billing using AIA (American Institute of Architects billing format) G702/G703 or an equivalent form to the GC or owner.**
+### Step 1 — Submit and Get Approval
 
-2. **The GC or owner approves the billing.** Approval is the critical step — factors will not advance on unapproved billings. Approval transforms a progress billing into a confirmed receivable.
+You complete a portion of work and submit a progress billing using AIA (American Institute of Architects billing format) G702/G703 or an equivalent form to the GC or owner. GC or owner approval is the critical step — factors will not advance on unapproved billings. Approval transforms a progress billing into a confirmed receivable.
 
-3. **You submit the approved billing to the factor with a conditional lien waiver.** Most factors require a lien waiver be provided to the GC simultaneously with the advance — exchanging your lien rights for payment.
+### Step 2 — Submit to Factor With Lien Waiver
 
-4. **The factor advances 70–85% of the approved billing (excluding retainage).** Note: if your invoice includes 10% retainage holdback, your net advance is 70–85% of the remaining 90%.
+You submit the approved billing to the factor with a conditional lien waiver. Most factors require a lien waiver be provided to the GC simultaneously with the advance — exchanging your lien rights for payment. The factor advances 70–85% of the approved billing (excluding retainage). Note: if your invoice includes 10% retainage holdback, your net advance is 70–85% of the remaining 90%.
 
-5. **The GC pays the factor on their normal schedule.** Construction payment terms are typically net-30 to net-60 from invoice approval.
+### Step 3 — GC Payment and Reserve Release
 
-6. **Reserve is released minus the factoring fee when GC pays.**
+The GC pays the factor on their normal schedule. Construction payment terms are typically net-30 to net-60 from invoice approval. Reserve is released minus the factoring fee when GC pays.
 
 ---
 
@@ -126,7 +131,14 @@ Progress billings submitted via AIA (American Institute of Architects billing fo
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>An electrical subcontractor with $80,000 in approved progress billings on a commercial project using Riviera Finance's 80% advance rate and 3% fee would receive $64,000 upfront within 2–5 days of billing approval and pay $2,400 in factoring fees per 30-day period. Note: if the billing includes 10% retainage ($8,000 withheld by the GC), the factorable amount is $72,000 — producing a $57,600 advance on the net billing.</p></div>
+  <div class="callout__body">
+<pre><code>Approved progress billing  : $80,000
+Less 10% retainage (GC)    : -$8,000
+Factorable amount          : $72,000
+Advance rate (80%)         : $57,600  upfront within 2–5 days
+Factoring fee (3%)         : -$2,160  per 30-day period
+Reserve release (at GC pay): $72,000 − $57,600 − $2,160 = $12,240</code></pre>
+  </div>
 </div>
 
 ---
@@ -168,7 +180,7 @@ Executing a lien waiver waives your right to file a mechanic's lien against the 
 
 ## Construction Factoring vs. Construction Line of Credit
 
-| | Construction Factoring | Construction LOC |
+| | Construction Factoring | Construction Line of Credit (LOC) |
 |---|---|---|
 | Approval based on | GC/owner creditworthiness | Your credit + bonding capacity |
 | Speed to funding | 2–5 days post-approval | Days to weeks |

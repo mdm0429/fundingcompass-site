@@ -76,9 +76,9 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Lendio is a Utah-based small business loan marketplace that connects businesses to over 75 lenders — including SBA lenders, equipment lending companies, MCA providers, and business line of credit lenders — through a single application. Rather than lending directly, Lendio acts as a matchmaker, submitting your application to multiple lenders and presenting the best offers. This model is valuable for businesses that don't know which product or lender fits their situation. The trade-off is that Lendio earns referral fees from lenders, which may influence which offers are presented. It is a legitimate starting point for businesses exploring multiple financing options, particularly SBA loans.
+Lendio is a Utah-based small business loan marketplace that connects businesses to over 75 lenders — including Small Business Administration (SBA) lenders, equipment lending companies, merchant cash advance (MCA) providers, and business line of credit lenders — through a single application. Rather than lending directly, Lendio acts as a matchmaker, submitting your application to multiple lenders and presenting the best offers. This model is valuable for businesses that don't know which product or lender fits their situation. The trade-off is that Lendio earns referral fees from lenders, which may influence which offers are presented. It is a legitimate starting point for businesses exploring multiple financing options, particularly SBA loans.
 
-**Best for:** Business owners who want to compare offers across multiple lenders and product types with one 15-minute application — particularly those exploring SBA (Small Business Administration) loans, equipment financing, or working capital loans simultaneously and unsure which product fits their situation.
+**Best for:** Business owners who want to compare offers across multiple lenders and product types with one 15-minute application — particularly those exploring SBA loans, equipment financing, or working capital loans simultaneously and unsure which product fits their situation.
 
 **Not ideal for:** Businesses that already know exactly which product and lender they want (apply directly to avoid sharing your data with multiple lenders), or businesses that prefer a direct lender relationship without intermediary referral fees factored into the offer.
 
@@ -139,6 +139,11 @@ Lendio is a marketplace, not a lender. It collects your business information thr
 **Invoice Factoring:** Lendio can match businesses to factoring companies in its network.
 
 **SBA Microloans:** For businesses needing less than $50,000, Lendio can help connect to SBA microloan programs.
+
+<blockquote class="stat-quote">
+  <p><strong>Lendio's marketplace connects borrowers to 75+ lenders with a single 15-minute application, covering SBA loans (10–13% APR), equipment financing (5–25% APR), term loans, lines of credit, MCAs, and invoice factoring — the broadest product range of any single-application marketplace reviewed.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 

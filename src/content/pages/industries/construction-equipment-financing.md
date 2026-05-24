@@ -24,6 +24,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Construction Equipment Financing — Why It Works
 
+<blockquote class="stat-quote">
+  <p><strong>Construction equipment financing rates run 6–14% APR for qualified contractors — major-brand excavators and loaders retain 40–60% of original value after 5 years, supporting advance rates up to 100%.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Construction equipment has one significant advantage over most asset classes for financing: strong, liquid resale markets. A 5-year-old excavator from Caterpillar, Komatsu, or John Deere retains 40–60% of its original value and sells quickly at auction. This resale value reduces lender risk, which translates to higher advance rates (up to 100% on newer iron) and rates of 6–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — compared to equipment categories with limited resale markets. Machinery financing for construction is also among the most accessible paths for contractors who need to grow their fleet quickly.
 
 <div class="stat-grid stat-grid--3">
@@ -61,7 +66,7 @@ Construction equipment has one significant advantage over most asset classes for
     <ul>
       <li>Specialised or niche equipment (specialised cranes, boring machines) gets lower advance rates (70–85%) and shorter terms — plan for a larger down payment on non-commodity iron</li>
       <li>Auction financing requires pre-approval before bidding — auction houses demand payment in 2–5 business days, and unprepared contractors miss deals or pay cash at a disadvantage</li>
-      <li>A blanket lien from your existing bank may require consent before an equipment lender can file a UCC-1 on new iron — review your existing loan covenants before applying</li>
+      <li>A blanket lien from your existing bank may require consent before an equipment lender can file a Uniform Commercial Code (UCC)-1 on new iron — review your existing loan covenants before applying</li>
       <li>New construction companies are limited to $50,000–$100,000 per transaction and must provide 20% down and a personal guarantee</li>
     </ul>
   </div>
@@ -100,7 +105,14 @@ Construction equipment has one significant advantage over most asset classes for
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A contractor purchasing a $180,000 Caterpillar 320 excavator at 7% APR over 72 months (through a third-party lender, assuming CAT Financial's promotional rate has expired) would pay approximately $3,078/month. The same excavator purchased during a CAT Financial 0% promotional period over 24 months costs $7,500/month — higher payment but $25,000+ in total interest savings. If the contractor can afford the higher payment, the OEM promotional offer wins decisively.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment              : $180,000 Caterpillar 320 excavator
+Third-party lender     : 7% APR / 72 months → $3,078/month
+CAT Financial promo    : 0% APR / 24 months  → $7,500/month
+Total interest savings
+  with OEM promo       : $25,000+  (vs. third-party at 7%)</code></pre>
+<p>If the contractor can afford the higher payment, the OEM promotional offer wins decisively.</p>
+  </div>
 </div>
 
 ---
@@ -128,13 +140,21 @@ Always compare both before committing — getting both quotes takes less than an
 
 Buying construction equipment at auction (Ritchie Bros., IronPlanet, Purple Wave) is common and often delivers 20–40% below dealer pricing. However, auction financing requires advance preparation:
 
-1. **Pre-approve before bidding.** Most lenders require the equipment details to approve — get a blanket pre-approval for your target price range from a lender like Taycor or Currency Capital before attending.
+### Pre-Approve Before Bidding
 
-2. **Inspect before bidding.** Lenders may require an inspection report. Third-party inspection services (from $200–$500) provide documentation that supports your financing application and protects against hidden defects.
+Most lenders require the equipment details to approve — get a blanket pre-approval for your target price range from a lender like Taycor or Currency Capital before attending.
 
-3. **Auction timelines are tight.** Auction houses typically require payment in 2–5 business days. Confirm your lender can fund within that window — same-day or 24-hour lenders (Balboa Capital, National Funding) are worth the rate premium when auction timing is tight.
+### Inspect and Document
 
-4. **Clear title is essential.** The lender will verify no existing liens on the equipment before funding. Auction houses typically handle title transfers — confirm the equipment has a clean title history before bidding.
+Lenders may require an inspection report. Third-party inspection services (from $200–$500) provide documentation that supports your financing application and protects against hidden defects.
+
+### Fund Within the Auction Window
+
+Auction houses typically require payment in 2–5 business days. Confirm your lender can fund within that window — same-day or 24-hour lenders (Balboa Capital, National Funding) are worth the rate premium when auction timing is tight.
+
+### Verify Clear Title
+
+The lender will verify no existing liens on the equipment before funding. Auction houses typically handle title transfers — confirm the equipment has a clean title history before bidding.
 
 ---
 

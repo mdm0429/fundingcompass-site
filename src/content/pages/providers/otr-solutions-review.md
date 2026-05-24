@@ -138,6 +138,11 @@ OTR Solutions operates as a full-service transportation finance platform. Its pr
 
 **Non-Recourse Factoring (Select Accounts):** OTR Solutions offers non-recourse factoring for qualifying carriers and broker relationships. Confirm availability at application. For an overview of carrier financing rights and disclosure requirements, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
+<blockquote class="stat-quote">
+  <p><strong>OTR Solutions advances up to 97% of freight invoice value same-day and offers fuel card discounts of $0.20–$0.40 per gallon — with no minimum authority age, making it one of the only full-service factoring platforms accessible to carriers from day one of operation.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency

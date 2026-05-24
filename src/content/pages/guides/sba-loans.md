@@ -24,15 +24,32 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is an SBA Loan?
 
-An SBA (Small Business Administration) loan is a small business loan partially guaranteed by the US federal government — meaning if you default, the SBA repays the lender a percentage of the loss. This guarantee allows lenders to offer better terms than conventional business loans: current rates on SBA 7(a) (the Small Business Administration's general-purpose loan program) loans run approximately 9.5–12% APR (annual percentage rate), reflecting Prime 7.5% + SBA spread of 2.0–4.25% depending on loan size, with terms up to 25 years on real estate and 10 years on working capital. The SBA does not lend directly — it guarantees loans made by approved banks, credit unions, and online lenders. Rate ranges are based on lender-published data and [SBA.gov](https://www.sba.gov/funding-programs/loans) as of May 2026.
+A Small Business Administration (SBA) loan is a small business loan partially guaranteed by the US federal government — meaning if you default, the SBA repays the lender a percentage of the loss. This guarantee allows lenders to offer better terms than conventional business loans: current rates on SBA 7(a) (the Small Business Administration's general-purpose loan program) loans run approximately 9.5–12% APR (annual percentage rate), reflecting Prime 7.5% + SBA spread of 2.0–4.25% depending on loan size, with terms up to 25 years on real estate and 10 years on working capital. The SBA does not lend directly — it guarantees loans made by approved banks, credit unions, and online lenders. Rate ranges are based on lender-published data and [SBA.gov](https://www.sba.gov/funding-programs/loans) as of May 2026.
 
 The guarantee structure means your lender takes less risk — which translates directly to lower rates and longer terms for you. The trade-off is a more rigorous application process and longer approval timelines than alternative lenders.
+
+<blockquote class="stat-quote">
+  <p><strong>SBA 7(a) loans offer rates of approximately 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or merchant cash advances (40–350% effective APR).</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#sba-loan-programs--which-one-applies-to-you">Loan Programs</a></li>
+    <li><a href="#who-qualifies-for-an-sba-loan">Who Qualifies</a></li>
+    <li><a href="#the-sba-loan-application-process">How to Apply</a></li>
+    <li><a href="#how-to-find-an-sba-lender">Finding a Lender</a></li>
+    <li><a href="#sba-loans-vs-other-specialty-b2b-financing">Cost Comparison</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
 
 <div class="pros-cons">
   <div class="pros">
     <h4>Pros</h4>
     <ul>
-      <li>Lowest rates available for small business financing at 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or MCAs (40–350% effective APR)</li>
+      <li>Lowest rates available for small business financing at 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or merchant cash advances (MCAs) (40–350% effective APR)</li>
       <li>10% down payment on SBA 7(a) vs. 20–30% required by conventional bank loans — freeing more capital for operations</li>
       <li>Terms up to 25 years on real estate and 10 years on working capital — producing the lowest monthly payment per dollar borrowed</li>
       <li>Can refinance existing high-rate debt (including MCA and short-term loans) under specific conditions, potentially saving thousands per month</li>
@@ -147,6 +164,8 @@ The guarantee structure means your lender takes less risk — which translates d
 
 SBA loans require more documentation than any other small business financing product. Prepare all of the following before applying:
 
+### Required Documents
+
 **Business documents:**
 - 3 years of business tax returns (or full history if under 3 years)
 - Year-to-date profit and loss statement and balance sheet
@@ -164,10 +183,14 @@ SBA loans require more documentation than any other small business financing pro
 - For real estate: purchase agreement, property appraisal
 - For business acquisition: purchase agreement, seller's 3 years of financials, business valuation
 
+### Timeline Expectations
+
 **Timeline expectations:**
 - SBA Express: SBA decision in 36 hours; full funding in 2–4 weeks
 - 7(a) Standard: SBA decision in 5–10 business days; full funding in 30–60 days
 - 504: Complex multi-party process; 45–90 days
+
+Thorough documentation and working with an SBA Preferred Lender are the two most effective steps for shortening the 30–90-day SBA approval timeline.
 
 ---
 
@@ -193,6 +216,13 @@ If you are here because you have been quoted an MCA or factoring arrangement, co
 | Equipment financing at 15% APR | $2,466 |
 | Invoice factoring at 2%/30 days | $4,000–$6,000 |
 | MCA at 1.35 factor rate | $35,000 (total cost regardless of timing) |
+
+<pre><code>$100,000 borrowing need — 60-day cost comparison:
+
+SBA 7(a) at 12% APR:             $1,973
+Equipment financing at 15% APR:  $2,466
+Invoice factoring at 2%/30 days: $4,000–$6,000
+MCA at 1.35 factor rate:         $35,000 (fixed total cost)</code></pre>
 
 If you can wait 30–60 days and meet SBA eligibility criteria, the cost savings are significant enough to justify the patience.
 
@@ -259,3 +289,11 @@ The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/
     <li><a href="/tools/business-loan-calculator/">Business Loan Calculator</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically passed on to borrowers," "typically require 2+ years," "may include your personal real estate," "typically take 30–60 days."
+Missing specificity: No Rule 8 substitutions were needed — no vague phrases from the target list appeared without accompanying specific data on this page.
+Acronyms: SBA reformatted from "SBA (Small Business Administration)" to "Small Business Administration (SBA)" per required first-use format in the opening paragraph. MCA expanded to "merchant cash advances (MCAs)" on first prose use in the pros-cons section. APR was already expanded in the opening paragraph. No remaining undefined specialist terms.
+Passive voice: "is partially guaranteed by," "are required to disclose," "must be pledged," "is administered through" — candidates for active voice review.
+-->

@@ -78,7 +78,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 TCI Business Capital is a Minnesota-based receivables financing company serving B2B businesses across multiple industries since 1994. It offers non-recourse and recourse factoring, advances up to 95% of invoice value, and has earned a strong reputation for customer service and flexible contract terms. TCI focuses on relationship-based factoring and is particularly active in staffing, manufacturing, distribution, and service businesses. It is a credible choice for mid-sized B2B businesses looking for a long-term factoring partner with a non-recourse option and competitive rates.
 
-**Best for:** Established B2B businesses with $25,000–$5,000,000+ in monthly invoicing in staffing, manufacturing, or distribution that need a non-recourse factoring partner with dedicated account management, a 600+ personal FICO score, and at least 2 years in business.
+**Best for:** Established B2B businesses with $25,000–$5,000,000+ in monthly invoicing in staffing, manufacturing, or distribution that need a non-recourse factoring partner with dedicated account management, a 600+ personal FICO credit score, and at least 2 years in business.
 
 **Not ideal for:** Businesses with less than $25,000/month in invoicing (Riviera Finance's $5,000 minimum is more accessible), trucking-specific businesses (OTR Solutions or RTS Financial provide trucking-specific programs), or B2C businesses without commercial receivables.
 
@@ -135,6 +135,11 @@ TCI Business Capital provides full-service accounts receivable factoring — pur
 
 **Specialized Industry Programs:** TCI has developed specific factoring programs for staffing companies, manufacturers, and distributors that reflect the unique invoice structures and payment cycles in those industries.
 
+<blockquote class="stat-quote">
+  <p><strong>TCI Business Capital's factoring fees start at 1% per 30 days for high-volume clients — below the 1.5–3.5% B2B factoring category average — with advances up to 95% and non-recourse protection available for established staffing, manufacturing, and distribution businesses since 1994.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency
@@ -150,7 +155,7 @@ TCI Business Capital publishes a factoring fee range of approximately 1–3% per
 
 **Volume discounts:** TCI Business Capital offers lower rates for higher monthly factoring volumes. Businesses factoring $500,000+/month typically receive better pricing than the published range. Negotiate rates at application based on your projected volume.
 
-**Effective APR context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective APR (the annualized cost of financing, accounting for all fees and repayment speed) — competitive with many business lines of credit and significantly cheaper than most MCA (merchant cash advance) products.
+**Effective APR context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective annual percentage rate (APR) (the annualized cost of financing, accounting for all fees and repayment speed) — competitive with many business lines of credit and significantly cheaper than most MCA (merchant cash advance) products.
 
 ---
 
@@ -223,7 +228,7 @@ TCI and Riviera Finance are similar in core offering — both established non-re
 
 - **Invoice financing (vs. factoring):** If you want to borrow against invoices without selling them — keeping the customer relationship entirely in-house — consider invoice financing. Typically costs slightly more than factoring but is invisible to customers. See [Invoice Financing vs. Factoring](/compare/invoice-financing-vs-factoring/).
 - **Business line of credit:** For businesses with consistent revenue who don't need invoice-specific financing, a revolving line of credit at 15–30% APR may be cheaper long-term. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
-- **SBA loan:** For general operating capital, SBA 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
+- **SBA loan:** For general operating capital, Small Business Administration (SBA) 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
 
 ---
 

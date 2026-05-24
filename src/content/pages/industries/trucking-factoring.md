@@ -26,7 +26,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Trucking Companies Use Invoice Factoring
 
-Freight brokers and shippers typically pay on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms, but fuel, driver pay, and maintenance are due now. Trucking factoring solves this timing gap by advancing 90–97% of load invoice value — often within 2–4 hours of submitting a signed BOL (bill of lading). For owner-operators and small fleets, receivables financing is the most common operating capital tool in the industry precisely because it scales with loads hauled rather than requiring a fixed credit facility.
+Freight brokers and shippers typically pay on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms, but fuel, driver pay, and maintenance are due now. Trucking factoring solves this timing gap by advancing 90–97% of load invoice value — often within 2–4 hours of submitting a signed bill of lading (BOL). For owner-operators and small fleets, receivables financing is the most common operating capital tool in the industry precisely because it scales with loads hauled rather than requiring a fixed credit facility.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -61,7 +61,7 @@ Freight brokers and shippers typically pay on net-30 (your customer has 30 days 
     <ul>
       <li>Recourse factoring (the standard in trucking) means broker non-payment charges back to your reserve — vetting broker credit before accepting loads matters</li>
       <li>Contract factoring requires you to factor all or a minimum volume of loads — spot factoring is more flexible but costs 0.5–1% more per load</li>
-      <li>UCC-1 (a public lien notice filed against your business assets) filed by the factor blocks you from factoring with another company until released — switching takes 30–45 days</li>
+      <li>Uniform Commercial Code (UCC)-1 filed by the factor blocks you from factoring with another company until released — switching takes 30–45 days</li>
       <li>Reserve holdback (3–10%) may be held 30–90 days post-payment, temporarily reducing accessible cash</li>
     </ul>
   </div>
@@ -71,17 +71,24 @@ Freight brokers and shippers typically pay on net-30 (your customer has 30 days 
 
 ## How Trucking Factoring Works
 
+<blockquote class="stat-quote">
+  <p><strong>Freight factors advance up to 97% of load invoice value with fuel advances available within 2–4 hours of dispatch — before delivery is complete.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 The process is adapted for freight operations:
 
-1. **You haul the load and collect the paperwork.** You submit the signed [bill of lading](/glossary/) — the BOL (bill of lading) is your proof that the load was picked up and delivered — along with the rate confirmation and proof of delivery to your factor via mobile app or portal.
+### Step 1 — Submit the Load Paperwork
 
-2. **The factor verifies the broker or shipper.** Freight factors run credit checks on the [broker](/glossary/) or shipper — not on you. This is why new carriers and owner-operators can qualify.
+You haul the load and collect the paperwork. You submit the signed [bill of lading](/glossary/) — the BOL is your proof that the load was picked up and delivered — along with the rate confirmation and proof of delivery to your factor via mobile app or portal.
 
-3. **The factor advances 90–97% of the invoice value.** Most freight factors fund within 2–4 hours of document verification. Some offer same-day ACH or next-business-day wire.
+### Step 2 — Factor Verifies the Broker
 
-4. **The broker or shipper pays the factor on their normal terms.** The factor collects directly. Your customer receives a Notice of Assignment (NOA) — a formal letter notifying them to send all payments to the factor rather than to you — at the start of the relationship.
+The factor verifies the broker or shipper. Freight factors run credit checks on the [broker](/glossary/) or shipper — not on you. This is why new carriers and owner-operators can qualify.
 
-5. **The factor releases the reserve minus the factoring fee.** When the broker pays (typically 30–45 days), you receive the remaining 3–10% minus the factoring fee.
+### Step 3 — Advance and Collections
+
+The factor advances 90–97% of the invoice value. Most freight factors fund within 2–4 hours of document verification. Some offer same-day ACH or next-business-day wire. The broker or shipper pays the factor on their normal terms. The factor collects directly. Your customer receives a Notice of Assignment (NOA) — a formal letter notifying them to send all payments to the factor rather than to you — at the start of the relationship. When the broker pays (typically 30–45 days), you receive the remaining 3–10% minus the factoring fee.
 
 **Fuel advance programs.** Most freight-specialist factors offer a fuel advance — an immediate advance of 40–50% of the load value at time of dispatch, before delivery is complete. This helps cover fuel for the run. The fuel advance is reconciled against the full invoice advance after delivery.
 
@@ -115,7 +122,14 @@ The process is adapted for freight operations:
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>An owner-operator hauling $40,000/month in loads using eCapital's up-to-97% advance rate and a 1.5% fee would receive $38,800 upfront per month and pay $600 in factoring fees per 30-day period. At a 2% fuel advance on each $2,000 average load, the same carrier would receive $800 per load at dispatch and $1,140 upon delivery paperwork submission, before the fee.</p></div>
+  <div class="callout__body">
+<pre><code>Monthly invoice volume : $40,000
+Advance rate           : 97%
+Upfront advance        : $38,800
+Factoring fee (1.5%)   : $600 per 30-day period
+Net proceeds           : $38,200 + reserve release on broker payment</code></pre>
+<p>At a fuel advance of 40% on each $2,000 average load, the same carrier receives $800 at dispatch and the remaining advance upon delivery paperwork submission.</p>
+  </div>
 </div>
 
 ---
@@ -203,7 +217,7 @@ Quick pay is often cheaper for individual loads — but only works with brokers 
   </details>
   <details open>
     <summary>Can I switch factoring companies if I'm unhappy?</summary>
-    <p>Yes, but your contract may have a termination notice period (typically 30–90 days) and possibly a termination fee. Your factor also holds a UCC-1 (a public lien notice filed against your business assets) on your receivables during the contract — they must release this lien before you can factor with another company. Switching typically takes 30–45 days after notice is given.</p>
+    <p>Yes, but your contract may have a termination notice period (typically 30–90 days) and possibly a termination fee. Your factor also holds a UCC-1 on your receivables during the contract — they must release this lien before you can factor with another company. Switching typically takes 30–45 days after notice is given.</p>
   </details>
   <details open>
     <summary>Do factoring companies affect my relationship with freight brokers?</summary>

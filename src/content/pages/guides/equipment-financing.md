@@ -17,7 +17,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
       <li>Equipment financing rates range from 5.5–18% APR for qualified borrowers — the equipment itself serves as collateral, so no separate business assets need to be pledged.</li>
       <li>100% financing (zero down payment) is available for equipment with strong resale markets such as semi-trucks and construction machinery.</li>
       <li>The Section 179 deduction allows businesses to deduct the full purchase price in Year 1 (2026 limit: $1,220,000), substantially reducing net financing cost.</li>
-      <li>Fintech lenders fund in 24 hours to 5 days; SBA 7(a) loans offer lower rates (9.5–12% APR) but take 30–90 days to fund.</li>
+      <li>Fintech lenders fund in 24 hours to 5 days; Small Business Administration (SBA) 7(a) loans offer lower rates (9.5–12% APR) but take 30–90 days to fund.</li>
     </ul>
   </div>
 </div>
@@ -27,6 +27,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 Equipment financing is a loan or lease used to purchase or access business equipment, where the equipment itself serves as collateral. Rates currently range from 5.5–18% APR (annual percentage rate) for qualified borrowers, with the financed equipment securing the loan — meaning no separate collateral is required. Lenders advance 80–100% of the equipment's purchase price, and repayment terms range from 24 to 84 months. Rate ranges are based on lender-published rates as of May 2026.
 
 Unlike a general business loan, machinery financing is tied to a specific asset. If you default, the lender repossesses the equipment — not your other business or personal assets (in most cases).
+
+<blockquote class="stat-quote">
+  <p><strong>100% financing is available for equipment with strong resale markets such as semi-trucks and construction machinery — zero down payment required.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#equipment-loan-vs-equipment-lease--key-differences">Loan vs. Lease</a></li>
+    <li><a href="#current-equipment-financing-rates--2026">Current Rates</a></li>
+    <li><a href="#what-equipment-can-be-financed">What Can Be Financed</a></li>
+    <li><a href="#who-qualifies-for-equipment-financing">Who Qualifies</a></li>
+    <li><a href="#the-application-process--what-to-prepare">How to Apply</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
 
 <div class="pros-cons">
   <div class="pros">
@@ -121,12 +138,12 @@ Unlike a general business loan, machinery financing is tied to a specific asset.
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A landscaping company finances a $120,000 skid steer loader at 8% APR over 60 months through an equipment lender.</p>
-    <ul>
-      <li>Amount financed: $120,000 (100% — no down payment on high-resale equipment)</li>
-      <li>Monthly payment: approximately $2,433</li>
-      <li>Total interest over 60 months: approximately $25,980</li>
-      <li>Effective APR: 8% (annualised, per lender-published rates)</li>
-    </ul>
+<pre><code>Amount financed:     $120,000 (100% — no down payment)
+Monthly payment:     ~$2,433
+Term:                60 months
+Total interest:      ~$25,980
+Effective APR:       8%
+Section 179 saving:  ~$30,000 (at 25% tax rate)</code></pre>
     <p>With the Section 179 deduction at a 25% effective tax rate, the ~$30,000 tax saving nearly offsets the entire interest cost — making the effective cost of the machinery financing significantly lower than the stated rate suggests.</p>
   </div>
 </div>
@@ -157,16 +174,22 @@ Most business equipment with a clear market value qualifies. Common categories:
 
 Equipment financing is more accessible than most business loans because the equipment itself limits the lender's risk. However, requirements vary significantly between lenders.
 
+### Strong Qualification Profile
+
 **Strong qualification profile:**
 - Personal credit score of 650+
 - 2+ years in business
 - Annual revenue of $150,000+
 - Clean business and personal credit history
 
+### Accessible to Challenged Credit
+
 **Accessible to challenged credit:**
 - Scores from 580–640 qualify with specialist lenders (higher rates apply)
 - Startups (less than 1 year in business) may qualify for up to $50,000 with strong personal credit and a 20% down payment
 - Recent bankruptcies discharged 2+ years ago may qualify with some lenders
+
+### Factors That Hurt Your Application
 
 **Factors that hurt your application:**
 - Credit scores below 550
@@ -174,6 +197,8 @@ Equipment financing is more accessible than most business loans because the equi
 - Significant outstanding tax liens
 - Revenue less than $100,000 annually
 - Equipment that is highly specialised with no resale market
+
+Equipment financing is more accessible than most business loans because the financed asset limits lender risk — but credit score, time in business, and equipment type remain the three factors that most directly determine your rate and advance amount.
 
 ---
 
@@ -187,6 +212,8 @@ Section 179 of the US tax code allows businesses to deduct the full purchase pri
 </div>
 
 **Why this matters for financing:** If you finance equipment and take the Section 179 deduction, your tax savings in Year 1 can substantially reduce the net cost of the financing. A $100,000 equipment purchase at a 25% effective tax rate generates a ~$25,000 tax saving — offsetting a significant portion of first-year interest costs. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/interest-expense" rel="noopener">IRS guidance on interest expense deductions</a> covers the deductibility of interest paid on business equipment loans.
+
+The Section 179 deduction and bonus depreciation rules make the effective cost of financed equipment substantially lower than the stated interest rate — but the rules change annually, so verifying current limits with a tax adviser before closing is essential.
 
 ---
 
@@ -216,7 +243,9 @@ For amounts over $250,000, lenders typically require full financial statements a
 | Credit requirement | 580+ (varies) | 680+ |
 | Best for | Speed + flexibility | Lowest rate on large purchases |
 
-The SBA 7(a) route typically saves 2–5 percentage points in rate but adds 30–60 days to the process. For established businesses with strong credit on purchases over $150,000, the SBA route is worth the wait. For faster access or lower credit scores, equipment lending from a fintech lender is the practical choice. The <a href="https://www.sba.gov/funding-programs/loans" rel="noopener">SBA's loan programs page</a> lists all current 7(a) and 504 equipment loan options.
+The SBA 7(a) route typically saves 2–5 percentage points in rate but adds 30–60 days to the process. For established businesses with strong credit on purchases over $150,000, the SBA route is worth the wait.
+
+For faster access or lower credit scores, equipment lending from a fintech lender is the practical choice. The <a href="https://www.sba.gov/funding-programs/loans" rel="noopener">SBA's loan programs page</a> lists all current 7(a) and 504 equipment loan options.
 
 See [Best Equipment Financing Companies of 2026](/compare/best-equipment-financing-companies/) for our ranked lender comparison.
 
@@ -283,3 +312,11 @@ For regulatory context on small-business equipment financing agreements, the [Fe
     <li><a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "typically require a formal appraisal," "may require additional collateral," "may apply at end of term," "typically required."
+Missing specificity: No Rule 8 substitutions were needed — vague phrases on this page are already accompanied by specific data (rates, timelines, credit score ranges).
+Acronyms: SBA expanded to "Small Business Administration (SBA)" on its first prose body use (Key Takeaways callout bullet). APR was already expanded in the opening paragraph. No remaining undefined specialist terms.
+Passive voice: "can be financed," "are typically filed," "may be waived," "are more limited" — candidates for active voice review.
+-->

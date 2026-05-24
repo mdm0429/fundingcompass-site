@@ -26,6 +26,11 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
+<blockquote class="stat-quote">
+  <p><strong>Retail factoring advances 70–90% of supplier invoices at fees of 1.5–3.5% per 30-day period — converting net-60 and net-90 retailer terms into same-week cash for suppliers.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Retail factoring converts outstanding invoices from retailers (Walmart, Target, regional chains, independent stores) into immediate cash for the suppliers and wholesalers that sell to them. Retailers routinely pay on net-30 (your customer has 30 days to pay), net-60 (your customer has 60 days to pay), or even net-90 terms — but suppliers must pay for inventory, manufacturing, and shipping before receiving payment. Factoring bridges this gap by advancing 80–90% of the invoice value immediately. For suppliers that sell to creditworthy retailers, accounts receivable factoring fees are typically 1.5–3% per 30 days — significantly cheaper than MCA (merchant cash advance) financing and accessible without strong business credit.
 
 <div class="pros-cons">
@@ -44,7 +49,7 @@ Retail factoring converts outstanding invoices from retailers (Walmart, Target, 
       <li>Retailer chargebacks (compliance deductions, returns, promotional allowances) are the supplier's responsibility under factoring agreements — these reduce the amount the factor receives and may trigger reserve adjustments</li>
       <li>Advance rates (70–90%) are lower than standard B2B factoring due to chargeback risk and extended net-60/90 terms, increasing the effective fee cost</li>
       <li>Concentration in a single retailer (e.g., 100% Walmart) limits available funding — factors cap exposure on any single buyer</li>
-      <li>Factoring begins only after delivery — suppliers needing capital to fund production before shipping require PO financing, which is more expensive (3–6%/month)</li>
+      <li>Factoring begins only after delivery — suppliers needing capital to fund production before shipping require purchase order (PO) financing, which is more expensive (3–6%/month)</li>
     </ul>
   </div>
 </div>
@@ -89,7 +94,7 @@ Retail factoring has some unique characteristics compared to general commercial 
 
 **Chargeback risk:** Retailers can return merchandise, issue chargebacks for compliance violations (labeling, packaging, EDI requirements), or deduct promotional fees from invoice payments. Factoring agreements typically handle chargebacks differently than commercial factoring — the supplier remains responsible for chargebacks, which are treated as deductions from the reserve rather than the factor's problem.
 
-**Purchase order (PO) financing:** Some retail factors also offer purchase order financing — advancing funds before inventory is manufactured or shipped, based on a purchase order from a creditworthy retailer. This is a separate product from factoring but is often offered by the same lenders. See [Purchase Order Financing vs. Factoring](/compare/purchase-order-financing-vs-factoring/).
+**PO financing:** Some retail factors also offer purchase order financing — advancing funds before inventory is manufactured or shipped, based on a purchase order from a creditworthy retailer. This is a separate product from factoring but is often offered by the same lenders. See [Purchase Order Financing vs. Factoring](/compare/purchase-order-financing-vs-factoring/).
 
 **EDI and compliance requirements:** Large retailers require Electronic Data Interchange (EDI) for invoicing and may charge compliance deductions (vendor chargebacks) for errors. Retail factors understand these deductions and build them into advance calculations.
 
@@ -134,9 +139,17 @@ Retail factoring has some unique characteristics compared to general commercial 
 
 Standard commercial factoring advances 85–97% of invoice value. Retail factoring typically advances 70–90%. The lower advance rate reflects:
 
-- **Chargeback risk:** Retailers deduct compliance violations, promotional allowances, and returns from invoice payments — reducing the actual payment below the invoice face value
-- **Extended terms:** Net-60 and net-90 payment terms extend the factoring period, increasing fee cost
-- **Concentration risk:** A single large retailer representing 80%+ of sales increases risk
+### Chargeback Risk
+
+Retailers deduct compliance violations, promotional allowances, and returns from invoice payments — reducing the actual payment below the invoice face value.
+
+### Extended Payment Terms
+
+Net-60 and net-90 payment terms extend the factoring period, increasing fee cost compared to shorter-term B2B invoices.
+
+### Concentration Risk
+
+A single large retailer representing 80%+ of sales increases risk, and factors cap advances on over-concentrated accounts.
 
 For suppliers with strong compliance histories and creditworthy retailer customers, advance rates at the higher end of the range (85–90%) are achievable.
 
@@ -144,16 +157,18 @@ For suppliers with strong compliance histories and creditworthy retailer custome
 
 ## Rates and Fees
 
-**Typical retail factoring fee range:**
+### Fee Range by Retailer Type
+
 - National creditworthy retailers (Walmart, Target, Costco): 1.5–2.5% per 30 days
 - Regional chains (strong credit): 2–3% per 30 days
 - Smaller or newer retailers (lower credit rating): 2.5–4% per 30 days
 
-**Cost example:**
-- Invoice value: $100,000 (net-60 terms)
-- Advance rate: 85% → receive $85,000 immediately
-- Factoring fee: 2.5% × 2 months = 5% → $5,000
-- Reserve released: $100,000 − $85,000 − $5,000 = $10,000
+### Cost Example
+
+<pre><code>Invoice value (net-60)     : $100,000
+Advance rate (85%)         : $85,000   received immediately
+Factoring fee (2.5% × 2)   : $5,000    (2 × 30-day periods)
+Reserve released at payment: $100,000 − $85,000 − $5,000 = $10,000</code></pre>
 
 For a supplier with $500K in monthly retail invoices, factoring provides $425K in immediate cash flow while total monthly fees run $12,500–$25,000.
 

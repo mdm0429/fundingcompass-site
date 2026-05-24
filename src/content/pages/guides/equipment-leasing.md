@@ -28,6 +28,23 @@ Equipment leasing is an arrangement where a lender (lessor) purchases equipment 
 
 Approximately 80% of US businesses lease at least some of their equipment. It's particularly common for technology, vehicles, medical equipment, and any category that becomes obsolete quickly.
 
+<blockquote class="stat-quote">
+  <p><strong>An operating lease on a $60,000 asset can cost 26% less per month than a 36-month loan at 8% APR — because you pay only for the depreciation during the lease term, not for full ownership.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
+<nav class="page-nav" aria-label="Page sections">
+  <p class="page-nav__label">Jump to section:</p>
+  <ul>
+    <li><a href="#types-of-equipment-leases">Types of Leases</a></li>
+    <li><a href="#how-equipment-lease-payments-are-calculated">Payment Calculation</a></li>
+    <li><a href="#costs-understanding-money-factors-and-apr">Costs & Money Factors</a></li>
+    <li><a href="#tax-considerations">Tax Considerations</a></li>
+    <li><a href="#lease-terms-and-conditions-to-review-before-signing">Terms to Review</a></li>
+    <li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li>
+  </ul>
+</nav>
+
 <div class="pros-cons">
   <div class="pros">
     <h4>Pros</h4>
@@ -142,16 +159,18 @@ Lease payments are calculated from two components:
 **Total monthly lease payment = Depreciation payment + Finance charge**
 
 **Example (Operating Lease):**
-- Equipment cost: $60,000
-- Residual value (what the lessor expects to recover at end): $15,000
-- Term: 36 months
-- Money factor: 0.002 (equivalent to approximately 4.8% APR)
 
-Depreciation payment: ($60,000 − $15,000) ÷ 36 = $1,250/month
-Finance charge: ($60,000 + $15,000) × 0.002 = $150/month
-**Total monthly payment: $1,400**
+<pre><code>Equipment cost:        $60,000
+Residual value:        $15,000
+Term:                  36 months
+Money factor:          0.002 (~4.8% APR)
 
-For comparison, a 36-month loan at 8% APR on the same $60,000 equipment: approximately $1,880/month.
+Depreciation payment:  ($60,000 − $15,000) ÷ 36 = $1,250/month
+Finance charge:        ($60,000 + $15,000) × 0.002 = $150/month
+Total monthly payment: $1,400
+
+Equivalent 36-mo loan at 8% APR:  ~$1,880/month
+Monthly savings with lease:        $480 (26% lower)</code></pre>
 
 The operating lease payment is 26% lower than the loan payment because you're not paying for the full equipment value — only the $45,000 depreciation during the lease term.
 
@@ -174,6 +193,8 @@ See the detailed comparison at [Equipment Loan vs. Lease](/compare/equipment-loa
 - You want to build equity and own the asset
 - You have high taxable income and want Section 179 deduction
 - You plan to use the equipment well beyond the financing term
+
+The lease-vs.-loan decision turns primarily on two factors: how quickly the equipment depreciates and whether you need ownership at the end — rapid depreciation and refresh needs favor a lease, while long-lived assets with strong resale value favor a loan.
 
 ---
 
@@ -198,12 +219,15 @@ Always ask for the money factor and convert it to APR for comparison with loan r
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A dental practice leases a $90,000 digital imaging system on a 48-month operating lease with a money factor of 0.00292 and an estimated residual value of $18,000.</p>
-    <ul>
-      <li>Monthly operating lease payment: approximately $1,838</li>
-      <li>Equivalent 48-month loan at 8% APR: approximately $2,196/month</li>
-      <li>Monthly savings: $358 — the operating lease is 16% lower per month</li>
-      <li>Effective APR: approximately 7% (money factor 0.00292 × 2,400)</li>
-    </ul>
+<pre><code>Equipment cost:         $90,000
+Residual value:         $18,000
+Term:                   48 months
+Money factor:           0.00292 (~7% APR)
+
+Monthly lease payment:  ~$1,838
+Equivalent loan (8%):   ~$2,196/month
+Monthly savings:        $358 (16% lower)
+Total savings (48 mo):  $17,184</code></pre>
     <p>Over 48 months the operating lease saves $17,184 in payments — and the practice can return the system and lease updated imaging technology at term end, avoiding ownership of a rapidly depreciating asset.</p>
   </div>
 </div>
@@ -224,6 +248,8 @@ Always ask for the money factor and convert it to APR for comparison with loan r
 - Interest component of payments deductible
 
 **Which is better for taxes?** Depends on your taxable income and timing. Section 179 provides a large immediate deduction; operating lease payments provide steady ongoing deductions. Work with your accountant to model both scenarios. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/interest-expense" rel="noopener">IRS guidance on interest expense</a> covers how the interest component of capital lease payments is treated for tax purposes.
+
+The tax treatment of your lease structure — operating vs. capital — directly affects your bottom line and balance sheet, making this decision worth modelling with your accountant before signing.
 
 ---
 
@@ -342,3 +368,11 @@ According to the [Federal Reserve's Small Business Credit Survey](https://www.ne
     <li><a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease</a></li>
   </ul>
 </aside>
+
+<!-- EDITORIAL NOTES (remove before final review)
+Assertiveness: Review uses of "typically," "often," "generally," "may" — 
+replace with direct claims where the data supports it. Candidates: "often with a new lease," "may affect debt covenants," "typically higher money factors," "most equipment leases."
+Missing specificity: No Rule 8 substitutions were needed — no vague phrases from the target list appeared on this page without accompanying specific data.
+Acronyms: APR was already expanded in the first pros-cons bullet ("8% APR (annual percentage rate)"). No other required acronyms from the expansion list appear as bare acronyms in prose on this page. No specialist terms were left undefined.
+Passive voice: "is structured as a lease," "is retained by the lessor," "are fully deductible," "must be paid off at closing" — candidates for active voice review.
+-->

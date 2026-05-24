@@ -136,6 +136,11 @@ Riviera Finance operates a full-service invoice factoring platform for B2B busin
 
 Riviera Finance serves a broad range of B2B industries: staffing, manufacturing, trucking and transportation, government contracting, distribution, healthcare (select receivables), and more.
 
+<blockquote class="stat-quote">
+  <p><strong>Riviera Finance advances up to 95% of invoice value at fees of 1.5–3.5% per 30 days, with non-recourse protection available and a $5,000 monthly minimum — among the lowest in the factoring industry — backed by over 50 years of operation since 1969.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Cost Transparency
@@ -150,7 +155,7 @@ Riviera Finance publishes its factoring fee range — 1.5–3.5% per 30-day peri
 - Reserve released: $10,000 − $9,000 − $375 = $625
 
 **Effective APR context:**
-Factoring fees are not APR, but for comparison purposes: a 2.5% monthly fee on a 45-day invoice equates to approximately 20% effective APR (the annualized cost of financing, accounting for all fees and repayment speed). This is significantly lower than most MCA (merchant cash advance) products and competitive with many business lines of credit for short-duration receivables.
+Factoring fees are not annual percentage rate (APR), but for comparison purposes: a 2.5% monthly fee on a 45-day invoice equates to approximately 20% effective APR (the annualized cost of financing, accounting for all fees and repayment speed). This is significantly lower than most MCA (merchant cash advance) products and competitive with many business lines of credit for short-duration receivables.
 
 Use the [Invoice Factoring Guide](/guides/invoice-factoring/) for a full explanation of factoring fee structures.
 
@@ -223,7 +228,7 @@ Riviera Finance's non-recourse offering and low volume minimum are its strongest
 
 - **Business line of credit:** If your cash flow gaps are recurring, a revolving line of credit at 15–30% APR may be cheaper over time than ongoing factoring fees. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
 - **Invoice financing (vs. factoring):** Invoice financing advances against your invoices without selling them — your customers never know about the financing arrangement. Typically more expensive than factoring but preserves customer relationships. See [Invoice Financing vs. Factoring](/compare/invoice-financing-vs-factoring/).
-- **SBA loan:** For general operating capital (not tied to specific invoices), SBA 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
+- **SBA loan:** For general operating capital (not tied to specific invoices), Small Business Administration (SBA) 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
 
 ---
 

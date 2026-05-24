@@ -24,6 +24,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Manufacturing Equipment Financing Is Different
 
+<blockquote class="stat-quote">
+  <p><strong>Manufacturing equipment financing rates run 5.5–14% APR — among the lowest of any industry, with major-brand CNC machines qualifying for advance rates of 85–100% and terms up to 84 months.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Manufacturing equipment — CNC machines, lathes, injection moulding presses, industrial robots, laser cutters — often costs $50,000 to $2,000,000+ per unit and has a useful life of 10–20 years. Equipment lending is the dominant funding tool for manufacturers because: the equipment serves as collateral (no additional assets required), terms up to 84 months match the asset's useful life, and the interest is deductible while the equipment generates revenue immediately upon installation.
 
 Current rates for manufacturing equipment range from 5.5–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — significantly cheaper than operating capital financing and close to bank loan rates, without the bank's documentation burden or timeline.
@@ -100,7 +105,14 @@ Current rates for manufacturing equipment range from 5.5–14% APR (annual perce
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A manufacturer purchasing a $200,000 Haas CNC machining centre at 7% APR over 72 months would pay approximately $3,042/month. Using the Section 179 deduction at a 28% effective tax rate, the full $200,000 deduction generates $56,000 in tax savings in the purchase year — reducing the effective net equipment cost to $144,000 and improving payback from the machine's added production capacity.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment              : $200,000 Haas CNC machining centre
+APR / term             : 7% APR over 72 months
+Monthly payment        : ~$3,042/month
+Section 179 deduction  : $200,000
+Tax savings (28% rate) : $56,000
+Effective net cost     : $144,000</code></pre>
+  </div>
 </div>
 
 ---
@@ -109,13 +121,16 @@ Current rates for manufacturing equipment range from 5.5–14% APR (annual perce
 
 Financing used manufacturing equipment is common and often the better financial decision — a 3-year-old CNC centre purchased at 40% discount from new carries comparable productivity with a much lower financing burden.
 
-**What lenders look for on used equipment:**
+### What Lenders Look for on Used Equipment
+
 - Equipment age typically under 10 years (some exceptions for certain categories)
 - Major brand preferred (Haas, Mazak, FANUC, Okuma)
 - Working condition — some lenders require an inspection certificate
 - Established resale market — highly specialised single-purpose equipment is harder to finance used
 
-**Rate premium on used:** Typically 2–4% APR higher than comparable new equipment. Factor this into your total cost comparison.
+### Rate Premium on Used Equipment
+
+Typically 2–4% APR higher than comparable new equipment. Factor this into your total cost comparison when weighing a used purchase against a new model.
 
 ---
 
@@ -125,7 +140,7 @@ Multi-unit or full production line financing requires a different approach than 
 
 1. **Currency Capital and Crest Capital** handle multi-unit transactions with dedicated deal teams
 2. **Manufacturer financing programs:** Equipment OEMs (Haas, Mazak, Caterpillar Financial) offer captive financing at promotional rates — sometimes below market. Always get the OEM quote alongside third-party financing
-3. **SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equipment):** For production facility + equipment combinations over $1M, <a href="https://www.sba.gov/funding-programs/loans">SBA 504</a> may offer the lowest blended rate. Timeline is 45–90 days versus days for equipment-only financing
+3. **Small Business Administration (SBA) 504 (the SBA's fixed-asset financing program for real estate and heavy equipment):** For production facility + equipment combinations over $1M, <a href="https://www.sba.gov/funding-programs/loans">SBA 504</a> may offer the lowest blended rate. Timeline is 45–90 days versus days for equipment-only financing
 4. **Appraisal requirements:** Most lenders require a formal equipment appraisal for transactions over $250,000
 
 ---
@@ -134,7 +149,7 @@ Multi-unit or full production line financing requires a different approach than 
   <h2>Frequently Asked Questions</h2>
   <details open>
     <summary>Can I finance equipment I'm buying from another manufacturer going out of business?</summary>
-    <p>Yes — buying from a liquidation or distressed sale often creates excellent value but complicates financing. Lenders want clear title to the equipment. Ensure the selling entity has the legal right to sell (no prior lien holders), obtain a bill of sale, and confirm no UCC-1 filings against the equipment exist before the lender advances. An equipment appraisal is typically required for liquidation purchases.</p>
+    <p>Yes — buying from a liquidation or distressed sale often creates excellent value but complicates financing. Lenders want clear title to the equipment. Ensure the selling entity has the legal right to sell (no prior lien holders), obtain a bill of sale, and confirm no Uniform Commercial Code (UCC)-1 filings against the equipment exist before the lender advances. An equipment appraisal is typically required for liquidation purchases.</p>
   </details>
   <details open>
     <summary>How does equipment age affect financing terms?</summary>

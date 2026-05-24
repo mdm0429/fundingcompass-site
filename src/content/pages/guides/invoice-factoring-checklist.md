@@ -32,16 +32,21 @@ Gather these before you submit your application. Most factors request them at th
   <li><strong>Business formation documents</strong> — articles of incorporation, LLC operating agreement, or partnership agreement</li>
   <li><strong>Employer Identification Number (EIN)</strong> — IRS EIN confirmation letter (CP 575 or 147C)</li>
   <li><strong>Bank statements</strong> — last 3 months of business checking statements (some factors require 6 months)</li>
-  <li><strong>Accounts receivable aging report</strong> — current A/R aging as of the application date, showing outstanding invoice balances by customer and age bucket (0–30, 31–60, 61–90, 90+ days)</li>
+  <li><strong>Accounts receivable aging report</strong> — current accounts receivable (AR) aging as of the application date, showing outstanding invoice balances by customer and age bucket (0–30, 31–60, 61–90, 90+ days)</li>
   <li><strong>Customer list</strong> — list of active customers with business names, contact information, and approximate monthly invoice volume per customer</li>
   <li><strong>Business tax returns</strong> — last 2 years of federal business tax returns (1120, 1120-S, or 1065 depending on entity type)</li>
   <li><strong>Current year P&amp;L statement</strong> — year-to-date profit and loss, ideally prepared in the last 30 days</li>
   <li><strong>Articles of incorporation or certificate of good standing</strong> — most factors require a certificate of good standing from your state of formation, issued within the last 60–90 days</li>
-  <li><strong>Signed application form</strong> — the factor's own application, including authorization for credit checks and UCC search</li>
+  <li><strong>Signed application form</strong> — the factor's own application, including authorization for credit checks and Uniform Commercial Code (UCC) search</li>
   <li><strong>Government-issued ID</strong> — passport or driver's license for all owners with 20%+ ownership</li>
 </ul>
 
 ---
+
+<blockquote class="stat-quote">
+  <p><strong>Most invoice factoring factors fund within 24–48 hours after initial setup — but gathering documents ahead of time compresses the full approval timeline from 2–3 weeks to as little as 3–5 business days.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ## Customer/Debtor Information Required
 
@@ -62,6 +67,14 @@ Factors approve invoices based on your customers' ability to pay — not yours. 
 
 Not all invoices are factorable. Factors have strict requirements about what invoices they will purchase. Review these before submitting.
 
+<pre><code>Invoice eligibility quick reference:
+  Invoice type:      B2B or B2G only (no consumer invoices)
+  Work status:       Completed and delivered before invoicing
+  Invoice age max:   60–90 days from invoice date (factor-specific)
+  Dispute status:    No disputed or deducted invoices
+  Advance rate:      80–97% of face value (industry-dependent)
+  Reserve release:   After customer pays, minus factoring fee</code></pre>
+
 <ul>
   <li><strong>Work must be completed before invoicing</strong> — factors do not advance against invoices for work not yet delivered, partially delivered, or conditional on future performance</li>
   <li><strong>No pre-billing</strong> — invoices must represent goods shipped or services rendered, not a request for advance payment</li>
@@ -78,13 +91,23 @@ Not all invoices are factorable. Factors have strict requirements about what inv
 
 Understanding the due diligence process helps you anticipate what can cause delays — or denials.
 
-During underwriting, the factor verifies four things. First, your business identity and legal structure — they confirm you are a legitimately operating business in good standing, with no undisclosed bankruptcies or criminal history among principals.
+During underwriting, the factor verifies four things.
 
-Second, your receivables portfolio — they review your A/R aging to assess whether your customers pay on time, whether any invoices are concentrated with a single customer (most factors limit concentration to 25–50% of your total portfolio), and whether your invoices are eligible under their program criteria.
+### Business Identity and Legal Structure
 
-Third, your customers' creditworthiness — factors pull commercial credit reports on the customers whose invoices you want to factor. Customers with thin credit histories, recent collection actions, or disputed payment records may be excluded from your factoring facility. This is the single most common reason applications are approved with restrictions — not because of your creditworthiness, but because of theirs.
+The factor confirms you are a legitimately operating business in good standing, with no undisclosed bankruptcies or criminal history among principals.
 
-Fourth, lien position — the factor will run a UCC search to confirm no other creditor already holds a lien on your receivables. If another lender (typically a bank with an existing line of credit) holds a blanket lien including receivables, the factor will require a subordination agreement from that lender before proceeding. If you have a tax lien, most factors will decline until it is resolved.
+### Receivables Portfolio Quality
+
+The factor reviews your A/R aging to assess whether your customers pay on time, whether any invoices are concentrated with a single customer (most factors limit concentration to 25–50% of your total portfolio), and whether your invoices are eligible under their program criteria.
+
+### Customer Creditworthiness
+
+Factors pull commercial credit reports on the customers whose invoices you want to factor. Customers with thin credit histories, recent collection actions, or disputed payment records may be excluded from your factoring facility. This is the single most common reason applications are approved with restrictions — not because of your creditworthiness, but because of theirs.
+
+### Lien Position
+
+The factor will run a UCC search to confirm no other creditor already holds a lien on your receivables. If another lender (typically a bank with an existing line of credit) holds a blanket lien including receivables, the factor will require a subordination agreement from that lender before proceeding. If you have a tax lien, most factors will decline until it is resolved.
 
 ---
 

@@ -365,6 +365,11 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
   </div>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>A 2% factoring fee on a 30-day invoice equates to ~24% effective APR; the same 2% fee on a 60-day invoice drops to ~12% effective APR — customer payment speed is the single biggest cost driver in invoice factoring.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Company Profiles
@@ -469,14 +474,18 @@ TCI focuses on established businesses (2+ years in operation, $25,000+ monthly) 
 
 ## Borrower Example
 
-**Scenario:** A staffing agency invoices $100,000/month on net-30 (meaning payment is due in 30 days) terms. They choose eCapital at a 1.5% fee per 30 days and 90% advance rate.
+<pre><code>Staffing agency — $100,000/month invoices, eCapital at 1.5% fee / 30 days, 90% advance
 
-- Monthly advance: $90,000 (received within 24 hours of submitting invoices)
-- Monthly factoring fee: $1,500 (1.5% of $100,000)
-- Reserve released when customers pay: $8,500 ($100,000 − $90,000 − $1,500)
-- Effective annual cost: ~18% effective APR (the annualized cost of financing, accounting for all fees and repayment speed)
+  Monthly advance:    $90,000 (within 24 hours)
+  Factoring fee:      $1,500 (1.5% of $100,000 face value)
+  Reserve released:   $8,500 (when customers pay)
+  Effective APR:      ~18%
 
-At 2% fees with 60-day customer payment, the same $100,000 in monthly invoicing would cost $4,000/month — approximately 48% effective APR. Customer payment speed is the single biggest driver of factoring cost.
+Same fee (2%) at 60-day customer payment:
+  Monthly cost:       $4,000 ($2,000 × 2 periods)
+  Effective APR:      ~48%
+
+Customer payment speed is the single biggest cost driver.</code></pre>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

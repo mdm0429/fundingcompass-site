@@ -76,11 +76,11 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-National Funding is one of the larger online alternative lenders focused on equipment financing and working capital loans for small businesses. It operates across the US, offers a fast application process, and has relatively accessible credit requirements for equipment financing (600+ credit). Its working capital loans function similarly to merchant cash advances — the total cost is fixed as a factor, not an APR — which makes cost comparison more complex. For equipment financing specifically, National Funding is a legitimate option for businesses that don't qualify for bank or SBA equipment loans.
+National Funding is one of the larger online alternative lenders focused on equipment financing and working capital loans for small businesses. It operates across the US, offers a fast application process, and has relatively accessible credit requirements for equipment financing (600+ credit). Its working capital loans function similarly to merchant cash advances — the total cost is fixed as a factor, not an APR — which makes cost comparison more complex. For equipment financing specifically, National Funding is a legitimate option for businesses that don't qualify for bank or Small Business Administration (SBA) equipment loans.
 
-**Best for:** Businesses needing equipment financing ($5,000–$150,000) with 600+ credit and 2+ years in business. Also worth considering for working capital loans if MCA (merchant cash advance) alternatives have been ruled out.
+**Best for:** Businesses needing equipment financing ($5,000–$150,000) with 600+ credit and 2+ years in business. Also worth considering for working capital loans if merchant cash advance (MCA) alternatives have been ruled out.
 
-**Not ideal for:** Businesses seeking the lowest cost equipment financing (bank and SBA (Small Business Administration) options are cheaper for qualified borrowers), or those who need more than $150,000 in equipment financing.
+**Not ideal for:** Businesses seeking the lowest cost equipment financing (bank and SBA options are cheaper for qualified borrowers), or those who need more than $150,000 in equipment financing.
 
 ---
 
@@ -121,6 +121,11 @@ National Funding provides two core products: equipment lending (through lease an
 **Equipment Financing:** National Funding offers equipment loans and leases for a wide range of business equipment — vehicles, construction machinery, restaurant equipment, medical equipment, office technology. The application is online and fast; approval often comes within hours. Equipment serves as collateral for the financing, which enables lower credit requirements than unsecured lending.
 
 **Working Capital Loans:** Despite the name, National Funding's working capital loans function like short-term fixed-cost financing — you borrow a fixed amount and repay a fixed total over a set period via daily or weekly ACH. The effective cost varies with term length and your credit profile. These are not revolving lines of credit.
+
+<blockquote class="stat-quote">
+  <p><strong>National Funding's equipment financing covers $5,000–$150,000 at effective APRs of approximately 15–35% for qualified borrowers — accessible to businesses with 600+ credit and 2+ years in operation across vehicle, construction, restaurant, medical, and technology equipment categories.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
 
 ---
 

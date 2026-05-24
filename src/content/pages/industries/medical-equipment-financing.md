@@ -24,6 +24,11 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
+<blockquote class="stat-quote">
+  <p><strong>Medical equipment financing rates run 5–12% APR for established practices — lower than most industries because insurance reimbursements provide stable, predictable revenue that lenders view favourably.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Medical equipment financing provides loans and leases for healthcare businesses purchasing diagnostic imaging equipment, surgical tools, dental chairs, laboratory instruments, physical therapy equipment, and other clinical assets. Most healthcare practices finance medical equipment rather than paying cash — equipment often costs $50,000–$2,000,000+, and financing preserves operating capital for staffing and operations. Rates for qualified practices typically run 5–12% APR (annual percentage rate) through specialized healthcare lenders as of May 2026, and Section 179 tax deductions may reduce the effective cost significantly in the year of purchase.
 
 ---
@@ -44,7 +49,7 @@ Medical equipment financing provides loans and leases for healthcare businesses 
       <li>Imaging equipment (MRI, CT scanners) depreciates rapidly as technology improves — a 7-year-old MRI may have limited financing value and may be difficult to upgrade through sale or trade-in</li>
       <li>Start-up practices (under 2 years) face significantly higher rates (12–20%+) and often must provide 20–30% down payment, substantially increasing initial capital requirements</li>
       <li>Soft costs (software, installation, training, maintenance contracts) are capped at 20–30% of the total financed amount — large technology implementation projects may not fully qualify</li>
-      <li>SBA 504 financing for major purchases takes 45–90 days to fund — not appropriate for time-sensitive equipment replacement in a clinical setting</li>
+      <li>Small Business Administration (SBA) 504 financing for major purchases takes 45–90 days to fund — not appropriate for time-sensitive equipment replacement in a clinical setting</li>
     </ul>
   </div>
 </div>
@@ -92,21 +97,25 @@ Almost any healthcare practice purchasing equipment costing more than $5,000 can
 
 Both financing structures are widely used in healthcare. The right choice depends on the equipment type and your practice's financial goals.
 
-**Equipment Loan:**
+### Equipment Loan
+
 - You own the equipment from day one
 - Equipment appears as an asset on your balance sheet
 - Monthly payments are fixed; equity builds over time
 - Best for: equipment with long useful life (imaging systems, surgical equipment) that you'll use for 10+ years
 - Tax treatment: Section 179 deduction may allow full first-year deduction up to $1,220,000 (2026 limit)
 
-**Equipment Lease:**
+### Equipment Lease
+
 - You use the equipment without owning it (operating lease) or with a purchase option (capital/$1 buyout lease)
 - Operating leases keep equipment off the balance sheet — useful for practices managing debt covenants
 - Easier to upgrade when technology improves
 - Best for: technology-dependent equipment (digital imaging, EHR systems) that becomes obsolete in 3–5 years
 - Tax treatment: Operating lease payments may be fully deductible as a business expense
 
-**Hybrid ($1 Buyout Lease):** Functions like a loan — you own the equipment for $1 at lease end — but may offer slightly different accounting treatment. Confirm with your accountant which structure is optimal for your practice.
+### Hybrid ($1 Buyout Lease)
+
+Functions like a loan — you own the equipment for $1 at lease end — but may offer slightly different accounting treatment. Confirm with your accountant which structure is optimal for your practice.
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to compare loan vs. lease payments for your specific purchase.
 
@@ -125,7 +134,14 @@ Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/)
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A dental practice financing an $80,000 full operatory setup at 7% APR over 60 months would pay approximately $1,584/month. Using the Section 179 deduction at a 30% effective tax rate, the practice deducts the full $80,000 in year one, generating $24,000 in immediate tax savings — reducing the effective net cost of the equipment to $56,000 and improving the payback calculation against the chair's patient revenue generation.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment              : $80,000 dental full operatory setup
+APR / term             : 7% APR over 60 months
+Monthly payment        : ~$1,584/month
+Section 179 deduction  : $80,000
+Tax savings (30% rate) : $24,000
+Effective net cost     : $56,000</code></pre>
+  </div>
 </div>
 
 Rates for medical equipment tend to be lower than general equipment financing because:

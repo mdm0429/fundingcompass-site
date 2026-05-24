@@ -26,6 +26,11 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Wholesale Distributors Use Factoring
 
+<blockquote class="stat-quote">
+  <p><strong>Wholesale factoring advances 80–92% of delivered invoices at fees of 1–4% per 30-day period — converting 30–60 day receivables to same-week cash for restocking and supplier payments.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Wholesale distribution has one of the most acute cash flow timing problems in B2B commerce: you pay suppliers on delivery (or net-15) but extend net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms to retail and commercial customers. On a $500,000 monthly revenue stream, that 45-day gap represents $750,000 in outstanding receivables at any given time. Factoring converts those receivables to cash immediately, allowing distributors to restock inventory, take on new accounts, and pay suppliers on time — without drawing down a credit line or waiting for customer payments to fund operating capital needs.
 
 <div class="stat-grid stat-grid--3">
@@ -60,7 +65,7 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
     <h4>Cons and Watch-outs</h4>
     <ul>
       <li>Concentration limits cap advances on any single customer at 20–25% of the factored portfolio — distributors with one customer representing 50%+ of revenue face restricted funding</li>
-      <li>Invoice factoring only applies after delivery — distributors needing capital to fund supplier payments before shipment must use PO financing (typically 3–5% per 30 days), which is more expensive</li>
+      <li>Invoice factoring only applies after delivery — distributors needing capital to fund supplier payments before shipment must use purchase order (PO) financing (typically 3–5% per 30 days), which is more expensive</li>
       <li>Early payment discount programs (e.g., 2/10 net 30) taken by buyers are deducted from factor payments and may trigger reserve adjustments</li>
       <li>Consignment and future-delivery invoices are ineligible — title must have transferred and goods must be delivered before an invoice can be factored</li>
     </ul>
@@ -73,9 +78,13 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
 
 The mechanics follow standard receivables financing with particular attention to two wholesale-specific issues:
 
-**Purchase order (PO) financing vs. invoice factoring.** Some distributors confuse these. Invoice factoring applies to completed orders — goods delivered, invoice issued. PO financing applies to orders received but not yet fulfilled — it funds the supplier payment so you can complete the order. For distributors who need capital before delivery, PO financing may be relevant; factoring only applies after delivery.
+### PO Financing vs. Invoice Factoring
 
-**Volume and concentration.** Wholesale distributors often have high invoice volumes but concentration in a small number of retail accounts. Factors typically cap exposure to a single customer at 20–25% of the factored portfolio — distributors with one customer representing 50%+ of revenue need to disclose this early, as factors may limit advances on that account.
+Some distributors confuse these. Invoice factoring applies to completed orders — goods delivered, invoice issued. PO financing applies to orders received but not yet fulfilled — it funds the supplier payment so you can complete the order. For distributors who need capital before delivery, PO financing may be relevant; factoring only applies after delivery.
+
+### Volume and Concentration Limits
+
+Wholesale distributors often have high invoice volumes but concentration in a small number of retail accounts. Factors typically cap exposure to a single customer at 20–25% of the factored portfolio — distributors with one customer representing 50%+ of revenue need to disclose this early, as factors may limit advances on that account.
 
 ---
 
@@ -106,7 +115,14 @@ The mechanics follow standard receivables financing with particular attention to
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A food distributor with $200,000/month in invoices to regional grocery chains using Riviera Finance's 90% advance rate and 2.5% fee would receive $180,000 upfront per month and pay $5,000 in factoring fees per 30-day period. If 40% of invoices go to a single chain, Riviera's concentration cap would limit that chain's advances to the 20–25% portfolio threshold — meaning the distributor should diversify retail accounts to maximize available funding.</p></div>
+  <div class="callout__body">
+<pre><code>Monthly invoices (grocery chains) : $200,000
+Advance rate (90%)                : $180,000  upfront per month
+Factoring fee (2.5%)              : $5,000    per 30-day period
+Concentration note: if 40% of invoices go to one chain,
+  that account is capped at 20–25% of portfolio —
+  diversifying retailer accounts maximizes available funding.</code></pre>
+  </div>
 </div>
 
 ---
@@ -153,7 +169,7 @@ PO financing is more expensive than invoice factoring (typically 3–5% per 30 d
   </details>
   <details open>
     <summary>What is the difference between factoring and accounts receivable financing for distributors?</summary>
-    <p>Invoice factoring sells the invoice to the factor — the buyer pays the factor directly. Accounts receivable financing uses the invoices as collateral for a loan — you continue to collect from customers and repay the lender. Factoring is faster and requires no minimum credit score; AR financing is cheaper and preserves the customer relationship. For distributors with large retail customers who already understand factoring (Notices of Assignment — letters directing your customer to pay the factor instead of you — are common in wholesale), factoring is typically the more practical choice.</p>
+    <p>Invoice factoring sells the invoice to the factor — the buyer pays the factor directly. Accounts receivable financing uses the invoices as collateral for a loan — you continue to collect from customers and repay the lender. Factoring is faster and requires no minimum credit score; accounts receivable (AR) financing is cheaper and preserves the customer relationship. For distributors with large retail customers who already understand factoring (Notices of Assignment — letters directing your customer to pay the factor instead of you — are common in wholesale), factoring is typically the more practical choice.</p>
   </details>
   <details open>
     <summary>Does factoring work with EDI invoicing systems?</summary>

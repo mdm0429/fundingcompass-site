@@ -365,6 +365,11 @@ Rankings are based on five dimensions: published APR transparency, credit score 
   </div>
 </div>
 
+<blockquote class="stat-quote">
+  <p><strong>Crest Capital offers 5.5–12% APR for businesses with 650+ credit — a 7-percentage-point spread vs. National Funding's 14% on the same $150,000 excavator saves ~$31,000 in total interest over a 60-month term.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## Lender Profiles
@@ -485,11 +490,22 @@ For borrowers with strong credit (680+) who can wait 30–90 days, the [SBA (Sma
 
 ## Borrower Example
 
-**Scenario:** A construction company needs a $150,000 excavator. They have a 660 credit score, 3 years in business, and $600,000 annual revenue.
+<pre><code>Scenario: $150,000 excavator — 660 credit score, 3 years in business, $600K revenue
 
-- **Crest Capital** at 7% APR, 60-month term: Monthly payment ~$2,970; total interest ~$28,200
-- **National Funding** at 14% APR, 60-month term: Monthly payment ~$3,489; total interest ~$59,340
-- **SBA 504** at 6% fixed (SBA portion): Requires $15,000 down, 30–90 days to fund, far more paperwork — but monthly payment ~$2,550 on the full amount over 10 years
+Crest Capital — 7% APR, 60 months
+  Monthly payment:  $2,970
+  Total interest:   $28,200
+
+National Funding — 14% APR, 60 months
+  Monthly payment:  $3,489
+  Total interest:   $59,340
+
+SBA 504 — 6% fixed (SBA debenture portion), 10 years
+  Down payment:     $15,000 (10%)
+  Monthly payment:  ~$2,550 combined
+  Timeline:         30–90 days to fund
+
+Interest saved (Crest vs. National Funding, 60 months): ~$31,000</code></pre>
 
 For a credit score of 660, Crest Capital at 7% saves ~$31,000 in interest versus National Funding over the loan term. Rates depend on credit score, collateral, and term length.
 

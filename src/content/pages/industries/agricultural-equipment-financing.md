@@ -24,6 +24,11 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
+<blockquote class="stat-quote">
+  <p><strong>Agricultural equipment financing rates run 5–10% APR for qualified farm operations — Farm Credit System lenders typically offer rates 1–3% below commercial banks, with potential patronage dividends that reduce effective cost further.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 Agricultural machinery financing provides loans and leases for farming operations purchasing tractors, combines, planters, irrigation systems, livestock equipment, and other farm machinery. Farm equipment is capital-intensive — a modern combine harvester can cost $300,000–$600,000 — making financing essential for most operations. Agricultural lenders offer specialized structures including seasonal payment schedules that align with crop harvest and sale cycles, and manufacturer captive financing programs from John Deere and Case IH are often the most competitive starting point for comparison. Rates for qualified farm operations typically run 5–10% APR (annual percentage rate) as of May 2026, with government-backed USDA (U.S. Department of Agriculture) farm loan programs available for operations that qualify.
 
 ---
@@ -93,13 +98,17 @@ Operations of all sizes use financing — from small family farms purchasing a s
 
 Agricultural equipment financing has a unique feature that general equipment lenders often don't offer: **seasonal payment schedules**. Rather than equal monthly payments, seasonal schedules align principal payments with harvest and crop sale periods when farm cash flow is highest.
 
-**Common seasonal structures:**
-- **Annual payments:** One large payment per year at harvest time
-- **Semi-annual payments:** Two payments per year (spring planting season + fall harvest)
-- **Skip payments:** Certain months (growing season) have reduced or no payments
-- **Interest-only periods:** Full amortization begins after first harvest
+### Annual Payments
 
-Manufacturer financing programs (John Deere Financial, CNH Industrial Capital) are most likely to offer flexible seasonal structures. Confirm availability and structure details at application.
+One large payment per year at harvest time — the most concentrated structure, ideal for operations with a single major crop sale event.
+
+### Semi-Annual Payments
+
+Two payments per year (spring planting season + fall harvest) — commonly used by corn and soybean farmers who have two cash flow peaks.
+
+### Skip Payments and Interest-Only Periods
+
+Certain months (growing season) have reduced or no payments. Full amortization begins after first harvest. Manufacturer financing programs (John Deere Financial, CNH Industrial Capital) are most likely to offer flexible seasonal structures. Confirm availability and structure details at application.
 
 ---
 
@@ -164,7 +173,15 @@ FSA loans are best for beginning farmers, small and minority farming operations,
 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
-  <div class="callout__body"><p>A corn and soybean operation financing a $350,000 combine harvester at 6.5% APR over 84 months with a semi-annual payment structure would pay approximately $34,200 twice a year — once in May (planting season cash flow) and once in November (post-harvest). Compared to equal monthly payments of approximately $5,260/month, the semi-annual structure better matches the farm's cash flow cycle. Using Section 179, the full $350,000 could be deducted in the purchase year, generating approximately $98,000 in tax savings at a 28% effective rate.</p></div>
+  <div class="callout__body">
+<pre><code>Equipment               : $350,000 combine harvester
+APR / term              : 6.5% APR over 84 months
+Semi-annual payment     : ~$34,200 (May planting + November post-harvest)
+vs. equal monthly       : ~$5,260/month
+Section 179 deduction   : $350,000
+Tax savings (28% rate)  : ~$98,000</code></pre>
+<p>The semi-annual structure better matches the farm's cash flow cycle compared to equal monthly payments.</p>
+  </div>
 </div>
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model monthly payments at different rate and term scenarios.

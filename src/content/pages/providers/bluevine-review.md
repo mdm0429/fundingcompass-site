@@ -129,6 +129,11 @@ When active, BlueVine's factoring product had several distinguishing features wo
 
 **Weekly fee structure.** BlueVine's 0.25–1.7%/week fee structure required careful modelling. At 0.25%/week (~13% APR (annual percentage rate)) for a 2-week payment cycle, it was competitive. At 1.7%/week (~88% APR) for a 4-week cycle, it was expensive. Your rate depended heavily on customer credit quality.
 
+<blockquote class="stat-quote">
+  <p><strong>BlueVine's active line of credit advances up to $250,000 at approximately 15–78% APR — accessible to businesses with 625+ personal FICO, 12+ months in business, and $40,000+/month in revenue, with no long-term contract required.</strong></p>
+  <cite>FundingCompass research, May 2026</cite>
+</blockquote>
+
 ---
 
 ## BlueVine's Current Products (2026)
@@ -150,7 +155,7 @@ If you came to this review seeking invoice factoring, the companies that current
 For businesses interested in BlueVine's active product (the line of credit), here is an independent assessment:
 
 **Who qualifies (LOC — active product):**
-- 625+ personal FICO score
+- 625+ personal FICO credit score
 - 12+ months in business
 - $40,000+ in monthly revenue ($480,000+ annually)
 - US-based business
