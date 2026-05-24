@@ -117,9 +117,12 @@ pre {
   padding: var(--space-4);
   overflow-x: auto;
   margin-bottom: var(--space-4);
-  font-family: var(--font-data);
-  font-size: 0.875em;
-  line-height: var(--leading-relaxed);
+  font-family: ui-monospace, 'Cascadia Code', 'Fira Mono', monospace;
+  font-size: 0.8125em;
+  line-height: 1.7;
+  tab-size: 2;
+  -moz-tab-size: 2;
+  white-space: pre;
 }
 
 pre code {
@@ -131,36 +134,34 @@ pre code {
 }
 
 /* ── Key Terms definition lists ──────────────────────────── */
-/* Each dt+dd pair renders as a two-part card: the term is the card header
-   (brand-tinted), the definition is the card body (muted bg). Adjacent cards
-   are separated by margin-top on dt. */
-.prose dl, dl {
+/* The entire <dl> is one card. Terms are separated by a subtle rule inside. */
+.prose dl, article dl, dl {
+  background: var(--surface-muted);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-md);
+  padding: 0 var(--space-4) var(--space-3);
   margin-bottom: var(--space-6);
 }
 
 dt {
   font-weight: var(--weight-medium);
   color: var(--color-brand-700, #1e3a8a);
-  background: var(--surface-tinted);
-  border: 1px solid var(--border-default);
-  border-bottom: none;
-  border-radius: var(--radius-sm) var(--radius-sm) 0 0;
-  padding: var(--space-2) var(--space-3);
-  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  margin-top: var(--space-3);
+  border-top: 1px solid var(--border-default);
 }
 
-dt:first-child { margin-top: 0; }
+dt:first-child {
+  border-top: none;
+  margin-top: 0;
+}
 
 dd {
   margin-left: 0;
-  background: var(--surface-muted);
-  border: 1px solid var(--border-default);
-  border-top: none;
-  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
-  padding: var(--space-2) var(--space-3);
-  margin-bottom: 0;
   color: var(--text-secondary);
   line-height: var(--leading-relaxed);
+  padding-bottom: var(--space-1);
+  margin-bottom: 0;
 }
 
 
@@ -260,11 +261,12 @@ hr {
   color: #fff;
   position: sticky;
   top: 0;
-  /* align-self prevents flex-column containers from stretching this element,
-     which can interfere with sticky behaviour in some browsers */
-  align-self: stretch;
   z-index: var(--z-sticky);
   box-shadow: var(--shadow-sm);
+  /* translate(0,0) promotes the header to its own compositor layer.
+     Without this, a child's transform:rotate (the dropdown arrow on hover)
+     can trigger a repaint that temporarily breaks sticky positioning. */
+  transform: translate(0, 0);
 }
 
 .site-header__inner {

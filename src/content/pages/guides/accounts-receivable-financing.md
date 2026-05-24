@@ -166,23 +166,23 @@ With invoice financing, you borrow money using your outstanding invoices as coll
 
 ### Factoring Fee Example
 
-<pre><code>Invoice value:       $100,000
-Advance (90%):       $90,000
-Customer pays in:    45 days
-Fee (2% × 1.5 mo):  $3,000
-Reserve released:    $100,000 − $90,000 − $3,000 = $7,000
-Total cost:          $3,000 (3% of invoice value)
-Effective APR:       ~24%</code></pre>
+<pre><code>Invoice value:            $100,000
+Advance (90%):            $90,000
+Customer pays in:         45 days
+Fee (2% × 1.5 mo):        $3,000
+Reserve released:         $100,000 − $90,000 − $3,000 = $7,000
+Total cost:               $3,000 (3% of invoice value)
+Effective APR:            ~24%</code></pre>
 
 ### AR Line of Credit Example
 
-<pre><code>Invoice value:       $100,000
-Advance (80%):       $80,000
-Daily rate:          0.04%/day
-Customer pays in:    45 days
-Interest:            $80,000 × 0.04% × 45 = $1,440
-Total cost:          $1,440+ (approx. 1.8% of invoice value)
-Effective APR:       ~14–18% depending on fees</code></pre>
+<pre><code>Invoice value:            $100,000
+Advance (80%):            $80,000
+Daily rate:               0.04%/day
+Customer pays in:         45 days
+Interest:                 $80,000 × 0.04% × 45 = $1,440
+Total cost:               $1,440+ (approx. 1.8% of invoice value)
+Effective APR:            ~14–18% depending on fees</code></pre>
 
 AR lines of credit can be cheaper than factoring if your customers pay quickly and you have adequate credit to qualify. For slower-paying customers (60–90 days), the cost differential narrows.
 
@@ -190,12 +190,12 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A government contractor factors a $100,000 invoice at a 90% advance rate with a 2% factoring fee per 30 days. The customer pays in 45 days.</p>
-<pre><code>Invoice value:       $100,000
-Advance (90%):       $90,000
-Customer pays in:    45 days
-Fee (2% × 1.5 mo):  $3,000
-Reserve released:    $7,000
-Effective APR:       ~24%</code></pre>
+<pre><code>Invoice value:            $100,000
+Advance (90%):            $90,000
+Customer pays in:         45 days
+Fee (2% × 1.5 mo):        $3,000
+Reserve released:         $7,000
+Effective APR:            ~24%</code></pre>
     <p>An AR line of credit on the same invoice at 0.04%/day over 45 days costs approximately $1,620 — about 46% cheaper, but requires 1–2+ years in business and a 600+ credit score to qualify.</p>
   </div>
 </div>

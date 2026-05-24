@@ -135,12 +135,12 @@ Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/)
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment              : $80,000 dental full operatory setup
-APR / term             : 7% APR over 60 months
-Monthly payment        : ~$1,584/month
-Section 179 deduction  : $80,000
-Tax savings (30% rate) : $24,000
-Effective net cost     : $56,000</code></pre>
+<pre><code>Equipment:                $80,000 dental full operatory setup
+APR / term:               7% APR over 60 months
+Monthly payment:          ~$1,584/month
+Section 179 deduction:    $80,000
+Tax savings (30% rate):   $24,000
+Effective net cost:       $56,000</code></pre>
   </div>
 </div>
 

@@ -123,11 +123,11 @@ The factor advances 90–97% of the invoice value. Most freight factors fund wit
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly invoice volume : $40,000
-Advance rate           : 97%
-Upfront advance        : $38,800
-Factoring fee (1.5%)   : $600 per 30-day period
-Net proceeds           : $38,200 + reserve release on broker payment</code></pre>
+<pre><code>Monthly invoice volume:   $40,000
+Advance rate:             97%
+Upfront advance:          $38,800
+Factoring fee (1.5%):     $600 per 30-day period
+Net proceeds:             $38,200 + reserve release on broker payment</code></pre>
 <p>At a fuel advance of 40% on each $2,000 average load, the same carrier receives $800 at dispatch and the remaining advance upon delivery paperwork submission.</p>
   </div>
 </div>

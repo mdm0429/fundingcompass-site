@@ -135,11 +135,11 @@ Government contractor factoring is generally **less expensive than commercial fa
 
 ### Cost Example
 
-<pre><code>Monthly invoicing           : $100,000
-Advance rate (90%)          : $90,000   received immediately
-Factoring fee (2%/30 days)  : $100,000 × 2% × (35/30) = $2,333
+<pre><code>Monthly invoicing:         $100,000
+Advance rate (90%):        $90,000   received immediately
+Factoring fee (2%/30 days):  $100,000 × 2% × (35/30) = $2,333
 Agency pays in 35 days
-Reserve released            : $100,000 − $90,000 − $2,333 = $7,667</code></pre>
+Reserve released:          $100,000 − $90,000 − $2,333 = $7,667</code></pre>
 
 <dl>
   <dt>Assignment of Claims Act (31 U.S.C. § 3727)</dt>
@@ -157,11 +157,11 @@ Reserve released            : $100,000 − $90,000 − $2,333 = $7,667</code></p
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly invoicing (civilian agency) : $100,000
-Advance rate (90%)                  : $90,000  upfront
-Factoring fee (2%/30 days)          : $2,000   per period
-Prorated fee if agency pays day 35  : $2,333
-Reserve release at payment          : $7,667</code></pre>
+<pre><code>Monthly invoicing (civilian agency):  $100,000
+Advance rate (90%):        $90,000  upfront
+Factoring fee (2%/30 days):  $2,000   per period
+Prorated fee if agency pays day 35:  $2,333
+Reserve release at payment:  $7,667</code></pre>
   </div>
 </div>
 

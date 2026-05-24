@@ -122,12 +122,12 @@ Your client pays the factor on their normal terms. The factor collects directly.
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly client invoices  : $100,000
-Advance rate             : 90%
-Upfront advance          : $90,000  (within 24 hours)
-Factoring fee (2%)       : $2,000   per 30-day period
-Back-office add-on (~1%) : +$900    (Capital Plus full back-office)
-Total monthly cost       : $2,900</code></pre>
+<pre><code>Monthly client invoices:   $100,000
+Advance rate:             90%
+Upfront advance:          $90,000  (within 24 hours)
+Factoring fee (2%):       $2,000   per 30-day period
+Back-office add-on (~1%): +$900    (Capital Plus full back-office)
+Total monthly cost:       $2,900</code></pre>
   </div>
 </div>
 

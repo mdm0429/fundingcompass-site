@@ -113,12 +113,12 @@ Most commercial kitchen and front-of-house equipment qualifies, including:
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment purchase       : $60,000  (range, hood, dishwasher, refrigeration)
-APR / term               : 8% APR over 60 months
-Monthly payment          : ~$1,216/month
-Section 179 deduction    : $60,000  (full purchase year deduction)
-Tax savings (25% rate)   : $15,000
-Effective net cost       : $45,000</code></pre>
+<pre><code>Equipment purchase:        $60,000  (range, hood, dishwasher, refrigeration)
+APR / term:               8% APR over 60 months
+Monthly payment:          ~$1,216/month
+Section 179 deduction:    $60,000  (full purchase year deduction)
+Tax savings (25% rate):   $15,000
+Effective net cost:       $45,000</code></pre>
   </div>
 </div>
 

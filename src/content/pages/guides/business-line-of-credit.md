@@ -137,14 +137,14 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A wholesale distributor draws $40,000 from a $75,000 business LOC at 18% APR to cover a 45-day inventory gap before a major seasonal order is paid.</p>
-<pre><code>Amount drawn:        $40,000
-APR:                 18%
-Draw period:         45 days
-Interest:            $40,000 × 18% ÷ 365 × 45 = ~$888
-Effective APR:       18%
+<pre><code>Amount drawn:             $40,000
+APR:                      18%
+Draw period:              45 days
+Interest:                 $40,000 × 18% ÷ 365 × 45 = ~$888
+Effective APR:            18%
 
-MCA alternative (1.30 factor rate): $12,000 in fees
-LOC savings vs. MCA: $11,112</code></pre>
+MCA alternative (1.30 factor rate):  $12,000 in fees
+LOC savings vs. MCA:      $11,112</code></pre>
     <p>The same operating capital need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more for the identical cash amount.</p>
   </div>
 </div>

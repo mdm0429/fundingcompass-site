@@ -153,26 +153,29 @@ A business factors $50,000/month in invoices with 30-day customer payment.
 
 The $3,000 annual saving from contract factoring needs to be weighed against: the termination fee risk if circumstances change, the minimum volume fee if some months fall below the floor, and the value of flexibility if your business needs to pause factoring mid-contract.
 
-<pre><code>Same invoice, two factoring structures.
-Invoice: $50,000, net-30 customer, 90% advance.
+<div class="comp-table-wrap">
+  <table class="comp-table">
+    <thead>
+      <tr>
+        <th style="min-width:160px">Metric</th>
+        <th>Spot Factoring</th>
+        <th>Contract Factoring</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Invoice</strong></td><td>$50,000, net-30, 90% advance</td><td>$50,000, net-30, 90% advance</td></tr>
+      <tr><td><strong>Fee rate</strong></td><td>3.5%/30 days (no-contract premium)</td><td>1.75%/30 days</td></tr>
+      <tr><td><strong>Advance (90%)</strong></td><td>$45,000</td><td>$45,000</td></tr>
+      <tr><td><strong>Fee on $50,000</strong></td><td>$1,750</td><td>$875</td></tr>
+      <tr><td><strong>Reserve (released when paid)</strong></td><td>$3,250</td><td>$4,125</td></tr>
+      <tr><td><strong>Contract commitment</strong></td><td>None</td><td>12-month, $25,000/mo minimum</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,750</td><td class="td-num">$875</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~42%</td><td class="td-num">~21%</td></tr>
+    </tbody>
+  </table>
+</div>
 
-Spot Factoring
-  Fee rate:             3.5%/30 days (premium for no contract)
-  Advance:              $45,000 (90%)
-  Fee on $50,000:       $1,750
-  Reserve:              $3,250 (released when paid)
-  Effective APR:        ~42%
-
-Contract Factoring (12-month, $25,000/mo minimum)
-  Fee rate:             1.75%/30 days
-  Advance:              $45,000 (90%)
-  Fee on $50,000:       $875
-  Reserve:              $4,125 (released when paid)
-  Effective APR:        ~21%
-
-Cost difference per invoice: $875 cheaper with contract factoring.
-At $25,000/month over 12 months: ~$10,500 total savings vs. spot rates.
-</code></pre>
+Cost difference per invoice: $875 cheaper with contract factoring. At $25,000/month over 12 months: ~$10,500 total savings vs. spot rates.
 
 ---
 

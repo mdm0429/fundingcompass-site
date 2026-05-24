@@ -109,25 +109,28 @@ Same business, same capital need, two different products.
 
 **The business:** A staffing agency needs $50,000 for 45 days to cover payroll while waiting on client payments.
 
-<pre><code>Same business, same capital need, two different products.
-Business: staffing agency needs $50,000 for 45 days to cover payroll.
-
-Option A — Invoice Factoring
-  Invoice:              $60,000 outstanding (net-45)
-  Advance rate:         90% = $54,000 upfront
-  Fee:                  2%/30 days × 1.5 periods = 3% = $1,800
-  Reserve released:     $3,600 (when client pays)
-  Total cost:           $1,800    |   Effective APR: ~24%
-
-Option B — Merchant Cash Advance
-  Advance:              $50,000 at factor rate 1.30
-  Total repayment:      $65,000 (fixed)
-  Daily holdback:       15% × $4,000/day = $600/day
-  Days to repay:        ~108 days
-  Total cost:           $15,000   |   Effective APR: ~101%
+<div class="comp-table-wrap">
+  <table class="comp-table">
+    <thead>
+      <tr>
+        <th style="min-width:160px">Metric</th>
+        <th>Invoice Factoring</th>
+        <th>Merchant Cash Advance (MCA)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Invoice / Advance</strong></td><td>$60,000 outstanding (net-45)</td><td>$50,000 at factor rate 1.30</td></tr>
+      <tr><td><strong>Advance rate / Upfront</strong></td><td>90% = $54,000 upfront</td><td>$50,000 lump sum</td></tr>
+      <tr><td><strong>Fee / Cost structure</strong></td><td>2%/30 days × 1.5 periods = 3% = $1,800</td><td>Total repayment: $65,000 (fixed)</td></tr>
+      <tr><td><strong>Reserve / Holdback</strong></td><td>$3,600 released when client pays</td><td>15% × $4,000/day = $600/day holdback</td></tr>
+      <tr><td><strong>Days to repay</strong></td><td>~45 days (when customer pays)</td><td>~108 days</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,800</td><td class="td-num">$15,000</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~24%</td><td class="td-num">~101%</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Difference: $13,200 in favour of factoring for the same $50,000, 45-day window.
-</code></pre>
 
 This example assumes the business has B2B invoices to factor. If it only has card sales and no outstanding invoices, factoring is not available — the MCA may be the only option.
 

@@ -160,17 +160,17 @@ Lease payments are calculated from two components:
 
 **Example (Operating Lease):**
 
-<pre><code>Equipment cost:        $60,000
-Residual value:        $15,000
-Term:                  36 months
-Money factor:          0.002 (~4.8% APR)
+<pre><code>Equipment cost:           $60,000
+Residual value:           $15,000
+Term:                     36 months
+Money factor:             0.002 (~4.8% APR)
 
-Depreciation payment:  ($60,000 − $15,000) ÷ 36 = $1,250/month
-Finance charge:        ($60,000 + $15,000) × 0.002 = $150/month
-Total monthly payment: $1,400
+Depreciation payment:     ($60,000 − $15,000) ÷ 36 = $1,250/month
+Finance charge:           ($60,000 + $15,000) × 0.002 = $150/month
+Total monthly payment:    $1,400
 
 Equivalent 36-mo loan at 8% APR:  ~$1,880/month
-Monthly savings with lease:        $480 (26% lower)</code></pre>
+Monthly savings with lease:  $480 (26% lower)</code></pre>
 
 The operating lease payment is 26% lower than the loan payment because you're not paying for the full equipment value — only the $45,000 depreciation during the lease term.
 
@@ -219,15 +219,15 @@ Always ask for the money factor and convert it to APR for comparison with loan r
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A dental practice leases a $90,000 digital imaging system on a 48-month operating lease with a money factor of 0.00292 and an estimated residual value of $18,000.</p>
-<pre><code>Equipment cost:         $90,000
-Residual value:         $18,000
-Term:                   48 months
-Money factor:           0.00292 (~7% APR)
+<pre><code>Equipment cost:           $90,000
+Residual value:           $18,000
+Term:                     48 months
+Money factor:             0.00292 (~7% APR)
 
-Monthly lease payment:  ~$1,838
-Equivalent loan (8%):   ~$2,196/month
-Monthly savings:        $358 (16% lower)
-Total savings (48 mo):  $17,184</code></pre>
+Monthly lease payment:    ~$1,838
+Equivalent loan (8%):     ~$2,196/month
+Monthly savings:          $358 (16% lower)
+Total savings (48 mo):    $17,184</code></pre>
     <p>Over 48 months the operating lease saves $17,184 in payments — and the practice can return the system and lease updated imaging technology at term end, avoiding ownership of a rapidly depreciating asset.</p>
   </div>
 </div>

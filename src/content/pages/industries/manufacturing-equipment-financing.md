@@ -106,12 +106,12 @@ Current rates for manufacturing equipment range from 5.5–14% APR (annual perce
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment              : $200,000 Haas CNC machining centre
-APR / term             : 7% APR over 72 months
-Monthly payment        : ~$3,042/month
-Section 179 deduction  : $200,000
-Tax savings (28% rate) : $56,000
-Effective net cost     : $144,000</code></pre>
+<pre><code>Equipment:                $200,000 Haas CNC machining centre
+APR / term:               7% APR over 72 months
+Monthly payment:          ~$3,042/month
+Section 179 deduction:    $200,000
+Tax savings (28% rate):   $56,000
+Effective net cost:       $144,000</code></pre>
   </div>
 </div>
 

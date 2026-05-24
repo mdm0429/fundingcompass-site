@@ -138,12 +138,12 @@ Unlike a general business loan, machinery financing is tied to a specific asset.
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A landscaping company finances a $120,000 skid steer loader at 8% APR over 60 months through an equipment lender.</p>
-<pre><code>Amount financed:     $120,000 (100% — no down payment)
-Monthly payment:     ~$2,433
-Term:                60 months
-Total interest:      ~$25,980
-Effective APR:       8%
-Section 179 saving:  ~$30,000 (at 25% tax rate)</code></pre>
+<pre><code>Amount financed:          $120,000 (100% — no down payment)
+Monthly payment:          ~$2,433
+Term:                     60 months
+Total interest:           ~$25,980
+Effective APR:            8%
+Section 179 saving:       ~$30,000 (at 25% tax rate)</code></pre>
     <p>With the Section 179 deduction at a 25% effective tax rate, the ~$30,000 tax saving nearly offsets the entire interest cost — making the effective cost of the machinery financing significantly lower than the stated rate suggests.</p>
   </div>
 </div>

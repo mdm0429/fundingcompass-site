@@ -106,11 +106,11 @@ Construction equipment has one significant advantage over most asset classes for
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment              : $180,000 Caterpillar 320 excavator
-Third-party lender     : 7% APR / 72 months → $3,078/month
-CAT Financial promo    : 0% APR / 24 months  → $7,500/month
+<pre><code>Equipment               : $180,000 Caterpillar 320 excavator
+Third-party lender      : 7% APR / 72 months → $3,078/month
+CAT Financial promo     : 0% APR / 24 months  → $7,500/month
 Total interest savings
-  with OEM promo       : $25,000+  (vs. third-party at 7%)</code></pre>
+  with OEM promo        : $25,000+  (vs. third-party at 7%)</code></pre>
 <p>If the contractor can afford the higher payment, the OEM promotional offer wins decisively.</p>
   </div>
 </div>

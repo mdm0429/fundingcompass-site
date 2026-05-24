@@ -134,11 +134,11 @@ Healthcare factors typically advance on:
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly insurance receivables : $50,000
-Advance rate                  : 80%
-Upfront advance               : $40,000  (within 24 hours)
-Factoring fee (3%)            : $1,500   per 30-day period
-Reserve release (at payment)  : $50,000 − $40,000 − $1,500 = $8,500</code></pre>
+<pre><code>Monthly insurance receivables:  $50,000
+Advance rate:             80%
+Upfront advance:          $40,000  (within 24 hours)
+Factoring fee (3%):       $1,500   per 30-day period
+Reserve release (at payment):  $50,000 − $40,000 − $1,500 = $8,500</code></pre>
 <p>If the payer mix is primarily BCBS and Aetna with a denial rate below 10%, the agency qualifies for the higher end of PRN's advance range.</p>
   </div>
 </div>

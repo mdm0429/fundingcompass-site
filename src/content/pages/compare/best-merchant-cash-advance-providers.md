@@ -47,7 +47,8 @@ With that context, here is an independent assessment of the major providers.
   <table class="comp-table">
     <thead>
       <tr>
-        <th style="min-width:220px">Provider</th>
+        <th style="min-width:180px">Provider</th>
+        <th>Good For</th>
         <th>Best For</th>
         <th>Factor Rate</th>
         <th>Holdback</th>
@@ -60,9 +61,10 @@ With that context, here is an independent assessment of the major providers.
     <tbody>
       <tr class="td-pick">
         <td>
-          <div class="td-provider"><img src="/logos/credibly.svg" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly <span>Best transparency</span></div>
+          <div class="td-provider"><img src="/logos/credibly.svg" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly</div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
+        <td>Transparent pricing, MCA + LOC comparison</td>
         <td>Businesses that want MCA + LOC comparison and fee transparency</td>
         <td class="td-num">1.15–1.49</td>
         <td class="td-num">10–25%</td>
@@ -72,7 +74,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.credibly.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/ondeck.svg" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck <span>Lowest factor rate floor</span></div></td>
+        <td><div class="td-provider"><img src="/logos/ondeck.svg" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck</div></td>
+        <td>Established businesses, 625+ credit</td>
         <td>Established businesses (12+ months, 625+ credit) seeking a regulated lender</td>
         <td class="td-num">1.10–1.40</td>
         <td class="td-num">Varies</td>
@@ -82,7 +85,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.ondeck.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/rapid.svg" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance <span>Largest max advance</span></div></td>
+        <td><div class="td-provider"><img src="/logos/rapid.svg" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance</div></td>
+        <td>Large advances, 2+ years in business</td>
         <td>Established businesses (2+ years) needing larger advances up to $500,000</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
@@ -92,7 +96,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.rapidfinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/bfs.svg" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital <span>Accessible industries</span></div></td>
+        <td><div class="td-provider"><img src="/logos/bfs.svg" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital</div></td>
+        <td>Niche industries, lower revenue floors</td>
         <td>Lower revenue businesses and industries other MCA providers avoid</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
@@ -102,7 +107,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.bfscapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/greenbox.svg" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital <span>Broad industry coverage</span></div></td>
+        <td><div class="td-provider"><img src="/logos/greenbox.svg" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital</div></td>
+        <td>Broad industry acceptance, $10K+ revenue</td>
         <td>Businesses with $10,000+ monthly revenue seeking broad industry acceptance</td>
         <td class="td-num">1.18–1.48</td>
         <td class="td-num">10–20%</td>
@@ -398,7 +404,8 @@ If the restaurant cannot qualify for equipment financing, the MCA may be the onl
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
-    <p><strong>Scenario:</strong> Restaurant with $40,000/month in card sales, $30,000 needed for kitchen equipment repairs — Credibly MCA</p>
+    <p><strong>Scenario:</strong> Restaurant with $40,000/month in card sales, $30,000 needed for kitchen equipment repairs</p>
+    <p><strong>Lender:</strong> Credibly MCA</p>
     <ul>
       <li>Amount advanced: $30,000 at factor rate 1.25</li>
       <li>Total repayment: $37,500 ($30,000 × 1.25)</li>

@@ -155,11 +155,11 @@ Operating leases are designed to match these refresh cycles — you lease for 3 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment                : $120,000 server + storage package
-Loan (8% APR/48 months)  : ~$2,928/month
-FMV operating lease      : ~$2,400/month  (lender retains residual)
-Residual value at year 4 : $5,000–$10,000 on 4-year-old hardware
-Lease advantage          : return + refresh, avoid stranded asset</code></pre>
+<pre><code>Equipment:                $120,000 server + storage package
+Loan (8% APR/48 months):  ~$2,928/month
+FMV operating lease:      ~$2,400/month  (lender retains residual)
+Residual value at year 4: $5,000–$10,000 on 4-year-old hardware
+Lease advantage:          return + refresh, avoid stranded asset</code></pre>
 <p>For most technology deployments, the operating lease wins on total cost if the equipment will be replaced at term end.</p>
   </div>
 </div>

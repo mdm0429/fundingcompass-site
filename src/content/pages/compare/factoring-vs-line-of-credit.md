@@ -146,28 +146,28 @@ At 30-day customer payment, factoring fees halve ($2,400) and the gap narrows to
 
 The longer your customers take to pay, the more expensive factoring becomes relative to a line of credit at the same APR.
 
-<pre><code>Same business, same capital need, two different products.
-Business: consulting firm with $80,000 outstanding invoices, needs $60,000 working capital.
+<div class="comp-table-wrap">
+  <table class="comp-table">
+    <thead>
+      <tr>
+        <th style="min-width:160px">Metric</th>
+        <th>Invoice Factoring</th>
+        <th>Business Line of Credit</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Invoice pool / Credit limit</strong></td><td>$80,000 outstanding (net-30)</td><td>$75,000 revolving credit limit</td></tr>
+      <tr><td><strong>Available / Advance rate</strong></td><td>90% = $72,000 available</td><td>—</td></tr>
+      <tr><td><strong>Amount drawn</strong></td><td>$60,000</td><td>$60,000</td></tr>
+      <tr><td><strong>Fee / Interest</strong></td><td>1.75%/30 days on $60,000 = $1,050</td><td>$60,000 × 12% APR / 12 = $600</td></tr>
+      <tr><td><strong>One-time origination fee</strong></td><td>—</td><td>$500 (year 1 only)</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost (month 1)</strong></td><td class="td-num">$1,050</td><td class="td-num">$1,100</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~21%</td><td class="td-num">~22% (incl. origination)</td></tr>
+    </tbody>
+  </table>
+</div>
 
-Option A — Invoice Factoring
-  Invoice pool:         $80,000 outstanding (net-30)
-  Advance rate:         90% = $72,000 available
-  Amount drawn:         $60,000
-  Fee:                  1.75%/30 days on $60,000 = $1,050
-  Total cost:           $1,050    |   Effective APR: ~21%
-
-Option B — Business Line of Credit
-  Credit limit:         $75,000 revolving
-  Amount drawn:         $60,000
-  Annual interest rate: 12% APR
-  Interest for 30 days: $60,000 × 12% / 12 = $600
-  Origination fee:      $500 (one-time, year 1)
-  Total cost (month 1): $1,100    |   Effective APR: ~22% (incl. origination)
-
-After month 1 (no origination fee):
-  LOC monthly cost:     $600    |   Factoring monthly cost: $1,050
-  LOC is cheaper by $450/month once the line is established.
-</code></pre>
+After month 1 (no origination fee): LOC monthly cost drops to $600 vs. factoring at $1,050 — the LOC is cheaper by $450/month once the line is established.
 
 ---
 

@@ -165,10 +165,10 @@ For suppliers with strong compliance histories and creditworthy retailer custome
 
 ### Cost Example
 
-<pre><code>Invoice value (net-60)     : $100,000
-Advance rate (85%)         : $85,000   received immediately
-Factoring fee (2.5% × 2)   : $5,000    (2 × 30-day periods)
-Reserve released at payment: $100,000 − $85,000 − $5,000 = $10,000</code></pre>
+<pre><code>Invoice value (net-60):    $100,000
+Advance rate (85%):        $85,000   received immediately
+Factoring fee (2.5% × 2):  $5,000    (2 × 30-day periods)
+Reserve released at payment:  $100,000 − $85,000 − $5,000 = $10,000</code></pre>
 
 For a supplier with $500K in monthly retail invoices, factoring provides $425K in immediate cash flow while total monthly fees run $12,500–$25,000.
 

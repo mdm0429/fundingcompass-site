@@ -52,7 +52,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
   <table class="comp-table">
     <thead>
       <tr>
-        <th style="min-width:220px">Company</th>
+        <th style="min-width:180px">Company</th>
+        <th>Good For</th>
         <th>Industry / Equipment</th>
         <th>APR Range</th>
         <th>Min. Credit</th>
@@ -65,9 +66,10 @@ Rankings are based on five dimensions: published APR transparency, credit score 
     <tbody>
       <tr class="td-pick">
         <td>
-          <div class="td-provider"><img src="/logos/crest.svg" alt="Crest Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Crest Capital <span>Best rates for established cos.</span></div>
+          <div class="td-provider"><img src="/logos/crest.svg" alt="Crest Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Crest Capital</div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
+        <td>Established businesses, 650+ credit</td>
         <td>Most commercial equipment</td>
         <td class="td-num">5.5–12%</td>
         <td class="td-num">650</td>
@@ -77,7 +79,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.crestcapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/currency.svg" alt="Currency Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Currency Capital <span>Large purchases &amp; multiple asset types</span></div></td>
+        <td><div class="td-provider"><img src="/logos/currency.svg" alt="Currency Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Currency Capital</div></td>
+        <td>Large purchases, multiple asset types</td>
         <td>Construction, transportation, manufacturing, medical, tech, restaurant</td>
         <td class="td-num">5.99–14%</td>
         <td class="td-num">640</td>
@@ -87,7 +90,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.currencycapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/balboa.svg" alt="Balboa Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Balboa Capital <span>Same-day funding</span></div></td>
+        <td><div class="td-provider"><img src="/logos/balboa.svg" alt="Balboa Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Balboa Capital</div></td>
+        <td>Same-day funding needs</td>
         <td>Most commercial equipment</td>
         <td class="td-num">6–18%</td>
         <td class="td-num">620</td>
@@ -97,7 +101,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.balboacapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/national.svg" alt="National Funding" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">National Funding <span>Below-average credit OK</span></div></td>
+        <td><div class="td-provider"><img src="/logos/national.svg" alt="National Funding" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">National Funding</div></td>
+        <td>Credit scores 600–640</td>
         <td>Most commercial equipment</td>
         <td class="td-num">7–26%</td>
         <td class="td-num">600</td>
@@ -107,7 +112,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.nationalfunding.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/taycor.svg" alt="Taycor Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Taycor Financial <span>Startups &amp; challenged credit</span></div></td>
+        <td><div class="td-provider"><img src="/logos/taycor.svg" alt="Taycor Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Taycor Financial</div></td>
+        <td>Startups, used equipment</td>
         <td>Transportation, construction; startups &amp; used equipment</td>
         <td class="td-num">6–20%</td>
         <td class="td-num">580</td>
@@ -117,7 +123,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.taycorfinancial.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/sba.svg" alt="SBA 7(a)" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">SBA 7(a) <span>Via SBA-approved lender</span></div></td>
+        <td><div class="td-provider"><img src="/logos/sba.svg" alt="SBA 7(a)" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">SBA 7(a)</div></td>
+        <td>Lowest rate, large purchases (680+ credit)</td>
         <td>Most equipment &amp; working capital; broad use</td>
         <td class="td-num">9.5–12%</td>
         <td class="td-num">680+</td>
@@ -127,7 +134,8 @@ Rankings are based on five dimensions: published APR transparency, credit score 
         <td style="text-align:center"><a href="https://www.sba.gov/funding-programs/loans" class="btn btn--outline btn--sm" target="_blank" rel="noopener">Learn More</a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/sba.svg" alt="SBA 504" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">SBA 504 <span>Fixed assets + real property</span></div></td>
+        <td><div class="td-provider"><img src="/logos/sba.svg" alt="SBA 504" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">SBA 504</div></td>
+        <td>Heavy equipment + real property</td>
         <td>Fixed assets — heavy equipment &amp; real property</td>
         <td class="td-num">5.5–7%</td>
         <td class="td-num">680+</td>
@@ -503,7 +511,8 @@ For a credit score of 660, Crest Capital at 7% saves ~$31,000 in interest versus
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
-    <p><strong>Scenario:</strong> Construction company, $150,000 excavator, 660 credit score, 3 years in business — Crest Capital vs. National Funding</p>
+    <p><strong>Scenario:</strong> Construction company, $150,000 excavator, 660 credit score, 3 years in business</p>
+    <p><strong>Lender:</strong> Crest Capital vs. National Funding</p>
     <ul>
       <li>Amount financed: $150,000 (60-month term)</li>
       <li>Crest Capital at 7% APR: monthly payment ~$2,970; total interest ~$28,200</li>

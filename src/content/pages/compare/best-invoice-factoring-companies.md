@@ -51,7 +51,8 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
   <table class="comp-table">
     <thead>
       <tr>
-        <th style="min-width:220px">Company</th>
+        <th style="min-width:180px">Company</th>
+        <th>Good For</th>
         <th>Industry</th>
         <th>Advance Rate</th>
         <th>Fee / 30 Days</th>
@@ -65,9 +66,10 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/ecapital.svg" alt="eCapital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            eCapital <span>Freight &amp; B2B</span></div>
+            eCapital</div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
+        <td>Freight carriers, high-volume B2B</td>
         <td>Freight, staffing, general B2B</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">From 0.69%</td>
@@ -79,8 +81,9 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/triumph.svg" alt="Triumph" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            Triumph Business Capital <span>Multi-industry</span></div>
+            Triumph Business Capital</div>
         </td>
+        <td>Multi-industry businesses, staffing + freight</td>
         <td>Freight, staffing, healthcare</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">1.5–3%</td>
@@ -92,8 +95,9 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/riviera.svg" alt="Riviera Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            Riviera Finance <span>Non-recourse specialist</span></div>
+            Riviera Finance</div>
         </td>
+        <td>Non-recourse factoring, manufacturing</td>
         <td>Manufacturing, distribution, construction</td>
         <td class="td-num">85–95%</td>
         <td class="td-num">1.5–3.5%</td>
@@ -105,8 +109,9 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/rts.svg" alt="RTS Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            RTS Financial <span>Freight only, no minimums</span></div>
+            RTS Financial</div>
         </td>
+        <td>Owner-operators, no minimum volume</td>
         <td>Freight only</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">1–3%</td>
@@ -118,8 +123,9 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/tci.svg" alt="TCI" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            TCI Business Capital <span>Established B2B</span></div>
+            TCI Business Capital</div>
         </td>
+        <td>Established B2B, $25K+ monthly volume</td>
         <td>General B2B, staffing, construction</td>
         <td class="td-num">80–95%</td>
         <td class="td-num">1.5–3.5%</td>
@@ -131,8 +137,9 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td>
           <div class="td-provider">
             <img src="/logos/paragon.svg" alt="Paragon" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
-            Paragon Financial Group <span>Spot factoring available</span></div>
+            Paragon Financial Group</div>
         </td>
+        <td>Spot factoring, construction, staffing</td>
         <td>Construction, staffing, general</td>
         <td class="td-num">75–90%</td>
         <td class="td-num">1.5–4%</td>

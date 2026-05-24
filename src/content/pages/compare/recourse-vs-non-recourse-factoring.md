@@ -162,27 +162,29 @@ Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That
   </table>
 </div>
 
-<pre><code>Same invoice pool, same advance rate, two risk structures.
-Invoice pool: $100,000/month, net-30, 90% advance.
+<div class="comp-table-wrap">
+  <table class="comp-table">
+    <thead>
+      <tr>
+        <th style="min-width:160px">Metric</th>
+        <th>Recourse Factoring</th>
+        <th>Non-Recourse Factoring</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Invoice pool</strong></td><td>$100,000/month, net-30</td><td>$100,000/month, net-30</td></tr>
+      <tr><td><strong>Advance rate</strong></td><td>90% = $90,000/month</td><td>90% = $90,000/month</td></tr>
+      <tr><td><strong>Fee rate</strong></td><td>1.5%/30 days</td><td>2.5%/30 days (+1% premium)</td></tr>
+      <tr><td><strong>Monthly fee</strong></td><td>$1,500</td><td>$2,500</td></tr>
+      <tr><td><strong>Default risk</strong></td><td>You bear loss if customer defaults (chargeback after 90 days)</td><td>Factor absorbs loss if customer is legally insolvent</td></tr>
+      <tr><td><strong>Dispute risk</strong></td><td>You bear</td><td>You bear (not covered by non-recourse)</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,500/month</td><td class="td-num">$2,500/month</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~18%</td><td class="td-num">~30%</td></tr>
+    </tbody>
+  </table>
+</div>
 
-Recourse Factoring
-  Fee rate:             1.5%/30 days
-  Monthly advance:      $90,000
-  Monthly fee:          $1,500
-  Risk:                 You bear loss if customer defaults (chargeback after 90 days)
-  Effective APR:        ~18%
-
-Non-Recourse Factoring
-  Fee rate:             2.5%/30 days (+1% premium)
-  Monthly advance:      $90,000
-  Monthly fee:          $2,500
-  Risk:                 Factor absorbs loss if customer is legally insolvent
-  Effective APR:        ~30%
-
-Premium cost: $1,000/month ($12,000/year) for non-recourse protection.
-Break-even: 1 customer insolvency of ~$12,000+ per year justifies the premium.
-Note: non-recourse does NOT protect against invoice disputes — only insolvency.
-</code></pre>
+Premium cost: $1,000/month ($12,000/year) for non-recourse protection. Break-even: 1 customer insolvency of ~$12,000+ per year justifies the premium. Note: non-recourse does NOT protect against invoice disputes — only insolvency.
 
 Non-recourse is worth this premium in specific situations:
 
