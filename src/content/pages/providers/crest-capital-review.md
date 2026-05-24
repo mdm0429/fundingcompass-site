@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>APR (annual percentage rate)</dt>
+  <dd>Crest Capital publishes starting rates from approximately 5.99% APR for equipment loans, based on lender-published rates as of May 2026. Your actual rate depends on credit score, time in business, equipment type and age, and loan term — stronger profiles receive lower rates.</dd>
+  <dt>Equipment loan</dt>
+  <dd>A Crest Capital equipment loan funds the full purchase of business equipment (up to $500,000), secured by the equipment itself. You own the equipment from day one. Terms run 24–72 months with fixed monthly payments and no prepayment penalty in many cases.</dd>
+  <dt>Operating lease</dt>
+  <dd>Crest Capital's true operating lease lets you use equipment for a set term and return, purchase, or renew at end of term. Unlike a loan or $1 buyout lease, operating leases may keep the asset off your balance sheet — consult your accountant about the impact on your financial statements.</dd>
+  <dt>Section 179</dt>
+  <dd>Equipment loans and $1 buyout leases through Crest Capital typically qualify for the IRS Section 179 deduction, allowing the full equipment cost to be deducted in the year of purchase. The 2026 Section 179 limit is $1,220,000. Consult a tax adviser to confirm eligibility for your specific situation.</dd>
+</dl>
+
 ## Summary Verdict
 
 Crest Capital is an Atlanta-based equipment financing and leasing company serving small and mid-sized businesses across virtually all industries since 1989. It offers equipment loans and leases from $5,000 to $500,000, with credit decisions in as little as 2 hours for transactions under $250,000. Crest Capital is notable for publishing rate guidance upfront, offering both loan and lease structures, and working with a wide variety of equipment types. It is a strong option for businesses that need equipment financing without navigating a bank's full commercial lending process.
 
-**Best for:** Businesses with 2+ years in operation and 650+ credit that need $5,000–$500,000 in equipment financing with fast credit decisions and flexible structure options.
+**Best for:** Businesses with 2+ years in operation, 650+ credit, and $100,000+/year in revenue that need $5,000–$500,000 in equipment financing with 2-hour credit decisions (for amounts under $250,000) and the flexibility to choose between loan and lease structures.
 
-**Not ideal for:** Start-ups under 2 years old (who face more scrutiny), businesses needing working capital rather than equipment-specific financing, or businesses seeking manufacturer-sponsored financing programs which may offer lower promotional rates.
+**Not ideal for:** Start-ups under 2 years old (who face more scrutiny and should consider Balboa Capital's 1-year minimum), businesses needing working capital rather than equipment-specific financing, or businesses seeking manufacturer-sponsored financing programs which may offer lower promotional rates.
 
 ---
 
@@ -75,6 +86,25 @@ Crest Capital is an Atlanta-based equipment financing and leasing company servin
 | Down payment | 0% (in many cases) | Typically first/last payment |
 
 *Rates verified May 2026 via Crest Capital published rate schedules. Your actual rate depends on credit profile, equipment type, and term.*
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Rates published from approximately 5.99% APR (annual percentage rate) — more transparent than Balboa Capital or National Funding, which don't publish rates; at 7.5% APR on a $75,000 loan over 48 months, total interest is $12,216</li>
+      <li>2-hour credit decisions for transactions under $250,000 with no tax returns or financial statements required — a major speed advantage for routine equipment purchases compared to bank or SBA financing timelines</li>
+      <li>Founded 1989 with 35+ years of equipment financing experience; offers both loan and lease structures, soft-cost financing (installation, training, software), and no prepayment penalty in many cases</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>2-year time-in-business preference means newer businesses face higher scrutiny or may be declined; businesses with 1–2 years of history should consider Balboa Capital (1-year minimum)</li>
+      <li>650 credit score minimum is higher than Balboa Capital (620) and National Funding (600) — lower credit businesses are not served; $500,000 maximum is insufficient for heavy construction or manufacturing equipment</li>
+      <li>Manufacturer-sponsored financing programs (Caterpillar, John Deere, etc.) can offer rates below Crest Capital's starting APR — always check OEM financing before applying to third-party lenders</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -113,7 +143,7 @@ Crest Capital publishes starting rates on its website (from approximately 5.99% 
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model your specific equipment purchase.
 
-**Section 179 tax deduction:** Equipment loans and certain lease structures qualify for the Section 179 deduction, allowing you to deduct the full equipment cost in the year of purchase (subject to annual limits). For 2026, the Section 179 deduction limit is $1,220,000. Consult your tax advisor to confirm eligibility.
+**Section 179 tax deduction:** Equipment loans and certain lease structures qualify for the [IRS Section 179 deduction](https://www.irs.gov/businesses/small-businesses-self-employed/section-179-deduction), allowing you to deduct the full equipment cost in the year of purchase (subject to annual limits). For 2026, the Section 179 deduction limit is $1,220,000. Consult your tax advisor to confirm eligibility.
 
 ---
 
@@ -182,7 +212,7 @@ Crest Capital's rate transparency and 35-year track record are its core advantag
 ## Alternatives to Evaluate First
 
 - **Manufacturer financing:** If purchasing equipment from a major OEM (Caterpillar, John Deere, etc.), check their captive financing programs first — promotional rates can be lower than any third-party lender.
-- **SBA 504 loan:** For equipment over $250,000, SBA 504 offers rates comparable to conventional bank loans with a lower down payment (10% vs. 20–30%). See the [SBA Loans Guide](/guides/sba-loans/).
+- **SBA 504 loan:** For equipment over $250,000, [SBA (Small Business Administration) 504](https://www.sba.gov/funding-programs/loans) offers rates comparable to conventional bank loans with a lower down payment (10% vs. 20–30%). See the [SBA Loans Guide](/guides/sba-loans/).
 - **Bank equipment loan:** If your business banks with a commercial bank and has a strong relationship, ask about equipment loans — bank rates can be 2–4% lower than online lenders for well-qualified borrowers.
 
 ---
@@ -208,6 +238,15 @@ Both structures result in ownership at the end of the term. The key difference i
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Crest Capital publishes rates from approximately 5.99% APR — a $75,000 equipment loan over 48 months at 7.5% APR costs $12,216 in total interest; actual rates depend on credit, equipment type, and term</li>
+      <li>Best for businesses with 2+ years in operation, 650+ credit, and $100,000+/year in revenue that need equipment financing with 2-hour credit decisions, flexible loan or lease structures, and a 35-year specialist lender track record</li>
+      <li>The biggest limitation: the 2-year preferred time in business means newer businesses face scrutiny or rejection; businesses under 2 years should start with Balboa Capital (1-year minimum) instead</li>
+      <li>Crest Capital's fees compare favorably to other online equipment lenders (from 5.99% APR) and sit significantly below MCA-based working capital (40–200%+ effective APR); the main cost gap is versus SBA 504 (as low as 5.5% APR) for larger purchases</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a></li>
     <li><a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease — Which Is Right for Your Business?</a></li>

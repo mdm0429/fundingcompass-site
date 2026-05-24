@@ -14,7 +14,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Restaurants Use Equipment Financing
 
-Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fryers, espresso machines — depreciates quickly but costs significantly upfront. Equipment financing lets restaurants acquire the equipment now and pay over 24–60 months at 6–20% APR, preserving cash for payroll, inventory, and marketing. Because the equipment itself serves as collateral, approval is more accessible than unsecured working capital loans — even for restaurants with limited credit history.
+Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fryers, espresso machines — depreciates quickly but costs significantly upfront. Equipment financing lets restaurants acquire the equipment now and pay over 24–60 months at 6–20% APR (annual percentage rate), preserving cash for payroll, inventory, and marketing. Because the equipment itself serves as collateral, approval is more accessible than unsecured working capital loans — even for restaurants with limited credit history.
 
 <div class="stat-grid stat-grid--4">
   <div class="stat-card">
@@ -36,6 +36,29 @@ Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fry
     <div class="stat-card__label">FUNDING SPEED</div>
     <div class="stat-card__value">Same day</div>
     <div class="stat-card__sub">for loans under $75K</div>
+  </div>
+</div>
+
+---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Restaurant Businesses</h4>
+    <ul>
+      <li>Equipment serves as collateral — no separate business assets required for approval, making financing accessible even for restaurants with limited balance sheets</li>
+      <li>Preserves working capital for payroll, food costs, and marketing rather than tying up cash in depreciating kitchen equipment</li>
+      <li>Section 179 deduction (the IRS deduction that lets businesses expense equipment purchases in the year of purchase) can offset a significant portion of first-year financing costs — up to $1,160,000 deducted in 2026</li>
+      <li>Same-day funding available from multiple lenders for purchases under $75,000 — useful for emergency equipment replacements that cannot wait</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>High equipment depreciation — commercial kitchen equipment loses 40–60% of value in the first 3 years, meaning your loan balance can exceed resale value if you need to exit early</li>
+      <li>Restaurant-sector rate premium — rates run 1–3% higher than manufacturing or construction equipment due to the hospitality industry's higher business failure rate</li>
+      <li>Personal guarantee is standard — if your restaurant closes with an outstanding balance, you remain personally liable for the shortfall after equipment sale</li>
+      <li>Soft costs (installation, delivery, permits) may not qualify — confirm eligibility with your lender before including them in your application</li>
+    </ul>
   </div>
 </div>
 
@@ -68,7 +91,14 @@ Most commercial kitchen and front-of-house equipment qualifies, including:
 | [Taycor Financial](https://www.taycorfinancial.com/) | 6–20% | 580 | $2,000,000 | 2–3 days | New restaurants, used equipment |
 | [TimePayment](https://www.timepayment.com/) | 15–30% | 550 | $150,000 | 24 hours | Very challenged credit |
 
-*Rates verified May 2026. Restaurant equipment financing rates are generally 1–3% higher than manufacturing or construction equipment due to the hospitality sector's higher business failure rate.*
+*Rates verified May 2026. Rates depend on credit profile, equipment type, and loan term. Restaurant equipment financing rates are generally 1–3% higher than manufacturing or construction equipment due to the hospitality sector's higher business failure rate.*
+
+---
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A restaurant purchasing a $60,000 commercial kitchen package (range, hood, dishwasher, and refrigeration) at 8% APR over 60 months would pay approximately $1,216/month. Using the Section 179 deduction, the full $60,000 could be deducted in the purchase year — at a 25% effective tax rate, that generates $15,000 in immediate tax savings, reducing the effective net cost of the equipment to $45,000.</p></div>
+</div>
 
 ---
 
@@ -99,7 +129,28 @@ For restaurant equipment with a 10–15 year useful life (walk-in coolers, hood 
 
 ## Section 179 for Restaurant Equipment
 
-The Section 179 deduction allows restaurants to deduct the full purchase price of qualifying equipment in the year it is placed in service (2026 limit: $1,160,000 — verify with your tax adviser). For a restaurant financing $80,000 of kitchen equipment at a 25% effective tax rate, the Section 179 deduction generates ~$20,000 in immediate tax savings — offsetting a significant portion of first-year financing costs.
+The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/section-179-deduction">IRS Section 179 deduction</a> allows restaurants to deduct the full purchase price of qualifying equipment in the year it is placed in service (2026 limit: $1,160,000 — verify with your tax adviser). For a restaurant financing $80,000 of kitchen equipment at a 25% effective tax rate, the Section 179 deduction generates ~$20,000 in immediate tax savings — offsetting a significant portion of first-year financing costs.
+
+---
+
+**Who this works for:** Established restaurants (1+ year in business) with at least $50,000 in annual revenue purchasing commercial kitchen or front-of-house equipment costing $10,000 or more. Restaurants with 600+ credit scores accessing 6–18% APR rates. Particularly valuable for operators financing multiple pieces of equipment who can leverage Section 179 against a strong taxable income year.
+
+**Who should look elsewhere:** Restaurants under 6 months old with no revenue history (limited lender options — consider manufacturer financing with a larger down payment instead). Businesses needing less than $5,000 (a business credit card or line of credit is more efficient). Restaurants already carrying a high debt load where additional monthly payments would strain cash flow during seasonal slow periods.
+
+---
+
+<dl>
+  <dt>Front-of-house equipment</dt>
+  <dd>Customer-facing restaurant equipment including POS systems, dining furniture, bar equipment, and display refrigeration. Some lenders treat front-of-house equipment differently from back-of-house (kitchen) equipment when assessing collateral value.</dd>
+  <dt>Back-of-house equipment</dt>
+  <dd>Commercial kitchen equipment — ranges, ovens, fryers, dishwashers, refrigeration units, and hood systems. These are the core collateral for most restaurant equipment loans and typically qualify for the highest advance rates.</dd>
+  <dt>Soft costs</dt>
+  <dd>Non-equipment expenses associated with a purchase, such as installation, delivery, ventilation permits, and initial maintenance contracts. Most equipment lenders allow soft costs up to 20–30% of the total financed amount when bundled with qualifying equipment.</dd>
+  <dt>Sale-leaseback</dt>
+  <dd>A financing structure where a restaurant sells equipment it already owns to a lender, then leases it back. This converts owned equipment into immediate cash while retaining use of the equipment — useful for restaurants needing liquidity without taking on a new equipment purchase.</dd>
+  <dt>UCC-1 filing</dt>
+  <dd>A public notice filed by a lender asserting a security interest in your financed equipment. Restaurant equipment lenders file a UCC-1 specifically against the financed items — not against all business assets — which is less restrictive than a blanket lien.</dd>
+</dl>
 
 ---
 
@@ -124,6 +175,15 @@ For equipment purchases, dedicated equipment financing is almost always better t
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Restaurant equipment financing rates run 6–20% APR (annual percentage rate) as of May 2026 — 1–3% higher than most other industries due to higher hospitality sector failure rates</li>
+      <li>Covers commercial kitchen equipment (ovens, refrigeration, dishwashers, fryers) and most front-of-house equipment including POS systems and bar equipment; consumables and software-only purchases do not qualify</li>
+      <li>Minimum 550 credit score with some lenders, though the best rates (6–12%) require 650+ and 2+ years in business</li>
+      <li>Choose a loan for long-lived equipment (walk-in coolers, hood systems — 10–15 year life); choose a lease for technology-driven equipment (POS, espresso machines) you expect to upgrade in 3–5 years</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>
     <li><a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies of 2026</a></li>

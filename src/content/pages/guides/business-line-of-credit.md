@@ -14,9 +14,41 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is a Business Line of Credit?
 
-A business line of credit is a revolving credit facility that lets you draw funds up to a set limit, repay them, and draw again — as many times as needed. Current rates range from 8–30% APR for qualified borrowers, and you only pay interest on the amount you actually draw, not the full credit limit. Think of it as a business credit card without the card: a flexible pool of capital available on demand.
+A business LOC (line of credit) is a revolving credit facility that lets you draw funds up to a set limit, repay them, and draw again — as many times as needed. Current rates range from 8–30% APR (annual percentage rate) for qualified borrowers, and you only pay interest on the amount you actually draw, not the full credit limit. Rates depend on credit profile, collateral, and term length. Think of it as a business credit card without the card: a flexible pool of capital available on demand. Rate ranges are based on lender-published schedules as of May 2026.
 
 A line of credit is not a term loan. There is no fixed repayment schedule — you draw and repay on your timeline, subject to minimum payment requirements. Limits typically range from $10,000 to $500,000 for small businesses.
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>You pay interest only on the amount you draw — a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest</li>
+      <li>Revolving structure means repaid funds immediately restore your available balance — one facility handles recurring working capital needs indefinitely</li>
+      <li>Online lenders (BlueVine, Fundbox) approve businesses as young as 6 months with 600+ credit scores, with funding in as little as 24 hours</li>
+      <li>Cheapest flexible financing product for businesses that qualify — 8–30% APR vs. 40–350% for MCAs</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>Online lender rates can reach 78–97% APR at the ceiling — a $50,000 draw at 78% APR for 60 days costs $6,411 in interest</li>
+      <li>Annual renewal means the lender can reduce your limit or close the facility at review — it is not a permanent credit commitment</li>
+      <li>Most online LOCs require a personal guarantee — your personal assets are at risk if the business defaults</li>
+      <li>Bank LOCs above $100,000 typically require a blanket UCC-1 (a public lien notice filed when a lender takes a security interest in your business assets) on all business assets</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Revolving Credit</dt>
+  <dd>A credit structure where repaid amounts immediately restore your available balance. Unlike a term loan (which you repay and close), a revolving line can be drawn, repaid, and drawn again indefinitely within the draw period.</dd>
+  <dt>Draw Period</dt>
+  <dd>The period during which you can draw funds from the credit line. Most business LOCs have a 12-month term with annual renewal. During the draw period, you make minimum payments on outstanding balances.</dd>
+  <dt>Prime Rate</dt>
+  <dd>The benchmark interest rate used by US banks for short-term business loans, currently 7.5% as of May 2026. Bank LOC rates are typically expressed as Prime plus a margin (e.g., Prime + 2% = 9.5%).</dd>
+  <dt>Utilisation Rate</dt>
+  <dd>The percentage of your credit line currently drawn. Keeping utilisation below 30% signals financial health to lenders reviewing your credit for future financing. Sustained utilisation above 80% may trigger a limit review at renewal.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -161,8 +193,31 @@ For working capital needs that recur (payroll gaps, inventory cycles, slow-payin
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A wholesale distributor with $400,000/year in revenue draws $40,000 from a $75,000 business LOC at 18% APR (annual percentage rate) to cover a 45-day inventory gap before a major seasonal order is paid. Interest cost: $40,000 × 18% ÷ 365 × 45 = approximately $888. The distributor repays the draw when the customer pays, restoring the full $75,000 available balance for the next cycle. The same cash need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Businesses with 6+ months in business, $100,000+ annual revenue, and a 600+ credit score (online lenders) or 680+ (banks) that need flexible, recurring working capital access — particularly for payroll gaps, inventory cycles, or seasonal cash flow management.
+
+**Who should look elsewhere:** Startups under 6 months old, businesses with credit below 600, or companies needing a single large capital injection for a specific purpose (equipment, expansion) — a term loan or equipment financing will be cheaper and simpler for defined one-time needs.
+
+The [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) provide borrower guidance on understanding line of credit terms, complaint processes, and your rights as a small business borrower.
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Business lines of credit range from 8–30% APR (annual percentage rate) for qualified borrowers — online lenders can reach 78–97% APR at their ceiling, based on lender-published rates as of May 2026</li>
+      <li>You pay interest only on the drawn balance — a $100,000 LOC with $25,000 drawn at 15% APR costs approximately $307/month in interest</li>
+      <li>Online lenders (BlueVine, Fundbox) serve businesses as young as 6 months with 600+ credit; bank LOCs require 2+ years and 680+ credit but offer rates from Prime + 1%</li>
+      <li>Lines renew annually — the lender reviews and may change your limit at each renewal cycle</li>
+      <li>Keep utilisation below 30% of your credit limit to maintain a healthy credit profile for future financing</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/compare/invoice-financing-vs-factoring/">Invoice Financing vs. Invoice Factoring</a></li>
     <li><a href="/providers/bluevine-review/">BlueVine Review</a></li>

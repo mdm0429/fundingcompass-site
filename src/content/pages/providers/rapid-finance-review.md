@@ -51,11 +51,22 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
+  <dd>Rapid Finance does not publish its MCA factor rates publicly. Industry benchmarks for this market segment run 1.15–1.45. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total. Your specific rate is disclosed only after applying.</dd>
+  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
+  <dd>For Rapid Finance MCAs, a holdback of typically 10–20% of your daily card sales is collected until the purchased amount is repaid. Repayment speed — and therefore effective APR — varies with your card sales volume.</dd>
+  <dt>Effective APR (annual percentage rate)</dt>
+  <dd>Effective APR for Rapid Finance MCAs runs 40–200%+ depending on repayment speed. The shorter the repayment period (driven by higher card sales), the higher the annualized rate — even though the total dollar cost stays fixed.</dd>
+  <dt>Daily ACH</dt>
+  <dd>Rapid Finance's small business loans use fixed daily ACH repayment rather than a revenue holdback. This makes repayment predictable but removes the natural flex of MCA repayment during slow revenue periods.</dd>
+</dl>
+
 ## Summary Verdict
 
 Rapid Finance is a Maryland-based alternative lender with over 20 years of operation, offering merchant cash advances, small business loans, lines of credit, and SBA loans to established businesses. Its 2-year minimum time-in-business requirement makes it inaccessible to newer businesses, but for those that qualify, it offers a broader product suite than most MCA-only providers. Rapid Finance does not publish factor rates upfront — you must apply to see your offer. It is a legitimate option for established businesses that need fast capital and have been declined for bank financing.
 
-**Best for:** Businesses with 2+ years in operation, $120,000+/year in revenue, and 550+ credit that need fast access to capital across multiple product types.
+**Best for:** Businesses with 2+ years in operation, $120,000+/year in revenue, and 550+ credit that need fast access to capital across multiple product types — including MCA (merchant cash advance), term loans, LOC (line of credit), or SBA (Small Business Administration) loans through one lender.
 
 **Not ideal for:** Businesses under 2 years old (who should look at Credibly, Greenbox Capital, or BFS Capital instead), or businesses that qualify for SBA or bank financing at lower cost.
 
@@ -74,6 +85,25 @@ Rapid Finance is a Maryland-based alternative lender with over 20 years of opera
 | Repayment | % of daily card sales | Fixed daily/weekly | Draw as needed |
 
 *Rates not publicly disclosed — apply at [rapidfinance.com](https://www.rapidfinance.com/) to see your specific offer. Rates verified May 2026.*
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>20+ year operating track record with the broadest product suite among MCA providers — MCA, term loans, LOC, and SBA loans all available through one lender relationship, meaning you can potentially graduate from an MCA to SBA financing with the same lender</li>
+      <li>SBA-approved lender: can facilitate SBA 7(a) loans at 10–13% APR for businesses that qualify (680+ credit, 2+ years, strong revenue) — one of very few MCA providers that can also serve SBA borrowers</li>
+      <li>Up to $1,000,000 for small business loans and 24-hour funding for MCA product; complies with state commercial financing disclosure laws where required (CA, NY, UT, VA)</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>2-year minimum time in business is stricter than most MCA competitors — Credibly, Greenbox Capital, and BFS Capital all require only 6 months; this excludes a large portion of small businesses seeking MCA financing</li>
+      <li>Factor rates not disclosed upfront — you must apply to compare costs; MCA effective APR runs 40–200%+ depending on repayment speed, consistent with the high-cost nature of the product category</li>
+      <li>Limited transparency before application: rate ranges, holdback percentages, and fee details are sparse on the website, making pre-application cost modeling difficult</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -95,7 +125,7 @@ Rapid Finance operates a multi-product lending platform targeting established sm
 
 ## Cost Transparency
 
-Rapid Finance does not publish factor rates or effective APRs publicly — you must apply to receive a specific offer. This is a significant disadvantage for pre-application comparison shopping. California, New York, Utah, and Virginia require MCA providers to disclose effective APR before signing; if you're in one of those states, Rapid Finance must show you the cost before you commit.
+Rapid Finance does not publish factor rates or effective APRs publicly — you must apply to receive a specific offer. This is a significant disadvantage for pre-application comparison shopping. California, New York, Utah, and Virginia require MCA providers to disclose effective APR before signing; if you're in one of those states, Rapid Finance must show you the cost before you commit. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should request the effective APR of any MCA or loan before signing.
 
 **Before applying:** Use the [MCA True Cost Calculator](/tools/mca-true-cost-calculator/) to model what different factor rate scenarios would cost at your daily sales volume. Then compare the actual offer you receive against alternatives.
 
@@ -199,6 +229,15 @@ Because MCA holdback is a percentage of daily card sales, lower sales automatica
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Rapid Finance's MCA maximum is $500,000; small business loans go to $1,000,000 — both among the higher caps in the alternative lending market; factor rates are not published and require an application to see</li>
+      <li>Best for established businesses (2+ years, $120,000+/year revenue, 550+ credit) that want a single lender relationship covering MCA, term loans, and SBA loans — particularly useful if you plan to graduate from MCA to SBA financing over time</li>
+      <li>The biggest limitation is the 2-year minimum time in business — stricter than Credibly, Greenbox Capital, and BFS Capital (all 6 months), which disqualifies most early-stage businesses</li>
+      <li>Rapid Finance's fees are not disclosed before application, making direct comparison difficult; industry-benchmark factor rates of 1.15–1.45 (40–200%+ effective APR) are consistent with other MCA providers in this category</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
     <li><a href="/guides/sba-loans/">SBA Loans for Small Businesses — Complete Guide</a></li>

@@ -51,6 +51,17 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the invoice value Riviera Finance pays you upfront. Riviera Finance advances up to 95% of each invoice's face value.</dd>
+  <dt>Non-Recourse Factoring</dt>
+  <dd>A factoring arrangement where the factoring company absorbs the loss if your customer becomes insolvent and cannot pay. Riviera Finance's non-recourse program protects against customer insolvency — but not against payment disputes over goods or services.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>A factoring arrangement where you remain responsible if your customer does not pay. Riviera Finance's recourse option carries a lower fee than its non-recourse program.</dd>
+  <dt>UCC-1</dt>
+  <dd>UCC-1 (a public lien notice filed against your business assets) that a factoring company files to establish its security interest in your receivables. Riviera Finance files a UCC-1 on the receivables it purchases.</dd>
+</dl>
+
 ## Summary Verdict
 
 Riviera Finance is one of the oldest and most established invoice factoring companies in the US, founded in 1969 and operating across all major industries. It offers non-recourse factoring — meaning the credit risk on invoices transfers to Riviera Finance rather than staying with your business — and is notable for working with very small businesses including those with monthly factoring volumes as low as $5,000. With 25+ US offices and over 50 years in operation, Riviera Finance is a credible choice for small businesses that want a non-recourse factoring relationship with an experienced counterparty.

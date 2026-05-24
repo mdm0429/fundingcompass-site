@@ -18,6 +18,42 @@ Invoice factoring is a financing arrangement in which a business sells its unpai
 
 Factoring is not a loan. You are selling an asset (the receivable) rather than borrowing against it. This distinction matters for your balance sheet and for qualification — factors approve deals based primarily on your customers' creditworthiness, not yours.
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>No debt on your balance sheet — you are selling an asset, not taking on a liability</li>
+      <li>Approval is based on your customers' credit, not yours — accessible to startups and businesses with past credit issues</li>
+      <li>Funding in 24–48 hours after initial onboarding; same-day funding common for repeat invoices</li>
+      <li>Outsources collections — the factor handles follow-up with your customers, reducing your administrative burden</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>Effective APR (annual percentage rate) of 12–60%+ when annualised — more expensive than a bank line of credit</li>
+      <li>Your customers are notified you are factoring — some industries view this as a credit signal</li>
+      <li>Long-term contracts (6–24 months) with minimum volume commitments are common; early exit fees of 1–3% of contracted volume apply</li>
+      <li>Non-recourse factoring only protects against customer insolvency, not invoice disputes — read the carve-outs carefully</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The advance rate (the percentage of the invoice value you receive upfront) typically ranges from 80–97% depending on industry and customer creditworthiness. Freight companies receive the highest advance rates (90–97%); construction and healthcare receive lower rates (70–85%) due to dispute and retainage risk.</dd>
+  <dt>Factoring Fee</dt>
+  <dd>The flat fee charged per 30-day period on the invoice face value. A 2% factoring fee on a $50,000 invoice costs $1,000 per 30-day period. Fees typically range from 1–5% per 30-day period, based on lender-published rates as of May 2026.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>The most common arrangement. If your customer does not pay, you are responsible for buying back the invoice — typically after 60–90 days of non-payment.</dd>
+  <dt>Non-Recourse Factoring</dt>
+  <dd>The factor absorbs the loss if your customer becomes legally insolvent. Costs 0.5–1.5% more per period than recourse factoring and does not protect against invoice disputes.</dd>
+  <dt>Spot Factoring</dt>
+  <dd>Factoring individual invoices on a transaction-by-transaction basis with no long-term contract. More flexible but typically more expensive per invoice than contract factoring.</dd>
+  <dt>Notice of Assignment</dt>
+  <dd>A formal letter sent to your customer informing them that their invoice has been assigned to the factor and that payment should be directed to the factor rather than to you.</dd>
+</dl>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -41,7 +77,7 @@ Factoring is not a loan. You are selling an asset (the receivable) rather than b
 ## How Invoice Factoring Works — Step by Step
 
 **Step 1 — You deliver goods or services and issue an invoice.**
-Your customer receives a net-30 or net-60 invoice as usual.
+Your customer receives a net-30 (your customer has 30 days to pay) or net-60 (your customer has 60 days to pay) invoice as usual.
 
 **Step 2 — You submit the invoice to your factor.**
 Most factors accept invoices via an online portal. Approval typically takes 24–48 hours on the first submission; same-day funding is common on subsequent invoices once the relationship is established.
@@ -166,7 +202,7 @@ See [Best Invoice Factoring Companies of 2026](/compare/best-invoice-factoring-c
 Invoice factoring involves selling your invoices to a factor, which then collects from your customers directly. Invoice financing (also called accounts receivable financing) is a loan secured by your invoices — you retain the customer relationship and collect payment yourself, then repay the lender. Factoring is faster and easier to qualify for; financing is less expensive and keeps the customer relationship private.
 
 **Does invoice factoring hurt my credit score?**
-Factoring itself does not appear on your credit report and does not directly affect your credit score. However, some factors file a UCC-1 financing statement against your accounts receivable, which appears as a lien and could affect your ability to obtain other financing. Ask whether your factor files a UCC-1 and on which assets.
+Factoring itself does not appear on your credit report and does not directly affect your credit score. However, some factors file a UCC-1 (a public lien notice filed when a lender takes a security interest in your business assets) financing statement against your accounts receivable, which appears as a lien and could affect your ability to obtain other financing. Ask whether your factor files a UCC-1 and on which assets.
 
 **Can I factor invoices if my business has outstanding tax liens?**
 Existing IRS or state tax liens create a priority claim on your receivables that complicates — and often blocks — factoring. Some factors will work around tax liens if you are on an active IRS payment plan. Disclose any liens upfront; failing to do so voids most factoring agreements.
@@ -182,8 +218,31 @@ Factoring works well for B2B businesses with reliable customers, slow payment te
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A staffing agency with $150,000/month in outstanding invoices factors at a 90% advance rate and a 2% fee with net-45 payment terms. The agency receives $135,000 upfront and pays $4,500 in fees per 45-day payment cycle (2% × 1.5 months). The effective APR (annual percentage rate) is approximately 16%. At net-60 terms, the same fee structure produces an effective APR of approximately 12%. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** B2B businesses generating $10,000–$25,000+ per month in invoices to creditworthy commercial or government customers, with payment terms of net-30 to net-90, that need immediate cash flow without taking on balance-sheet debt.
+
+**Who should look elsewhere:** Retail or B2C businesses, companies with gross margins below 15%, and businesses whose customers would react negatively to third-party collection contact. If you have 12+ months in business and a 600+ credit score, a business line of credit will almost always be cheaper.
+
+Several states now require invoice factoring companies to disclose the equivalent APR — and the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) provide additional guidance on borrower rights when working with commercial financing companies.
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Invoice factoring advances 80–95% of invoice face value; fees typically run 1–5% per 30-day period, based on lender-published rates as of May 2026</li>
+      <li>Best for B2B companies with slow-paying customers on net-30 to net-90 terms and at least $10,000–$25,000/month in invoices</li>
+      <li>Non-recourse factoring costs 0.5–1.5% more per period but protects against customer insolvency — not invoice disputes</li>
+      <li>Funding in 24–48 hours after initial onboarding; same-day funding common on repeat invoices once the relationship is established</li>
+      <li>Compare factoring to a business line of credit if your invoices are under $50K/month and you have 12+ months in business and a 600+ credit score</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>
     <li><a href="/tools/factoring-cost-calculator/">Factoring Cost Calculator</a></li>

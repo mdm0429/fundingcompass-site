@@ -14,7 +14,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Why Wholesale Distributors Use Factoring
 
-Wholesale distribution has one of the most acute cash flow timing problems in B2B commerce: you pay suppliers on delivery (or net-15) but extend net-30 to net-60 terms to retail and commercial customers. On a $500,000 monthly revenue stream, that 45-day gap represents $750,000 in outstanding receivables at any given time. Factoring converts those receivables to cash immediately, allowing distributors to restock inventory, take on new accounts, and pay suppliers on time — without drawing down a credit line or waiting for customer payments.
+Wholesale distribution has one of the most acute cash flow timing problems in B2B commerce: you pay suppliers on delivery (or net-15) but extend net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms to retail and commercial customers. On a $500,000 monthly revenue stream, that 45-day gap represents $750,000 in outstanding receivables at any given time. Factoring converts those receivables to cash immediately, allowing distributors to restock inventory, take on new accounts, and pay suppliers on time — without drawing down a credit line or waiting for customer payments.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -31,6 +31,27 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
     <div class="stat-card__label">MIN. MONTHLY VOLUME</div>
     <div class="stat-card__value">$10,000</div>
     <div class="stat-card__sub">most factors</div>
+  </div>
+</div>
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Wholesale Distributors</h4>
+    <ul>
+      <li>Converts 30–60 day receivables to same-week cash — enabling distributors to reorder from suppliers immediately rather than waiting on customer payments</li>
+      <li>Approval based on your customers' credit ratings, not yours — creditworthy retail chain customers (Walmart, Target, Home Depot) are strong collateral for factors</li>
+      <li>Non-recourse factoring is widely available for invoices to national retailers with strong credit — the factor absorbs insolvency risk</li>
+      <li>Many wholesale factors accept EDI 810 invoice submissions, reducing administrative overhead for high-volume distributors</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Concentration limits cap advances on any single customer at 20–25% of the factored portfolio — distributors with one customer representing 50%+ of revenue face restricted funding</li>
+      <li>Invoice factoring only applies after delivery — distributors needing capital to fund supplier payments before shipment must use PO financing (typically 3–5% per 30 days), which is more expensive</li>
+      <li>Early payment discount programs (e.g., 2/10 net 30) taken by buyers are deducted from factor payments and may trigger reserve adjustments</li>
+      <li>Consignment and future-delivery invoices are ineligible — title must have transferred and goods must be delivered before an invoice can be factored</li>
+    </ul>
   </div>
 </div>
 
@@ -56,7 +77,25 @@ The mechanics follow standard invoice factoring with particular attention to two
 | [Paragon Financial Group](https://www.paragonfinancial.net/) | 80–90% | 1.5–4% | $25,000 | General B2B, distribution |
 | [Lendio](/providers/lendio-review/) (marketplace) | 80–92% | Varies | $10,000 | Connects to multiple factors |
 
-*Rates verified May 2026. Wholesale distribution factors typically require that customers are established, creditworthy businesses — consumer-facing retail receivables are generally not accepted.*
+*Rates verified May 2026. Actual fees depend on customer creditworthiness, invoice terms, monthly volume, and concentration in individual accounts.*
+
+<dl>
+  <dt>Purchase order (PO) financing</dt>
+  <dd>A financing product that advances capital to pay suppliers before goods are shipped, based on a confirmed purchase order from a creditworthy buyer. Distinct from invoice factoring: PO financing applies before delivery; invoice factoring applies after delivery. Some wholesale factors offer both products in sequence.</dd>
+  <dt>Concentration limit</dt>
+  <dd>The maximum percentage of a factored portfolio that can be attributable to a single customer. Most wholesale factors cap exposure at 20–25% per customer — if one retail chain represents 80% of your revenue, the factor will limit advances on that account regardless of the chain's credit quality.</dd>
+  <dt>Customer creditworthiness</dt>
+  <dd>The factor's assessment of each buyer's ability to pay invoices on time, based on payment history data from Dun &amp; Bradstreet, Ansonia, and other commercial credit bureaus. Unlike bank lending, the factor's credit decision is entirely focused on your customers — your own credit history is a secondary consideration.</dd>
+  <dt>Advance rate</dt>
+  <dd>The percentage of the invoice value the factoring company pays you upfront. For wholesale distributors, the standard advance rate is 80–92% of invoice face value — the remaining 8–20% is held in reserve until the customer pays.</dd>
+  <dt>EDI (Electronic Data Interchange)</dt>
+  <dd>Standardized electronic messaging used between wholesale distributors and large retailers for invoicing (EDI 810), purchase orders (EDI 850), and remittance (EDI 820). Many wholesale factors accept EDI 810 submissions directly, reducing manual processing for high-volume distributors.</dd>
+</dl>
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A food distributor with $200,000/month in invoices to regional grocery chains using Riviera Finance's 90% advance rate and 2.5% fee would receive $180,000 upfront per month and pay $5,000 in factoring fees per 30-day period. If 40% of invoices go to a single chain, Riviera's concentration cap would limit that chain's advances to the 20–25% portfolio threshold — meaning the distributor should diversify retail accounts to maximize available funding.</p></div>
+</div>
 
 ---
 
@@ -84,6 +123,10 @@ If your cash flow problem occurs before you can fill an order — you have the p
 
 PO financing is more expensive than invoice factoring (typically 3–5% per 30 days) and is only available for certain product types (finished goods, not custom manufacturing). Ask your factor whether they offer a combined PO financing + factoring solution — some do.
 
+**Who this works for:** Wholesale distributors with $10,000+/month in invoices to creditworthy B2B customers (national retailers, commercial buyers, or government), fully delivered goods, and clean invoices with no active disputes or consignment terms.
+
+**Who should look elsewhere:** Distributors selling direct-to-consumer (DTC) cannot factor those receivables. Businesses with a single customer making up 50%+ of revenue will face tight concentration limits. If your cash flow problem starts before delivery (you need capital to pay suppliers to fulfill an order), consider PO financing rather than — or in addition to — invoice factoring.
+
 ---
 
 ## Frequently Asked Questions
@@ -104,6 +147,15 @@ Yes. Most wholesale factors accept invoices submitted via EDI (Electronic Data I
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Wholesale factoring advances 80–92% of delivered invoices at fees of 1–4% per 30-day period (rates verified May 2026)</li>
+      <li>Qualification requires fully delivered goods invoiced to creditworthy B2B customers — consumer-direct and consignment receivables are ineligible</li>
+      <li>Riviera Finance is the top pick for wholesale distributors: 85–92% advance rates, EDI-capable, $10,000 minimum monthly volume, and strong distribution industry experience</li>
+      <li>Concentration limits cap advances on any single customer at 20–25% — diversifying your buyer base directly improves your available funding ceiling</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>

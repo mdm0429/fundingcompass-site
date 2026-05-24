@@ -51,11 +51,22 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
+  <dd>Greenbox Capital's published factor rate range is 1.18–1.48. A $50,000 advance at a 1.30 factor rate means you repay $65,000 total — $15,000 in fees. Higher factor rates result in proportionally higher total costs.</dd>
+  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
+  <dd>Greenbox Capital collects a fixed holdback percentage of your daily card sales until the purchased receivables amount is fully repaid. If daily sales average $2,000 and holdback is 15%, you pay $300/day. Slower sales days mean smaller payments — and a longer repayment period.</dd>
+  <dt>Effective APR (annual percentage rate)</dt>
+  <dd>At a 1.30 factor rate, effective APR ranges from approximately 120% (3-month repayment) to 30% (12-month repayment). The same total dollar cost produces a higher annualized rate when repaid faster. Use the MCA True Cost Calculator to model your specific scenario.</dd>
+  <dt>Daily ACH</dt>
+  <dd>Greenbox's short-term business funding product uses fixed daily ACH debits rather than a revenue-based holdback. Payment amounts do not flex with your sales — unlike the MCA product, this carries fixed repayment risk during slow periods.</dd>
+</dl>
+
 ## Summary Verdict
 
 Greenbox Capital is a Miami-based alternative lender offering merchant cash advances and short-term business funding to small businesses in the US and Canada. It serves a wide range of industries including many that larger lenders decline — retail, restaurants, healthcare, transportation, and construction. Factor rates run higher than bank alternatives but are typical for the MCA market, and Greenbox is transparent about disclosing them before you sign. Funding as fast as 24 hours makes it a viable option when speed is the priority and cheaper options have been exhausted.
 
-**Best for:** Businesses with $7,500+/month in revenue that need fast capital and have been declined by banks or SBA programs — particularly businesses in non-traditional industries or with lower credit scores.
+**Best for:** Businesses with $7,500+/month in revenue that need fast capital and have been declined by banks or SBA (Small Business Administration) programs — particularly businesses in non-traditional industries or with lower credit scores, including some high-risk merchant categories that most MCA (merchant cash advance) providers decline.
 
 **Not ideal for:** Businesses that qualify for a business line of credit, SBA loan, or invoice factoring, all of which carry significantly lower effective costs.
 
@@ -76,6 +87,25 @@ Greenbox Capital is a Miami-based alternative lender offering merchant cash adva
 
 *Rates verified May 2026 via Greenbox Capital published disclosures.*
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Published factor rate range (1.18–1.48) enables pre-application cost comparison — rare among MCA providers and a meaningful transparency advantage; at 1.18, a $50,000 advance costs $9,000 in total fees</li>
+      <li>500 credit score minimum and $7,500/month revenue floor are among the most accessible thresholds in the market; serves US and Canadian businesses, plus high-risk industries that most MCA providers decline</li>
+      <li>Dedicated funding advisor assigned at application; 24–48 hour funding after signed agreement for qualified businesses</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>$500,000 maximum is lower than BFS Capital ($2,000,000) — businesses needing larger advances should apply to BFS Capital or Rapid Finance instead</li>
+      <li>Factor rates at the high end (1.48) represent approximately 40–200%+ effective APR (annual percentage rate) depending on repayment speed — at 1.48, a $50,000 advance costs $24,000 in total fees; always compare offers before signing</li>
+      <li>Revenue-based repayment means no fixed end date — you cannot know in advance exactly when the advance will be fully repaid, as it depends on your daily card sales volume</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## What Greenbox Capital Offers
@@ -92,7 +122,7 @@ Greenbox serves a notably broad industry list including many businesses that mai
 
 ## Cost Transparency
 
-Greenbox Capital publishes its factor rate range (1.18–1.48) on its website — a meaningful transparency advantage over many MCA competitors that require a full application before disclosing any cost information. Factor rates are not APR; they represent the total cost multiplied against your advance amount.
+Greenbox Capital publishes its factor rate range (1.18–1.48) on its website — a meaningful transparency advantage over many MCA competitors that require a full application before disclosing any cost information. Factor rates are not APR (annual percentage rate); they represent the total cost multiplied against your advance amount. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should always request the effective APR before signing any MCA agreement.
 
 **Cost example:**
 - Advance amount: $50,000
@@ -206,6 +236,15 @@ Greenbox Capital does offer renewals and subsequent advances for existing client
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Greenbox Capital's published factor rate range is 1.18–1.48 — a $50,000 advance costs $9,000 (at 1.18) to $24,000 (at 1.48) in total fees; most businesses receive offers in the middle of this range</li>
+      <li>Best for businesses with $7,500+/month in revenue and 500+ credit that need fast capital from an MCA provider serving high-risk industries, US and Canadian businesses, or those declined by mainstream lenders</li>
+      <li>The biggest watch-out: factor rates at the high end (1.48) produce very high effective APR; always compare your Greenbox offer against at least one other MCA provider before signing</li>
+      <li>Greenbox's fees are slightly above the industry average floor (1.18 vs. typical 1.15 floor) but consistent with the broader MCA category range; its transparency practices — publishing rates upfront — put it ahead of providers that disclose nothing before application</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
     <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers of 2026</a></li>

@@ -51,11 +51,22 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
+  <dd>BFS Capital does not publish its factor rates. Based on industry benchmarks for this market segment, typical rates run 1.15–1.45. Your specific rate is disclosed only after applying — based on your credit profile, revenue, and industry.</dd>
+  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
+  <dd>BFS Capital's MCA product collects a holdback of typically 10–20% of your daily card sales until the advance is repaid. On days with lower card sales, less is collected — this natural flex is the MCA's core flexibility advantage over fixed-payment loans.</dd>
+  <dt>Effective APR (annual percentage rate)</dt>
+  <dd>Industry-benchmark effective APR for MCA products in BFS Capital's market segment runs 40–200%+ depending on repayment speed. The shorter the repayment period, the higher the annualized rate — though the total dollar cost stays fixed at the factor rate amount.</dd>
+  <dt>Daily ACH</dt>
+  <dd>BFS Capital's working capital loan product uses a fixed daily ACH debit over a set term (4–18 months). Unlike the MCA holdback, this payment does not flex with your revenue — making it more predictable but riskier during slow sales periods.</dd>
+</dl>
+
 ## Summary Verdict
 
 BFS Capital is a Florida-based alternative lender that has provided over $1 billion in working capital financing to small and medium-sized businesses across more than 400 industries since its founding. It offers merchant cash advances and short-term working capital loans through its technology platform, with a fast application process and same-day or next-business-day funding in many cases. BFS Capital is a legitimate option for businesses that need fast capital and have exhausted cheaper alternatives — but like all MCA providers, its effective APR is high relative to bank or SBA financing.
 
-**Best for:** Businesses with $120,000+/year in revenue that need working capital quickly and have been declined by bank lenders or SBA programs.
+**Best for:** Businesses with $120,000+/year in revenue ($10,000+/month) and 550+ credit that need working capital quickly and have been declined by bank lenders or SBA (Small Business Administration) programs — including businesses in many of the 400+ industries BFS Capital serves.
 
 **Not ideal for:** Businesses that qualify for a business line of credit, SBA loan, or invoice factoring — all of which carry significantly lower effective costs.
 
@@ -75,6 +86,25 @@ BFS Capital is a Florida-based alternative lender that has provided over $1 bill
 
 *Rates not publicly disclosed — apply at [trybfs.com](https://www.trybfs.com/) to see your specific offer. Rates verified May 2026.*
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>$2,000,000 maximum funding is the highest cap among the major MCA providers reviewed here — meaningfully above Credibly ($400,000), Rapid Finance ($500,000), and Greenbox Capital ($500,000)</li>
+      <li>$1B+ funded to 75,000+ small businesses across 400+ industries — established operational track record; serves all 50 US states plus Canada; complies with state commercial financing disclosure laws where required</li>
+      <li>550 credit score minimum and 6-month time-in-business requirement are among the more accessible thresholds; 24-hour funding for qualified businesses</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Factor rates not disclosed upfront — you must apply to compare costs; this makes pre-application cost modeling impossible without using industry benchmark ranges (1.15–1.45 effective APR (annual percentage rate) of 40–200%+)</li>
+      <li>Working capital loan uses fixed ACH repayment (not revenue-based holdback) — unlike the MCA product, payment does not flex with your daily sales; riskier during slow revenue periods</li>
+      <li>No dedicated product page showing full term and rate details; limited rate transparency before application compared to Credibly, which publishes its factor rate range upfront</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## What BFS Capital Offers
@@ -91,7 +121,7 @@ BFS Capital operates a fintech lending platform serving businesses across all 50
 
 ## Cost Transparency
 
-BFS Capital does not publish factor rates or effective APRs on its website — a common practice in the MCA industry, though one that makes pre-application cost comparison difficult. This is worth noting: California, New York, Utah, and Virginia now require MCA providers to disclose effective APR before signing. If you're in one of those states, BFS Capital must show you the cost before you commit.
+BFS Capital does not publish factor rates or effective APRs on its website — a common practice in the MCA (merchant cash advance) industry, though one that makes pre-application cost comparison difficult. California, New York, Utah, and Virginia now require MCA providers to disclose effective APR (annual percentage rate) before signing. If you're in one of those states, BFS Capital must show you the cost before you commit. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should request the effective APR of any MCA before signing.
 
 **Before applying:** Use the [MCA True Cost Calculator](/tools/mca-true-cost-calculator/) to model what different factor rate scenarios would cost at your daily card sales volume. Then compare the actual offer you receive against alternatives.
 
@@ -194,6 +224,15 @@ MCA agreements include default provisions that vary by contract. Contact BFS Cap
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>BFS Capital's $2,000,000 maximum funding is the highest cap among major MCA providers — its industry-benchmark factor rate range of 1.15–1.45 translates to 40–200%+ effective APR depending on repayment speed</li>
+      <li>Best for businesses with $120,000+/year in revenue and 550+ credit that need working capital quickly, operate in one of 400+ industries served, and need access to funding amounts above what Credibly or Greenbox Capital offer</li>
+      <li>The biggest watch-out: factor rates are not disclosed before application, making cost comparison difficult; the working capital loan uses fixed daily ACH rather than revenue-based repayment, adding risk during slow periods</li>
+      <li>BFS Capital's fees are consistent with the MCA category average (1.15–1.45 factor rate range) but its lack of upfront rate disclosure puts it behind Credibly and Greenbox Capital on transparency</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
     <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers of 2026</a></li>

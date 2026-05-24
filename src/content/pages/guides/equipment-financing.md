@@ -14,9 +14,43 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is Equipment Financing?
 
-Equipment financing is a loan or lease used to purchase or access business equipment, where the equipment itself serves as collateral. Rates currently range from 5.5–18% APR for qualified borrowers, with the financed equipment securing the loan — meaning no separate collateral is required. Lenders advance 80–100% of the equipment's purchase price, and repayment terms range from 24 to 84 months.
+Equipment financing is a loan or lease used to purchase or access business equipment, where the equipment itself serves as collateral. Rates currently range from 5.5–18% APR (annual percentage rate) for qualified borrowers, with the financed equipment securing the loan — meaning no separate collateral is required. Lenders advance 80–100% of the equipment's purchase price, and repayment terms range from 24 to 84 months. Rate ranges are based on lender-published rates as of May 2026.
 
 Unlike a general business loan, equipment financing is tied to a specific asset. If you default, the lender repossesses the equipment — not your other business or personal assets (in most cases).
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Equipment serves as its own collateral — no separate business assets pledged, and liens are typically filed only against the financed asset</li>
+      <li>100% financing available on equipment with strong resale value (semi-trucks, construction equipment), meaning zero down payment required</li>
+      <li>Section 179 tax deduction allows you to deduct the full purchase price in Year 1 (up to $1,220,000 in 2026), substantially reducing net financing cost</li>
+      <li>Accessible to borrowers with credit scores as low as 580 through specialty lenders, with funding in 24 hours to 5 days</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>Rates depend on credit profile, collateral, and term length — borrowers at 580 credit pay 4–8 percentage points more than borrowers at 680</li>
+      <li>Technology and specialised equipment (under 60–80% advance rate) may require a meaningful down payment</li>
+      <li>SBA 7(a) loans offer lower rates (9.5–12% APR) but take 30–90 days to fund — a significant trade-off for time-sensitive needs</li>
+      <li>Balloon payments may apply at end of term on some structures, requiring refinancing or lump-sum payoff</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>APR (Annual Percentage Rate)</dt>
+  <dd>The annualised cost of borrowing, including interest and mandatory fees. Equipment financing APRs range from 5.5–18% for qualified borrowers, based on lender-published rates as of May 2026. Always compare offers using APR rather than monthly payment alone.</dd>
+  <dt>Residual Value</dt>
+  <dd>The estimated market value of the equipment at the end of the lease or loan term. In an operating lease, the lessor retains the residual value — this is what makes monthly payments lower than loan payments on the same equipment.</dd>
+  <dt>Section 179 Deduction</dt>
+  <dd>A US tax provision allowing businesses to deduct the full purchase price of qualifying equipment in the year it is placed in service, rather than depreciating over its useful life. The 2026 limit is $1,220,000.</dd>
+  <dt>Balloon Payment</dt>
+  <dd>A large lump-sum payment due at the end of a financing term, after which smaller periodic payments have been made. Some equipment financing structures use balloon payments to keep monthly costs low, requiring refinancing or a cash payoff at term end.</dd>
+  <dt>Loan-to-Value (LTV)</dt>
+  <dd>The ratio of the loan amount to the equipment's appraised or purchase value. A $80,000 loan on a $100,000 piece of equipment is an 80% LTV. Higher LTV means more risk for the lender and typically a higher interest rate.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -186,8 +220,31 @@ Yes, though options are more limited. Startups (under 1 year in business) typica
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A commercial landscaping company purchases a $120,000 skid steer loader using equipment financing at 8% APR (annual percentage rate) over 60 months. Monthly payment: approximately $2,433. Total interest paid over the term: approximately $25,980. If the owner takes the Section 179 deduction in Year 1 at a 25% effective tax rate, the tax saving is approximately $30,000 — nearly covering the entire interest cost. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Businesses with 1+ year in business, $100,000+ annual revenue, and a need to acquire a specific piece of equipment that has an established resale market. Credit scores as low as 580 can qualify with specialty lenders.
+
+**Who should look elsewhere:** Businesses needing cash for operating expenses (not equipment), companies purchasing highly specialised equipment with no resale market (rates will be at the high end or financing may be unavailable), or businesses with tax liens that complicate lien priority.
+
+For regulatory context on small-business equipment financing agreements, the [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey) tracks equipment financing approval rates and terms across lender categories annually.
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Equipment financing rates range from 5.5–18% APR (annual percentage rate) depending on credit score, equipment type, and term — based on lender-published rates as of May 2026</li>
+      <li>Loans give you full ownership; leases keep monthly payments lower but you return the equipment at term end (unless you buy out)</li>
+      <li>SBA 7(a) loans offer rates of 9.5–12% APR on equipment but take 30–90 days to fund; fintech lenders fund in 24 hours to 5 days at higher rates</li>
+      <li>100% financing (no down payment) is available for equipment with strong resale markets such as commercial trucks and construction machinery</li>
+      <li>Section 179 deduction allows full purchase-price deduction in Year 1 (2026 limit: $1,220,000) — substantially reducing the net cost of financed equipment</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-leasing/">Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy</a></li>
     <li><a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease — Which Is Right for Your Business?</a></li>

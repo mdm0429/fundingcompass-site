@@ -51,6 +51,17 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance rate</dt>
+  <dd>The percentage of the invoice value Triumph pays you immediately. Triumph advances up to 100% (minus the factoring fee) for approved broker and shipper invoices — the highest published advance rate in trucking factoring.</dd>
+  <dt>Non-recourse factoring</dt>
+  <dd>Triumph's non-recourse option means that if an approved broker or shipper becomes insolvent and cannot pay, Triumph absorbs the loss rather than charging the invoice back to you. Non-recourse protection applies to credit risk (debtor insolvency) only — not to service disputes or short-pays.</dd>
+  <dt>TriumphPay</dt>
+  <dd>Triumph's proprietary broker payment network, used by 1,000+ freight brokers to verify and pay carrier invoices directly. When your broker is on TriumphPay, Triumph can fund your invoice the same day without waiting for broker confirmation or manual payment processing.</dd>
+  <dt>Recourse factoring</dt>
+  <dd>Triumph's lower-cost option where you remain liable if a broker does not pay. If a broker defaults after the recourse period (typically 90 days), the invoice is charged back to your reserve account. Best for carriers with established relationships with creditworthy, well-known brokers.</dd>
+</dl>
+
 ## Summary Verdict
 
 Triumph Business Capital is the dominant invoice factoring provider in the trucking and freight industry. It is not a generalist factoring company — it is purpose-built for transportation: it operates a fuel card program, provides load board integrations, and has built the TriumphPay network, which connects factors with freight brokers for automated payment verification and faster funding. For trucking owner-operators and small fleets, Triumph is the most widely used factoring option and the one that brokers most commonly recognise.
@@ -73,10 +84,32 @@ Triumph Business Capital is the dominant invoice factoring provider in the truck
 | Funding speed | Same day (for approved brokers/shippers) |
 | Non-recourse | Yes — available on approved debtors |
 | Fuel card | Yes — Triumph Fuel Card with per-gallon discounts |
+| Min. personal credit score | No minimum — approval based on broker/shipper creditworthiness |
+| Min. time in business | New carriers accepted from day 1 of freight authority |
+| Max. funding amount | Up to $10,000,000 (enterprise accounts) |
 
 *Rates verified May 2026 via Triumph Business Capital published terms.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Highest advance rate in trucking factoring: up to 100% of invoice value (minus fee) vs. the industry standard of 90–97%</li>
+      <li>TriumphPay network covers 1,000+ freight brokers — enabling verified same-day funding without waiting for broker payment confirmation</li>
+      <li>Non-recourse factoring available on approved debtors: Triumph absorbs credit loss if a broker becomes insolvent</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Non-recourse fees are 0.5–1% higher per invoice than recourse — meaningful cost increase for high-volume carriers</li>
+      <li>Fee structure is not fully published; you must apply to see your specific rate based on volume and customer mix</li>
+      <li>Transportation-only: cannot serve staffing, manufacturing, or other B2B industries outside of freight</li>
+    </ul>
+  </div>
+</div>
 
 ## What Triumph Business Capital Offers
 
@@ -115,7 +148,7 @@ Triumph does not publish a single fixed fee. Fees depend on:
 - Net received: $24,250
 - Annualised cost: $9,000 (approximately 36% effective APR vs. waiting 30–45 days)
 
-The effective APR comparison is relevant when evaluating factoring against a line of credit — but for truckers without access to bank financing, factoring's same-day cash flow benefit often outweighs the cost.
+The effective APR (annual percentage rate) comparison is relevant when evaluating factoring against a line of credit — but for truckers without access to bank financing, factoring's same-day cash flow benefit often outweighs the cost. For a plain-language explanation of what lenders must disclose about costs and recourse terms, see the <a href="https://www.ftc.gov/business-guidance/credit-finance" target="_blank" rel="noopener">FTC's small-business credit and financing guidance</a>.
 
 ---
 
@@ -223,6 +256,15 @@ Apply directly at [Triumph.io](https://triumph.io/).
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Highest advance rate in trucking factoring: up to 100% of invoice value (minus fee) — most competitors cap at 97%</li>
+      <li>Best for trucking owner-operators and small fleets (1–50 trucks) whose brokers are on the TriumphPay network, enabling verified same-day funding</li>
+      <li>Non-recourse fees run 0.5–1% higher per invoice than recourse — confirm whether your broker mix justifies the added cost</li>
+      <li>At 1.5–5% per invoice, fees are in line with the trucking factoring category average; carriers factoring $150K+/month can negotiate below 1.5%</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>
     <li><a href="/industries/trucking-factoring/">Trucking Factoring Guide</a></li>

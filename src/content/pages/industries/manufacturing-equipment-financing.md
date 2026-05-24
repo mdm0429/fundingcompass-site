@@ -16,7 +16,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Manufacturing equipment — CNC machines, lathes, injection moulding presses, industrial robots, laser cutters — often costs $50,000 to $2,000,000+ per unit and has a useful life of 10–20 years. Equipment financing is the dominant funding tool for manufacturers because: the equipment serves as collateral (no additional assets required), terms up to 84 months match the asset's useful life, and the interest is deductible while the equipment generates revenue immediately upon installation.
 
-Current rates for manufacturing equipment range from 5.5–14% APR for qualified borrowers — significantly cheaper than working capital financing and close to bank loan rates, without the bank's documentation burden or timeline.
+Current rates for manufacturing equipment range from 5.5–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — significantly cheaper than working capital financing and close to bank loan rates, without the bank's documentation burden or timeline.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -33,6 +33,29 @@ Current rates for manufacturing equipment range from 5.5–14% APR for qualified
     <div class="stat-card__label">ADVANCE RATE</div>
     <div class="stat-card__value">75–100%</div>
     <div class="stat-card__sub">depending on equipment type</div>
+  </div>
+</div>
+
+---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Manufacturing Businesses</h4>
+    <ul>
+      <li>Long loan terms (up to 84 months) match the 10–20 year useful life of CNC machines and industrial equipment — monthly payments stay manageable relative to the revenue the equipment generates</li>
+      <li>Strong resale markets for major brands (Haas, Mazak, FANUC) support high advance rates of 85–100% — manufacturers often finance the full purchase price with no down payment</li>
+      <li>Section 179 deduction (the IRS deduction that lets businesses expense equipment purchases in the year of purchase) combined with bonus depreciation can offset a large share of first-year financing costs for manufacturers with taxable income</li>
+      <li>OEM captive financing (Haas CNC, Mazak) often offers below-market promotional rates — always get the manufacturer quote alongside third-party lenders</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Highly specialised single-purpose equipment (custom tooling, niche processing machinery) gets advance rates of only 60–75% and shorter terms — plan for a larger down payment</li>
+      <li>Industrial robots and automation equipment face rapid obsolescence risk — lenders cap terms at 60 months, and a 5-year-old robot may have limited resale value if the technology shifts</li>
+      <li>Multi-unit production line financing over $500,000 requires dedicated deal teams and formal appraisals — expect 1–2 weeks for approval even with fast lenders</li>
+      <li>Used equipment rate premium — financing used manufacturing equipment typically costs 2–4% APR more than comparable new equipment, reducing the savings from the lower purchase price</li>
+    </ul>
   </div>
 </div>
 
@@ -61,7 +84,14 @@ Current rates for manufacturing equipment range from 5.5–14% APR for qualified
 | [Taycor Financial](https://www.taycorfinancial.com/) | 6–20% | $2,000,000 | 580 | Used equipment, specialised machinery |
 | [National Funding](/providers/national-funding-review/) | 7–26% | $400,000 | 600 | Accessible credit, fast approval |
 
-*Rates verified May 2026. CNC and precision machining equipment from major brands (Mazak, Haas, DMG Mori) typically qualifies for the lower end of each range due to strong resale value.*
+*Rates verified May 2026. Rates depend on credit profile, equipment type, and loan term. CNC and precision machining equipment from major brands (Mazak, Haas, DMG Mori) typically qualifies for the lower end of each range due to strong resale value.*
+
+---
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A manufacturer purchasing a $200,000 Haas CNC machining centre at 7% APR over 72 months would pay approximately $3,042/month. Using the Section 179 deduction at a 28% effective tax rate, the full $200,000 deduction generates $56,000 in tax savings in the purchase year — reducing the effective net equipment cost to $144,000 and improving payback from the machine's added production capacity.</p></div>
+</div>
 
 ---
 
@@ -85,7 +115,7 @@ Multi-unit or full production line financing requires a different approach than 
 
 1. **Currency Capital and Crest Capital** handle multi-unit transactions with dedicated deal teams
 2. **Manufacturer financing programs:** Equipment OEMs (Haas, Mazak, Caterpillar Financial) offer captive financing at promotional rates — sometimes below market. Always get the OEM quote alongside third-party financing
-3. **SBA 504:** For production facility + equipment combinations over $1M, SBA 504 may offer the lowest blended rate. Timeline is 45–90 days versus days for equipment-only financing
+3. **SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equipment):** For production facility + equipment combinations over $1M, <a href="https://www.sba.gov/funding-programs/loans">SBA 504</a> may offer the lowest blended rate. Timeline is 45–90 days versus days for equipment-only financing
 4. **Appraisal requirements:** Most lenders require a formal equipment appraisal for transactions over $250,000
 
 ---
@@ -106,8 +136,38 @@ Yes — as long as your SBA loan does not include a blanket lien on all business
 
 ---
 
+**Who this works for:** Established manufacturers (2+ years, 640+ credit score) financing major brand CNC machines, laser cutters, press brakes, or industrial robots costing $50,000 or more. Companies where the equipment directly generates production revenue that supports the monthly payment. Operations that can leverage Section 179 against meaningful taxable income.
+
+**Who should look elsewhere:** Start-up manufacturers under 1 year with no revenue (consider SBA microloan or owner-financing the first piece of equipment). Businesses financing highly specialised single-purpose equipment with no secondary market — advance rates will be 60–75% and rates will be at the top of the range. Any operation whose production forecast doesn't support the debt service on the equipment payment.
+
+---
+
+<dl>
+  <dt>APR (annual percentage rate)</dt>
+  <dd>The true annualised cost of the loan, including interest and any origination fees. For manufacturing equipment, APR ranges from 5.5–14% as of May 2026 depending on credit profile, equipment brand, and term length.</dd>
+  <dt>Advance rate</dt>
+  <dd>The percentage of the equipment's value a lender will finance. Major-brand CNC equipment typically qualifies for 85–100% advance rates; specialised single-purpose machinery may only qualify for 60–75%.</dd>
+  <dt>Fair market value (FMV) lease</dt>
+  <dd>A lease structure where you make monthly payments and at term end can buy the equipment at its then-current fair market value, renew, or return it. FMV leases have the lowest monthly payments but provide no guaranteed ownership path — preferred for industrial robots and automation equipment with high obsolescence risk.</dd>
+  <dt>MACRS (Modified Accelerated Cost Recovery System — the IRS depreciation schedule for business equipment)</dt>
+  <dd>The standard IRS depreciation system for manufacturing equipment. Most manufacturing equipment falls under 5-year or 7-year MACRS property, allowing accelerated depreciation deductions in early years of ownership. Works alongside Section 179 to reduce taxable income.</dd>
+  <dt>Section 179</dt>
+  <dd>The IRS deduction that lets businesses expense equipment purchases in the year of purchase, up to $1,160,000 in 2026. Particularly valuable for manufacturers with significant taxable income who want to offset the cost of a major equipment purchase in the year it enters production.</dd>
+</dl>
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Manufacturing equipment financing rates run 5.5–14% APR (annual percentage rate) as of May 2026 — among the lowest of any industry due to strong equipment resale markets</li>
+      <li>Covers CNC machines, lathes, injection moulding presses, industrial robots, laser cutters, and packaging machinery; advance rates of 85–100% for major brands, 60–75% for specialised single-purpose equipment</li>
+      <li>Requires 640+ credit score and typically 2+ years in business for the best rates; used equipment carries a 2–4% APR premium over comparable new equipment</li>
+      <li>Choose a loan for CNC and precision equipment with 10–20 year useful life; choose an FMV lease for industrial robots and automation where technology obsolescence risk is high</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide — Rates, Terms, and Top Lenders</a></li>
     <li><a href="/guides/equipment-leasing/">Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy</a></li>

@@ -14,9 +14,43 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is an SBA Loan?
 
-An SBA loan is a small business loan partially guaranteed by the US Small Business Administration — meaning if you default, the SBA repays the lender a percentage of the loss. This guarantee allows lenders to offer better terms than conventional business loans: current rates on SBA 7(a) loans run approximately 9.5–12% APR (reflecting Prime 7.5% + SBA spread of 2.0–4.25% depending on loan size), with terms up to 25 years on real estate and 10 years on working capital. The SBA does not lend directly — it guarantees loans made by approved banks, credit unions, and online lenders.
+An SBA (Small Business Administration) loan is a small business loan partially guaranteed by the US federal government — meaning if you default, the SBA repays the lender a percentage of the loss. This guarantee allows lenders to offer better terms than conventional business loans: current rates on SBA 7(a) (the Small Business Administration's general-purpose loan program) loans run approximately 9.5–12% APR (annual percentage rate), reflecting Prime 7.5% + SBA spread of 2.0–4.25% depending on loan size, with terms up to 25 years on real estate and 10 years on working capital. The SBA does not lend directly — it guarantees loans made by approved banks, credit unions, and online lenders. Rate ranges are based on lender-published data and [SBA.gov](https://www.sba.gov/funding-programs/loans) as of May 2026.
 
 The guarantee structure means your lender takes less risk — which translates directly to lower rates and longer terms for you. The trade-off is a more rigorous application process and longer approval timelines than alternative lenders.
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Lowest rates available for small business financing at 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or MCAs (40–350% effective APR)</li>
+      <li>10% down payment on SBA 7(a) vs. 20–30% required by conventional bank loans — freeing more capital for operations</li>
+      <li>Terms up to 25 years on real estate and 10 years on working capital — producing the lowest monthly payment per dollar borrowed</li>
+      <li>Can refinance existing high-rate debt (including MCA and short-term loans) under specific conditions, potentially saving thousands per month</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>30–90 day approval timelines — far slower than online lenders (24 hours) or equipment financing (2–5 days)</li>
+      <li>Personal credit score of 680+ required at most lenders; all available business and personal collateral must be pledged</li>
+      <li>Extensive documentation required: 3 years of tax returns, personal financial statements, business debt schedule, and collateral disclosures</li>
+      <li>Guarantee fee (passed to borrower by lender) adds upfront cost — verify current fees at sba.gov as these change annually</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>SBA 7(a) Program</dt>
+  <dd>The SBA's most flexible and widely used loan program. Supports working capital, equipment, real estate, inventory, business acquisition, and debt refinancing. Maximum loan amount: $5,000,000. Current rates: Prime + 2.25–4.75% (approximately 9.5–12% APR as of May 2026).</dd>
+  <dt>SBA 504 Program</dt>
+  <dd>The SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equipment). Works through a bank (50% of loan) and a Certified Development Company, or CDC (40%), with a 10% borrower down payment. The CDC portion carries a fixed interest rate — approximately 5.5–7% as of May 2026.</dd>
+  <dt>SBA Express</dt>
+  <dd>A faster 7(a) variant with a 36-hour SBA guarantee decision. Limited to $500,000 and carries a slightly higher rate (Prime + 4.5–6.5%). Best when speed matters and your loan amount is under $500,000.</dd>
+  <dt>Guaranty Fee</dt>
+  <dd>A fee the SBA charges lenders, typically passed on to borrowers, to compensate the SBA for the loan guarantee. Varies by loan size and term; verify current rates at sba.gov. Often rolled into the loan amount rather than requiring upfront cash.</dd>
+  <dt>SBA Preferred Lender (PLP)</dt>
+  <dd>Lenders designated by the SBA to approve SBA guarantee requests in-house, without SBA review. Using a PLP lender is the single most effective way to reduce SBA loan approval timelines. PLP lenders include Live Oak Bank, Wells Fargo, Chase, Huntington, and many regional banks.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -176,8 +210,31 @@ Startups (under 2 years) face significantly higher barriers for SBA 7(a) loans �
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A manufacturing business needs $250,000 to purchase new production equipment. At an SBA 7(a) rate of 11% APR (annual percentage rate) over 84 months, the monthly payment is approximately $4,091 and the total interest paid over the term is approximately $93,644. The same $250,000 from an online equipment lender at 18% APR over 60 months costs approximately $6,341/month and $130,460 in total interest — a $36,816 difference. The SBA loan requires 30–60 additional days but saves nearly $37,000 over the loan life. Rates based on SBA.gov and lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Established businesses with 2+ years of operating history, $150,000+ annual revenue, a credit score of 680+, and the ability to wait 30–90 days for funding. Ideal for large capital needs ($100,000+) where the rate difference versus alternative lenders is significant.
+
+**Who should look elsewhere:** Businesses that need capital in less than 30 days, startups without operating history, businesses with credit below 650, or those with outstanding federal debt delinquencies. For amounts under $50,000, the SBA Microloan program or a business line of credit may be more practical.
+
+The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey) tracks SBA loan approval rates and small business financing conditions annually and is a useful benchmark for understanding current lending standards.
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>SBA 7(a) rates run 9.5–12% APR (annual percentage rate) — based on Prime 7.5% + SBA spread of 2.25–4.75% as of May 2026 via SBA.gov</li>
+      <li>SBA Express decisions come in 36 hours (for loans up to $500,000); standard 7(a) takes 30–60 days from application to funding</li>
+      <li>Down payment is 10% on most 7(a) loans — substantially lower than the 20–30% required by conventional bank loans</li>
+      <li>All available business and personal collateral must be pledged; personal real estate may be required if business assets are insufficient</li>
+      <li>SBA 504 offers a fixed rate of approximately 5.5–7% for fixed-asset purchases but requires a more complex three-party structure with a Certified Development Company</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/sba-loan-calculator/">SBA Loan Calculator — Monthly Payment, Total Cost & Amortization</a></li>
     <li><a href="/compare/sba-504-vs-equipment-loan/">SBA 504 Loan vs. Equipment Loan</a></li>

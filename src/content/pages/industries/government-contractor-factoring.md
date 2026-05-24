@@ -16,6 +16,27 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 Government contractor factoring converts outstanding federal invoices into immediate cash — bridging the gap between when work is delivered and when the government pays (typically 30–45 days under the Prompt Payment Act, though delays are common). Unlike commercial factoring, government contractor factoring must comply with the Federal Acquisition Regulation (FAR) — specifically the Assignment of Claims Act, which governs how receivables from federal contracts can be assigned to a third party. Advance rates reach 90–95% of invoice value, with factoring fees of 1–3% per 30 days. This is a mature, well-regulated market with numerous experienced lenders.
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Government Contractors</h4>
+    <ul>
+      <li>Federal agencies are the most creditworthy payers available — virtually zero insolvency risk means non-recourse factoring is standard, and fees (1–3% per 30 days) are lower than commercial industries</li>
+      <li>Payment timelines are regulated under the Prompt Payment Act — 30-day payment deadlines with mandatory interest on late payments make cash flow more predictable than commercial factoring</li>
+      <li>Startup contractors who have won a federal contract can qualify immediately — approval is based on the agency's creditworthiness, not the contractor's history</li>
+      <li>FAR-compliant factors handle Assignment of Claims paperwork, reducing the administrative burden on the contractor's team</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>The contracting officer must be formally notified of the assignment — some agencies have slower internal processes for updating payment routing, delaying first-invoice funding by days or weeks</li>
+      <li>Not all factoring companies understand federal contracting — using a factor unfamiliar with Assignment of Claims Act procedures risks legal non-compliance and payment delays</li>
+      <li>Subcontract factoring requires prime contractor acknowledgment, adding a step that not all primes will cooperate with quickly</li>
+      <li>Milestone-based fixed-price contracts may not be invoice-based, making them ineligible for standard factoring — confirm contract type eligibility before applying</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Who Uses Government Contractor Factoring
@@ -102,6 +123,24 @@ Government contractor factoring is generally **less expensive than commercial fa
 - Factoring fee at 2%/30 days, prorated to 35 days: $100,000 × 2% × (35/30) = $2,333
 - Agency pays in 35 days: reserve released = $100,000 − $90,000 − $2,333 = $7,667
 
+<dl>
+  <dt>Assignment of Claims Act (31 U.S.C. § 3727)</dt>
+  <dd>The federal statute governing how government contract receivables can be assigned to a factoring company. Requires written assignment, contracting officer notification, and assignment to a single financial institution. Factors must be familiar with this law to legally factor federal invoices.</dd>
+  <dt>FAR 32.8 (Federal Acquisition Regulation)</dt>
+  <dd>The regulatory implementation of the Assignment of Claims Act, specifying required forms and procedures for assigning federal contract receivables. A factor experienced in government contracting handles FAR 32.8 compliance as part of their standard process.</dd>
+  <dt>Prompt Payment Act (31 U.S.C. § 3901)</dt>
+  <dd>Federal law requiring agencies to pay invoices within 30 days of receipt and acceptance, with mandatory interest accruing on late payments. This predictable timeline reduces factor risk on government contracts — a primary reason fees are lower than commercial factoring.</dd>
+  <dt>Notice of Assignment (NOA)</dt>
+  <dd>The formal written notice sent to the Contracting Officer and Designated Billing Office directing the agency to pay the factor instead of the contractor. Required under FAR 32.805. The factor typically prepares this document and guides the contractor through submission.</dd>
+  <dt>IDIQ (Indefinite Delivery/Indefinite Quantity)</dt>
+  <dd>A federal contract type that sets ceiling quantities and a period of performance without specifying exact quantities upfront. Work is ordered through individual task orders. IDIQ task order invoices are generally eligible for factoring — confirm individual task order requirements with your factor.</dd>
+</dl>
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A small IT services contractor invoicing $100,000/month to a civilian federal agency using TCI Business Capital's 90% advance rate and 2% fee would receive $90,000 upfront and pay $2,000 in fees per 30-day period. If the agency pays in 35 days (common even under the Prompt Payment Act), the prorated fee totals $2,333 — leaving a reserve release of $7,667 when the agency pays.</p></div>
+</div>
+
 ---
 
 ## Eligible Contract Types
@@ -144,7 +183,7 @@ Contact prospective factors directly and ask specifically about their Assignment
 
 The SBA offers programs specifically for small business government contractors:
 
-**SBA 7(a) Working Capital Line of Credit:** Revolving line of credit for government contractors, secured by the contract itself. Rates are 10–13% APR — lower than factoring fees for ongoing use, though require stronger credit and more documentation.
+**SBA 7(a) Working Capital Line of Credit:** Revolving line of credit for government contractors, secured by the contract itself. Rates are 10–13% APR (annual percentage rate) — lower than factoring fees for ongoing use, though require stronger credit and more documentation. Learn more at the [SBA funding programs page](https://www.sba.gov/funding-programs/loans).
 
 **SBA Surety Bond Guarantee Program:** Many government contracts require performance and payment bonds. The SBA guarantees surety bonds for small businesses that cannot obtain bonds commercially.
 
@@ -159,6 +198,10 @@ Learn more at [sba.gov](https://www.sba.gov/) or see the [SBA Loans Guide](/guid
 - **Accounts receivable line of credit:** Some banks offer lines of credit secured by government contracts — you retain ownership of the receivables and borrow against them. Typically requires 2+ years of contracting history and strong financials. Rates may be lower than factoring for established contractors.
 - **Contract financing / mobilization loans:** Some lenders advance working capital at contract award — before any invoices are generated — based on the contract award letter. This covers the gap at contract start when expenses begin before delivery (and therefore before invoicing).
 - **SBA working capital line:** As noted above, SBA lines at 10–13% APR are cost-effective for ongoing use if you qualify.
+
+**Who this works for:** Federal prime contractors and subcontractors (IT services, professional services, staffing, facilities, defense) billing $50,000+/month under time-and-materials, cost-plus, GSA schedule, or IDIQ task-order contracts, particularly small businesses and 8(a)/WOSB/SDVOSB firms experiencing payroll or overhead gaps between delivery and payment.
+
+**Who should look elsewhere:** Contractors with 24+ months of steady federal revenue and strong financials can typically access an accounts receivable line of credit or SBA 7(a) working capital facility at 10–13% APR — significantly cheaper than factoring's effective cost. Contractors on milestone-based fixed-price contracts should confirm invoice-based eligibility before applying.
 
 ---
 
@@ -183,6 +226,15 @@ Yes. Unlike bank loans, factoring eligibility is based primarily on your custome
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Government contractor factoring advances 85–95% of federal invoices at fees of 1–3% per 30-day period — the lowest rates of any industry due to federal agency creditworthiness (rates verified May 2026)</li>
+      <li>The Assignment of Claims Act requires contracting officer notification — only use factors with documented federal contracting experience who handle FAR 32.8 compliance</li>
+      <li>TCI Business Capital is the top pick for federal contractors: strong government program, Assignment of Claims expertise, and experience across civilian and defense agencies</li>
+      <li>Subcontract factoring requires prime contractor acknowledgment — not all prime contractors cooperate quickly, so plan for potential setup delays on first invoices</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/providers/tci-business-capital-review/">TCI Business Capital Review 2026</a></li>

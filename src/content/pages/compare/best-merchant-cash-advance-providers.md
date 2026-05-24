@@ -8,15 +8,24 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Best Merchant Cash Advance Providers of 2026 — Ranked & Compared
 
-*Last reviewed: May 2026 — Factor rates verified via each provider's published terms. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Before using any MCA, read our [full MCA cost guide](/guides/merchant-cash-advance/) — effective APRs range from 40–350%.*
+*Last reviewed: May 2026 — Factor rates verified via each provider's published terms; all rates are based on provider-published rates as of May 2026. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Affiliate relationships do not affect rankings or editorial coverage. Before using any MCA (merchant cash advance), read our [full MCA cost guide](/guides/merchant-cash-advance/) — effective APRs (annual percentage rates) range from 40–350%.*
 
 ---
 
 ## A Note Before This List
 
-MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, SBA loans — and determined that an MCA is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/).
+MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, SBA loans — and determined that an MCA is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/). For context on small business financing practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 With that context, here is an independent assessment of the major providers.
+
+<dl>
+  <dt>Factor Rate</dt>
+  <dd>The factor rate (the multiplier applied to your advance to determine total repayment). A factor rate of 1.30 on a $50,000 advance means you repay $65,000 regardless of how quickly you repay. Unlike interest rates, there is no benefit to early repayment under a standard factor rate structure.</dd>
+  <dt>Daily Holdback</dt>
+  <dd>The daily holdback (the percentage of daily sales automatically deducted for MCA repayment). A 15% holdback on $4,000 in daily card sales means $600/day is deducted until the advance is repaid. True holdback (a percentage of actual sales) flexes with revenue; fixed daily ACH does not.</dd>
+  <dt>Effective APR</dt>
+  <dd>The annualized cost of an MCA expressed as an annual percentage rate. MCA effective APRs typically range from 40–350% depending on factor rate and repayment speed. This is significantly higher than term loans, lines of credit, or invoice factoring.</dd>
+</dl>
 
 ---
 
@@ -357,6 +366,22 @@ BFS Capital (now part of a larger alternative lending group) works with business
 
 ---
 
+## Borrower Example
+
+**Scenario:** A restaurant with $40,000/month in card sales needs $30,000 for kitchen equipment repairs.
+
+- **Credibly MCA** at factor rate 1.25, 15% daily holdback (the percentage of daily sales automatically deducted for MCA repayment):
+  - Total repayment: $37,500 ($30,000 × 1.25)
+  - Daily card sales: ~$1,333; daily deduction: $200 (15%)
+  - Estimated payoff: ~188 days
+  - Effective APR: ~55%
+
+- **Alternative (equipment financing):** Balboa Capital at 12% APR on $30,000 over 36 months: Monthly payment $997; total interest paid $5,892; effective APR 12%
+
+The MCA costs roughly $7,500 vs. $5,892 for equipment financing — and the MCA repayment compresses cash flow daily while equipment financing has a fixed monthly payment. If the restaurant cannot qualify for equipment financing, the MCA may be the only option. Rates depend on credit score, revenue consistency, and existing MCA obligations.
+
+---
+
 ## Red Flags to Watch For in Any MCA Agreement
 
 Regardless of which provider you use, review your agreement for:
@@ -392,6 +417,16 @@ Most do not report to major business credit bureaus (Dun & Bradstreet, Experian 
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Credibly (#1) is ranked best for transparency — it publishes factor rates (1.15–1.49) before you apply and lets you compare MCA vs. line of credit in one application; minimum $15,000/month revenue and 500 credit score</li>
+      <li>OnDeck has the lowest factor rate floor (1.10–1.40) but requires 12 months in business and 625+ credit — better suited to established businesses than early-stage ones</li>
+      <li>Rapid Finance offers the largest maximum advance ($500,000) with a 2-year minimum time-in-business requirement; factor rates 1.15–1.45</li>
+      <li>MCA effective APRs range from 40–350% — compare against invoice factoring (18–60% APR) or equipment financing (5–26% APR) before deciding</li>
+      <li>Reject any MCA agreement containing a confession of judgment clause; it allows the provider to obtain a court judgment against you without notice, and is avoidable</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances — Complete Guide</a></li>
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>

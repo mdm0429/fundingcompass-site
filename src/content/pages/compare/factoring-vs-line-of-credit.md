@@ -14,7 +14,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## The Core Trade-Off in One Paragraph
 
-A business line of credit gives you a revolving pool of funds to draw from as needed, repaid on your schedule, at rates typically ranging from 8–30% APR. It is substantially cheaper than invoice factoring for qualified businesses. Invoice factoring gives you immediate cash against specific invoices you are already owed — accessible without strong credit, scalable with your invoice volume, and funded within 24–48 hours. The right choice depends on your credit profile, how predictably your customers pay, and whether you need ongoing liquidity or a solution tied to specific receivables.
+A business line of credit gives you a revolving pool of funds to draw from as needed, repaid on your schedule, at rates typically ranging from 8–30% APR (annual percentage rate). It is substantially cheaper than invoice factoring for qualified businesses. Invoice factoring gives you immediate cash against specific invoices you are already owed — accessible without strong credit, scalable with your invoice volume, and funded within 24–48 hours. The right choice depends on your credit profile, how predictably your customers pay, and whether you need ongoing liquidity or a solution tied to specific receivables. All rates are based on lender-published rates as of May 2026.
+
+<dl>
+  <dt>Invoice Factoring</dt>
+  <dd>The sale of outstanding B2B invoices to a third party (the factor) in exchange for immediate cash. The factor collects from your customers directly. Approval is based primarily on your customers' creditworthiness, not yours. Typical advance rate: 80–97%.</dd>
+  <dt>Business Line of Credit (LOC)</dt>
+  <dd>A revolving credit facility that lets you draw funds up to a set limit, repay, and draw again. Approval is based on your business credit, revenue, and time in business. Costs 8–30% APR for qualified borrowers — substantially cheaper than factoring for established businesses.</dd>
+  <dt>UCC-1 Filing</dt>
+  <dd>A UCC-1 (a public lien notice filed when a lender takes a security interest in your assets). Both factors and LOC lenders typically file UCC-1 liens. If a bank holds a blanket UCC-1 lien on your receivables, you cannot also assign those receivables to a factor without the bank's written consent — violating this is a default event.</dd>
+  <dt>Notice of Assignment</dt>
+  <dd>A notice sent to your customers when you factor their invoices, directing payment to the factor instead of you. Required in factoring; invisible in invoice financing or LOC arrangements.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -131,6 +142,14 @@ Yes — but with important caveats. Many businesses use a line of credit for gen
 
 ---
 
+## Which Should You Choose?
+
+**Choose invoice factoring if:** your credit score is below 650, you have been in business fewer than 18 months, your working capital need is directly tied to specific outstanding invoices, or your invoice volume is growing faster than your LOC limit accommodates. Factoring is also the better choice if you want to keep debt off your balance sheet.
+
+**Choose a business line of credit if:** you have 650+ credit and 18+ months in business (at this profile, a LOC at 8–20% APR saves $15,000–$40,000 per year on $100,000 in utilisation versus factoring at 24–60% effective APR), your working capital needs are general-purpose rather than invoice-specific, or you want to preserve your customer payment relationships without a Notice of Assignment.
+
+---
+
 ## Qualification Comparison
 
 <div class="comp-table-wrap">
@@ -161,7 +180,7 @@ Yes — but with important caveats. Many businesses use a line of credit for gen
 Factoring is faster. Initial account setup with a factor takes 3–7 business days; subsequent invoice funding takes 24–48 hours. A business line of credit from an online lender takes 3–7 days to approve; from a bank, 2–6 weeks. Once both are established, factoring requires submitting each invoice while a LOC allows immediate draws — so the LOC wins on ongoing convenience.
 
 **Does invoice factoring hurt my credit score?**
-Factoring itself does not appear on your credit report and does not affect your credit score. However, many factors file a UCC-1 financing statement on your accounts receivable, which is visible to other lenders and may affect your ability to obtain a LOC with a blanket lien. A business LOC always appears on your business credit report and contributes to your debt load.
+Factoring itself does not appear on your credit report and does not affect your credit score. However, many factors file a UCC-1 (a public lien notice filed when a lender takes a security interest in your assets) on your accounts receivable, which is visible to other lenders and may affect your ability to obtain a LOC with a blanket lien. A business LOC always appears on your business credit report and contributes to your debt load. For borrower rights information, see the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/).
 
 **Can I get a line of credit if I already use factoring?**
 Potentially, but the UCC-1 lien your factor holds on your receivables complicates this. Most LOC lenders require first-priority security interest in your assets. You would need your factor to subordinate their lien (agree to take second priority), which factors rarely agree to. In practice, businesses typically choose one or the other rather than running both simultaneously.
@@ -176,6 +195,16 @@ For established businesses with 650+ credit and 2+ years of history, a line of c
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Invoice factoring costs 18–60% effective APR; a business line of credit costs 8–30% APR — for a business with 650+ credit, a LOC saves $15,000–$40,000/year on $100,000 in utilisation</li>
+      <li>Factoring approves based on your customers' creditworthiness; LOC approval requires your credit (600–680+) and 12–24 months in business</li>
+      <li>Factoring funds within 24–48 hours after initial setup; a LOC takes 3–7 days from an online lender or 2–6 weeks from a bank for initial approval</li>
+      <li>Factoring scales automatically with invoice volume; a LOC has a fixed limit that requires renegotiation to increase</li>
+      <li>Running both simultaneously requires your LOC lender to subordinate their UCC-1 lien on receivables — confirm in writing before approaching a factor</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>
     <li><a href="/guides/business-line-of-credit/">Business Line of Credit — Complete Guide</a></li>

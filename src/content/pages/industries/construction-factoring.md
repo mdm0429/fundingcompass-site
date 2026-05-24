@@ -16,6 +16,8 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Construction factoring carries unique complications not present in other industries — [retainage](/glossary/), [lien waivers](/glossary/), and the multi-party payment chain (owner → GC → subcontractor → supplier) create risks that lead most general factors to decline construction invoices. Specialist construction factors advance 70–85% of approved progress billings — lower than the 90–97% typical in trucking or staffing — and the educational value here is high: understanding retainage and lien exposure before approaching a factor is essential.
 
+Progress billings submitted via AIA (American Institute of Architects billing format) G702/G703 forms are the accepted standard — factors familiar with construction expect this format.
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -31,6 +33,27 @@ Construction factoring carries unique complications not present in other industr
     <div class="stat-card__label">FEE RANGE</div>
     <div class="stat-card__value">2–5%</div>
     <div class="stat-card__sub">per 30-day period</div>
+  </div>
+</div>
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Construction Subcontractors</h4>
+    <ul>
+      <li>Converts approved progress billings to cash in 2–5 days — eliminating the 30–60 day wait for GC payment that strains payroll and supplier obligations</li>
+      <li>Approval based on GC or municipal owner creditworthiness — subcontractors with creditworthy GC clients can qualify even with limited financial history</li>
+      <li>Specialist factors assist with lien waiver documentation, reducing administrative burden on subcontractor office staff</li>
+      <li>Works across trades — electrical, plumbing, HVAC, concrete, and specialty contractors all commonly use construction factoring</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Retainage invoices (the 5–10% withheld until project completion) are typically excluded — factors do not advance on withheld amounts, leaving a significant portion of your contract value inaccessible until project closeout</li>
+      <li>GC notification via Notice of Assignment is required and some GCs have policies that complicate or delay factoring arrangements — discuss with your GC before applying</li>
+      <li>Construction factoring fees (2–5% per 30 days) are among the highest of any industry, reflecting contract completion risk and invoice dispute frequency</li>
+      <li>Joint check agreements and payment bond requirements can make some invoices unfactorable — disclose these upfront</li>
+    </ul>
   </div>
 </div>
 
@@ -50,7 +73,7 @@ Construction factoring carries unique complications not present in other industr
 
 ## How Construction Factoring Works
 
-1. **You complete a portion of work and submit a progress billing (AIA G702/G703 or equivalent) to the GC or owner.**
+1. **You complete a portion of work and submit a progress billing using AIA (American Institute of Architects billing format) G702/G703 or an equivalent form to the GC or owner.**
 
 2. **The GC or owner approves the billing.** Approval is the critical step — factors will not advance on unapproved billings. Approval transforms a progress billing into a confirmed receivable.
 
@@ -74,7 +97,25 @@ Construction factoring carries unique complications not present in other industr
 | [Crestmark](https://www.crestmark.com/) | 75–85% | 2–4.5% | Limited | $50,000 |
 | [Triumph Business Capital](/providers/triumph-business-capital-review/) | 75–85% | 2–4% | Limited | $25,000 |
 
-*Rates verified May 2026. Higher advance rates available for subcontractors with strong GC relationships, low dispute history, and approved billings from creditworthy GCs or municipal owners.*
+*Rates verified May 2026. Actual fees depend on GC creditworthiness, project type, dispute history, and monthly billing volume.*
+
+<dl>
+  <dt>Retainage</dt>
+  <dd>The 5–10% of each progress payment that the owner or GC withholds until the project is substantially complete — and sometimes through a defect liability period afterward. Most factors will not advance on retainage because it is contingent on project completion, which may be months away.</dd>
+  <dt>Lien waiver</dt>
+  <dd>A document that releases your right to file a mechanic's lien against the property in exchange for payment. Construction factors typically require a conditional lien waiver (which only releases rights upon actual receipt of payment) before advancing. Never sign an unconditional lien waiver before funds are confirmed in your account.</dd>
+  <dt>Progress billing (AIA G702/G703)</dt>
+  <dd>The standard construction billing format issued by the American Institute of Architects. Factors familiar with construction expect billings in this format — it details work completed to date, the retainage held, and the net amount due this period.</dd>
+  <dt>Notice of Completion</dt>
+  <dd>A legal document filed when a project is substantially complete, triggering the clock on lien filing deadlines and retainage release schedules. Factoring relationships on a project typically close out when the Notice of Completion is filed and final payment (including retainage) is made.</dd>
+  <dt>Joint check agreement</dt>
+  <dd>A GC-imposed arrangement requiring checks to be made payable jointly to the subcontractor and their material supplier, ensuring the supplier is paid before lien rights are cleared. Joint checks complicate factoring because the factor cannot deposit them alone — both parties must endorse them.</dd>
+</dl>
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>An electrical subcontractor with $80,000 in approved progress billings on a commercial project using Riviera Finance's 80% advance rate and 3% fee would receive $64,000 upfront within 2–5 days of billing approval and pay $2,400 in factoring fees per 30-day period. Note: if the billing includes 10% retainage ($8,000 withheld by the GC), the factorable amount is $72,000 — producing a $57,600 advance on the net billing.</p></div>
+</div>
 
 ---
 
@@ -124,6 +165,10 @@ Executing a lien waiver waives your right to file a mechanic's lien against the 
 | Min. time in business | 12+ months typically | 24+ months typically |
 | Best for | Subcontractors with slow-paying GCs | Established contractors with bank relationships |
 
+**Who this works for:** Subcontractors in established trades (electrical, plumbing, HVAC, concrete) billing $25,000+/month in approved progress billings to creditworthy general contractors or municipal owners, with a low history of billing disputes.
+
+**Who should look elsewhere:** General contractors face approval difficulty due to the complexity of the owner payment chain. Residential contractors billing homeowners encounter consumer credit risk and complex state lien laws that most construction factors avoid. Businesses with active mechanic's liens filed against them are typically ineligible until liens are resolved.
+
 ---
 
 ## Frequently Asked Questions
@@ -150,6 +195,15 @@ IRS tax liens create a priority claim on your receivables that generally blocks 
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Construction factoring advances 70–85% of approved progress billings at fees of 2–5% per 30-day period — among the highest fees across all industries (rates verified May 2026)</li>
+      <li>Retainage (5–10% withheld by GC until project completion) is excluded from factoring advances — plan cash flow accordingly</li>
+      <li>Riviera Finance is the top pick for subcontractors: lien waiver support, 70–85% advance rates, and $25,000 monthly minimum</li>
+      <li>Never sign an unconditional lien waiver until funds are confirmed in your account — doing so releases your lien rights regardless of whether you are paid</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>

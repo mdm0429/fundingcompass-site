@@ -14,7 +14,18 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Invoice financing and invoice factoring both convert outstanding B2B invoices into immediate cash — but they are fundamentally different products. With invoice factoring, you sell your invoices to a factoring company, which then collects from your customers directly. With invoice financing (also called accounts receivable financing or invoice discounting), you borrow against your invoices as collateral — your customers never know about the arrangement. Factoring is usually cheaper and simpler; invoice financing preserves customer relationships but costs slightly more. Most small businesses that want to access their AR cash find factoring the more practical solution.
+Invoice financing and invoice factoring both convert outstanding B2B invoices into immediate cash — but they are fundamentally different products. With invoice factoring, you sell your invoices to a factoring company, which then collects from your customers directly. With invoice financing (also called accounts receivable financing or invoice discounting), you borrow against your invoices as collateral — your customers never know about the arrangement. Factoring is usually cheaper and simpler; invoice financing preserves customer relationships but costs slightly more. Most small businesses that want to access their AR cash find factoring the more practical solution. All rates are based on lender-published rates as of May 2026.
+
+<dl>
+  <dt>Invoice Factoring</dt>
+  <dd>The outright sale of accounts receivable to a third-party factor. The factor pays you 80–97% of the invoice value immediately, then collects the full amount directly from your customer. Fees typically run 1–5% per 30 days.</dd>
+  <dt>Invoice Financing (AR Financing / Invoice Discounting)</dt>
+  <dd>A loan or revolving line of credit secured by your outstanding invoices. You retain ownership of the receivables and collect from customers yourself. The lender advances 70–90% against your AR portfolio; customers never know about the arrangement.</dd>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of an invoice's face value paid upfront. Factoring typically advances 80–97%; invoice financing typically advances 70–90%. The difference reflects the factor's collection responsibility — taking on collections justifies a higher advance.</dd>
+  <dt>Notice of Assignment</dt>
+  <dd>A notice required in factoring that directs your customers to pay the factor instead of you. Standard in factoring; absent in invoice financing. In most B2B industries (staffing, freight, manufacturing), customers are accustomed to receiving these notices.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -136,6 +147,19 @@ In most B2B contexts, factoring carries no stigma — it's a common working capi
 
 ---
 
+## Which Should You Choose?
+
+**Choose invoice factoring if:** you need the highest advance rate (up to 97% vs. 70–90% for financing), you're a start-up or have below-average credit (factoring approves based on your customers' credit), or you operate in industries where factor-customer contact is normal (freight, staffing, manufacturing, government contracting).
+
+**Choose invoice financing if:** preserving your customer payment relationship is critical (professional services, consulting, high-touch B2B), you have strong business credit and 1–2+ years of history, or you prefer a revolving line of credit structure over per-invoice transactions.
+
+**Borrower example:** A staffing agency with $80,000/month in outstanding invoices and customers who pay in 45 days:
+- **Factoring** at 2.5% fee for 45 days: Fee = $2,000; advance = $72,000; factor collects from customers
+- **Invoice financing** at 0.04%/day for 45 days: Interest = $1,440; advance = $64,000 (80%); you collect from customers
+- **Conclusion:** Factoring gives $8,000 more upfront cash for $560 more in fees — and removes collection burden from your team
+
+---
+
 ## Which Industries Use Each Product
 
 **Invoice factoring is most common in:**
@@ -253,6 +277,16 @@ Spot factoring (also called selective factoring) allows you to factor individual
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Invoice factoring advances 80–97% immediately; invoice financing advances 70–90% — factoring gives more upfront cash because the factor takes over collections</li>
+      <li>With factoring, your customers receive a Notice of Assignment and pay the factor directly; with invoice financing, they pay you as normal and never know about the arrangement</li>
+      <li>Factoring approves based primarily on your customers' creditworthiness — startups with strong commercial clients can qualify; invoice financing requires your business credit and 1–2 years of history</li>
+      <li>Invoice factoring is most common in freight, staffing, manufacturing, and government contracting; invoice financing is preferred by professional services and agencies where customer discretion matters</li>
+      <li>Both products result in a UCC-1 lien on your accounts receivable — confirm whether existing lenders will subordinate before applying</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/guides/accounts-receivable-financing/">Accounts Receivable Financing — Complete Guide</a></li>

@@ -8,13 +8,24 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Invoice Factoring vs. Merchant Cash Advance — Full Comparison
 
-*Last reviewed: May 2026.*
+*Last reviewed: May 2026. All rates are based on provider-published rates as of May 2026.*
 
 ---
 
 ## The Core Difference in One Paragraph
 
-Invoice factoring converts outstanding B2B invoices into immediate cash — you sell a receivable you are already owed, at 18–60% effective APR. A merchant cash advance gives you a lump sum in exchange for a fixed repayment amount collected from future sales, at 40–350% effective APR. Both are fast and accessible without strong credit. The difference is cost, mechanism, and who they serve: factoring requires B2B invoices with creditworthy customers; MCAs require card sales volume regardless of customer type.
+Invoice factoring converts outstanding B2B invoices into immediate cash — you sell a receivable you are already owed, at 18–60% effective APR (annual percentage rate). A MCA (merchant cash advance) gives you a lump sum in exchange for a fixed repayment amount collected from future sales, at 40–350% effective APR. Both are fast and accessible without strong credit. The difference is cost, mechanism, and who they serve: factoring requires B2B invoices with creditworthy customers; MCAs require card sales volume regardless of customer type. For guidance on MCA practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
+
+<dl>
+  <dt>Invoice Factoring</dt>
+  <dd>The sale of outstanding B2B invoices to a factoring company in exchange for immediate cash (80–97% of invoice value). The factor collects from your customers directly. Fees of 1–5% per 30 days; effective APR typically 18–60%.</dd>
+  <dt>Merchant Cash Advance (MCA)</dt>
+  <dd>An advance of cash in exchange for a fixed repayment amount collected as a percentage of future daily card sales. Not technically a loan — total repayment is set at the factor rate (the multiplier applied to your advance to determine total repayment) times the advance amount, regardless of repayment speed.</dd>
+  <dt>Factor Rate</dt>
+  <dd>The multiplier applied to your advance to determine total repayment. A factor rate of 1.30 on a $50,000 advance means you repay $65,000. Unlike APR, there is typically no benefit to repaying an MCA early under a standard factor rate structure.</dd>
+  <dt>Daily Holdback</dt>
+  <dd>The daily holdback (the percentage of daily sales automatically deducted for MCA repayment). At 15% holdback on $4,000/day in card sales, $600/day is deducted until repaid. True holdback flexes with revenue — fixed daily ACH does not.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -85,6 +96,14 @@ This example assumes the business has B2B invoices to factor. If it only has car
 
 ---
 
+## Which Should You Choose?
+
+**Choose invoice factoring if:** you have outstanding B2B invoices from commercial or government customers, your gross margin is above 15% (factoring fees are manageable), you want the factor to bear collection risk on the receivables, or you need funding that scales automatically with invoice volume. In the staffing agency example above, factoring costs $1,800 vs. $15,000 for an MCA — a $13,200 savings for the same $50,000 and 45-day window.
+
+**Choose an MCA if:** your business is B2C or retail with no outstanding B2B invoices, your customers pay by card rather than invoice, your credit is below 550 and no other product qualifies, or you have a specific high-return window (seasonal buy, confirmed catering contract) where the math justifies the 40–350% effective APR.
+
+---
+
 ## When Factoring Wins
 
 - You have outstanding B2B invoices from creditworthy customers
@@ -152,6 +171,16 @@ In terms of effective APR, almost never — MCA rates are structurally higher. H
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Invoice factoring costs 18–60% effective APR; MCAs cost 40–350% effective APR — for the same $50,000 / 45-day scenario, factoring costs $1,800 vs. $15,000 for an MCA</li>
+      <li>Factoring requires B2B invoices and creditworthy commercial customers; MCAs work for any business with card sales, including B2C retail and restaurants</li>
+      <li>MCAs fund within 24 hours with minimal documentation; initial factoring setup takes 3–7 days, then subsequent invoices fund within 24–48 hours</li>
+      <li>Both products may result in competing UCC-1 liens — running both simultaneously requires careful coordination and can severely compress daily cash flow</li>
+      <li>If you cannot afford payroll or rent, both products are likely to make the situation worse — seek advice from a SCORE mentor before committing to either</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advance Guide</a></li>

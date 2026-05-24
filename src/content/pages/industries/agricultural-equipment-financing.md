@@ -14,7 +14,30 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Agricultural equipment financing provides loans and leases for farming operations purchasing tractors, combines, planters, irrigation systems, livestock equipment, and other farm machinery. Farm equipment is capital-intensive — a modern combine harvester can cost $300,000–$600,000 — making financing essential for most operations. Agricultural lenders offer specialized structures including seasonal payment schedules that align with crop harvest and sale cycles, and manufacturer captive financing programs from John Deere and Case IH are often the most competitive starting point for comparison. Rates for qualified farm operations typically run 5–10% APR, with government-backed USDA farm loan programs available for operations that qualify.
+Agricultural equipment financing provides loans and leases for farming operations purchasing tractors, combines, planters, irrigation systems, livestock equipment, and other farm machinery. Farm equipment is capital-intensive — a modern combine harvester can cost $300,000–$600,000 — making financing essential for most operations. Agricultural lenders offer specialized structures including seasonal payment schedules that align with crop harvest and sale cycles, and manufacturer captive financing programs from John Deere and Case IH are often the most competitive starting point for comparison. Rates for qualified farm operations typically run 5–10% APR (annual percentage rate) as of May 2026, with government-backed USDA (U.S. Department of Agriculture) farm loan programs available for operations that qualify.
+
+---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Farm Operations</h4>
+    <ul>
+      <li>Seasonal payment structures align principal payments with harvest and crop sale periods — one or two annual payments when cash flow is highest, with reduced or no payments during the growing season</li>
+      <li>Farm Credit System lenders (cooperative institutions specifically serving agriculture) offer rates typically 1–3% below commercial bank rates, plus potential patronage dividends that further reduce effective annual borrowing cost</li>
+      <li>Major brand farm equipment (John Deere, Case IH, AGCO) holds value well — combine harvesters retain 50–60% of value after 5 years, supporting high advance rates and reducing risk if the operation needs to sell before payoff</li>
+      <li>USDA FSA (U.S. Department of Agriculture Farm Service Agency) guaranteed loan programs allow operations that have been declined commercially to access financing — the FSA guarantees up to 95% of the lender's risk</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>High-hour combines (3,000+ hours) face financing restrictions even on relatively new machines — verify hour counts before assuming a used combine will qualify for standard financing terms</li>
+      <li>Private-party farm equipment purchases are more difficult to finance than dealer purchases — some lenders decline private sales above certain amounts, and documentation requirements are more demanding</li>
+      <li>Specialised livestock or processing equipment has limited resale markets — advance rates may be 60–75% of appraised value, requiring a larger down payment than row crop equipment</li>
+      <li>FSA loan applications are more involved than commercial financing — expect more documentation, longer processing times, and income verification requirements that reflect the government oversight of the program</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -98,7 +121,7 @@ The Farm Credit System is a network of cooperative lenders specifically serving 
 
 ### USDA Farm Service Agency (FSA) Loan Programs
 
-The USDA Farm Service Agency offers government-backed farm loans for operations that cannot obtain conventional financing:
+The <a href="https://www.rd.usda.gov/programs-services/all-programs/business-programs">USDA (U.S. Department of Agriculture)</a> Farm Service Agency offers government-backed farm loans for operations that cannot obtain conventional financing:
 
 - **FSA Direct Loans:** The FSA lends directly to farmers, up to $600,000 for operating loans and $600,000 for ownership loans
 - **FSA Guaranteed Loans:** FSA guarantees up to 95% of a loan made by a commercial lender, allowing commercial lenders to approve riskier farm operations
@@ -126,6 +149,13 @@ FSA loans are best for beginning farmers, small and minority farming operations,
 | Farm 1–3 years old, 650+ credit | 9–15% | 24–60 months |
 | FSA Guaranteed Loan | Market rate (varies) | Up to 7 years (equipment) |
 | FSA Direct Loan | Below-market (set by USDA) | Up to 7 years (equipment) |
+
+*Rates depend on credit profile, equipment type, and loan term. Rates verified May 2026.*
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A corn and soybean operation financing a $350,000 combine harvester at 6.5% APR over 84 months with a semi-annual payment structure would pay approximately $34,200 twice a year — once in May (planting season cash flow) and once in November (post-harvest). Compared to equal monthly payments of approximately $5,260/month, the semi-annual structure better matches the farm's cash flow cycle. Using Section 179, the full $350,000 could be deducted in the purchase year, generating approximately $98,000 in tax savings at a 28% effective rate.</p></div>
+</div>
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model monthly payments at different rate and term scenarios.
 
@@ -171,8 +201,38 @@ FSA financing is designed for farmers who cannot obtain adequate financing throu
 
 ---
 
+**Who this works for:** Established farm operations (2+ years, 650+ credit score) purchasing major-brand tractors, combines, planters, or irrigation systems where the equipment directly supports crop production revenue. Row crop and specialty crop farms that benefit from seasonal payment structures aligned to harvest cycles. Operations with significant taxable income in strong revenue years that can maximize Section 179 deductions on major equipment purchases.
+
+**Who should look elsewhere:** Farm operations that have been declined by commercial lenders and qualify for USDA FSA direct loans — commercial equipment financing may not be available, and FSA programs are specifically designed for this profile. Operations purchasing equipment that is over 15 years old or has very high hours — traditional financing may not be available, and dealer financing or cash purchase may be the only options. Farm start-ups under 12 months old without established revenue (FSA beginning farmer programs or manufacturer financing with a large down payment are better-suited options).
+
+---
+
+<dl>
+  <dt>Seasonal payment structure</dt>
+  <dd>A loan repayment schedule that aligns principal payments with the farm's harvest and cash-flow cycle. Instead of equal monthly payments, seasonal structures may require one or two large payments per year — typically after harvest — with reduced or no payments during the growing season when cash outflows are highest.</dd>
+  <dt>USDA Farm Service Agency (FSA) loans</dt>
+  <dd>Government-backed farm loans administered by the U.S. Department of Agriculture. FSA direct loans lend directly to farmers at below-market rates; FSA guaranteed loans allow commercial lenders to approve higher-risk farm operations by guaranteeing up to 95% of the lender's exposure. Designed for beginning farmers, small farms, and operations that cannot obtain adequate commercial financing.</dd>
+  <dt>Farm Credit System</dt>
+  <dd>A network of federally chartered cooperative lending institutions serving agricultural businesses and rural communities. Farm Credit lenders are owned by their borrowers, offer rates typically 1–3% below commercial bank rates, and may return earnings to borrowers as annual patronage dividends — further reducing effective borrowing cost.</dd>
+  <dt>Crop-year financing</dt>
+  <dd>Financing structured around the crop production year rather than a calendar year. Loan terms and payment schedules reference planting and harvest dates rather than fixed calendar months. Common in operating loans but relevant to equipment financing when structured with seasonal payment features.</dd>
+  <dt>Section 179</dt>
+  <dd>The IRS deduction that lets businesses expense equipment purchases in the year of purchase, up to $1,220,000 in 2026. Farm equipment generally qualifies, making Section 179 particularly valuable in high-income years when the operation has significant taxable income to offset with equipment deductions.</dd>
+</dl>
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Agricultural equipment financing rates run 5–10% APR (annual percentage rate) for qualified farm operations as of May 2026, with Farm Credit System lenders typically 1–3% below commercial bank rates; USDA FSA direct loan rates are below market and set by the government</li>
+      <li>Covers tractors, combine harvesters, planters, sprayers, irrigation systems, livestock handling equipment, and grain bins; major brands (John Deere, Case IH, AGCO, Kubota) support advance rates of 85–100% on newer equipment</li>
+      <li>Most commercial lenders require 650+ credit score; manufacturer financing programs (John Deere Financial, CNH Capital) may work with 620+; USDA FSA direct loans are available to operations declined by commercial lenders</li>
+      <li>Choose seasonal payment structures (annual or semi-annual payments) when your operation has concentrated cash flow at harvest; manufacturer captive financing is usually the first comparison point for new equipment purchases — promotional 0% periods are available on select models</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a></li>
     <li><a href="/guides/sba-loans/">SBA Loans for Small Businesses — Complete Guide</a></li>

@@ -8,13 +8,24 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Spot Factoring vs. Contract Factoring — Which Is Right for You?
 
-*Last reviewed: May 2026.*
+*Last reviewed: May 2026. All rates are based on lender-published rates as of May 2026.*
 
 ---
 
 ## The Core Difference
 
 Spot factoring (also called selective factoring) lets you submit individual invoices to a factor on a transaction-by-transaction basis — no minimum volume, no long-term contract. Contract factoring requires you to factor all invoices (or a minimum monthly volume) from agreed customers over a defined contract period, typically 12 months. Contract factoring costs less per invoice; spot factoring costs more but gives you complete flexibility.
+
+<dl>
+  <dt>Spot Factoring (Selective Factoring)</dt>
+  <dd>Factoring individual invoices on demand with no contract, no minimum volume, and no long-term commitment. Carries a fee premium of 0.5–1.5% per 30-day period over contract rates. Best for businesses with seasonal or irregular invoice volumes.</dd>
+  <dt>Contract Factoring</dt>
+  <dd>A 12-month (typical) factoring agreement committing you to factor all invoices from specified customers, or a minimum monthly volume. Offers lower per-invoice rates — typically 0.5–1.5% per period cheaper than spot. May include termination fees of 1–3% of contracted monthly volume if you exit early.</dd>
+  <dt>Minimum Volume Fee</dt>
+  <dd>A fee charged when your actual factoring volume falls below the contracted minimum. If your contract specifies $25,000/month and you only factor $10,000, the factor charges a fee on the $15,000 shortfall — even though you received no advance on it.</dd>
+  <dt>Factor Rate</dt>
+  <dd>The factoring fee expressed as a percentage per billing period (usually per 30 days). A 2% factor rate on a $50,000 invoice costs $1,000 per 30-day period. Rates depend on credit score, customer creditworthiness, and term length.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -52,6 +63,14 @@ Spot factoring (also called selective factoring) lets you submit individual invo
     </tbody>
   </table>
 </div>
+
+---
+
+## Which Should You Choose?
+
+**Choose spot factoring if:** your invoice volume varies significantly month-to-month (seasonal businesses, project-based companies), you want to test a factor before committing to a 12-month agreement, you only need factoring 3–4 times per year, or you have a single large invoice you want to factor without entering an ongoing relationship. Spot factoring premium of 0.5–1.5% per period is cheaper than paying contract minimums in slow months.
+
+**Choose contract factoring if:** you have consistent, predictable invoice volume above the minimum threshold ($10,000–$50,000/month depending on the factor), you want the factor to manage your entire AR function (invoicing follow-up, aging reports, collections), or you are in a high-growth phase where a committed funding partner at lower rates benefits you over a 12-month period. At $50,000/month in consistent volume, contract factoring saves ~$3,000/year vs. spot rates.
 
 ---
 
@@ -125,6 +144,16 @@ Spot factoring involves selling the invoice to the factor (the factor collects f
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Spot factoring costs 0.5–1.5% more per 30-day period than contract factoring — at $50,000/month in consistent volume, contract factoring saves ~$3,000/year</li>
+      <li>Contract factoring typically requires a 12-month commitment and minimum monthly volume ($10,000–$50,000); early termination fees run 1–3% of contracted monthly volume</li>
+      <li>Spot factoring is available from Riviera Finance (month-to-month), Paragon Financial Group, and RTS Financial (freight, no minimums); eCapital and Triumph Business Capital require contracts with minimums</li>
+      <li>If your invoice volume falls below a contract minimum, you pay a shortfall fee on the gap — model your slowest months before committing to a volume floor</li>
+      <li>Spot factoring is the lower-risk way to test a factor's technology, collections practices, and customer service before signing a 12-month agreement</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>
     <li><a href="/tools/factoring-cost-calculator/">Factoring Cost Calculator</a></li>

@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>APR (annual percentage rate)</dt>
+  <dd>National Funding does not publish APRs for its equipment financing. Based on reported borrower experiences and comparable products, effective APRs range approximately 15–35% for equipment loans to qualified borrowers, as of May 2026.</dd>
+  <dt>Equipment loan</dt>
+  <dd>An equipment loan from National Funding is secured by the equipment itself, typically runs 24–60 months, and results in ownership at payoff. Because equipment serves as collateral, credit requirements are lower than for unsecured financing.</dd>
+  <dt>Operating lease</dt>
+  <dd>National Funding's equipment lease options let you return or buy out the equipment at end of term. Off-balance-sheet treatment may be available depending on lease structure and your accounting method — confirm with your accountant.</dd>
+  <dt>Section 179</dt>
+  <dd>Equipment purchased or financed through National Funding may qualify for the IRS Section 179 deduction, allowing the full purchase price to be deducted in the year of purchase rather than depreciated over time. The 2026 deduction limit is $1,160,000. Consult a tax adviser before making purchasing decisions based on this benefit.</dd>
+</dl>
+
 ## Summary Verdict
 
 National Funding is one of the larger online alternative lenders focused on equipment financing and working capital loans for small businesses. It operates across the US, offers a fast application process, and has relatively accessible credit requirements for equipment financing (600+ credit). Its working capital loans function similarly to merchant cash advances — the total cost is fixed as a factor, not an APR — which makes cost comparison more complex. For equipment financing specifically, National Funding is a legitimate option for businesses that don't qualify for bank or SBA equipment loans.
 
-**Best for:** Businesses needing equipment financing ($5,000–$150,000) with 600+ credit and 2+ years in business. Also worth considering for working capital loans if MCA alternatives have been ruled out.
+**Best for:** Businesses needing equipment financing ($5,000–$150,000) with 600+ credit and 2+ years in business. Also worth considering for working capital loans if MCA (merchant cash advance) alternatives have been ruled out.
 
-**Not ideal for:** Businesses seeking the lowest cost equipment financing (bank and SBA options are cheaper for qualified borrowers), or those who need more than $150,000 in equipment financing.
+**Not ideal for:** Businesses seeking the lowest cost equipment financing (bank and SBA (Small Business Administration) options are cheaper for qualified borrowers), or those who need more than $150,000 in equipment financing.
 
 ---
 
@@ -69,6 +80,25 @@ National Funding is one of the larger online alternative lenders focused on equi
 | Working Capital Loan | $5,000–$500,000 | 600 | 6 months | $100,000 | 24–48 hours |
 
 *Rates: Equipment financing at factor rates (not APR) disclosed at application. Working capital loans at factor rates of approximately 1.10–1.45. Rates verified May 2026.*
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Finances a wide range of equipment categories — vehicles, construction, restaurant, medical, technology — with 600 credit score minimum, accessible for businesses that don't meet bank lending standards</li>
+      <li>Section 179 tax deduction promotion is relevant for equipment buyers: financing through National Funding may let you deduct the full equipment cost in the year of purchase (2026 limit: $1,160,000)</li>
+      <li>Working capital loans available to businesses as young as 6 months with $100,000+/year revenue; funds in 24–48 hours for qualified applicants</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Does not publish specific cost ranges upfront — you must apply to see your rate; working capital loans use factor rates (not APR), making cost comparison with other lenders more complex</li>
+      <li>2-year minimum for equipment financing excludes newer businesses; $150,000 equipment financing cap is below Balboa Capital ($500,000) and Crest Capital ($500,000)</li>
+      <li>Some customer reviews cite aggressive renewal offers and rollovers that increase total cost — confirm full repayment terms before signing any renewal</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -93,7 +123,7 @@ National Funding finances most types of business equipment without requiring per
 - Equipment lease (operating): You return or buy out the equipment at lease end. Off-balance-sheet in some accounting treatments.
 - $1 buyout lease: Structured as a loan for accounting purposes; $1 purchase at end.
 
-**Section 179 tax benefit:** Equipment purchased or financed through National Funding may qualify for the IRS Section 179 deduction — allowing businesses to deduct the full purchase price in the year of purchase rather than depreciating over time. National Funding promotes this actively. Consult a tax adviser about your specific situation.
+**Section 179 tax benefit:** Equipment purchased or financed through National Funding may qualify for the [IRS Section 179 deduction](https://www.irs.gov/businesses/small-businesses-self-employed/section-179-deduction) — allowing businesses to deduct the full purchase price in the year of purchase rather than depreciating over time. National Funding promotes this actively. Consult a tax adviser about your specific situation.
 
 **Cost structure:** National Funding does not publish specific APR ranges for equipment financing — costs are factor-based and disclosed at application. Based on reported borrower experiences and comparable products, effective APRs for qualified borrowers range approximately 15–35% for equipment loans. The total cost is significantly cheaper than working capital loans.
 
@@ -213,6 +243,15 @@ Section 179 allows businesses to deduct the full cost of qualifying equipment in
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>National Funding's equipment financing covers $5,000–$150,000 at effective APRs of approximately 15–35% for qualified borrowers — costs are not published upfront and require an application</li>
+      <li>Best for businesses with 2+ years in operation, 600+ credit, and $250,000+/year revenue that need equipment financing across a wide range of categories and want funding in 24–48 hours</li>
+      <li>The biggest watch-out: working capital loans use factor rates rather than APR, making cost comparison difficult; some borrowers report aggressive renewal offers that significantly increase total repayment cost</li>
+      <li>National Funding's fees are higher than bank or SBA equipment financing (bank: 8–15% APR; SBA 504: 5.5–7% APR) but accessible to borrowers who don't meet those programs' stricter eligibility criteria</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide — Rates, Terms, and Top Lenders</a></li>
     <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances — Complete Guide</a></li>

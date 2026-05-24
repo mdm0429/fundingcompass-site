@@ -14,7 +14,18 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Equipment loans and leases both let you use business equipment without paying the full purchase price upfront — but they differ in ownership, balance sheet treatment, tax implications, and total cost. Loans are better when you want to own the equipment long-term, the equipment holds value well, and you want to maximize Section 179 tax benefits. Leases are better when equipment becomes obsolete quickly, you want predictable payments with upgrade flexibility, or you want to keep the asset off your balance sheet. The right answer depends on the equipment type and your business's financial strategy.
+Equipment loans and leases both let you use business equipment without paying the full purchase price upfront — but they differ in ownership, balance sheet treatment, tax implications, and total cost. Loans are better when you want to own the equipment long-term, the equipment holds value well, and you want to maximize Section 179 tax benefits. Leases are better when equipment becomes obsolete quickly, you want predictable payments with upgrade flexibility, or you want to keep the asset off your balance sheet. The right answer depends on the equipment type and your business's financial strategy. Equipment loan APR (annual percentage rate) ranges from 5–20% based on lender-published rates as of May 2026; rates depend on credit score, collateral, and term length.
+
+<dl>
+  <dt>Equipment Loan APR (Annual Percentage Rate)</dt>
+  <dd>The annualized cost of an equipment loan including interest and fees. Ranges from 5–20% depending on lender, credit score, and equipment type. Use APR to compare across lenders rather than comparing monthly rates or factor rates directly.</dd>
+  <dt>Operating Lease</dt>
+  <dd>A rental arrangement where the lender (lessor) owns the equipment throughout the term. Monthly payments are lower than a loan because you're paying for use, not ownership. At lease end you can return, renew, or buy at fair market value. Lease payments are fully deductible as operating expenses.</dd>
+  <dt>$1 Buyout Lease (Capital Lease)</dt>
+  <dd>A lease structure where you pay a $1 purchase price at the end of the term to own the equipment — effectively a loan structured as a lease. Monthly payments are similar to a loan, and it qualifies for Section 179 tax deduction. Appears on your balance sheet as a capital lease asset.</dd>
+  <dt>Section 179 Deduction</dt>
+  <dd>An IRS provision allowing businesses to deduct the full purchase price of qualifying equipment in the year of purchase, rather than depreciating it over several years. The 2026 limit is $1,220,000. Available for equipment loans and $1 buyout leases, but not standard operating leases.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -160,21 +171,29 @@ This is where the decision gets complicated. Always consult your accountant.
 
 ## Which Is Right for Your Business?
 
-**Choose a loan when:**
+**Choose an equipment loan if:** the equipment has a useful life of 7+ years (construction machinery, manufacturing equipment, commercial vehicles), you have 650+ credit and 2+ years in business to access rates below 10% APR, or you have high taxable income and want to maximize the Section 179 deduction in year one.
+
+**Choose an operating lease if:** the equipment depreciates or becomes obsolete within 3–5 years (servers, copiers, medical imaging technology), you want lower monthly payments and upgrade flexibility, or you want to preserve debt capacity by keeping the asset off your balance sheet.
+
+**Choose a $1 buyout lease if:** you want guaranteed ownership at term end but need monthly payments closer to an operating lease level, or your lender structures capital lease products that qualify for Section 179 treatment.
+
+**Full criteria below:**
+
+**Loan is best when:**
 - The equipment has a long useful life (7+ years) — construction machinery, manufacturing equipment, vehicles
 - The equipment retains resale value — you may want to sell or trade it in the future
 - You have high taxable income and want to maximize Section 179 deduction
 - You plan to use the equipment beyond the financing term
 - You want to build equity in business assets
 
-**Choose an operating lease when:**
+**Operating lease is best when:**
 - The equipment depreciates or becomes obsolete quickly — technology, computers, copiers
 - You want to upgrade to newer models at the end of a 3–4 year cycle
 - You want to keep the asset off your balance sheet
 - Lower monthly payments are a priority
 - Your taxable income is low and Section 179 provides less benefit
 
-**Choose a $1 buyout lease when:**
+**$1 buyout lease is best when:**
 - You want guaranteed ownership but lower monthly payments than a standard loan
 - Your accountant recommends capital lease treatment for specific accounting reasons
 - You want Section 179 benefits but the lender structures it as a lease product
@@ -268,6 +287,16 @@ Many lenders offer 0% down for qualified borrowers. Some require a first-and-las
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Equipment loans run 5–20% APR (based on lender-published rates as of May 2026) with terms of 24–84 months; you own the equipment from day one</li>
+      <li>Operating leases have lower monthly payments but no ownership — at the $100,000 equipment example, lease payments total $96,000 vs. $121,680 for a loan, but you must buy or return at lease end</li>
+      <li>Section 179 lets you deduct up to $1,220,000 in equipment purchases in 2026 — available for loans and $1 buyout leases, but not standard operating leases</li>
+      <li>For fast-depreciating technology (servers, copiers), choose an operating lease; for long-lived heavy equipment (tractors, CNC machines), choose a loan</li>
+      <li>Most lenders require 620–650 minimum credit score; Crest Capital (5.5–12% APR) and Balboa Capital (6–18% APR, same-day funding) both offer loans and leases</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>
     <li><a href="/guides/equipment-leasing/">Equipment Leasing Guide</a></li>

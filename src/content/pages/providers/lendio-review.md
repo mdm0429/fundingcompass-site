@@ -51,11 +51,22 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>APR (annual percentage rate)</dt>
+  <dd>APR is the annualized cost of a loan including interest and fees. Through Lendio's network, APR ranges from approximately 10–13% for SBA 7(a) loans to 40–200%+ effective APR for merchant cash advances. Always compare APR — not just monthly payment — across offers.</dd>
+  <dt>Draw period</dt>
+  <dd>For business lines of credit available through Lendio's network, the draw period is the window when you can borrow against your credit limit. Each draw creates its own repayment schedule. Draw periods and terms vary by the specific lender that extends an offer.</dd>
+  <dt>Origination fee</dt>
+  <dd>Many lenders in Lendio's network charge an origination fee of 1–5% of the loan amount, deducted from the funded amount. This fee is included in the APR calculation — confirm it in any offer you receive before accepting.</dd>
+  <dt>Revolving credit</dt>
+  <dd>A revolving line of credit — available through Lendio's LOC (line of credit) matches — lets you draw, repay, and draw again up to your credit limit. Unlike a term loan, you only pay interest on what you've drawn. This is useful for ongoing working capital needs rather than a one-time purchase.</dd>
+</dl>
+
 ## Summary Verdict
 
 Lendio is a Utah-based small business loan marketplace that connects businesses to over 75 lenders — including SBA lenders, equipment financing companies, MCA providers, and business line of credit lenders — through a single application. Rather than lending directly, Lendio acts as a matchmaker, submitting your application to multiple lenders and presenting the best offers. This model is valuable for businesses that don't know which product or lender fits their situation. The trade-off is that Lendio earns referral fees from lenders, which may influence which offers are presented. It is a legitimate starting point for businesses exploring multiple financing options, particularly SBA loans.
 
-**Best for:** Business owners who want to compare offers across multiple lenders and product types with one application — particularly those exploring SBA loans, equipment financing, or working capital loans simultaneously.
+**Best for:** Business owners who want to compare offers across multiple lenders and product types with one 15-minute application — particularly those exploring SBA (Small Business Administration) loans, equipment financing, or working capital loans simultaneously and unsure which product fits their situation.
 
 **Not ideal for:** Businesses that already know exactly which product and lender they want (apply directly to avoid sharing your data with multiple lenders), or businesses that prefer a direct lender relationship without intermediary referral fees factored into the offer.
 
@@ -75,6 +86,25 @@ Lendio is a Utah-based small business loan marketplace that connects businesses 
 | Lendio fee | Paid by lender (referral fee) — not charged to borrower directly |
 
 *Lendio does not lend directly. Rates and terms depend on the specific lender that extends an offer. Verified May 2026.*
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Single 15-minute application accesses 75+ lenders across all product types — SBA loans, term loans, equipment financing, lines of credit, MCAs, and invoice factoring — reducing research time versus applying to each lender separately</li>
+      <li>SBA loan facilitation through SBA Preferred Lenders is rare for a marketplace; Lendio's funding managers can guide businesses through the complex SBA documentation process and identify the most cost-effective offer type</li>
+      <li>No direct fee to borrowers (Lendio earns referral fees from lenders); minimum baseline of 550 credit score and $50,000/year revenue allows access to a broad range of business types</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Lendio is not a direct lender and earns referral fees from lenders — these fees may be reflected in the rate or terms of offers compared to applying directly to the same lender</li>
+      <li>Your data is shared with multiple lenders in the network — expect follow-up marketing outreach from lenders you don't choose; you have less control over which specific lenders see your application</li>
+      <li>MCA (merchant cash advance) products available through Lendio's network carry the same high effective APR (40–200%+) as any other MCA — the marketplace model does not reduce MCA costs</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -131,7 +161,7 @@ Because Lendio is a marketplace, costs depend entirely on which lender and produ
 | Merchant cash advance | 40–200%+ effective APR |
 | Invoice factoring | 1–5% per 30 days |
 
-Always compare the annual percentage rate (APR) or effective APR across offers — not just the monthly payment. Lendio's comparison interface shows multiple offer details side-by-side.
+Always compare the APR (annual percentage rate) or effective APR across offers — not just the monthly payment. Lendio's comparison interface shows multiple offer details side-by-side. The [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) provide guidance on comparing loan offers and understanding your rights as a small business borrower.
 
 ---
 
@@ -235,6 +265,15 @@ Lendio shares the information you submit in the application — business name, r
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Lendio's marketplace accesses 75+ lenders with one application; product costs depend on the lender matched — SBA loans run 10–13% APR, equipment financing 5–25% APR, and MCAs 40–200%+ effective APR</li>
+      <li>Best for businesses with 550+ credit and $50,000+/year revenue that are unsure which product or lender fits their situation, or want to compare SBA loans, equipment financing, and working capital options simultaneously in 15 minutes</li>
+      <li>The biggest watch-out: Lendio earns referral fees from lenders, which may be reflected in offer terms; your data is shared with multiple lenders and you may receive marketing outreach from lenders you didn't choose</li>
+      <li>Lendio doesn't set fees itself — offer costs vary by lender and product; the marketplace adds no direct borrower cost but may result in slightly higher rates than applying to the same lender directly, due to the referral fee baked into lender economics</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/sba-loans/">SBA Loans for Small Businesses — Complete Guide</a></li>
     <li><a href="/tools/business-loan-calculator/">Business Loan Calculator</a></li>

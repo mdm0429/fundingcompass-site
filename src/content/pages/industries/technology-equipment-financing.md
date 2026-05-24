@@ -14,7 +14,30 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Technology equipment financing provides loans and leases for businesses purchasing servers, networking infrastructure, workstations, storage systems, and other IT hardware. Technology depreciates faster than most equipment categories — a server that costs $50,000 today may be worth $5,000 in 5 years — making leasing particularly popular for tech. Operating leases allow businesses to refresh hardware on a regular cycle without owning depreciating assets. For businesses that need to own their equipment or cannot qualify for lease terms, equipment loans offer fixed monthly payments with ownership at payoff. Rates for technology equipment typically run 5–15% APR, with leasing available at competitive money factors through major vendors and independent lenders.
+Technology equipment financing provides loans and leases for businesses purchasing servers, networking infrastructure, workstations, storage systems, and other IT hardware. Technology depreciates faster than most equipment categories — a server that costs $50,000 today may be worth $5,000 in 5 years — making leasing particularly popular for tech. Operating leases allow businesses to refresh hardware on a regular cycle without owning depreciating assets. For businesses that need to own their equipment or cannot qualify for lease terms, equipment loans offer fixed monthly payments with ownership at payoff. Rates for technology equipment typically run 5–15% APR (annual percentage rate) as of May 2026, with leasing available at competitive money factors through major vendors and independent lenders.
+
+---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Technology-Intensive Businesses</h4>
+    <ul>
+      <li>Operating leases allow businesses to refresh hardware on a 3–5 year cycle without owning depreciating assets — avoiding the common problem of carrying $50,000 in equipment that's worth $5,000 when the lease ends</li>
+      <li>Vendor financing programs (Dell Financial Services, HP Financial Services, Cisco Capital) often include 0% promotional terms unavailable from independent lenders — and apply only to that vendor's equipment, so they're easy to combine with third-party financing for mixed-brand deployments</li>
+      <li>Soft costs (installation, software licenses, training, cabling) can often be bundled into the financing — up to 20–30% of the total — so the full infrastructure project is covered under one monthly payment</li>
+      <li>Section 179 deduction (the IRS deduction that lets businesses expense equipment purchases in the year of purchase) applies to owned technology equipment, allowing full first-year deduction up to $1,220,000 in 2026 for businesses that buy rather than lease</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Technology has the fastest depreciation of any equipment category — standard servers and networking gear lose 80–90% of value in 5 years, meaning loans can go underwater quickly if you need to exit</li>
+      <li>Start-up businesses face rates of 15–25%+ and terms capped at 12–24 months, making technology financing significantly more expensive when the business is new</li>
+      <li>Fair market value leases leave residual value risk with you at term end — if technology depreciates faster than expected, the "fair market value" purchase option may not be worth exercising</li>
+      <li>SaaS subscriptions and cloud services (AWS, Azure) are not financeable through equipment loans — only physical hardware qualifies, meaning hybrid IT environments split between on-premises and cloud cannot finance the full technology cost</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -107,7 +130,14 @@ Operating leases are designed to match these refresh cycles — you lease for 3 
 | Business 1–3 years old, 650+ credit | 10–18% | 24–36 months |
 | Start-up, strong guarantor | 15–25%+ | 12–24 months |
 
-*Rates vary by lender, equipment type, and term. Technology equipment rates are slightly higher than rates for equipment with stronger collateral value (construction machinery, medical imaging).*
+*Rates vary by lender, equipment type, and term. Rates depend on credit profile, equipment type, and loan term. Technology equipment rates are slightly higher than rates for equipment with stronger collateral value (construction machinery, medical imaging). Rates verified May 2026.*
+
+---
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A professional services firm deploying a $120,000 server and storage infrastructure package at 8% APR over 48 months would pay approximately $2,928/month. Under a 48-month fair market value operating lease for the same equipment, the monthly payment might be $2,400/month (lower because the lender retains residual value). At lease end, the firm can return the equipment and deploy a new-generation server — avoiding the $5,000–$10,000 residual value on 4-year-old hardware. For most technology deployments, the operating lease wins on total cost if the equipment will be replaced at term end.</p></div>
+</div>
 
 ---
 
@@ -139,7 +169,7 @@ Vendor financing is typically available only for that vendor's equipment and may
 
 ### SBA Financing for Technology
 
-For technology purchases over $150,000, SBA 7(a) loans offer:
+For technology purchases over $150,000, <a href="https://www.sba.gov/funding-programs/loans">SBA 7(a) (the Small Business Administration's general-purpose loan program)</a> loans offer:
 - 10–13% APR — lower than most technology lenders
 - Terms up to 10 years for equipment
 - Requires 2+ years in business, 680+ credit
@@ -192,8 +222,38 @@ At end of lease, you typically have three options: return the equipment, purchas
 
 ---
 
+**Who this works for:** Businesses of any size with 12+ months of operating history deploying $25,000+ in IT infrastructure — servers, storage arrays, networking gear, workstation fleets. Companies where technology is a core operational cost center (professional services, financial services, data centers). Any business planning to refresh hardware in 3–5 years that wants to avoid owning depreciating equipment.
+
+**Who should look elsewhere:** Start-up businesses under 6 months old (very limited lender options; consider a 0% intro APR business credit card for purchases under $25,000). Businesses financing primarily SaaS, cloud services, or software subscriptions (these are not financeable through equipment loans — only physical hardware qualifies). Organizations needing under $5,000 in hardware (a business credit card with a 0% promotional period is more cost-effective than a formal equipment loan).
+
+---
+
+<dl>
+  <dt>True lease vs. finance lease</dt>
+  <dd>A true lease (operating lease) means you rent the equipment and return it at term end — lease payments are operating expenses deductible in full. A finance lease (capital lease, $1 buyout) means you own the equipment at end of term — you claim depreciation deductions and build equity. The distinction matters for both tax treatment and balance sheet accounting.</dd>
+  <dt>Fair market value (FMV) lease</dt>
+  <dd>An operating lease where the purchase option at term end is the equipment's fair market value at that time — not a pre-set price. FMV leases have lower monthly payments than $1 buyout leases because the lender retains residual value. For technology equipment that depreciates rapidly, FMV leases are often the most cost-effective structure if you plan to return and refresh the hardware.</dd>
+  <dt>Technology refresh</dt>
+  <dd>The process of replacing end-of-lease or end-of-life technology equipment with newer hardware, typically on a 3–5 year cycle. Some lenders offer technology refresh programs that roll end-of-lease equipment into a new lease for upgraded hardware without a gap in coverage or a new credit application.</dd>
+  <dt>Soft costs</dt>
+  <dd>Non-hardware expenses bundled into a technology financing transaction — software licenses, installation and configuration services, training, extended warranties, and cabling. Most technology equipment lenders allow soft costs up to 20–30% of the total financed amount. SaaS subscriptions cannot be included.</dd>
+  <dt>Section 179</dt>
+  <dd>The IRS deduction that lets businesses expense equipment purchases in the year of purchase, up to $1,220,000 in 2026. Applies to purchased (owned) technology equipment — not to operating leases. A $1 buyout lease qualifies for Section 179 because it is treated as a purchase for tax purposes.</dd>
+</dl>
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Technology equipment financing rates run 5–15% APR (annual percentage rate) as of May 2026 — slightly higher than equipment with stronger resale value because servers and networking gear depreciate faster than construction or medical equipment</li>
+      <li>Covers servers, storage arrays, networking infrastructure, workstations, POS systems, VoIP systems, and cybersecurity appliances; soft costs (installation, software, training) financeable up to 20–30% of the total — SaaS and cloud services do not qualify</li>
+      <li>Most lenders require 600+ credit score and 1+ year in business; start-up businesses face rates of 15–25%+ with terms capped at 12–24 months</li>
+      <li>Choose an operating lease for technology you expect to replace in 3–5 years (servers, desktops, networking gear) to avoid owning deeply depreciated equipment; choose a loan or $1 buyout lease for specialised long-lived equipment where Section 179 deductions provide significant tax benefit</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease — Which Is Right for Your Business?</a></li>
     <li><a href="/guides/equipment-leasing/">Equipment Leasing Guide</a></li>

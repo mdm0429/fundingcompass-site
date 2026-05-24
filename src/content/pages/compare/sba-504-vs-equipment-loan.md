@@ -14,7 +14,18 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-SBA 504 loans offer lower rates and smaller down payments than conventional equipment loans for large purchases — but they require significantly more documentation, take 30–90 days to fund, and have strict eligibility requirements. Conventional equipment loans close in days with less paperwork. The SBA 504 loan wins for large purchases (typically $250,000+) where the rate savings justify the complexity. Conventional equipment loans win for smaller purchases, faster timelines, or when SBA eligibility requirements aren't met.
+SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equipment) loans offer lower rates and smaller down payments than conventional equipment loans for large purchases — but they require significantly more documentation, take 30–90 days to fund, and have strict eligibility requirements. Conventional equipment loans close in days with less paperwork. The SBA 504 loan wins for large purchases (typically $250,000+) where the rate savings justify the complexity. Conventional equipment loans win for smaller purchases, faster timelines, or when SBA (Small Business Administration) eligibility requirements aren't met. All rates are based on lender-published rates as of May 2026.
+
+<dl>
+  <dt>SBA 504 Loan</dt>
+  <dd>The SBA's fixed-asset financing program for equipment and real estate. Uses a three-party structure: 50% from a commercial bank, 40% from an SBA-guaranteed CDC debenture at fixed rates (currently ~5.5–7%), and 10% borrower down payment. Takes 30–90 days to fund. Maximum $5,500,000.</dd>
+  <dt>Certified Development Company (CDC)</dt>
+  <dd>A nonprofit organization certified by the SBA to deliver SBA 504 financing. CDCs handle the SBA-guaranteed debenture portion of the 504 deal. Approximately 270 CDCs operate across the US; find your local CDC at <a href="https://www.sba.gov/local-assistance/find/">SBA.gov</a>.</dd>
+  <dt>SBA 7(a) Loan</dt>
+  <dd>The SBA (Small Business Administration)'s general-purpose loan program. More flexible than 504 (can combine equipment + working capital), but at higher rates (prime + 2.75%, approximately 10–11% currently) and shorter terms. Maximum $5,000,000.</dd>
+  <dt>Conventional Equipment Loan APR</dt>
+  <dd>Equipment loan rates from non-SBA lenders, ranging from 5–20% APR (annual percentage rate) depending on credit score, lender, and equipment type. Funds in 24 hours to 2 weeks — far faster than SBA programs, but without the SBA rate subsidy for large long-term purchases.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -127,6 +138,14 @@ In this example, SBA 504 has a lower monthly payment ($5,254 vs $9,334) primaril
 
 ---
 
+## Which Should You Choose?
+
+**Choose SBA 504 if:** you're purchasing $500,000+ of equipment or real property, have 680+ credit and 2+ years in business, can wait 30–90 days to fund, and want the certainty of a 10–20 year fixed rate on 40% of the purchase (currently 5.5–7%). The monthly payment savings vs. conventional financing are most significant on loans of $500,000 or more — see the rate comparison below.
+
+**Choose a conventional equipment loan if:** you need funding within days, your purchase is under $250,000 (SBA complexity exceeds the rate savings), you're a startup without complete tax records, or the equipment is used and purchased from a private seller (which excludes SBA 504 eligibility).
+
+---
+
 ## When to Choose SBA 504
 
 **SBA 504 is the right choice when:**
@@ -212,6 +231,16 @@ The SBA doesn't set a formal minimum for 504, but practically speaking, the comp
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>SBA 504 offers fixed rates of 5.5–7% on the SBA debenture portion (40% of the purchase) with a 10% down payment for established businesses — the lowest rates available for large equipment purchases</li>
+      <li>SBA 504 takes 30–90 days to fund vs. 24 hours to 2 weeks for conventional equipment loans — the rate savings only justify the wait for purchases of $250,000+</li>
+      <li>Eligibility requires net worth under $20M, net income under $6.5M, 2+ years in business, and 680+ personal credit; find your local CDC at <a href="https://www.sba.gov/funding-programs/loans">SBA.gov</a></li>
+      <li>SBA 7(a) is more flexible (can combine equipment + working capital) at higher rates (prime + 2.75%, ~10–11% currently) — better for mixed-purpose financing, worse for pure equipment purchases</li>
+      <li>Conventional equipment loans at 5–20% APR (based on lender-published rates as of May 2026) fund in days and require minimal documentation under $250,000 — the right choice when speed or simplicity matters more than the lowest rate</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/sba-loans/">SBA Loans Guide</a></li>
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>

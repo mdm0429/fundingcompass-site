@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
+  <dd>Credibly's MCA factor rates run 1.15–1.49. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total — regardless of how quickly you repay.</dd>
+  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
+  <dd>Credibly collects 10–25% of your daily card sales until the purchased amount is repaid. If sales drop, less is collected that day — repayment naturally slows. If sales spike, repayment accelerates.</dd>
+  <dt>Effective APR (annual percentage rate)</dt>
+  <dd>The annualized cost of an MCA, calculated based on repayment speed. A 1.28 factor rate MCA repaid over 7 months carries an effective APR of approximately 66%; the same advance repaid in 4 months due to higher sales runs approximately 110% APR.</dd>
+  <dt>Daily ACH</dt>
+  <dd>Credibly's working capital loan uses a fixed daily ACH debit — unlike the holdback MCA, the payment amount does not change with your revenue. This makes cost predictable but removes the flexibility of revenue-based repayment.</dd>
+</dl>
+
 ## Summary Verdict
 
-Credibly is one of the more transparent players in a notoriously opaque industry. It publishes its factor rate range, offers a cost estimator before you apply, and lets you compare an MCA against a working capital loan in a single application — a genuine differentiator. The MCA product remains expensive (40–200%+ effective APR depending on repayment speed), but if you've determined an MCA is the right tool, Credibly's disclosure practices put it ahead of most competitors.
+Credibly is one of the more transparent players in a notoriously opaque industry. It publishes its factor rate range, offers a cost estimator before you apply, and lets you compare an MCA (merchant cash advance) against a working capital loan in a single application — a genuine differentiator. The MCA product remains expensive (40–200%+ effective APR (annual percentage rate) depending on repayment speed), but if you've determined an MCA is the right tool, Credibly's disclosure practices put it ahead of most competitors.
 
 **Best for:** Businesses with $15,000+/month in revenue that want to compare MCA and working capital loan options simultaneously, and those who value fee transparency before committing.
 
-**Not ideal for:** Businesses that qualify for cheaper financing (bank LOC, SBA, equipment financing) — the working capital loan starts at 9.99% APR but the MCA cost is still high.
+**Not ideal for:** Businesses that qualify for cheaper financing (bank LOC (line of credit), SBA (Small Business Administration), equipment financing) — the working capital loan starts at 9.99% APR but the MCA cost is still high.
 
 ---
 
@@ -75,13 +86,32 @@ Credibly is one of the more transparent players in a notoriously opaque industry
 
 *Rates verified May 2026 via Credibly published terms.*
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Publishes factor rate range upfront (1.15–1.49) — rare in the MCA industry, making pre-application cost comparison possible</li>
+      <li>Single application surfaces both MCA and working capital loan offers side by side — lets you compare a revenue-based repayment option against a fixed APR loan before committing</li>
+      <li>500 credit score minimum (MCA) is among the lowest thresholds in the market; complies with state commercial financing disclosure laws in CA, NY, UT, and VA</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>MCA effective APR is 40–200%+ depending on repayment speed — high even among alternative lenders; should not be a first-resort financing option</li>
+      <li>$400,000 maximum is lower than several competitors: Rapid Finance goes to $500,000, BFS Capital to $2,000,000</li>
+      <li>Working capital loan uses fixed daily ACH rather than revenue-based repayment — less flexible than a true holdback MCA during slow revenue periods</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## What Credibly Offers
 
 Credibly is an online alternative lender that provides three primary products: merchant cash advances, working capital loans, and SBA loans (through a referral network). The MCA and working capital loan share the same application — meaning you apply once and see what you qualify for in both products before deciding. This is operationally useful: the working capital loan carries a fixed APR and is structurally less expensive if you qualify.
 
-**Merchant Cash Advance:** Credibly purchases a fixed amount of future receivables. You receive a lump sum; Credibly collects a holdback percentage (10–25%) of your daily card sales until the purchased amount is collected. Factor rates range 1.15–1.49 — meaning a $100,000 advance at a 1.30 factor costs $130,000 total.
+**Merchant Cash Advance:** Credibly purchases a fixed amount of future receivables. You receive a lump sum; Credibly collects a daily holdback (the fixed percentage of daily sales deducted for repayment) of 10–25% of your daily card sales until the purchased amount is collected. Factor rates range 1.15–1.49 — meaning a $100,000 advance at a 1.30 factor costs $130,000 total. Per [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance), businesses should request the effective APR of any MCA before signing.
 
 **Working Capital Loan:** A short-term fixed-rate loan repaid via daily or weekly ACH. APR range is 9.99–36%. This is structurally cheaper than the MCA if you qualify — the fixed repayment schedule means your effective cost is predictable.
 
@@ -201,6 +231,15 @@ Most MCA agreements — including Credibly's — prohibit taking additional MCAs
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Credibly's MCA factor rate range is 1.15–1.49 — a $100,000 advance costs $15,000–$49,000 in total fees depending on the factor rate issued</li>
+      <li>Best for businesses with $15,000+/month in revenue that want to compare an MCA against a working capital loan in a single application before committing</li>
+      <li>The biggest watch-out: MCA effective APR runs 40–200%+ depending on how quickly your card sales repay the advance — always model your specific repayment speed before signing</li>
+      <li>Credibly's fees are in line with the MCA category average (1.15–1.49 vs. industry typical 1.15–1.45), but its transparency practices — publishing rates upfront and complying with state disclosure laws — put it ahead of most peers</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances — Complete Guide</a></li>
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>

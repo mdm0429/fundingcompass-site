@@ -51,6 +51,17 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance rate</dt>
+  <dd>The percentage of the invoice value paid to you upfront. eCapital advances up to 97% for freight invoices and up to 90% for general B2B — among the highest published rates in the industry.</dd>
+  <dt>Recourse factoring</dt>
+  <dd>A factoring arrangement where you remain responsible if your customer does not pay. eCapital is recourse-only — if a broker becomes insolvent, the invoice is charged back against your reserve and you bear the loss.</dd>
+  <dt>UCC-1 (a public lien notice filed against your assets)</dt>
+  <dd>When you factor with eCapital, they file a UCC-1 lien on your accounts receivable. This prevents you from pledging the same receivables to another lender simultaneously.</dd>
+  <dt>Factor rate</dt>
+  <dd>The fee eCapital charges per 30-day period. eCapital's published floor is 0.69% per 30 days; most accounts pay 1–2% per 30 days for freight and 1.5–2.5% for general B2B.</dd>
+</dl>
+
 ## eCapital at a Glance
 
 | Metric | Details |
@@ -64,8 +75,30 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 | Fuel advance | Yes (freight) |
 | Funding speed | 2–4 hours (freight); 24 hours (general B2B) |
 | Founded | 2018 (rebranded from multiple regional factors) |
+| Min. personal credit score | No minimum — approval based on customer (broker/shipper) credit |
+| Min. time in business | 0 months — new authorities accepted for freight |
+| Max. funding amount | Scales with invoice volume; no published cap |
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Highest published advance rate in freight factoring: up to 97% vs. the industry average of 85–90%</li>
+      <li>Funding in 2–4 hours from verified document submission — faster than most freight factors' 24-hour standard</li>
+      <li>Fuel advance of 40–50% of load value at dispatch, before delivery, via ACH or fuel card</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Recourse only — no non-recourse option means you bear full loss if a broker becomes insolvent</li>
+      <li>12-month minimum contract with volume commitments; early exit triggers a termination fee</li>
+      <li>The 0.69% rate floor applies only to high-volume ($250K+/month) accounts; most freight accounts pay 1–2%</li>
+    </ul>
+  </div>
+</div>
 
 ## What eCapital Does Well
 
@@ -83,7 +116,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## eCapital's Limitations
 
-**Recourse only.** eCapital does not offer non-recourse factoring. If a broker or customer becomes insolvent, the invoice charge-back falls on you. For carriers working with many smaller or newer brokers, this is a meaningful exposure.
+**Recourse only.** eCapital does not offer non-recourse factoring. If a broker or customer becomes insolvent, the invoice charge-back falls on you. For carriers working with many smaller or newer brokers, this is a meaningful exposure. For guidance on what lenders must disclose about recourse obligations, see the <a href="https://www.ftc.gov/business-guidance/credit-finance" target="_blank" rel="noopener">FTC's small-business credit and financing guidance</a>.
 
 **12-month contract with volume minimums.** eCapital requires a minimum 12-month commitment with monthly volume minimums. Exiting early triggers a termination fee. For businesses with seasonal or unpredictable invoice volume, this contract structure is a risk.
 
@@ -105,7 +138,7 @@ At eCapital's 2% per 30-day rate (a reasonable expectation for most accounts), h
 | $50,000 | 45 days | $1,500 | $18,000 |
 | $100,000 | 45 days | $3,000 | $36,000 |
 
-*Fees are illustrative at 2% per 30 days. Your actual rate depends on volume, customer credit, and contract terms.*
+*Fees are illustrative at 2% per 30 days. Your actual rate depends on volume, customer credit, and contract terms. For context, a 2% monthly fee on a 30-day invoice is approximately 24% APR (annual percentage rate).*
 
 ---
 
@@ -168,6 +201,15 @@ Yes. eCapital has dedicated freight and staffing divisions and can serve busines
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Advance rate up to 97% for freight — among the highest published in the industry; freight invoices funded in 2–4 hours</li>
+      <li>Best for freight carriers ($25K+/month) and staffing agencies needing fast funding with multi-industry coverage</li>
+      <li>Biggest watch-out: recourse-only factoring means you bear the full loss if a broker becomes insolvent</li>
+      <li>Fees from 0.69%/30 days for top accounts, but most freight clients pay 1–2%/30 days — slightly below the 1.5–3% industry average for freight factoring</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>
     <li><a href="/industries/trucking-factoring/">Trucking Factoring Guide</a></li>

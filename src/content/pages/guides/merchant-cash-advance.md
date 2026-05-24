@@ -14,9 +14,41 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is a Merchant Cash Advance?
 
-A merchant cash advance (MCA) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs typically range from 40–350%, making them among the most expensive forms of business financing available.
+A MCA (merchant cash advance) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs (annual percentage rates) typically range from 40–350%, making them among the most expensive forms of business financing available. Rate ranges are based on lender-published terms as of May 2026.
 
 This guide is written to help you understand exactly what you are buying before you sign. MCAs are sometimes the right choice. More often, there is a cheaper option.
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Funding in 24–48 hours with minimal documentation — typically 3–6 months of bank statements or payment processor access</li>
+      <li>Accessible with credit scores as low as 500 — approval is based on daily sales volume, not credit history</li>
+      <li>Flexible repayment scales with your sales — your daily holdback automatically decreases in slow months, unlike a fixed loan payment</li>
+      <li>No collateral required — the MCA provider takes a security interest in future receivables, not business assets</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>Effective APR (annual percentage rate) of 40–350% — a $50,000 advance at a 1.35 factor rate repaid over 45 days costs approximately 284% APR</li>
+      <li>Early repayment does not reduce total cost — you owe the full advance × factor rate regardless of how quickly you pay</li>
+      <li>Fixed daily ACH debits (offered by some providers) eliminate the flexible repayment benefit entirely — confirm whether repayment is holdback-based or fixed</li>
+      <li>MCA stacking — taking a second advance while the first is outstanding — is the most common path to MCA-related business failure</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Factor Rate</dt>
+  <dd>The factor rate (the multiplier applied to your advance amount to determine total repayment — a 1.35 factor rate on $10,000 means you repay $13,500) replaces the interest rate concept used by traditional lenders. Factor rates for MCAs typically range from 1.10–1.49.</dd>
+  <dt>Daily Holdback</dt>
+  <dd>The daily holdback (the fixed percentage of your daily credit card sales automatically deducted to repay the MCA) typically runs 10–25%. Higher holdback rates = faster repayment = shorter term = higher effective APR.</dd>
+  <dt>Effective APR</dt>
+  <dd>The annualised cost of the MCA, calculated by converting the factor rate and repayment period into an equivalent annual rate. Because repayment speed varies with sales, effective APR is a range rather than a fixed number. A 1.35 factor rate repaid over 90 days produces an effective APR of approximately 142%.</dd>
+  <dt>MCA Stacking</dt>
+  <dd>Taking a second or third MCA from a different provider while the first is still outstanding. Each additional MCA adds a new daily holdback, compounding cash flow pressure and significantly increasing the risk of default.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--4">
   <div class="stat-card">
@@ -189,8 +221,31 @@ Most MCA providers approve and fund in 24–48 business hours with minimal docum
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A restaurant takes a $30,000 MCA at a 1.30 factor rate with a 12% daily holdback (the fixed percentage of your daily credit card sales automatically deducted to repay the MCA). Total repayment: $39,000. The restaurant averages $5,000/day in card sales, producing a daily holdback of $600. Days to repay: 65 days. Effective APR (annual percentage rate): approximately 168%. Had the same restaurant used an SBA microloan at 10% APR for the same $30,000, the 90-day cost would be approximately $735 — compared to $9,000 in MCA fees. Rates based on lender-published terms as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Businesses with consistent daily credit card volume ($10,000+/month), a short-term high-return opportunity (buying inventory for a confirmed large event, bridging a seasonal gap), and no viable alternative financing option available in the required timeframe.
+
+**Who should look elsewhere:** Businesses using an MCA to cover recurring operating costs such as payroll or rent — this is a debt trap signal. If you have B2B invoices, invoice factoring is typically 50–80% cheaper. If you have 12+ months in business and a 600+ credit score, a business line of credit costs a fraction of an MCA.
+
+Several states — including California (SB 1235), New York, Utah, and Virginia — now require APR disclosure on commercial financing. The [FTC provides guidance on small-business financing practices](https://www.ftc.gov/business-guidance/credit-finance) that applies nationally, and the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/) cover complaint processes if you believe a provider has engaged in deceptive practices.
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>MCAs have effective APRs (annual percentage rates) of 40–350% — a 1.35 factor rate repaid over 45 days equals approximately 284% APR</li>
+      <li>Factor rates of 1.10–1.49 are the pricing mechanism; early repayment does not reduce total cost owed</li>
+      <li>The daily holdback (10–25% of daily card sales) adjusts with your revenue — slower months mean smaller daily payments but a longer payoff period</li>
+      <li>MCA stacking is the most common path to MCA-related failure — each additional advance compounds the daily deduction</li>
+      <li>Run through the checklist of alternatives first: invoice factoring (18–60% eff. APR), business line of credit (8–30% APR), and SBA microloan (8–13% APR) are all cheaper if you qualify</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/tools/mca-true-cost-calculator/">MCA True Cost Calculator</a></li>
     <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers of 2026</a></li>

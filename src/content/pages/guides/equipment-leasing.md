@@ -18,6 +18,40 @@ Equipment leasing is an arrangement where a lender (lessor) purchases equipment 
 
 Approximately 80% of US businesses lease at least some of their equipment. It's particularly common for technology, vehicles, medical equipment, and any category that becomes obsolete quickly.
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Lower monthly payments than a loan on the same equipment — an operating lease on a $60,000 asset can cost 26% less per month than a 36-month loan at 8% APR (annual percentage rate)</li>
+      <li>Built-in equipment refresh — operating leases let you return and upgrade at the end of term rather than selling depreciated equipment</li>
+      <li>Operating lease payments are fully deductible as a business operating expense with no depreciation schedule required</li>
+      <li>$1 buyout leases qualify for the Section 179 deduction (2026 limit: $1,220,000) while keeping the payment structure of a lease</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>No equity built with an operating lease — you have no asset at the end of the term, only the option to buy at fair market value</li>
+      <li>Total cost over the full term is typically higher than buying outright for long-lived equipment</li>
+      <li>Early termination penalties can be significant — some leases charge all remaining payments or a percentage of original cost to exit early</li>
+      <li>Return condition standards require normal wear; damage charges at return can create unexpected costs</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Operating Lease (Fair Market Value Lease)</dt>
+  <dd>A lease where the lessor retains meaningful residual value in the equipment at term end. You pay only for the depreciation during the lease period — producing the lowest monthly payment of any equipment financing structure. At term end, you return, renew, or purchase at fair market value.</dd>
+  <dt>$1 Buyout Lease (Capital Lease / Finance Lease)</dt>
+  <dd>A lease structured like a loan where you purchase the equipment for $1 at the end of the term. Monthly payments are higher than an operating lease but qualify for the Section 179 deduction. Appears as a capital asset and liability on your balance sheet.</dd>
+  <dt>Money Factor</dt>
+  <dd>The lease equivalent of an interest rate, expressed as a small decimal (e.g., 0.00250). Multiply by 2,400 to convert to approximate APR. A money factor of 0.00250 equals approximately 6% APR.</dd>
+  <dt>Residual Value</dt>
+  <dd>The estimated market value of the equipment at lease end. In an operating lease, the lessor retains this value — which is what makes payments lower. Higher residual value = lower monthly payment.</dd>
+  <dt>Master Lease Agreement</dt>
+  <dd>A standing leasing relationship that allows multiple equipment schedules to be added over time without renegotiating base terms — useful for businesses that regularly acquire equipment.</dd>
+</dl>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">BUSINESSES THAT LEASE</div>
@@ -240,6 +274,19 @@ In most equipment leases, maintenance and repairs are your responsibility. If eq
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A dental practice leases a $90,000 digital imaging system on a 48-month operating lease with a money factor of 0.00292 (approximately 7% APR) and an estimated residual value of $18,000. Monthly payment: approximately $1,838. By comparison, a 48-month loan at 8% APR on the same equipment costs approximately $2,196/month — a $358 monthly difference. Over 48 months, the operating lease saves $17,184 in payments. At term end, the practice can return the equipment and lease updated imaging technology, avoiding ownership of a rapidly depreciating asset. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Businesses that need equipment with a useful life of 3–7 years, prefer lower monthly payments over ownership, and operate in categories where technology obsolescence is a concern (technology, medical devices, vehicles, commercial kitchen equipment).
+
+**Who should look elsewhere:** Companies that need equipment with a 10–20 year useful life (certain manufacturing and construction assets) where building equity makes more financial sense, and businesses with high taxable income who would benefit more from Section 179 depreciation through an ownership structure.
+
+According to the [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey), equipment financing and leasing remain among the most commonly sought financing products for small businesses — with approval rates that vary significantly by lender type and credit profile.
+
+---
+
 ## Related Resources
 
 - [Equipment Loan vs. Lease — Which Is Right for Your Business?](/compare/equipment-loan-vs-lease/)
@@ -248,6 +295,16 @@ In most equipment leases, maintenance and repairs are your responsibility. If eq
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Operating leases produce the lowest monthly payments — a $60,000 asset on a 36-month operating lease can cost 26% less per month than a loan at 8% APR (annual percentage rate)</li>
+      <li>Convert money factor to APR by multiplying by 2,400 — always ask for the money factor in writing before signing any lease</li>
+      <li>$1 buyout leases qualify for the Section 179 deduction (2026 limit: $1,220,000) and guarantee ownership at term end for $1</li>
+      <li>Early termination penalties can equal all remaining payments — know your exit cost before entering a lease</li>
+      <li>Most lenders require a minimum 620 credit score; startups face higher scrutiny and typically need a strong personal guarantor</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>
     <li><a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies of 2026</a></li>

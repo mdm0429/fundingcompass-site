@@ -16,7 +16,43 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 Accounts receivable (AR) financing is a broad category of funding that uses your outstanding invoices as the basis for accessing capital. If your business regularly waits 30–90 days for customers to pay, AR financing lets you convert that waiting period into immediate cash flow. It encompasses two distinct products: **invoice factoring** (selling invoices to a third party that then collects from your customers) and **invoice financing / AR lines of credit** (borrowing against invoices as collateral while you continue collecting from customers).
 
-Both products serve the same fundamental purpose — eliminating the cash flow gap created by net-30, net-60, and net-90 payment terms — but they work differently and suit different business situations.
+Both products serve the same fundamental purpose — eliminating the cash flow gap created by net-30 (your customer has 30 days to pay), net-60 (your customer has 60 days to pay), and net-90 payment terms — but they work differently and suit different business situations.
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Converts outstanding invoices to cash in 24–48 hours without waiting 30–90 days for customers to pay</li>
+      <li>Invoice factoring approval is based on your customers' credit, not yours — accessible to startups and businesses with limited credit history</li>
+      <li>AR lines of credit are invisible to your customers — they pay you normally with no knowledge of the financing arrangement</li>
+      <li>No new fixed debt on your balance sheet — you are monetising an asset (receivables) you already own</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>More expensive than a business line of credit — factoring effective APR (annual percentage rate) runs 18–60%+ vs. 8–30% for a bank or online LOC</li>
+      <li>Invoice factoring notifies your customers of the assignment — some clients, particularly in professional services, may view this negatively</li>
+      <li>Concentration limits (typically 25–50% of AR from one customer) restrict access if your business is heavily dependent on a single customer</li>
+      <li>AR line of credit requires 1–2+ years in business and a 600+ credit score — less accessible than factoring for newer businesses</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The advance rate (the percentage of the invoice value you receive upfront) from the lender. Invoice factoring advances typically run 80–97%; AR lines of credit advance 70–90% of eligible receivables as collateral.</dd>
+  <dt>Reserve</dt>
+  <dd>The portion of the invoice held back by the factor until the customer pays. Released to you minus fees when payment is received. A 90% advance rate means a 10% reserve. On a $100,000 invoice, $10,000 is held in reserve.</dd>
+  <dt>Factoring Fee</dt>
+  <dd>The flat fee charged per 30-day period on the invoice face value, typically 1–5%. A 2% fee on a $100,000 invoice with 45-day payment terms costs $3,000 total (2% × 1.5 months), based on lender-published rates as of May 2026.</dd>
+  <dt>Notice of Assignment</dt>
+  <dd>A formal letter sent by the factor to your customer directing payment to the factor rather than to you. Required in all standard factoring transactions. Non-notification or confidential factoring arrangements exist but are less common and more expensive.</dd>
+  <dt>Dilution</dt>
+  <dd>Reduction in AR value due to customer returns, credits, chargebacks, or disputed invoices. Factors build dilution estimates into advance rates — higher historical dilution means lower advance rates.</dd>
+  <dt>Concentration Limit</dt>
+  <dd>Maximum percentage of your total AR that can come from a single customer. Most factors cap this at 25–50%. If one customer generates 60%+ of your revenue, disclose this early — it may limit your maximum advance.</dd>
+</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -239,6 +275,19 @@ With non-recourse factoring, if a customer becomes insolvent (bankrupt or goes i
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A government contractor has $200,000 in outstanding invoices from a federal agency on net-60 (your customer has 60 days to pay) terms. Using invoice factoring at a 92% advance rate and a 2% fee per 30 days, the contractor receives $184,000 upfront. The factoring fee at 60-day payment terms: 2% × 2 months = 4% = $8,000. Total cost: $8,000. The contractor's effective APR (annual percentage rate) is approximately 24%. Without factoring, the contractor would wait 60 days and forgo $184,000 in working capital needed for the next contract's payroll and operating costs. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** B2B businesses or government contractors with $5,000–$50,000+ in monthly invoices to creditworthy commercial customers, on payment terms of net-30 to net-90, that need to close the cash flow gap without taking on balance-sheet debt.
+
+**Who should look elsewhere:** B2C businesses (consumer customers are not eligible), businesses with disputed or contingency-based invoices, and companies with established credit that could qualify for a cheaper AR line of credit (which does not notify customers).
+
+The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey) tracks accounts receivable financing usage rates across industries and provides benchmarking data on approval rates for small businesses seeking AR-based financing.
+
+---
+
 ## Related Resources
 
 - [Invoice Factoring Guide](/guides/invoice-factoring/)
@@ -247,6 +296,16 @@ With non-recourse factoring, if a customer becomes insolvent (bankrupt or goes i
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Invoice factoring advances 80–97% of invoice value and charges 1–5% per 30-day period; AR lines of credit advance 70–90% at 0.03–0.06%/day, based on lender-published rates as of May 2026</li>
+      <li>Factoring is visible to your customers (Notice of Assignment required); AR lines of credit are invisible — customers pay you as normal</li>
+      <li>Factoring approval is based on your customers' credit — startups and businesses with limited history can qualify; AR lines require 1–2+ years and 600+ credit</li>
+      <li>Non-recourse factoring absorbs insolvency risk but not dispute risk — always read the recourse carve-outs before assuming full protection</li>
+      <li>Concentration limits (25–50% max per customer) restrict access if a single customer dominates your AR portfolio</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/guides/business-line-of-credit/">Business Line of Credit Guide</a></li>

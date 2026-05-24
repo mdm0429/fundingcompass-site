@@ -18,6 +18,40 @@ Purchase order (PO) financing is a funding arrangement where a finance company p
 
 PO financing is used by product-based businesses — importers, distributors, manufacturers, and wholesalers — that sell physical goods to creditworthy commercial or government customers.
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros</h4>
+    <ul>
+      <li>Enables fulfillment of orders you couldn't otherwise afford — a $500,000 order requiring $300,000 in supplier payments is accessible without depleting working capital</li>
+      <li>Approval is based on your customer's creditworthiness and the transaction viability — startups with strong customer purchase orders can qualify</li>
+      <li>Can be combined with invoice factoring in sequence: PO financing funds production, factoring converts the resulting invoice to immediate cash</li>
+      <li>Payment goes directly to your supplier — reducing execution risk and providing supplier confidence on large orders</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons</h4>
+    <ul>
+      <li>Costs 3–6% per month on the advanced amount — one of the most expensive financing products available when annualised (36–72% effective APR, annual percentage rate)</li>
+      <li>Only available for product-based businesses selling physical goods — service businesses cannot use PO financing</li>
+      <li>Minimum gross margin of 20–25% typically required to break even after fees; margins below 15% make PO financing unprofitable</li>
+      <li>5–10 business day setup for new accounts — not appropriate for urgent orders with very short lead times</li>
+    </ul>
+  </div>
+</div>
+
+<dl>
+  <dt>Purchase Order (PO)</dt>
+  <dd>A binding commercial document from a customer committing to purchase a specific quantity of goods at a set price. The PO is the primary security for the PO financier — it must be from a creditworthy buyer and be enforceable to qualify for financing.</dd>
+  <dt>Advance Rate</dt>
+  <dd>The advance rate (the percentage of the invoice value you receive upfront from the PO financier) on a supplier invoice. PO financing typically advances 50–100% of the supplier invoice — the exact amount depends on the creditworthiness of your customer and transaction structure.</dd>
+  <dt>BOL (Bill of Lading)</dt>
+  <dd>A BOL (bill of lading) is a shipping document that serves as a receipt of goods and title transfer. PO financiers typically require a copy of the BOL confirming goods were shipped before releasing the final settlement.</dd>
+  <dt>Gross Margin</dt>
+  <dd>The difference between your selling price and the cost of goods, expressed as a percentage. PO financing fees of 3–6%/month consume margin directly — a 10-week financing period at 4%/month costs approximately 10% of supplier cost. You need at least 20–25% gross margin for PO financing to be profitable.</dd>
+  <dt>PO Financing + Factoring Combination</dt>
+  <dd>A common dual-product structure where PO financing funds production, and invoice factoring converts the resulting invoice to an immediate cash advance used to repay the PO financier. Providers like TCI Business Capital and altLINE coordinate both products automatically.</dd>
+</dl>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">PO FINANCING COST</div>
@@ -193,6 +227,19 @@ If your customer refuses the shipment (goods don't meet specs, damaged in transi
 
 ---
 
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A consumer goods importer wins a $400,000 purchase order from a major national retailer. Supplier cost: $240,000 (40% gross margin). The importer applies for PO financing; the PO financier pays the supplier $240,000 directly. Production and shipping takes 7 weeks; the retailer has net-30 (your customer has 30 days to pay) payment terms, so the total financing period is approximately 10 weeks (2.5 months). Fee at 4%/month: 4% × 2.5 = 10% × $240,000 = $24,000. Profit after PO financing fees: $160,000 (gross margin) − $24,000 (fees) = $136,000. Without PO financing, the order would have been declined due to insufficient cash. Rates based on lender-published schedules as of May 2026.</p></div>
+</div>
+
+**Who this is for:** Product-based businesses (importers, distributors, wholesalers, manufacturers) with gross margins of 20%+ that have received a binding purchase order from a creditworthy commercial or government customer and lack the cash to fund supplier production.
+
+**Who should look elsewhere:** Service businesses (no supplier payment step), companies with gross margins below 15% (financing cost exceeds margin benefit), and businesses with purchase orders from customers with poor or unverifiable credit history.
+
+The [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey) documents financing access challenges for small manufacturers and distributors — the segment most likely to use PO financing — and is a useful reference for understanding approval rates and market conditions.
+
+---
+
 ## Related Resources
 
 - [Purchase Order Financing vs. Invoice Factoring](/compare/purchase-order-financing-vs-factoring/)
@@ -201,6 +248,16 @@ If your customer refuses the shipment (goods don't meet specs, damaged in transi
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>PO financing costs 3–6% per month on the advanced supplier amount — a 10-week financing period at 4%/month equals approximately 10% of the supplier invoice</li>
+      <li>Approval is based on your customer's creditworthiness and order viability — startups can qualify with a strong purchase order from a creditworthy buyer</li>
+      <li>Minimum gross margin of 20–25% is typically required; below 15%, PO financing fees eliminate your profit on the order</li>
+      <li>PO financing pays your supplier directly — you never handle the funds, reducing execution risk and providing supplier confidence</li>
+      <li>Combine with invoice factoring for maximum efficiency: PO financing funds production, factoring converts the resulting invoice to cash to repay the PO financier</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/compare/purchase-order-financing-vs-factoring/">PO Financing vs. Invoice Factoring</a></li>

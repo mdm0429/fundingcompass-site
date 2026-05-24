@@ -8,12 +8,12 @@ schema: ["BreadcrumbList"]
 
 # Navigate Business Funding With Confidence
 
-*Independent guides to specialty B2B financing. No lender relationships. Rates verified monthly.*
+*Independent guides to specialty B2B financing. Rates verified at minimum every 90 days — every table shows its last verification date.*
 
 <div class="stat-grid stat-grid--4">
   <div class="stat-card">
     <div class="stat-card__label">Guide Topics</div>
-    <div class="stat-card__value">5</div>
+    <div class="stat-card__value">8</div>
     <div class="stat-card__sub">financing types covered</div>
   </div>
   <div class="stat-card">
@@ -33,7 +33,7 @@ schema: ["BreadcrumbList"]
   </div>
 </div>
 
-FundingCompass is an independent editorial guide for business owners evaluating invoice factoring, equipment financing, and merchant cash advances. Every rate on this site is sourced from lender-published schedules and verified by date. We do not have financial relationships with the lenders we cover.
+FundingCompass is an independent editorial guide for business owners evaluating invoice factoring, equipment financing, and merchant cash advances. Every rate on this site is sourced from lender-published schedules and verified by date — tables show the month and year each rate was last confirmed.
 
 ---
 

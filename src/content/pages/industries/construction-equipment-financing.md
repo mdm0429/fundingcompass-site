@@ -14,7 +14,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## Construction Equipment Financing — Why It Works
 
-Construction equipment has one significant advantage over most asset classes for financing: strong, liquid resale markets. A 5-year-old excavator from Caterpillar, Komatsu, or John Deere retains 40–60% of its original value and sells quickly at auction. This resale value reduces lender risk, which translates to higher advance rates (up to 100% on newer iron) and competitive rates (6–14% APR for qualified borrowers) compared to equipment with limited resale markets.
+Construction equipment has one significant advantage over most asset classes for financing: strong, liquid resale markets. A 5-year-old excavator from Caterpillar, Komatsu, or John Deere retains 40–60% of its original value and sells quickly at auction. This resale value reduces lender risk, which translates to higher advance rates (up to 100% on newer iron) and rates of 6–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — compared to equipment categories with limited resale markets.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -31,6 +31,29 @@ Construction equipment has one significant advantage over most asset classes for
     <div class="stat-card__label">RESIDUAL VALUE</div>
     <div class="stat-card__value">40–60%</div>
     <div class="stat-card__sub">retained after 5 years</div>
+  </div>
+</div>
+
+---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Construction Businesses</h4>
+    <ul>
+      <li>Major-brand iron (Cat, Komatsu, John Deere) supports advance rates up to 100% on newer equipment — contractors can finance the full purchase price with no down payment when credit qualifies</li>
+      <li>Strong, liquid resale markets mean financed equipment rarely goes "underwater" — if you need to sell before payoff, major-brand construction equipment typically retains enough value to cover the balance</li>
+      <li>OEM captive lenders (CAT Financial, John Deere Financial) frequently offer promotional rates of 0% for 12–24 months on new equipment purchases — impossible to match with third-party financing</li>
+      <li>Equipment purchased through financing appears as an asset on your balance sheet, contributing to bonding capacity for contractors working on bonded projects</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Specialised or niche equipment (specialised cranes, boring machines) gets lower advance rates (70–85%) and shorter terms — plan for a larger down payment on non-commodity iron</li>
+      <li>Auction financing requires pre-approval before bidding — auction houses demand payment in 2–5 business days, and unprepared contractors miss deals or pay cash at a disadvantage</li>
+      <li>A blanket lien from your existing bank may require consent before an equipment lender can file a UCC-1 on new iron — review your existing loan covenants before applying</li>
+      <li>New construction companies are limited to $50,000–$100,000 per transaction and must provide 20% down and a personal guarantee</li>
+    </ul>
   </div>
 </div>
 
@@ -61,7 +84,14 @@ Construction equipment has one significant advantage over most asset classes for
 | [National Funding](/providers/national-funding-review/) | 7–26% | $400,000 | 600 | 24 hours | Challenged credit |
 | [Taycor Financial](https://www.taycorfinancial.com/) | 6–20% | $2,000,000 | 580 | 2–3 days | Used equipment, new contractors |
 
-*Rates verified May 2026. OEM captive lenders (CAT Financial, John Deere Financial, Komatsu Financial) frequently run promotional rate programs — always get their quote alongside third-party financing.*
+*Rates verified May 2026. Rates depend on credit profile, equipment type, and loan term. OEM captive lenders (CAT Financial, John Deere Financial, Komatsu Financial) frequently run promotional rate programs — always get their quote alongside third-party financing.*
+
+---
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A contractor purchasing a $180,000 Caterpillar 320 excavator at 7% APR over 72 months (through a third-party lender, assuming CAT Financial's promotional rate has expired) would pay approximately $3,078/month. The same excavator purchased during a CAT Financial 0% promotional period over 24 months costs $7,500/month — higher payment but $25,000+ in total interest savings. If the contractor can afford the higher payment, the OEM promotional offer wins decisively.</p></div>
+</div>
 
 ---
 
@@ -123,8 +153,38 @@ Yes — most lenders include attachments (buckets, blades, augers, compactor pla
 
 ---
 
+**Who this works for:** Established contractors (2+ years, 620+ credit score) purchasing major-brand construction equipment — excavators, wheel loaders, skid steers — for active job sites where the equipment will generate revenue from day one. Contractors buying at auction with a pre-approved financing commitment. Bonded contractors looking to grow their balance sheet assets alongside their bonding program.
+
+**Who should look elsewhere:** New construction companies needing more than $100,000 per transaction (very limited options — consider equipment rental or OEM dealer financing with a large down payment instead). Contractors with an existing blanket bank lien who haven't reviewed their covenants. Any operation financing highly specialised equipment with limited resale market — the rate premium and lower advance rates may make rental more cost-effective.
+
+---
+
+<dl>
+  <dt>Yellow iron</dt>
+  <dd>Industry slang for heavy construction equipment — excavators, bulldozers, motor graders, compactors. The term comes from the yellow paint used by Caterpillar and other manufacturers. Yellow iron from major brands has some of the strongest resale values in equipment financing.</dd>
+  <dt>Residual value</dt>
+  <dd>The estimated market value of equipment at the end of a lease or loan term. Construction equipment from Cat, Komatsu, and John Deere retains 40–60% of original value after 5 years — one of the highest residual values in any equipment category, which supports high advance rates and competitive financing terms.</dd>
+  <dt>Fleet financing</dt>
+  <dd>Financing for multiple pieces of construction equipment under a single credit facility or master lease agreement. Useful for contractors expanding their equipment fleet simultaneously rather than financing each unit individually. Requires stronger credit and typically a minimum of $250,000 in total equipment value.</dd>
+  <dt>UCC-1 filing</dt>
+  <dd>A public notice a lender files to assert a security interest in financed construction equipment. Equipment lenders file a UCC-1 against the specific equipment financed — not your entire business. If your bank holds a blanket lien, their consent may be required before the equipment lender can file.</dd>
+  <dt>SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equipment)</dt>
+  <dd>A <a href="https://www.sba.gov/funding-programs/loans">Small Business Administration</a> loan program offering below-market fixed rates for large equipment and real estate purchases. For construction companies combining a facility purchase with major equipment acquisitions over $1M, SBA 504 may offer the lowest blended rate — though approval takes 45–90 days.</dd>
+</dl>
+
+---
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Construction equipment financing rates run 6–14% APR (annual percentage rate) for qualified contractors as of May 2026 — among the most competitive rates in equipment financing, driven by strong resale markets for yellow iron</li>
+      <li>Covers excavators, wheel loaders, skid steers, cranes, compactors, concrete mixers, and trenchers; advance rates up to 100% on newer major-brand equipment, 70–85% on specialised machinery</li>
+      <li>Most lenders require 600+ credit score and 1+ year in business; new contractors can access up to $50,000–$100,000 with a 20% down payment and personal guarantee</li>
+      <li>Choose OEM financing (CAT Financial, John Deere Financial) when promotional rates are available and you qualify; choose third-party lenders for used equipment, auction purchases, or when you want to preserve your OEM credit line</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-financing/">Equipment Financing Guide</a></li>
     <li><a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies of 2026</a></li>

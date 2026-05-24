@@ -14,7 +14,28 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 ## Summary
 
-Retail factoring converts outstanding invoices from retailers (Walmart, Target, regional chains, independent stores) into immediate cash for the suppliers and wholesalers that sell to them. Retailers routinely pay on net-30, net-60, or even net-90 terms — but suppliers must pay for inventory, manufacturing, and shipping before receiving payment. Factoring bridges this gap by advancing 80–90% of the invoice value immediately. For suppliers that sell to creditworthy retailers, factoring fees are typically 1.5–3% per 30 days — significantly cheaper than MCA financing and accessible without strong business credit.
+Retail factoring converts outstanding invoices from retailers (Walmart, Target, regional chains, independent stores) into immediate cash for the suppliers and wholesalers that sell to them. Retailers routinely pay on net-30 (your customer has 30 days to pay), net-60 (your customer has 60 days to pay), or even net-90 terms — but suppliers must pay for inventory, manufacturing, and shipping before receiving payment. Factoring bridges this gap by advancing 80–90% of the invoice value immediately. For suppliers that sell to creditworthy retailers, factoring fees are typically 1.5–3% per 30 days — significantly cheaper than MCA (merchant cash advance) financing and accessible without strong business credit.
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Pros for Retail Suppliers</h4>
+    <ul>
+      <li>Converts net-60 and net-90 retailer payment terms into same-week cash — enabling suppliers to fund the next production run before the first order is paid</li>
+      <li>Approval based on the retailer's creditworthiness — a startup supplier with a Walmart purchase order can qualify even without years of operating history</li>
+      <li>Non-recourse factoring is available for invoices to national creditworthy retailers (Walmart, Target, Costco) — the factor absorbs insolvency risk</li>
+      <li>Many retail factors understand EDI invoicing and retailer compliance deduction practices, building these into advance calculations rather than treating them as surprises</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Cons and Watch-outs</h4>
+    <ul>
+      <li>Retailer chargebacks (compliance deductions, returns, promotional allowances) are the supplier's responsibility under factoring agreements — these reduce the amount the factor receives and may trigger reserve adjustments</li>
+      <li>Advance rates (70–90%) are lower than standard B2B factoring due to chargeback risk and extended net-60/90 terms, increasing the effective fee cost</li>
+      <li>Concentration in a single retailer (e.g., 100% Walmart) limits available funding — factors cap exposure on any single buyer</li>
+      <li>Factoring begins only after delivery — suppliers needing capital to fund production before shipping require PO financing, which is more expensive (3–6%/month)</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -76,6 +97,24 @@ Retail factoring has some unique characteristics compared to general commercial 
 | Chargeback handling | Supplier responsibility (standard) |
 
 *Rates verified May 2026. Your actual rate depends on retailer creditworthiness, concentration, and invoice terms.*
+
+<dl>
+  <dt>Retailer chargeback</dt>
+  <dd>A deduction a retailer takes from an invoice payment for compliance violations, returned merchandise, promotional allowances, or EDI errors. Chargebacks reduce the actual payment the factor receives and are the supplier's responsibility under standard factoring agreements — they are deducted from the reserve rather than covered by the factor.</dd>
+  <dt>Advance rate</dt>
+  <dd>The percentage of the invoice value the factoring company pays you upfront. For retail suppliers, the advance rate is 70–90% of invoice face value — lower than general B2B factoring (85–97%) because of chargeback risk and extended payment terms.</dd>
+  <dt>Non-recourse factoring</dt>
+  <dd>A factoring arrangement where the factor absorbs the loss if the retailer becomes insolvent and cannot pay. Available for invoices to major creditworthy retailers (Walmart, Target, Costco). Non-recourse does not protect against chargebacks, returns, or payment reductions — only against the retailer's outright insolvency.</dd>
+  <dt>Concentration limit</dt>
+  <dd>The cap on how much of a factored portfolio can be tied to a single retailer. Suppliers with 80%+ of revenue from one chain face concentration limits that restrict available funding — factors manage this risk by capping advances on that single account.</dd>
+  <dt>EDI (Electronic Data Interchange)</dt>
+  <dd>The standardized electronic invoicing system used by major retailers for receiving invoices (EDI 810) and issuing purchase orders (EDI 850). Suppliers must comply with each retailer's EDI requirements — errors trigger compliance chargebacks. Most retail factors accept EDI invoice data directly from suppliers.</dd>
+</dl>
+
+<div class="callout callout--info">
+  <strong class="callout__title">Example</strong>
+  <div class="callout__body"><p>A consumer goods supplier with $200,000/month in invoices to a regional grocery chain using eCapital's up-to-97% advance rate (retail program, assuming 90% for chargeback-adjusted rate) and a 2% fee on net-60 terms would receive $180,000 upfront and pay $8,000 in fees over the 60-day period (2% × 2 months). Reserve released upon retailer payment: $200,000 − $180,000 − $8,000 = $12,000.</p></div>
+</div>
 
 ---
 
@@ -148,6 +187,10 @@ If your cash flow problem starts before you can manufacture (not just before the
 
 PO financing is more expensive than factoring (fees of 3–6%/month), but it solves the earlier cash flow problem. See [Purchase Order Financing vs. Factoring](/compare/purchase-order-financing-vs-factoring/) for a detailed comparison.
 
+**Who this works for:** Consumer goods manufacturers, food and beverage brands, apparel brands, and importers with $25,000+/month in invoices to established creditworthy retailers, operating on net-30 to net-90 payment terms, with a compliance history that minimizes chargeback exposure.
+
+**Who should look elsewhere:** Suppliers selling direct-to-consumer online (DTC) cannot factor those receivables. Suppliers with 100% revenue concentration in a single retailer will face funding caps. If your cash flow problem begins before manufacturing (you need capital to produce before shipping), PO financing is more appropriate than invoice factoring — though some retail factors offer both products.
+
 ---
 
 ## Frequently Asked Questions
@@ -171,6 +214,15 @@ Yes. Factoring eligibility is primarily based on the retailer's creditworthiness
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Retail factoring advances 70–90% of supplier invoices at fees of 1.5–3.5% per 30-day period (rates verified May 2026)</li>
+      <li>Qualification requires invoices to established, creditworthy retailers — approval is based on the retailer's credit, enabling startup suppliers with major retail placement to qualify immediately</li>
+      <li>eCapital is the top pick for retail suppliers seeking high advance rates (up to 97%) with a strong retail factoring program covering national and regional chains</li>
+      <li>Retailer chargebacks (compliance deductions, returns) are the supplier's responsibility and reduce reserve releases — maintain strict EDI compliance to minimize chargeback exposure</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/compare/purchase-order-financing-vs-factoring/">Purchase Order Financing vs. Invoice Factoring</a></li>
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>

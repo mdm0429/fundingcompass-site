@@ -13,13 +13,24 @@ schema:
 
 # Best Equipment Financing Companies of 2026 — Ranked & Compared
 
-*Last reviewed: May 2026 — APR ranges and qualification criteria verified via each lender's published rate schedules and Nav.com lender database.*
+*Last reviewed: May 2026 — APR (annual percentage rate) ranges and qualification criteria verified via each lender's published rate schedules and Nav.com lender database. Affiliate relationships do not affect rankings or editorial coverage.*
 
 ---
 
 ## How We Selected These Lenders
 
-We evaluated equipment financing lenders across five dimensions: published APR transparency, credit score accessibility, funding speed, equipment type coverage, and loan amount range. Both fintech lenders and traditional bank/SBA channels are included — because the right choice depends on your credit profile, timeline, and purchase size.
+Rankings are based on five dimensions: published APR transparency, credit score accessibility, funding speed, equipment type coverage, and loan amount range. Both fintech lenders and traditional bank/SBA (Small Business Administration) channels are included — because the right choice depends on your credit profile, timeline, and purchase size. No company paid to appear on this list. All rates are based on lender-published rates as of May 2026.
+
+<dl>
+  <dt>APR (Annual Percentage Rate)</dt>
+  <dd>The annualized cost of borrowing including interest and required fees, expressed as a percentage. Use APR to compare equipment loans across lenders — a lender quoting a lower monthly rate may have a higher APR once origination fees are included.</dd>
+  <dt>Equipment Loan</dt>
+  <dd>A fixed-term loan secured by the equipment itself. The lender holds a lien on the equipment until you pay off the loan; at payoff, you own the equipment outright. Distinct from a lease, where the lender retains ownership throughout the term.</dd>
+  <dt>SBA 504 (SBA's Fixed-Asset Financing Program)</dt>
+  <dd>The SBA's fixed-asset financing program for real estate and heavy equipment. Offers the lowest rates available (5.5–7% on the SBA debenture portion) but takes 30–90 days to fund and requires a three-party structure with a Certified Development Company.</dd>
+  <dt>Loan-to-Value (LTV) Ratio</dt>
+  <dd>The loan amount divided by the equipment's appraised value. A $90,000 loan on $100,000 of equipment is 90% LTV. Higher LTV means more financing but also higher rate risk for the lender, which may increase your rate.</dd>
+</dl>
 
 ---
 
@@ -435,7 +446,7 @@ Taycor is one of the few equipment financing lenders with an explicit startup pr
 **Min. time in business:** 2 years typically
 **Funding time:** 30–90 days
 
-For borrowers with strong credit (680+) who can wait 30–90 days, the SBA 7(a) and SBA 504 programs offer the lowest rates available on equipment financing. The 504 program is particularly attractive for purchases that include real property alongside equipment (e.g., a manufacturing facility with machinery).
+For borrowers with strong credit (680+) who can wait 30–90 days, the [SBA (Small Business Administration) loan programs](https://www.sba.gov/funding-programs/loans) offer the lowest rates available on equipment financing. The 504 program is particularly attractive for purchases that include real property alongside equipment (e.g., a manufacturing facility with machinery).
 
 **SBA 7(a) vs. SBA 504:**
 - **7(a):** More flexible use of funds; can finance equipment, working capital, and refinancing in a single loan. Maximum $5M.
@@ -457,6 +468,18 @@ For borrowers with strong credit (680+) who can wait 30–90 days, the SBA 7(a) 
 **If you're a startup (under 1 year) with good personal credit:** Taycor Financial's startup program, with a 20% down payment expectation.
 
 **If you need funding today:** Balboa Capital (same-day for amounts under $75,000).
+
+---
+
+## Borrower Example
+
+**Scenario:** A construction company needs a $150,000 excavator. They have a 660 credit score, 3 years in business, and $600,000 annual revenue.
+
+- **Crest Capital** at 7% APR, 60-month term: Monthly payment ~$2,970; total interest ~$28,200
+- **National Funding** at 14% APR, 60-month term: Monthly payment ~$3,489; total interest ~$59,340
+- **SBA 504** at 6% fixed (SBA portion): Requires $15,000 down, 30–90 days to fund, far more paperwork — but monthly payment ~$2,550 on the full amount over 10 years
+
+For a credit score of 660, Crest Capital at 7% saves ~$31,000 in interest versus National Funding over the loan term. Rates depend on credit score, collateral, and term length.
 
 ---
 
@@ -484,6 +507,17 @@ The lender repossesses the financed equipment — this is the primary security f
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Crest Capital (#1) offers 5.5–12% APR for businesses with 650+ credit and 2+ years in operation — the lowest non-bank rate available</li>
+      <li>Balboa Capital funds same-day on loans under $75,000 with a 620 minimum credit score — the best choice when equipment downtime is costly</li>
+      <li>National Funding accepts 600 minimum credit score and 6 months in business — accessible for early-stage businesses, but rates reach 26% APR</li>
+      <li>SBA 504 loans offer the lowest long-term rates (5.5–7% fixed) but take 30–90 days to fund; find a participating lender at SBA.gov</li>
+      <li>For businesses with 650–679 credit needing funding within a week, Crest Capital or Currency Capital beat SBA on speed with competitive rates</li>
+      <li>All rates are based on lender-published rates as of May 2026; your rate depends on credit score, collateral, and term length</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/equipment-leasing/">Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy</a></li>
     <li><a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease</a></li>
