@@ -53,7 +53,7 @@ Construction equipment has one significant advantage over most asset classes for
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Construction Businesses</h4>
+    <h3>Pros for Construction Businesses</h3>
     <ul>
       <li>Major-brand iron (Cat, Komatsu, John Deere) supports advance rates up to 100% on newer equipment — contractors can finance the full purchase price with no down payment when credit qualifies</li>
       <li>Strong, liquid resale markets mean financed equipment rarely goes "underwater" — if you need to sell before payoff, major-brand construction equipment typically retains enough value to cover the balance</li>
@@ -62,7 +62,7 @@ Construction equipment has one significant advantage over most asset classes for
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Specialised or niche equipment (specialised cranes, boring machines) gets lower advance rates (70–85%) and shorter terms — plan for a larger down payment on non-commodity iron</li>
       <li>Auction financing requires pre-approval before bidding — auction houses demand payment in 2–5 business days, and unprepared contractors miss deals or pay cash at a disadvantage</li>

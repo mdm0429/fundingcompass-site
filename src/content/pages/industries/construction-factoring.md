@@ -35,6 +35,18 @@ Construction accounts receivable factoring carries unique complications not pres
 
 Progress billings submitted via AIA (American Institute of Architects billing format) G702/G703 forms are the accepted standard — factors familiar with construction expect this format.
 
+<aside class="key-stat" role="note">
+  <strong>Construction advance rate range:</strong>
+  <span class="stat-value">70–90%</span>
+  <span class="stat-source">Of approved progress billings — retainage excluded from advances, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Fee range for construction factoring:</strong>
+  <span class="stat-value">2–4% per 30 days</span>
+  <span class="stat-source">Among the highest fees across all factoring industries, May 2026</span>
+</aside>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -55,7 +67,7 @@ Progress billings submitted via AIA (American Institute of Architects billing fo
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Construction Subcontractors</h4>
+    <h3>Pros for Construction Subcontractors</h3>
     <ul>
       <li>Converts approved progress billings to cash in 2–5 days — eliminating the 30–60 day wait for GC payment that strains payroll and supplier obligations</li>
       <li>Approval based on GC or municipal owner creditworthiness — subcontractors with creditworthy GC clients can qualify even with limited financial history</li>
@@ -64,7 +76,7 @@ Progress billings submitted via AIA (American Institute of Architects billing fo
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Retainage invoices (the 5–10% withheld until project completion) are typically excluded — factors do not advance on withheld amounts, leaving a significant portion of your contract value inaccessible until project closeout</li>
       <li>GC notification via Notice of Assignment (a letter directing your customer to pay the factor instead of you) is required and some GCs have policies that complicate or delay factoring arrangements — discuss with your GC before applying</li>

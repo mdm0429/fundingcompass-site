@@ -104,7 +104,7 @@ Lendio is a Utah-based small business loan marketplace that connects businesses 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Single 15-minute application accesses 75+ lenders across all product types — SBA loans, term loans, equipment financing, lines of credit, MCAs, and invoice factoring — reducing research time versus applying to each lender separately</li>
       <li>SBA loan facilitation through SBA Preferred Lenders is rare for a marketplace; Lendio's funding managers can guide businesses through the complex SBA documentation process and identify the most cost-effective offer type</li>
@@ -112,7 +112,7 @@ Lendio is a Utah-based small business loan marketplace that connects businesses 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Lendio is not a direct lender and earns referral fees from lenders — these fees may be reflected in the rate or terms of offers compared to applying directly to the same lender</li>
       <li>Your data is shared with multiple lenders in the network — expect follow-up marketing outreach from lenders you don't choose; you have less control over which specific lenders see your application</li>

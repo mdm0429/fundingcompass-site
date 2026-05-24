@@ -30,6 +30,18 @@ MCAs are among the most expensive forms of business financing. This list is prov
 
 With that context, here is an independent assessment of the major providers.
 
+<aside class="key-stat" role="note">
+  <strong>MCA effective APR range:</strong>
+  <span class="stat-value">40–350%</span>
+  <span class="stat-source">Annualised cost across ranked providers — compare against LOC (8–30% APR) before committing, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Factor rate range across ranked providers:</strong>
+  <span class="stat-value">1.10–1.49</span>
+  <span class="stat-source">OnDeck floor 1.10; Credibly ceiling 1.49 — total repayment = advance × factor rate, May 2026</span>
+</aside>
+
 <dl>
   <dt>Factor Rate</dt>
   <dd>The factor rate (the multiplier applied to your advance to determine total repayment). A factor rate of 1.30 on a $50,000 advance means you repay $65,000 regardless of how quickly you repay. Unlike interest rates, there is no benefit to early repayment under a standard factor rate structure.</dd>
@@ -45,22 +57,23 @@ With that context, here is an independent assessment of the major providers.
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Merchant Cash Advance Providers Compared — May 2026</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Provider</th>
-        <th>Good For</th>
-        <th>Best For</th>
-        <th>Factor Rate</th>
-        <th>Holdback</th>
-        <th>Max Advance</th>
-        <th>Min. Monthly Revenue</th>
-        <th>Funding Speed</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:180px">Provider</th>
+        <th scope="col">Good For</th>
+        <th scope="col">Best For</th>
+        <th scope="col">Factor Rate</th>
+        <th scope="col">Holdback</th>
+        <th scope="col">Max Advance</th>
+        <th scope="col">Min. Monthly Revenue</th>
+        <th scope="col">Funding Speed</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr class="td-pick">
-        <td>
+        <td scope="row">
           <div class="td-provider"><img src="/logos/credibly.svg" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly</div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
@@ -74,7 +87,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.credibly.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/ondeck.svg" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck</div></td>
+        <td scope="row"><div class="td-provider"><img src="/logos/ondeck.svg" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck</div></td>
         <td>Established businesses, 625+ credit</td>
         <td>Established businesses (12+ months, 625+ credit) seeking a regulated lender</td>
         <td class="td-num">1.10–1.40</td>
@@ -85,7 +98,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.ondeck.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/rapid.svg" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance</div></td>
+        <td scope="row"><div class="td-provider"><img src="/logos/rapid.svg" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance</div></td>
         <td>Large advances, 2+ years in business</td>
         <td>Established businesses (2+ years) needing larger advances up to $500,000</td>
         <td class="td-num">1.15–1.45</td>
@@ -96,7 +109,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.rapidfinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/bfs.svg" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital</div></td>
+        <td scope="row"><div class="td-provider"><img src="/logos/bfs.svg" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital</div></td>
         <td>Niche industries, lower revenue floors</td>
         <td>Lower revenue businesses and industries other MCA providers avoid</td>
         <td class="td-num">1.15–1.45</td>
@@ -107,7 +120,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.bfscapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="/logos/greenbox.svg" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital</div></td>
+        <td scope="row"><div class="td-provider"><img src="/logos/greenbox.svg" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital</div></td>
         <td>Broad industry acceptance, $10K+ revenue</td>
         <td>Businesses with $10,000+ monthly revenue seeking broad industry acceptance</td>
         <td class="td-num">1.18–1.48</td>

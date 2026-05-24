@@ -30,6 +30,18 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 
 **Our criteria do not include:** commission rates, referral arrangements, or any financial relationship between FundingCompass and the listed providers.
 
+<aside class="key-stat" role="note">
+  <strong>Top advance rate available:</strong>
+  <span class="stat-value">Up to 97%</span>
+  <span class="stat-source">eCapital, Triumph Business Capital, RTS Financial — for qualified freight accounts, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Fee range across ranked companies:</strong>
+  <span class="stat-value">0.69–3.5% per 30 days</span>
+  <span class="stat-source">Floor: eCapital high-volume freight; ceiling: general B2B accounts, May 2026</span>
+</aside>
+
 <dl>
   <dt>Advance Rate</dt>
   <dd>The percentage of an invoice's face value the factoring company pays you upfront. Typical range: 80–97%. A higher advance rate means more cash now but may indicate higher fees elsewhere.</dd>
@@ -49,21 +61,22 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring Companies Compared — May 2026</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Company</th>
-        <th>Good For</th>
-        <th>Industry</th>
-        <th>Advance Rate</th>
-        <th>Fee / 30 Days</th>
-        <th>Spot Factoring</th>
-        <th>Min. Volume</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:180px">Company</th>
+        <th scope="col">Good For</th>
+        <th scope="col">Industry</th>
+        <th scope="col">Advance Rate</th>
+        <th scope="col">Fee / 30 Days</th>
+        <th scope="col">Spot Factoring</th>
+        <th scope="col">Min. Volume</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr class="td-pick">
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/ecapital.svg" alt="eCapital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             eCapital</div>
@@ -78,7 +91,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td style="text-align:center"><a href="https://www.ecapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/triumph.svg" alt="Triumph" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Triumph Business Capital</div>
@@ -92,7 +105,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td style="text-align:center"><a href="https://www.triumphbusiness.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/riviera.svg" alt="Riviera Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Riviera Finance</div>
@@ -106,7 +119,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td style="text-align:center"><a href="https://www.rivierafinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/rts.svg" alt="RTS Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             RTS Financial</div>
@@ -120,7 +133,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td style="text-align:center"><a href="https://www.rtsfinancial.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/tci.svg" alt="TCI" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             TCI Business Capital</div>
@@ -134,7 +147,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
         <td style="text-align:center"><a href="https://www.tcicapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td>
+        <td scope="row">
           <div class="td-provider">
             <img src="/logos/paragon.svg" alt="Paragon" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Paragon Financial Group</div>

@@ -591,6 +591,35 @@ td.td-num {
 .comp-table--calc td.td-num { text-align: right; }
 
 
+/* ── StatBlock (key-stat) ────────────────────────────────── */
+/* Citable data anchors — extractable by AI engines via speakable cssSelector */
+.key-stat {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  background: var(--surface-tinted);
+  border-left: 3px solid var(--color-brand-400);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  padding: var(--space-3) var(--space-4);
+  margin: var(--space-5) 0;
+  font-family: var(--font-body);
+}
+.key-stat strong {
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  font-weight: var(--weight-medium);
+}
+.stat-value {
+  font-size: var(--text-xl);
+  font-weight: var(--weight-bold);
+  color: var(--color-brand-700, #1e3a8a);
+  line-height: 1.2;
+}
+.stat-source {
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+}
+
 /* ── Lists ────────────────────────────────────────────────── */
 ul, ol {
   padding-left: var(--space-6);

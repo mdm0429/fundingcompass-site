@@ -28,6 +28,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Freight brokers and shippers typically pay on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms, but fuel, driver pay, and maintenance are due now. Trucking factoring solves this timing gap by advancing 90–97% of load invoice value — often within 2–4 hours of submitting a signed bill of lading (BOL). For owner-operators and small fleets, receivables financing is the most common operating capital tool in the industry precisely because it scales with loads hauled rather than requiring a fixed credit facility.
 
+<aside class="key-stat" role="note">
+  <strong>Freight advance rate:</strong>
+  <span class="stat-value">97%</span>
+  <span class="stat-source">Top advance rate available for qualified freight carriers, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Fee range for trucking factoring:</strong>
+  <span class="stat-value">1–3% per 30 days</span>
+  <span class="stat-source">Based on eCapital, RTS Financial, Triumph published rate schedules, May 2026</span>
+</aside>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -48,7 +60,7 @@ Freight brokers and shippers typically pay on net-30 (your customer has 30 days 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Trucking Companies</h4>
+    <h3>Pros for Trucking Companies</h3>
     <ul>
       <li>Fuel advances available at dispatch — cover diesel costs before you deliver the load, not after</li>
       <li>Approval based on broker/shipper credit, not yours — new MC authority holders can qualify from day one</li>
@@ -57,7 +69,7 @@ Freight brokers and shippers typically pay on net-30 (your customer has 30 days 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Recourse factoring (the standard in trucking) means broker non-payment charges back to your reserve — vetting broker credit before accepting loads matters</li>
       <li>Contract factoring requires you to factor all or a minimum volume of loads — spot factoring is more flexible but costs 0.5–1% more per load</li>

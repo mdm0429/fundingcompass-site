@@ -47,7 +47,7 @@ PO financing is used by product-based businesses — importers, distributors, ma
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Enables fulfillment of orders you couldn't otherwise afford — a $500,000 order requiring $300,000 in supplier payments is accessible without depleting working capital</li>
       <li>Approval is based on your customer's creditworthiness and the transaction viability — startups with strong customer purchase orders can qualify</li>
@@ -56,7 +56,7 @@ PO financing is used by product-based businesses — importers, distributors, ma
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>Costs 3–6% per month on the advanced amount — one of the most expensive financing products available when annualised (36–72% effective APR, annual percentage rate)</li>
       <li>Only available for product-based businesses selling physical goods — service businesses cannot use PO financing</li>

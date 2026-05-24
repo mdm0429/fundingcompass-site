@@ -100,7 +100,7 @@ OnDeck operates as a subsidiary of Enova International (NYSE: ENVA), a publicly 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Lowest published MCA factor rate floor in the market (1.10) — a $100,000 advance at 1.10 costs $10,000 total, roughly half the cost of a 1.20 factor advance</li>
       <li>Subsidiary of publicly traded Enova International (NYSE: ENVA) — subject to SEC reporting requirements and regulatory oversight that private MCA providers avoid; complies with state commercial financing disclosure laws in CA, NY, UT, and VA</li>
@@ -108,7 +108,7 @@ OnDeck operates as a subsidiary of Enova International (NYSE: ENVA), a publicly 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>12-month minimum time in business is among the higher bars in the alternative lending market — businesses under 1 year are ineligible regardless of revenue</li>
       <li>625 credit score minimum excludes many small businesses; Credibly (500 minimum) or BFS Capital serve lower credit profiles</li>

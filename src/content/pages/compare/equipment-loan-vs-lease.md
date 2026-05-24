@@ -63,22 +63,23 @@ Equipment loans and leases both let you use business equipment without paying th
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Equipment Loan vs Lease — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Equipment Loan</th>
-        <th>Operating Lease</th>
-        <th>$1 Buyout Lease</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Equipment Loan</th>
+        <th scope="col">Operating Lease</th>
+        <th scope="col">$1 Buyout Lease</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Ownership</strong></td><td>Yes (from day one)</td><td>No (lender retains title)</td><td>Yes (for $1 at end)</td></tr>
-      <tr><td><strong>Monthly payment</strong></td><td>Higher (building equity)</td><td>Lower (using, not buying)</td><td>Higher (similar to loan)</td></tr>
-      <tr><td><strong>Balance sheet</strong></td><td>Asset + liability</td><td>Off-balance sheet</td><td>On-balance sheet</td></tr>
-      <tr><td><strong>At end of term</strong></td><td>Equipment is yours free and clear</td><td>Return, renew, or buy at FMV</td><td>Pay $1, own equipment</td></tr>
-      <tr><td><strong>Section 179 deduction</strong></td><td>Yes</td><td>No (operating lease)</td><td>Yes (capital lease treatment)</td></tr>
-      <tr><td><strong>Upgrade flexibility</strong></td><td>You sell/trade used equipment</td><td>Return and upgrade easily</td><td>You sell/trade at term end</td></tr>
-      <tr><td><strong>Best for</strong></td><td>Long-lived equipment, value-retaining assets</td><td>Fast-depreciating tech, fleet vehicles</td><td>Want ownership + lower payments</td></tr>
+      <tr><td scope="row"><strong>Ownership</strong></td><td>Yes (from day one)</td><td>No (lender retains title)</td><td>Yes (for $1 at end)</td></tr>
+      <tr><td scope="row"><strong>Monthly payment</strong></td><td>Higher (building equity)</td><td>Lower (using, not buying)</td><td>Higher (similar to loan)</td></tr>
+      <tr><td scope="row"><strong>Balance sheet</strong></td><td>Asset + liability</td><td>Off-balance sheet</td><td>On-balance sheet</td></tr>
+      <tr><td scope="row"><strong>At end of term</strong></td><td>Equipment is yours free and clear</td><td>Return, renew, or buy at FMV</td><td>Pay $1, own equipment</td></tr>
+      <tr><td scope="row"><strong>Section 179 deduction</strong></td><td>Yes</td><td>No (operating lease)</td><td>Yes (capital lease treatment)</td></tr>
+      <tr><td scope="row"><strong>Upgrade flexibility</strong></td><td>You sell/trade used equipment</td><td>Return and upgrade easily</td><td>You sell/trade at term end</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>Long-lived equipment, value-retaining assets</td><td>Fast-depreciating tech, fleet vehicles</td><td>Want ownership + lower payments</td></tr>
     </tbody>
   </table>
 </div>
@@ -238,21 +239,22 @@ This is where the decision gets complicated. Always consult your accountant.
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Equipment Loan vs Lease — Comparison</caption>
     <thead>
       <tr>
-        <th>Equipment Type</th>
-        <th>Recommended Structure</th>
+        <th scope="col">Equipment Type</th>
+        <th scope="col">Recommended Structure</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td>Tractors, construction equipment</td><td>Loan (long life, holds value)</td></tr>
-      <tr><td>Semi trucks / commercial vehicles</td><td>Loan or $1 buyout lease</td></tr>
-      <tr><td>Medical imaging (MRI, CT)</td><td>Loan or lease depending on upgrade plan</td></tr>
-      <tr><td>Servers and IT hardware</td><td>Operating lease (technology refresh cycle)</td></tr>
-      <tr><td>Laptops and workstations</td><td>Operating lease (3–4 year refresh)</td></tr>
-      <tr><td>Restaurant equipment</td><td>Loan (long life)</td></tr>
-      <tr><td>Dental/medical chairs and equipment</td><td>Loan or $1 buyout lease</td></tr>
-      <tr><td>Printing and copier equipment</td><td>Operating lease (technology-dependent)</td></tr>
+      <tr><td scope="row">Tractors, construction equipment</td><td>Loan (long life, holds value)</td></tr>
+      <tr><td scope="row">Semi trucks / commercial vehicles</td><td>Loan or $1 buyout lease</td></tr>
+      <tr><td scope="row">Medical imaging (MRI, CT)</td><td>Loan or lease depending on upgrade plan</td></tr>
+      <tr><td scope="row">Servers and IT hardware</td><td>Operating lease (technology refresh cycle)</td></tr>
+      <tr><td scope="row">Laptops and workstations</td><td>Operating lease (3–4 year refresh)</td></tr>
+      <tr><td scope="row">Restaurant equipment</td><td>Loan (long life)</td></tr>
+      <tr><td scope="row">Dental/medical chairs and equipment</td><td>Loan or $1 buyout lease</td></tr>
+      <tr><td scope="row">Printing and copier equipment</td><td>Operating lease (technology-dependent)</td></tr>
     </tbody>
   </table>
 </div>
@@ -263,32 +265,33 @@ This is where the decision gets complicated. Always consult your accountant.
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Equipment Loan vs Lease — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px">Lender</th>
-        <th>Max Amount</th>
-        <th>Min. Credit</th>
-        <th>Notes</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:160px">Lender</th>
+        <th scope="col">Max Amount</th>
+        <th scope="col">Min. Credit</th>
+        <th scope="col">Notes</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><div class="td-provider">Crest Capital</div></td>
+        <td scope="row"><div class="td-provider">Crest Capital</div></td>
         <td class="td-num">$500,000</td>
         <td class="td-num">650+</td>
         <td>Loan + Lease; fast decisions.</td>
         <td style="text-align:center"><a href="https://www.crestcapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Balboa Capital</div></td>
+        <td scope="row"><div class="td-provider">Balboa Capital</div></td>
         <td class="td-num">$500,000</td>
         <td class="td-num">620+</td>
         <td>Loan + Lease; 1-year minimum.</td>
         <td style="text-align:center"><a href="https://www.balboacapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">National Funding</div></td>
+        <td scope="row"><div class="td-provider">National Funding</div></td>
         <td class="td-num">$150,000</td>
         <td class="td-num">600+</td>
         <td>Loan + Lease; lower credit floor.</td>

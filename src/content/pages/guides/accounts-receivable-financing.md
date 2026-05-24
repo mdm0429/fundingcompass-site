@@ -47,7 +47,7 @@ Both products serve the same fundamental purpose — eliminating the cash flow g
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Converts outstanding invoices to cash in 24–48 hours without waiting 30–90 days for customers to pay</li>
       <li>Invoice factoring approval is based on your customers' credit, not yours — accessible to startups and businesses with limited credit history</li>
@@ -56,7 +56,7 @@ Both products serve the same fundamental purpose — eliminating the cash flow g
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>More expensive than a business line of credit — factoring effective APR (annual percentage rate) runs 18–60%+ vs. 8–30% for a bank or online LOC</li>
       <li>Invoice factoring notifies your customers of the assignment — some clients, particularly in professional services, may view this negatively</li>

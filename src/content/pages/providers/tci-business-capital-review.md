@@ -109,7 +109,7 @@ TCI Business Capital is a Minnesota-based receivables financing company serving 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Lowest published fee in this comparison at 1–3%/30 days — at 1% for high-volume clients, this is below the industry average of 1.5–3.5% for non-recourse factoring</li>
       <li>Non-recourse factoring available — credit risk on customer insolvency transfers to TCI, protecting businesses with large single-customer concentrations or customers in cyclical industries</li>
@@ -117,7 +117,7 @@ TCI Business Capital is a Minnesota-based receivables financing company serving 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>~$25,000 minimum monthly volume — not accessible for very small businesses; Riviera Finance serves businesses with as little as $5,000/month</li>
       <li>Requires 600+ personal FICO and 2+ years in business — not suitable for start-ups or business owners with impaired credit</li>

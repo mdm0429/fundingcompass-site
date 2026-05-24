@@ -28,6 +28,24 @@ Equipment financing is a loan or lease used to purchase or access business equip
 
 Unlike a general business loan, machinery financing is tied to a specific asset. If you default, the lender repossesses the equipment — not your other business or personal assets (in most cases).
 
+<aside class="key-stat" role="note">
+  <strong>APR range for qualified borrowers:</strong>
+  <span class="stat-value">5–30%</span>
+  <span class="stat-source">Based on lender-published rate schedules, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Repayment term range:</strong>
+  <span class="stat-value">24–84 months</span>
+  <span class="stat-source">Varies by equipment type, lender, and loan amount, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Down payment required:</strong>
+  <span class="stat-value">0–20%</span>
+  <span class="stat-source">Zero down available for equipment with strong resale markets, May 2026</span>
+</aside>
+
 <blockquote class="stat-quote">
   <p><strong>100% financing is available for equipment with strong resale markets such as semi-trucks and construction machinery — zero down payment required.</strong></p>
   <cite>FundingCompass research, May 2026</cite>
@@ -47,7 +65,7 @@ Unlike a general business loan, machinery financing is tied to a specific asset.
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Equipment serves as its own collateral — no separate business assets pledged, and liens are typically filed only against the financed asset</li>
       <li>100% financing available on equipment with strong resale value (semi-trucks, construction equipment), meaning zero down payment required</li>
@@ -56,7 +74,7 @@ Unlike a general business loan, machinery financing is tied to a specific asset.
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>Rates depend on credit profile, collateral, and term length — borrowers at 580 credit pay 4–8 percentage points more than borrowers at 680</li>
       <li>Technology and specialised equipment (under 60–80% advance rate) may require a meaningful down payment</li>

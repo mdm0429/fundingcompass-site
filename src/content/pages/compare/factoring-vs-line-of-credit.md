@@ -48,25 +48,26 @@ A business line of credit gives you a revolving pool of funds to draw from as ne
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Invoice Factoring</th>
-        <th>Business Line of Credit</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Business Line of Credit</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>How it works</strong></td><td>Sell your invoices to a factor for immediate cash</td><td>Draw funds up to a credit limit; repay and redraw</td></tr>
-      <tr><td><strong>Approval based on</strong></td><td>Customer creditworthiness</td><td>Your business credit, revenue, time in business</td></tr>
-      <tr><td><strong>Typical cost</strong></td><td class="td-num">18–60% effective APR</td><td class="td-num">8–30% APR</td></tr>
-      <tr><td><strong>Min. credit score</strong></td><td>Customer-dependent (your score less relevant)</td><td class="td-num">600–650+</td></tr>
-      <tr><td><strong>Min. time in business</strong></td><td>3–6 months</td><td>12–24 months</td></tr>
-      <tr><td><strong>Funding speed</strong></td><td>24–48 hours</td><td>Days to 2 weeks (initial draw)</td></tr>
-      <tr><td><strong>Scales with growth</strong></td><td>Yes — grows with invoice volume</td><td>Fixed limit until renewed</td></tr>
-      <tr><td><strong>Balance sheet treatment</strong></td><td>Off-balance sheet (asset sale)</td><td>On-balance sheet (debt)</td></tr>
-      <tr><td><strong>Customer relationship</strong></td><td>Customer pays the factor directly</td><td>You collect from customers normally</td></tr>
-      <tr><td><strong>Ongoing admin</strong></td><td>Submit invoices per transaction</td><td>Draw as needed</td></tr>
-      <tr><td><strong>Best for</strong></td><td>B2B businesses, poor credit, early stage</td><td>Established businesses, strong credit, ongoing need</td></tr>
+      <tr><td scope="row"><strong>How it works</strong></td><td>Sell your invoices to a factor for immediate cash</td><td>Draw funds up to a credit limit; repay and redraw</td></tr>
+      <tr><td scope="row"><strong>Approval based on</strong></td><td>Customer creditworthiness</td><td>Your business credit, revenue, time in business</td></tr>
+      <tr><td scope="row"><strong>Typical cost</strong></td><td class="td-num">18–60% effective APR</td><td class="td-num">8–30% APR</td></tr>
+      <tr><td scope="row"><strong>Min. credit score</strong></td><td>Customer-dependent (your score less relevant)</td><td class="td-num">600–650+</td></tr>
+      <tr><td scope="row"><strong>Min. time in business</strong></td><td>3–6 months</td><td>12–24 months</td></tr>
+      <tr><td scope="row"><strong>Funding speed</strong></td><td>24–48 hours</td><td>Days to 2 weeks (initial draw)</td></tr>
+      <tr><td scope="row"><strong>Scales with growth</strong></td><td>Yes — grows with invoice volume</td><td>Fixed limit until renewed</td></tr>
+      <tr><td scope="row"><strong>Balance sheet treatment</strong></td><td>Off-balance sheet (asset sale)</td><td>On-balance sheet (debt)</td></tr>
+      <tr><td scope="row"><strong>Customer relationship</strong></td><td>Customer pays the factor directly</td><td>You collect from customers normally</td></tr>
+      <tr><td scope="row"><strong>Ongoing admin</strong></td><td>Submit invoices per transaction</td><td>Draw as needed</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>B2B businesses, poor credit, early stage</td><td>Established businesses, strong credit, ongoing need</td></tr>
     </tbody>
   </table>
 </div>
@@ -148,21 +149,22 @@ The longer your customers take to pay, the more expensive factoring becomes rela
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px">Metric</th>
-        <th>Invoice Factoring</th>
-        <th>Business Line of Credit</th>
+        <th scope="col" style="min-width:160px">Metric</th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Business Line of Credit</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Invoice pool / Credit limit</strong></td><td>$80,000 outstanding (net-30)</td><td>$75,000 revolving credit limit</td></tr>
-      <tr><td><strong>Available / Advance rate</strong></td><td>90% = $72,000 available</td><td>—</td></tr>
-      <tr><td><strong>Amount drawn</strong></td><td>$60,000</td><td>$60,000</td></tr>
-      <tr><td><strong>Fee / Interest</strong></td><td>1.75%/30 days on $60,000 = $1,050</td><td>$60,000 × 12% APR / 12 = $600</td></tr>
-      <tr><td><strong>One-time origination fee</strong></td><td>—</td><td>$500 (year 1 only)</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost (month 1)</strong></td><td class="td-num">$1,050</td><td class="td-num">$1,100</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~21%</td><td class="td-num">~22% (incl. origination)</td></tr>
+      <tr><td scope="row"><strong>Invoice pool / Credit limit</strong></td><td>$80,000 outstanding (net-30)</td><td>$75,000 revolving credit limit</td></tr>
+      <tr><td scope="row"><strong>Available / Advance rate</strong></td><td>90% = $72,000 available</td><td>—</td></tr>
+      <tr><td scope="row"><strong>Amount drawn</strong></td><td>$60,000</td><td>$60,000</td></tr>
+      <tr><td scope="row"><strong>Fee / Interest</strong></td><td>1.75%/30 days on $60,000 = $1,050</td><td>$60,000 × 12% APR / 12 = $600</td></tr>
+      <tr><td scope="row"><strong>One-time origination fee</strong></td><td>—</td><td>$500 (year 1 only)</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Total Cost (month 1)</strong></td><td class="td-num">$1,050</td><td class="td-num">$1,100</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Effective APR</strong></td><td class="td-num">~21%</td><td class="td-num">~22% (incl. origination)</td></tr>
     </tbody>
   </table>
 </div>
@@ -196,20 +198,21 @@ Yes — but with important caveats. Many businesses use a line of credit for gen
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Requirement</th>
-        <th>Invoice Factoring</th>
-        <th>Business LOC</th>
+        <th scope="col" style="min-width:180px">Requirement</th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Business LOC</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Personal credit score</strong></td><td>Not primary (customer credit matters)</td><td>600–680+ depending on lender</td></tr>
-      <tr><td><strong>Business credit</strong></td><td>Less relevant</td><td>Relevant at higher amounts</td></tr>
-      <tr><td><strong>Time in business</strong></td><td>3–6 months (some: none)</td><td>12–24 months</td></tr>
-      <tr><td><strong>Annual revenue</strong></td><td class="td-num">$50,000–$100,000 minimum</td><td class="td-num">$100,000–$250,000 minimum</td></tr>
-      <tr><td><strong>Profitability</strong></td><td>Not required</td><td>Preferred; required at banks</td></tr>
-      <tr><td><strong>Collateral</strong></td><td>Invoices (self-collateralising)</td><td>Blanket lien or specific assets</td></tr>
+      <tr><td scope="row"><strong>Personal credit score</strong></td><td>Not primary (customer credit matters)</td><td>600–680+ depending on lender</td></tr>
+      <tr><td scope="row"><strong>Business credit</strong></td><td>Less relevant</td><td>Relevant at higher amounts</td></tr>
+      <tr><td scope="row"><strong>Time in business</strong></td><td>3–6 months (some: none)</td><td>12–24 months</td></tr>
+      <tr><td scope="row"><strong>Annual revenue</strong></td><td class="td-num">$50,000–$100,000 minimum</td><td class="td-num">$100,000–$250,000 minimum</td></tr>
+      <tr><td scope="row"><strong>Profitability</strong></td><td>Not required</td><td>Preferred; required at banks</td></tr>
+      <tr><td scope="row"><strong>Collateral</strong></td><td>Invoices (self-collateralising)</td><td>Blanket lien or specific assets</td></tr>
     </tbody>
   </table>
 </div>

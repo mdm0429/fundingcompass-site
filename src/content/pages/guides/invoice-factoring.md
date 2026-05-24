@@ -28,6 +28,24 @@ Invoice factoring is a financing arrangement in which a business sells its unpai
 
 Factoring is not a loan. You are selling an asset (the receivable) rather than borrowing against it. This distinction matters for your balance sheet and for qualification — factors approve deals based primarily on your customers' creditworthiness, not yours.
 
+<aside class="key-stat" role="note">
+  <strong>Advance rate range:</strong>
+  <span class="stat-value">80–97%</span>
+  <span class="stat-source">of invoice face value — varies by industry and customer creditworthiness, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Factoring fee range:</strong>
+  <span class="stat-value">1–5% per 30 days</span>
+  <span class="stat-source">Based on lender-published rate schedules, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Effective APR range:</strong>
+  <span class="stat-value">18–60%+</span>
+  <span class="stat-source">Annualised cost — varies with fee rate and customer payment speed, May 2026</span>
+</aside>
+
 <blockquote class="stat-quote">
   <p><strong>Factoring fees run 1–5% per 30-day period; annualised, a 2% fee equals approximately 24% effective APR at net-30 terms.</strong></p>
   <cite>FundingCompass research, May 2026</cite>
@@ -47,7 +65,7 @@ Factoring is not a loan. You are selling an asset (the receivable) rather than b
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>No debt on your balance sheet — you are selling an asset, not taking on a liability</li>
       <li>Approval is based on your customers' credit, not yours — accessible to startups and businesses with past credit issues</li>
@@ -56,7 +74,7 @@ Factoring is not a loan. You are selling an asset (the receivable) rather than b
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>Effective APR (annual percentage rate) of 12–60%+ when annualised — more expensive than a bank line of credit</li>
       <li>Your customers are notified you are factoring — some industries view this as a credit signal</li>

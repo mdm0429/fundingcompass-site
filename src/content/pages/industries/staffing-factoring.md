@@ -28,6 +28,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Staffing agencies face a structural timing mismatch that makes factoring nearly universal in the industry: you pay temporary workers weekly (or bi-weekly), but your clients pay invoices on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms. A $500,000 monthly payroll cannot wait 45 days for client payments. Accounts receivable factoring — also called payroll funding — closes this gap by advancing 85–95% of outstanding client invoices immediately, giving agencies the cash to make payroll without drawing down a bank line of credit or taking on debt.
 
+<aside class="key-stat" role="note">
+  <strong>Staffing advance rate range:</strong>
+  <span class="stat-value">90–97%</span>
+  <span class="stat-source">For agencies with creditworthy business or government clients, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Fee range for staffing factoring:</strong>
+  <span class="stat-value">1.5–3% per 30 days</span>
+  <span class="stat-source">Based on Triumph Business Capital, Capital Plus Financial published schedules, May 2026</span>
+</aside>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -48,7 +60,7 @@ Staffing agencies face a structural timing mismatch that makes factoring nearly 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Staffing Agencies</h4>
+    <h3>Pros for Staffing Agencies</h3>
     <ul>
       <li>Payroll funding is built in — advances arrive within 24 hours of invoice submission, allowing you to meet weekly payroll without a separate loan or credit line</li>
       <li>Specialist staffing factors bundle workers' compensation insurance and payroll tax administration, reducing total administrative overhead for growing agencies</li>
@@ -57,7 +69,7 @@ Staffing agencies face a structural timing mismatch that makes factoring nearly 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Staffing factoring fees (1.5–4% per 30 days) run 0.5–1% higher than general B2B factoring due to co-employment risk and payroll complexity</li>
       <li>Concentration limits apply — if 70%+ of invoices are from one client, factors cap advances on that account, limiting your funding ceiling</li>

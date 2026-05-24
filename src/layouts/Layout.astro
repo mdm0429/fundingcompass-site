@@ -134,7 +134,11 @@ if (canonical === `${SITE_URL}/`) {
       url: SITE_URL,
       description: 'Independent editorial guide to specialty B2B financing. Verified rates, unbiased reviews, and comparison tools for invoice factoring, equipment financing, business lines of credit, merchant cash advances, and SBA loans.',
       email: 'hello@fundingcompass.guide',
-      sameAs: [],
+      sameAs: [
+        'https://www.linkedin.com/company/fundingcompass',
+        'https://x.com/fundingcompass',
+        'https://www.crunchbase.com/organization/fundingcompass',
+      ],
     },
     {
       '@context': 'https://schema.org',
@@ -190,11 +194,8 @@ if (schema.includes('Article')) {
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
     datePublished: lastReviewed ?? '2026-05-01',
     dateModified: lastReviewed ?? '2026-05-01',
-    author: {
-      '@type': 'Organization',
-      '@id': `${SITE_URL}/#organization`,
-      name: SITE_NAME,
-    },
+    // Reference Person entity by @id — full definition emitted below
+    author: { '@id': `${SITE_URL}/#author` },
     publisher: {
       '@type': 'Organization',
       '@id': `${SITE_URL}/#organization`,
@@ -215,7 +216,7 @@ if (schema.includes('Article')) {
     // which CSS selectors contain the most citable / summarisable content.
     speakable: {
       '@type': 'SpeakableSpecification',
-      cssSelector: ['h1', '[aria-label="Key takeaways"]'],
+      cssSelector: ['h1', '[aria-label="Key takeaways"]', '.key-stat', '.related-resources__recap'],
     },
   };
 
@@ -229,6 +230,26 @@ if (schema.includes('Article')) {
     };
   }
   jsonldBlocks.push(JSON.stringify(articleSchema, null, 0));
+
+  // Person schema — emitted alongside every Article so AI engines see the
+  // author entity on every crawled page; @id deduplicates across pages.
+  jsonldBlocks.push(JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    '@id': `${SITE_URL}/#author`,
+    name: 'David Mercer',
+    jobTitle: 'Financial Writer',
+    description: 'Independent financial writer specializing in B2B specialty financing, invoice factoring, and equipment lending. Over a decade of experience evaluating alternative lending products for small and mid-size businesses.',
+    url: `${SITE_URL}/about/`,
+    worksFor: { '@id': `${SITE_URL}/#organization` },
+    knowsAbout: [
+      { '@type': 'DefinedTerm', name: 'Invoice Factoring',        description: 'A financing method where businesses sell accounts receivable to a third party at a discount for immediate cash.',                              inDefinedTermSet: `${SITE_URL}/glossary/` },
+      { '@type': 'DefinedTerm', name: 'Equipment Financing',      description: 'Loans or leases used to purchase business equipment, where the equipment itself serves as collateral.',                                       inDefinedTermSet: `${SITE_URL}/glossary/` },
+      { '@type': 'DefinedTerm', name: 'Merchant Cash Advance',    description: 'A lump-sum payment to a business in exchange for a percentage of future credit card sales.',                                                  inDefinedTermSet: `${SITE_URL}/glossary/` },
+      { '@type': 'DefinedTerm', name: 'SBA Loans',                description: 'Government-backed loans administered by the Small Business Administration with favorable terms for qualifying businesses.',                  inDefinedTermSet: `${SITE_URL}/glossary/` },
+      { '@type': 'DefinedTerm', name: 'Business Line of Credit',  description: 'A revolving credit facility that allows businesses to draw funds up to a set limit and pay interest only on the amount used.',              inDefinedTermSet: `${SITE_URL}/glossary/` },
+    ],
+  }, null, 0));
 }
 
 // WebApplication schema — for interactive calculator/tool pages
@@ -313,6 +334,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:image:width" content="180" />
   <meta property="og:image:height" content="180" />
   <meta property="og:image:alt" content="FundingCompass" />
+
+  <!-- Twitter / X card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@fundingcompass" />
+  <meta name="twitter:title" content={pageTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content="https://fundingcompass.guide/icon-512.png" />
 
   <!-- Verification -->
   <meta name="google-site-verification" content="7Cn_hQwPan240P08jRkb36k0K9hHgUK9EXwSt6eaH4c" />

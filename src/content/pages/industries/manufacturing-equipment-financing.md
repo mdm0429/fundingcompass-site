@@ -55,7 +55,7 @@ Current rates for manufacturing equipment range from 5.5–14% APR (annual perce
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Manufacturing Businesses</h4>
+    <h3>Pros for Manufacturing Businesses</h3>
     <ul>
       <li>Long loan terms (up to 84 months) match the 10–20 year useful life of CNC machines and industrial equipment — monthly payments stay manageable relative to the revenue the equipment generates</li>
       <li>Strong resale markets for major brands (Haas, Mazak, FANUC) support high advance rates of 85–100% — manufacturers often finance the full purchase price with no down payment</li>
@@ -64,7 +64,7 @@ Current rates for manufacturing equipment range from 5.5–14% APR (annual perce
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Highly specialised single-purpose equipment (custom tooling, niche processing machinery) gets advance rates of only 60–75% and shorter terms — plan for a larger down payment</li>
       <li>Industrial robots and automation equipment face rapid obsolescence risk — lenders cap terms at 60 months, and a 5-year-old robot may have limited resale value if the technology shifts</li>

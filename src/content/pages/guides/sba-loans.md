@@ -28,6 +28,24 @@ A Small Business Administration (SBA) loan is a small business loan partially gu
 
 The guarantee structure means your lender takes less risk — which translates directly to lower rates and longer terms for you. The trade-off is a more rigorous application process and longer approval timelines than alternative lenders.
 
+<aside class="key-stat" role="note">
+  <strong>SBA 7(a) APR range:</strong>
+  <span class="stat-value">Prime + 2.25–4.75%</span>
+  <span class="stat-source">Approximately 9.5–12% APR as of May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Maximum loan amount:</strong>
+  <span class="stat-value">$5,000,000</span>
+  <span class="stat-source">SBA 7(a) program maximum, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Time to fund:</strong>
+  <span class="stat-value">30–90 days</span>
+  <span class="stat-source">Standard 7(a) application to funding; SBA Express decisions in 36 hours, May 2026</span>
+</aside>
+
 <blockquote class="stat-quote">
   <p><strong>SBA 7(a) loans offer rates of approximately 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or merchant cash advances (40–350% effective APR).</strong></p>
   <cite>FundingCompass research, May 2026</cite>
@@ -47,7 +65,7 @@ The guarantee structure means your lender takes less risk — which translates d
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Lowest rates available for small business financing at 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or merchant cash advances (MCAs) (40–350% effective APR)</li>
       <li>10% down payment on SBA 7(a) vs. 20–30% required by conventional bank loans — freeing more capital for operations</li>
@@ -56,7 +74,7 @@ The guarantee structure means your lender takes less risk — which translates d
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>30–90 day approval timelines — far slower than online lenders (24 hours) or equipment financing (2–5 days)</li>
       <li>Personal credit score of 680+ required at most lenders; all available business and personal collateral must be pledged</li>

@@ -35,7 +35,7 @@ Medical equipment financing provides loans and leases for healthcare businesses 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Healthcare Practices</h4>
+    <h3>Pros for Healthcare Practices</h3>
     <ul>
       <li>Healthcare practices qualify for among the lowest equipment lending rates (5–8% APR for established practices with 700+ credit) because insurance reimbursements provide stable, predictable revenue that lenders view favourably</li>
       <li>Section 179 deduction (the IRS deduction that lets businesses expense equipment purchases in the year of purchase) allows practices to deduct up to $1,220,000 in 2026, generating immediate tax savings that can exceed the first year of financing costs on major equipment</li>
@@ -44,7 +44,7 @@ Medical equipment financing provides loans and leases for healthcare businesses 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Imaging equipment (MRI, CT scanners) depreciates rapidly as technology improves — a 7-year-old MRI may have limited financing value and may be difficult to upgrade through sale or trade-in</li>
       <li>Start-up practices (under 2 years) face significantly higher rates (12–20%+) and often must provide 20–30% down payment, substantially increasing initial capital requirements</li>

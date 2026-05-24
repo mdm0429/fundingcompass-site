@@ -53,7 +53,7 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Wholesale Distributors</h4>
+    <h3>Pros for Wholesale Distributors</h3>
     <ul>
       <li>Converts 30–60 day receivables to same-week cash — enabling distributors to reorder from suppliers immediately rather than waiting on customer payments</li>
       <li>Approval based on your customers' credit ratings, not yours — creditworthy retail chain customers (Walmart, Target, Home Depot) are strong collateral for factors</li>
@@ -62,7 +62,7 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Concentration limits cap advances on any single customer at 20–25% of the factored portfolio — distributors with one customer representing 50%+ of revenue face restricted funding</li>
       <li>Invoice factoring only applies after delivery — distributors needing capital to fund supplier payments before shipment must use purchase order (PO) financing (typically 3–5% per 30 days), which is more expensive</li>

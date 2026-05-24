@@ -109,7 +109,7 @@ Triumph Business Capital is the dominant receivables financing provider in the t
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Highest advance rate in trucking factoring: up to 100% of invoice value (minus fee) vs. the industry standard of 90–97%</li>
       <li>TriumphPay network covers 1,000+ freight brokers — enabling verified same-day funding without waiting for broker payment confirmation</li>
@@ -117,7 +117,7 @@ Triumph Business Capital is the dominant receivables financing provider in the t
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Non-recourse fees are 0.5–1% higher per invoice than recourse — meaningful cost increase for high-volume carriers</li>
       <li>Fee structure is not fully published; you must apply to see your specific rate based on volume and customer mix</li>

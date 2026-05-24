@@ -48,25 +48,26 @@ Invoice factoring converts outstanding B2B invoices into immediate cash — you 
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Invoice Factoring</th>
-        <th>Merchant Cash Advance</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Merchant Cash Advance</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>How it works</strong></td><td>Sell outstanding invoices for immediate cash</td><td>Receive lump sum; repay from % of daily card sales</td></tr>
-      <tr><td><strong>Cost</strong></td><td class="td-num">18–60% effective APR</td><td class="td-num">40–350% effective APR</td></tr>
-      <tr><td><strong>Approval basis</strong></td><td>Customer creditworthiness</td><td>Your card sales volume</td></tr>
-      <tr><td><strong>Your credit score</strong></td><td>Less relevant</td><td>500+ (some lower)</td></tr>
-      <tr><td><strong>Who it serves</strong></td><td>B2B businesses with invoices</td><td>Any business with card sales</td></tr>
-      <tr><td><strong>Repayment</strong></td><td>Reserve paid when customer pays</td><td>Daily % of card sales until repaid</td></tr>
-      <tr><td><strong>Fixed total cost?</strong></td><td>No — fee accrues while customer takes to pay</td><td>Yes — factor rate × advance = fixed total</td></tr>
-      <tr><td><strong>Early payment benefit</strong></td><td>Yes — faster customer payment = lower fees</td><td>Generally no — total owed is fixed</td></tr>
-      <tr><td><strong>Customer relationship</strong></td><td>Customer pays factor directly</td><td>Customer never knows</td></tr>
-      <tr><td><strong>Contract required</strong></td><td>Often 12 months</td><td>No</td></tr>
-      <tr><td><strong>Best for</strong></td><td>Businesses waiting on B2B invoices</td><td>Last resort or short high-ROI windows</td></tr>
+      <tr><td scope="row"><strong>How it works</strong></td><td>Sell outstanding invoices for immediate cash</td><td>Receive lump sum; repay from % of daily card sales</td></tr>
+      <tr><td scope="row"><strong>Cost</strong></td><td class="td-num">18–60% effective APR</td><td class="td-num">40–350% effective APR</td></tr>
+      <tr><td scope="row"><strong>Approval basis</strong></td><td>Customer creditworthiness</td><td>Your card sales volume</td></tr>
+      <tr><td scope="row"><strong>Your credit score</strong></td><td>Less relevant</td><td>500+ (some lower)</td></tr>
+      <tr><td scope="row"><strong>Who it serves</strong></td><td>B2B businesses with invoices</td><td>Any business with card sales</td></tr>
+      <tr><td scope="row"><strong>Repayment</strong></td><td>Reserve paid when customer pays</td><td>Daily % of card sales until repaid</td></tr>
+      <tr><td scope="row"><strong>Fixed total cost?</strong></td><td>No — fee accrues while customer takes to pay</td><td>Yes — factor rate × advance = fixed total</td></tr>
+      <tr><td scope="row"><strong>Early payment benefit</strong></td><td>Yes — faster customer payment = lower fees</td><td>Generally no — total owed is fixed</td></tr>
+      <tr><td scope="row"><strong>Customer relationship</strong></td><td>Customer pays factor directly</td><td>Customer never knows</td></tr>
+      <tr><td scope="row"><strong>Contract required</strong></td><td>Often 12 months</td><td>No</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>Businesses waiting on B2B invoices</td><td>Last resort or short high-ROI windows</td></tr>
     </tbody>
   </table>
 </div>
@@ -111,21 +112,22 @@ Same business, same capital need, two different products.
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px">Metric</th>
-        <th>Invoice Factoring</th>
-        <th>Merchant Cash Advance (MCA)</th>
+        <th scope="col" style="min-width:160px">Metric</th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Merchant Cash Advance (MCA)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Invoice / Advance</strong></td><td>$60,000 outstanding (net-45)</td><td>$50,000 at factor rate 1.30</td></tr>
-      <tr><td><strong>Advance rate / Upfront</strong></td><td>90% = $54,000 upfront</td><td>$50,000 lump sum</td></tr>
-      <tr><td><strong>Fee / Cost structure</strong></td><td>2%/30 days × 1.5 periods = 3% = $1,800</td><td>Total repayment: $65,000 (fixed)</td></tr>
-      <tr><td><strong>Reserve / Holdback</strong></td><td>$3,600 released when client pays</td><td>15% × $4,000/day = $600/day holdback</td></tr>
-      <tr><td><strong>Days to repay</strong></td><td>~45 days (when customer pays)</td><td>~108 days</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,800</td><td class="td-num">$15,000</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~24%</td><td class="td-num">~101%</td></tr>
+      <tr><td scope="row"><strong>Invoice / Advance</strong></td><td>$60,000 outstanding (net-45)</td><td>$50,000 at factor rate 1.30</td></tr>
+      <tr><td scope="row"><strong>Advance rate / Upfront</strong></td><td>90% = $54,000 upfront</td><td>$50,000 lump sum</td></tr>
+      <tr><td scope="row"><strong>Fee / Cost structure</strong></td><td>2%/30 days × 1.5 periods = 3% = $1,800</td><td>Total repayment: $65,000 (fixed)</td></tr>
+      <tr><td scope="row"><strong>Reserve / Holdback</strong></td><td>$3,600 released when client pays</td><td>15% × $4,000/day = $600/day holdback</td></tr>
+      <tr><td scope="row"><strong>Days to repay</strong></td><td>~45 days (when customer pays)</td><td>~108 days</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Total Cost</strong></td><td class="td-num">$1,800</td><td class="td-num">$15,000</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Effective APR</strong></td><td class="td-num">~24%</td><td class="td-num">~101%</td></tr>
     </tbody>
   </table>
 </div>
@@ -173,20 +175,21 @@ This example assumes the business has B2B invoices to factor. If it only has car
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Factoring vs Alternative — Feature Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Requirement</th>
-        <th>Invoice Factoring</th>
-        <th>MCA</th>
+        <th scope="col" style="min-width:180px">Requirement</th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">MCA</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Business type</strong></td><td>B2B only (invoices to businesses)</td><td>Any business with card sales</td></tr>
-      <tr><td><strong>Min. time in business</strong></td><td>3–6 months</td><td>3–6 months</td></tr>
-      <tr><td><strong>Min. monthly revenue</strong></td><td class="td-num">$10,000–$25,000 in invoices</td><td class="td-num">$10,000–$15,000 in card sales</td></tr>
-      <tr><td><strong>Credit score</strong></td><td>Less relevant (customer credit matters)</td><td>500+ typically</td></tr>
-      <tr><td><strong>Outstanding invoices</strong></td><td>Required</td><td>Not required</td></tr>
-      <tr><td><strong>Card sales</strong></td><td>Not relevant</td><td>Required</td></tr>
+      <tr><td scope="row"><strong>Business type</strong></td><td>B2B only (invoices to businesses)</td><td>Any business with card sales</td></tr>
+      <tr><td scope="row"><strong>Min. time in business</strong></td><td>3–6 months</td><td>3–6 months</td></tr>
+      <tr><td scope="row"><strong>Min. monthly revenue</strong></td><td class="td-num">$10,000–$25,000 in invoices</td><td class="td-num">$10,000–$15,000 in card sales</td></tr>
+      <tr><td scope="row"><strong>Credit score</strong></td><td>Less relevant (customer credit matters)</td><td>500+ typically</td></tr>
+      <tr><td scope="row"><strong>Outstanding invoices</strong></td><td>Required</td><td>Not required</td></tr>
+      <tr><td scope="row"><strong>Card sales</strong></td><td>Not relevant</td><td>Required</td></tr>
     </tbody>
   </table>
 </div>

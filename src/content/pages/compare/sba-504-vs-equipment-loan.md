@@ -63,22 +63,23 @@ SBA 504 (the SBA's fixed-asset financing program for real estate and heavy equip
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>SBA 504 vs Equipment Loan — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>SBA 504 Loan</th>
-        <th>Conventional Equipment Loan</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">SBA 504 Loan</th>
+        <th scope="col">Conventional Equipment Loan</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Rates</strong></td><td class="td-num">Fixed ~5.5–7% (equipment portion)</td><td class="td-num">5–20% depending on credit</td></tr>
-      <tr><td><strong>Down payment</strong></td><td class="td-num">10% (established business)</td><td>0–20% (often 0% for qualified borrowers)</td></tr>
-      <tr><td><strong>Max loan amount</strong></td><td class="td-num">$5,500,000</td><td>Varies by lender ($500K–$5M+)</td></tr>
-      <tr><td><strong>Funding timeline</strong></td><td>30–90 days</td><td>24 hours to 2 weeks</td></tr>
-      <tr><td><strong>Eligible uses</strong></td><td>Fixed assets: equipment, real estate</td><td>Equipment only (for equipment loans)</td></tr>
-      <tr><td><strong>Eligibility</strong></td><td>Net worth &lt;$20M, net income &lt;$6.5M</td><td>Based on credit and revenue</td></tr>
-      <tr><td><strong>Documentation</strong></td><td>Extensive (tax returns, financials, business plan)</td><td>Minimal for loans under $250K</td></tr>
-      <tr><td><strong>Occupancy requirement</strong></td><td>None for equipment</td><td>None</td></tr>
+      <tr><td scope="row"><strong>Rates</strong></td><td class="td-num">Fixed ~5.5–7% (equipment portion)</td><td class="td-num">5–20% depending on credit</td></tr>
+      <tr><td scope="row"><strong>Down payment</strong></td><td class="td-num">10% (established business)</td><td>0–20% (often 0% for qualified borrowers)</td></tr>
+      <tr><td scope="row"><strong>Max loan amount</strong></td><td class="td-num">$5,500,000</td><td>Varies by lender ($500K–$5M+)</td></tr>
+      <tr><td scope="row"><strong>Funding timeline</strong></td><td>30–90 days</td><td>24 hours to 2 weeks</td></tr>
+      <tr><td scope="row"><strong>Eligible uses</strong></td><td>Fixed assets: equipment, real estate</td><td>Equipment only (for equipment loans)</td></tr>
+      <tr><td scope="row"><strong>Eligibility</strong></td><td>Net worth &lt;$20M, net income &lt;$6.5M</td><td>Based on credit and revenue</td></tr>
+      <tr><td scope="row"><strong>Documentation</strong></td><td>Extensive (tax returns, financials, business plan)</td><td>Minimal for loans under $250K</td></tr>
+      <tr><td scope="row"><strong>Occupancy requirement</strong></td><td>None for equipment</td><td>None</td></tr>
     </tbody>
   </table>
 </div>

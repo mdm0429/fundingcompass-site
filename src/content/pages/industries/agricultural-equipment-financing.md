@@ -35,7 +35,7 @@ Agricultural machinery financing provides loans and leases for farming operation
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Farm Operations</h4>
+    <h3>Pros for Farm Operations</h3>
     <ul>
       <li>Seasonal payment structures align principal payments with harvest and crop sale periods — one or two annual payments when cash flow is highest, with reduced or no payments during the growing season</li>
       <li>Farm Credit System lenders (cooperative institutions specifically serving agriculture) offer rates typically 1–3% below commercial bank rates, plus potential patronage dividends that further reduce effective annual borrowing cost</li>
@@ -44,7 +44,7 @@ Agricultural machinery financing provides loans and leases for farming operation
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>High-hour combines (3,000+ hours) face financing restrictions even on relatively new machines — verify hour counts before assuming a used combine will qualify for standard financing terms</li>
       <li>Private-party farm equipment purchases are more difficult to finance than dealer purchases — some lenders decline private sales above certain amounts, and documentation requirements are more demanding</li>

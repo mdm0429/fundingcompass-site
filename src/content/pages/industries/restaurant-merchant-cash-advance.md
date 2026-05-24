@@ -57,7 +57,7 @@ It also means restaurant owners are aggressively marketed to by MCA providers. T
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Restaurant Borrowers</h4>
+    <h3>Pros for Restaurant Borrowers</h3>
     <ul>
       <li>No fixed monthly payment — the holdback (the percentage of daily card sales automatically deducted for MCA repayment) adjusts with sales volume, so slow days automatically reduce the daily collection amount</li>
       <li>Approval is based on card sales volume and consistency, not credit score — accessible to restaurants with credit scores under 500 that cannot qualify for bank financing or equipment loans</li>
@@ -66,7 +66,7 @@ It also means restaurant owners are aggressively marketed to by MCA providers. T
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Effective APR of 40–300% — significantly more expensive than equipment financing (6–20% APR), a business line of credit (15–30% APR), or an SBA 7(a) loan (~12% APR)</li>
       <li>Total repayment amount is fixed at signing — early payoff does not reduce what you owe; you pay advance × factor rate regardless of how quickly the balance is cleared</li>

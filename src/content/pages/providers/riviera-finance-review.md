@@ -110,7 +110,7 @@ Riviera Finance is one of the oldest and most established receivables financing 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Non-recourse factoring available — rare in the industry; credit risk on customer insolvency transfers to Riviera Finance rather than staying with your business</li>
       <li>$5,000 monthly minimum — among the lowest in the industry, making it viable for very small B2B businesses and early-stage companies</li>
@@ -118,7 +118,7 @@ Riviera Finance is one of the oldest and most established receivables financing 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Factoring fee of 1.5–3.5%/30 days is moderate — high-volume businesses exceeding $500,000/month may get better rates from larger factors</li>
       <li>Full-service factoring means your customers interact with Riviera Finance during collections — this is standard but not invisible</li>

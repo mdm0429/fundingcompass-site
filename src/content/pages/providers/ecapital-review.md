@@ -98,7 +98,7 @@ The fee eCapital charges per 30-day period. eCapital's published floor is 0.69% 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Highest published advance rate in freight factoring: up to 97% vs. the industry average of 85–90%</li>
       <li>Funding in 2–4 hours from verified document submission — faster than most freight factors' 24-hour standard</li>
@@ -106,7 +106,7 @@ The fee eCapital charges per 30-day period. eCapital's published floor is 0.69% 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Recourse only — no non-recourse option means you bear full loss if a broker becomes insolvent</li>
       <li>12-month minimum contract with volume commitments; early exit triggers a termination fee</li>

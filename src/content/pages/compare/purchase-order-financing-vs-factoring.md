@@ -56,22 +56,23 @@ PO funding and invoice factoring both help businesses access cash tied up in the
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Purchase Order Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px"></th>
-        <th>PO Financing</th>
-        <th>Invoice Factoring</th>
+        <th scope="col" style="min-width:180px"></th>
+        <th scope="col">PO Financing</th>
+        <th scope="col">Invoice Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>When it activates</strong></td><td>Before delivery (at purchase order stage)</td><td>After delivery (invoice issued)</td></tr>
-      <tr><td><strong>What's being financed</strong></td><td>Supplier payments to manufacture/source goods</td><td>Outstanding invoices from delivered orders</td></tr>
-      <tr><td><strong>Advance rate</strong></td><td class="td-num">50–80% of PO value (to supplier)</td><td class="td-num">80–97% of invoice value</td></tr>
-      <tr><td><strong>Cost</strong></td><td class="td-num">3–6% per month</td><td class="td-num">1–3% per 30 days</td></tr>
-      <tr><td><strong>Credit evaluated</strong></td><td>Your customer (the PO issuer)</td><td>Your customer (the invoice payer)</td></tr>
-      <tr><td><strong>Your business credit</strong></td><td>Less important</td><td>Less important</td></tr>
-      <tr><td><strong>Suitable for</strong></td><td>Product-based businesses; manufacturers; importers</td><td>All B2B businesses with outstanding invoices</td></tr>
-      <tr><td><strong>Can be combined?</strong></td><td colspan="2" style="text-align:center">Yes — often used together in sequence</td></tr>
+      <tr><td scope="row"><strong>When it activates</strong></td><td>Before delivery (at purchase order stage)</td><td>After delivery (invoice issued)</td></tr>
+      <tr><td scope="row"><strong>What's being financed</strong></td><td>Supplier payments to manufacture/source goods</td><td>Outstanding invoices from delivered orders</td></tr>
+      <tr><td scope="row"><strong>Advance rate</strong></td><td class="td-num">50–80% of PO value (to supplier)</td><td class="td-num">80–97% of invoice value</td></tr>
+      <tr><td scope="row"><strong>Cost</strong></td><td class="td-num">3–6% per month</td><td class="td-num">1–3% per 30 days</td></tr>
+      <tr><td scope="row"><strong>Credit evaluated</strong></td><td>Your customer (the PO issuer)</td><td>Your customer (the invoice payer)</td></tr>
+      <tr><td scope="row"><strong>Your business credit</strong></td><td>Less important</td><td>Less important</td></tr>
+      <tr><td scope="row"><strong>Suitable for</strong></td><td>Product-based businesses; manufacturers; importers</td><td>All B2B businesses with outstanding invoices</td></tr>
+      <tr><td scope="row"><strong>Can be combined?</strong></td><td colspan="2" style="text-align:center">Yes — often used together in sequence</td></tr>
     </tbody>
   </table>
 </div>
@@ -143,19 +144,20 @@ PO financing is significantly more expensive than invoice factoring because the 
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Purchase Order Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>PO Financing (production phase)</th>
-        <th>Invoice Factoring (collection phase)</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">PO Financing (production phase)</th>
+        <th scope="col">Invoice Factoring (collection phase)</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Amount financed</strong></td><td class="td-num">$120,000 (supplier cost)</td><td class="td-num">$200,000 (invoice)</td></tr>
-      <tr><td><strong>Monthly rate</strong></td><td class="td-num">4%</td><td class="td-num">2.5%</td></tr>
-      <tr><td><strong>Duration</strong></td><td>1 month</td><td>2 months</td></tr>
-      <tr><td><strong>Total fee</strong></td><td class="td-num">$4,800</td><td class="td-num">$10,000</td></tr>
-      <tr><td><strong>Combined cost</strong></td><td class="td-num" colspan="2" style="text-align:center;font-weight:700">$14,800</td></tr>
+      <tr><td scope="row"><strong>Amount financed</strong></td><td class="td-num">$120,000 (supplier cost)</td><td class="td-num">$200,000 (invoice)</td></tr>
+      <tr><td scope="row"><strong>Monthly rate</strong></td><td class="td-num">4%</td><td class="td-num">2.5%</td></tr>
+      <tr><td scope="row"><strong>Duration</strong></td><td>1 month</td><td>2 months</td></tr>
+      <tr><td scope="row"><strong>Total fee</strong></td><td class="td-num">$4,800</td><td class="td-num">$10,000</td></tr>
+      <tr><td scope="row"><strong>Combined cost</strong></td><td class="td-num" colspan="2" style="text-align:center;font-weight:700">$14,800</td></tr>
     </tbody>
   </table>
 </div>
@@ -243,32 +245,33 @@ Some lenders offer PO financing and factoring as complementary products:
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Purchase Order Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Lender</th>
-        <th>PO Financing</th>
-        <th>Factoring</th>
-        <th>Notes</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:180px">Lender</th>
+        <th scope="col">PO Financing</th>
+        <th scope="col">Factoring</th>
+        <th scope="col">Notes</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><div class="td-provider">TCI Business Capital</div></td>
+        <td scope="row"><div class="td-provider">TCI Business Capital</div></td>
         <td>Select cases</td>
         <td>Yes</td>
         <td>Broad B2B and staffing factoring.</td>
         <td style="text-align:center"><a href="https://www.tcicapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">eCapital</div></td>
+        <td scope="row"><div class="td-provider">eCapital</div></td>
         <td>Select cases</td>
         <td>Yes</td>
         <td>Broad commercial factoring.</td>
         <td style="text-align:center"><a href="https://www.ecapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">altLINE</div></td>
+        <td scope="row"><div class="td-provider">altLINE</div></td>
         <td>Yes</td>
         <td>Yes</td>
         <td>PO + factoring specialist.</td>

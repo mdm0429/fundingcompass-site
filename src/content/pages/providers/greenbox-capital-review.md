@@ -104,7 +104,7 @@ Greenbox Capital is a Miami-based alternative lender offering merchant advances 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Published factor rate range (1.18–1.48) enables pre-application cost comparison — rare among MCA providers and a meaningful transparency advantage; at 1.18, a $50,000 advance costs $9,000 in total fees</li>
       <li>500 credit score minimum and $7,500/month revenue floor are among the most accessible thresholds in the market; serves US and Canadian businesses, plus high-risk industries that most MCA providers decline</li>
@@ -112,7 +112,7 @@ Greenbox Capital is a Miami-based alternative lender offering merchant advances 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>$500,000 maximum is lower than BFS Capital ($2,000,000) — businesses needing larger advances should apply to BFS Capital or Rapid Finance instead</li>
       <li>Factor rates at the high end (1.48) represent approximately 40–200%+ effective APR (annual percentage rate) depending on repayment speed — at 1.48, a $50,000 advance costs $24,000 in total fees; always compare offers before signing</li>

@@ -35,7 +35,7 @@ Retail factoring converts outstanding invoices from retailers (Walmart, Target, 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Retail Suppliers</h4>
+    <h3>Pros for Retail Suppliers</h3>
     <ul>
       <li>Converts net-60 and net-90 retailer payment terms into same-week cash — enabling suppliers to fund the next production run before the first order is paid</li>
       <li>Approval based on the retailer's creditworthiness — a startup supplier with a Walmart purchase order can qualify even without years of operating history</li>
@@ -44,7 +44,7 @@ Retail factoring converts outstanding invoices from retailers (Walmart, Target, 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Retailer chargebacks (compliance deductions, returns, promotional allowances) are the supplier's responsibility under factoring agreements — these reduce the amount the factor receives and may trigger reserve adjustments</li>
       <li>Advance rates (70–90%) are lower than standard B2B factoring due to chargeback risk and extended net-60/90 terms, increasing the effective fee cost</li>

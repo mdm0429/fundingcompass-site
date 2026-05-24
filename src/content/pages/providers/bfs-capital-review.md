@@ -103,7 +103,7 @@ BFS Capital is a Florida-based alternative lender that has provided over $1 bill
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>$2,000,000 maximum funding is the highest cap among the major MCA providers reviewed here — meaningfully above Credibly ($400,000), Rapid Finance ($500,000), and Greenbox Capital ($500,000)</li>
       <li>$1B+ funded to 75,000+ small businesses across 400+ industries — established operational track record; serves all 50 US states plus Canada; complies with state commercial financing disclosure laws where required</li>
@@ -111,7 +111,7 @@ BFS Capital is a Florida-based alternative lender that has provided over $1 bill
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Factor rates not disclosed upfront — you must apply to compare costs; this makes pre-application cost modeling impossible without using industry benchmark ranges (1.15–1.45 effective APR (annual percentage rate) of 40–200%+)</li>
       <li>Working capital loan uses fixed ACH repayment (not revenue-based holdback) — unlike the MCA product, payment does not flex with your daily sales; riskier during slow revenue periods</li>

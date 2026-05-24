@@ -37,6 +37,18 @@ Any factor handling protected health information must comply with HIPAA (Health 
 
 Understanding this before you approach a factor will help you model your actual cash advance accurately.
 
+<aside class="key-stat" role="note">
+  <strong>Healthcare advance rate range:</strong>
+  <span class="stat-value">70–85%</span>
+  <span class="stat-source">Of insurance receivables — lowest across all factoring industries due to claim denial risk, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Fee range for healthcare factoring:</strong>
+  <span class="stat-value">2–5% per 30 days</span>
+  <span class="stat-source">Based on PRN Funding, MedLink Financial, Crestmark published schedules, May 2026</span>
+</aside>
+
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
     <div class="stat-card__label">ADVANCE RATE</div>
@@ -57,7 +69,7 @@ Understanding this before you approach a factor will help you model your actual 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Healthcare Providers</h4>
+    <h3>Pros for Healthcare Providers</h3>
     <ul>
       <li>Converts 30–120 day insurance reimbursement cycles into same-week cash — critical for home health and hospice agencies with weekly staff payroll</li>
       <li>Approval based on payer creditworthiness (insurance company ratings), not your practice's credit history or time in business</li>
@@ -66,7 +78,7 @@ Understanding this before you approach a factor will help you model your actual 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Healthcare factors require a signed HIPAA Business Associate Agreement (BAA) before any patient-linked billing data is shared — submitting data without a BAA is a HIPAA violation</li>
       <li>Advance rates (70–85%) are the lowest across all industries — claim denial risk and payer adjustment risk justify the larger reserve holdback</li>

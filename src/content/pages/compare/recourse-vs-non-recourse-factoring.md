@@ -52,23 +52,24 @@ The distinction sounds simple. It becomes complicated in practice because "non-r
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Recourse vs Non-Recourse Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px"></th>
-        <th>Recourse Factoring</th>
-        <th>Non-Recourse Factoring</th>
+        <th scope="col" style="min-width:180px"></th>
+        <th scope="col">Recourse Factoring</th>
+        <th scope="col">Non-Recourse Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Who bears default risk</strong></td><td>You (the seller)</td><td>The factor</td></tr>
-      <tr><td><strong>Trigger for protection</strong></td><td>N/A</td><td>Customer insolvency (legal, verified)</td></tr>
-      <tr><td><strong>Fee premium</strong></td><td>Baseline</td><td class="td-num">+0.5–2% per 30 days</td></tr>
-      <tr><td><strong>Customer credit check</strong></td><td>Standard</td><td>More rigorous</td></tr>
-      <tr><td><strong>Coverage of slow payment</strong></td><td>You still responsible</td><td>You still responsible</td></tr>
-      <tr><td><strong>Coverage of invoice disputes</strong></td><td>You still responsible</td><td>You still responsible</td></tr>
-      <tr><td><strong>Coverage of customer insolvency</strong></td><td>You responsible</td><td>Factor absorbs</td></tr>
-      <tr><td><strong>Availability</strong></td><td>Nearly universal</td><td>Less common; freight and staffing leaders</td></tr>
-      <tr><td><strong>Best for</strong></td><td>Businesses with strong, reliable customers</td><td>Businesses with customers in volatile industries</td></tr>
+      <tr><td scope="row"><strong>Who bears default risk</strong></td><td>You (the seller)</td><td>The factor</td></tr>
+      <tr><td scope="row"><strong>Trigger for protection</strong></td><td>N/A</td><td>Customer insolvency (legal, verified)</td></tr>
+      <tr><td scope="row"><strong>Fee premium</strong></td><td>Baseline</td><td class="td-num">+0.5–2% per 30 days</td></tr>
+      <tr><td scope="row"><strong>Customer credit check</strong></td><td>Standard</td><td>More rigorous</td></tr>
+      <tr><td scope="row"><strong>Coverage of slow payment</strong></td><td>You still responsible</td><td>You still responsible</td></tr>
+      <tr><td scope="row"><strong>Coverage of invoice disputes</strong></td><td>You still responsible</td><td>You still responsible</td></tr>
+      <tr><td scope="row"><strong>Coverage of customer insolvency</strong></td><td>You responsible</td><td>Factor absorbs</td></tr>
+      <tr><td scope="row"><strong>Availability</strong></td><td>Nearly universal</td><td>Less common; freight and staffing leaders</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>Businesses with strong, reliable customers</td><td>Businesses with customers in volatile industries</td></tr>
     </tbody>
   </table>
 </div>
@@ -147,11 +148,12 @@ Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Recourse vs Non-Recourse Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th>Monthly Invoice Volume</th>
-        <th>Fee Premium</th>
-        <th>Annual Extra Cost</th>
+        <th scope="col">Monthly Invoice Volume</th>
+        <th scope="col">Fee Premium</th>
+        <th scope="col">Annual Extra Cost</th>
       </tr>
     </thead>
     <tbody>
@@ -164,22 +166,23 @@ Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Recourse vs Non-Recourse Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px">Metric</th>
-        <th>Recourse Factoring</th>
-        <th>Non-Recourse Factoring</th>
+        <th scope="col" style="min-width:160px">Metric</th>
+        <th scope="col">Recourse Factoring</th>
+        <th scope="col">Non-Recourse Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Invoice pool</strong></td><td>$100,000/month, net-30</td><td>$100,000/month, net-30</td></tr>
-      <tr><td><strong>Advance rate</strong></td><td>90% = $90,000/month</td><td>90% = $90,000/month</td></tr>
-      <tr><td><strong>Fee rate</strong></td><td>1.5%/30 days</td><td>2.5%/30 days (+1% premium)</td></tr>
-      <tr><td><strong>Monthly fee</strong></td><td>$1,500</td><td>$2,500</td></tr>
-      <tr><td><strong>Default risk</strong></td><td>You bear loss if customer defaults (chargeback after 90 days)</td><td>Factor absorbs loss if customer is legally insolvent</td></tr>
-      <tr><td><strong>Dispute risk</strong></td><td>You bear</td><td>You bear (not covered by non-recourse)</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,500/month</td><td class="td-num">$2,500/month</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~18%</td><td class="td-num">~30%</td></tr>
+      <tr><td scope="row"><strong>Invoice pool</strong></td><td>$100,000/month, net-30</td><td>$100,000/month, net-30</td></tr>
+      <tr><td scope="row"><strong>Advance rate</strong></td><td>90% = $90,000/month</td><td>90% = $90,000/month</td></tr>
+      <tr><td scope="row"><strong>Fee rate</strong></td><td>1.5%/30 days</td><td>2.5%/30 days (+1% premium)</td></tr>
+      <tr><td scope="row"><strong>Monthly fee</strong></td><td>$1,500</td><td>$2,500</td></tr>
+      <tr><td scope="row"><strong>Default risk</strong></td><td>You bear loss if customer defaults (chargeback after 90 days)</td><td>Factor absorbs loss if customer is legally insolvent</td></tr>
+      <tr><td scope="row"><strong>Dispute risk</strong></td><td>You bear</td><td>You bear (not covered by non-recourse)</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Total Cost</strong></td><td class="td-num">$1,500/month</td><td class="td-num">$2,500/month</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Effective APR</strong></td><td class="td-num">~18%</td><td class="td-num">~30%</td></tr>
     </tbody>
   </table>
 </div>

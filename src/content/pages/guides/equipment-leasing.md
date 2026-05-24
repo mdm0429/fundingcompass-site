@@ -47,7 +47,7 @@ Approximately 80% of US businesses lease at least some of their equipment. It's 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Lower monthly payments than a loan on the same equipment — an operating lease on a $60,000 asset can cost 26% less per month than a 36-month loan at 8% APR (annual percentage rate)</li>
       <li>Built-in equipment refresh — operating leases let you return and upgrade at the end of term rather than selling depreciated equipment</li>
@@ -56,7 +56,7 @@ Approximately 80% of US businesses lease at least some of their equipment. It's 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>No equity built with an operating lease — you have no asset at the end of the term, only the option to buy at fair market value</li>
       <li>Total cost over the full term is typically higher than buying outright for long-lived equipment</li>

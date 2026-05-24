@@ -33,7 +33,7 @@ Government contractor receivables financing converts outstanding federal invoice
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Government Contractors</h4>
+    <h3>Pros for Government Contractors</h3>
     <ul>
       <li>Federal agencies are the most creditworthy payers available — virtually zero insolvency risk means non-recourse factoring is standard, and fees (1–3% per 30 days) are lower than commercial industries</li>
       <li>Payment timelines are regulated under the Prompt Payment Act — 30-day payment deadlines with mandatory interest on late payments make cash flow more predictable than commercial factoring</li>
@@ -42,7 +42,7 @@ Government contractor receivables financing converts outstanding federal invoice
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>The contracting officer must be formally notified of the assignment — some agencies have slower internal processes for updating payment routing, delaying first-invoice funding by days or weeks</li>
       <li>Not all factoring companies understand federal contracting — using a factor unfamiliar with Assignment of Claims Act procedures risks legal non-compliance and payment delays</li>

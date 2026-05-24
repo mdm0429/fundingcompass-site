@@ -48,20 +48,21 @@ Spot factoring (also called selective factoring) lets you submit individual invo
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Spot vs Contract Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Spot Factoring</th>
-        <th>Contract Factoring</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Spot Factoring</th>
+        <th scope="col">Contract Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Contract required</strong></td><td>No</td><td>Yes — typically 12 months</td></tr>
-      <tr><td><strong>Min. monthly volume</strong></td><td>None (or very low)</td><td class="td-num">$10,000–$50,000 depending on factor</td></tr>
-      <tr><td><strong>Fee premium</strong></td><td class="td-num">+0.5–1.5% per 30 days vs. contract</td><td>Baseline</td></tr>
-      <tr><td><strong>Which invoices</strong></td><td>You choose each time</td><td>All (or all from contracted customers)</td></tr>
-      <tr><td><strong>Termination fee</strong></td><td>None</td><td>Often 1–3% of contracted monthly volume</td></tr>
-      <tr><td><strong>Best for</strong></td><td>Irregular invoice volume, testing a factor</td><td>Consistent B2B businesses, high volume</td></tr>
+      <tr><td scope="row"><strong>Contract required</strong></td><td>No</td><td>Yes — typically 12 months</td></tr>
+      <tr><td scope="row"><strong>Min. monthly volume</strong></td><td>None (or very low)</td><td class="td-num">$10,000–$50,000 depending on factor</td></tr>
+      <tr><td scope="row"><strong>Fee premium</strong></td><td class="td-num">+0.5–1.5% per 30 days vs. contract</td><td>Baseline</td></tr>
+      <tr><td scope="row"><strong>Which invoices</strong></td><td>You choose each time</td><td>All (or all from contracted customers)</td></tr>
+      <tr><td scope="row"><strong>Termination fee</strong></td><td>None</td><td>Often 1–3% of contracted monthly volume</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>Irregular invoice volume, testing a factor</td><td>Consistent B2B businesses, high volume</td></tr>
     </tbody>
   </table>
 </div>
@@ -134,19 +135,20 @@ A business factors $50,000/month in invoices with 30-day customer payment.
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Spot vs Contract Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Spot Factoring</th>
-        <th>Contract Factoring</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Spot Factoring</th>
+        <th scope="col">Contract Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Fee rate</strong></td><td class="td-num">2.5% per 30 days</td><td class="td-num">2.0% per 30 days</td></tr>
-      <tr><td><strong>Monthly fee</strong></td><td class="td-num">$1,250</td><td class="td-num">$1,000</td></tr>
-      <tr><td><strong>Annual fee</strong></td><td class="td-num">$15,000</td><td class="td-num">$12,000</td></tr>
-      <tr><td><strong>Annual saving</strong></td><td>—</td><td class="td-num">$3,000</td></tr>
-      <tr><td><strong>Flexibility</strong></td><td>Full</td><td>Locked in for 12 months</td></tr>
+      <tr><td scope="row"><strong>Fee rate</strong></td><td class="td-num">2.5% per 30 days</td><td class="td-num">2.0% per 30 days</td></tr>
+      <tr><td scope="row"><strong>Monthly fee</strong></td><td class="td-num">$1,250</td><td class="td-num">$1,000</td></tr>
+      <tr><td scope="row"><strong>Annual fee</strong></td><td class="td-num">$15,000</td><td class="td-num">$12,000</td></tr>
+      <tr><td scope="row"><strong>Annual saving</strong></td><td>—</td><td class="td-num">$3,000</td></tr>
+      <tr><td scope="row"><strong>Flexibility</strong></td><td>Full</td><td>Locked in for 12 months</td></tr>
     </tbody>
   </table>
 </div>
@@ -155,22 +157,23 @@ The $3,000 annual saving from contract factoring needs to be weighed against: th
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Spot vs Contract Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px">Metric</th>
-        <th>Spot Factoring</th>
-        <th>Contract Factoring</th>
+        <th scope="col" style="min-width:160px">Metric</th>
+        <th scope="col">Spot Factoring</th>
+        <th scope="col">Contract Factoring</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Invoice</strong></td><td>$50,000, net-30, 90% advance</td><td>$50,000, net-30, 90% advance</td></tr>
-      <tr><td><strong>Fee rate</strong></td><td>3.5%/30 days (no-contract premium)</td><td>1.75%/30 days</td></tr>
-      <tr><td><strong>Advance (90%)</strong></td><td>$45,000</td><td>$45,000</td></tr>
-      <tr><td><strong>Fee on $50,000</strong></td><td>$1,750</td><td>$875</td></tr>
-      <tr><td><strong>Reserve (released when paid)</strong></td><td>$3,250</td><td>$4,125</td></tr>
-      <tr><td><strong>Contract commitment</strong></td><td>None</td><td>12-month, $25,000/mo minimum</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Total Cost</strong></td><td class="td-num">$1,750</td><td class="td-num">$875</td></tr>
-      <tr style="background:var(--surface-tinted);font-weight:600"><td><strong>Effective APR</strong></td><td class="td-num">~42%</td><td class="td-num">~21%</td></tr>
+      <tr><td scope="row"><strong>Invoice</strong></td><td>$50,000, net-30, 90% advance</td><td>$50,000, net-30, 90% advance</td></tr>
+      <tr><td scope="row"><strong>Fee rate</strong></td><td>3.5%/30 days (no-contract premium)</td><td>1.75%/30 days</td></tr>
+      <tr><td scope="row"><strong>Advance (90%)</strong></td><td>$45,000</td><td>$45,000</td></tr>
+      <tr><td scope="row"><strong>Fee on $50,000</strong></td><td>$1,750</td><td>$875</td></tr>
+      <tr><td scope="row"><strong>Reserve (released when paid)</strong></td><td>$3,250</td><td>$4,125</td></tr>
+      <tr><td scope="row"><strong>Contract commitment</strong></td><td>None</td><td>12-month, $25,000/mo minimum</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Total Cost</strong></td><td class="td-num">$1,750</td><td class="td-num">$875</td></tr>
+      <tr style="background:var(--surface-tinted);font-weight:600"><td scope="row"><strong>Effective APR</strong></td><td class="td-num">~42%</td><td class="td-num">~21%</td></tr>
     </tbody>
   </table>
 </div>

@@ -103,7 +103,7 @@ BlueVine launched as a receivables financing company in 2013 and was a significa
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>No long-term contract for historical factoring — spot factoring with no minimum commitment was BlueVine's primary competitive differentiator and remains rare in the industry</li>
       <li>BlueVine LOC (line of credit) up to $250,000 with seamless integration into BlueVine Business Checking — draws appear in the same account, repayment is automated</li>
@@ -111,7 +111,7 @@ BlueVine launched as a receivables financing company in 2013 and was a significa
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Invoice factoring product discontinued as of approximately 2022 — verify current availability directly at bluevine.com before spending time on an application</li>
       <li>LOC rate range of approximately 15–78% APR (annual percentage rate) — the wide range means borrowers with 625–680 FICO scores will likely receive rates toward the higher end</li>

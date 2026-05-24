@@ -110,7 +110,7 @@ OTR Solutions is a Georgia-based freight factoring company serving owner-operato
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Same-day funding on freight invoices plus fuel card with $0.20–$0.40/gallon discounts at major truck stop networks — combining cash flow and fuel savings in one platform</li>
       <li>New carriers accepted with no minimum authority age — operators with a brand-new MC number can start factoring immediately</li>
@@ -118,7 +118,7 @@ OTR Solutions is a Georgia-based freight factoring company serving owner-operato
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Primarily recourse factoring — you remain liable if a broker doesn't pay; non-recourse is only available on select accounts and must be confirmed at application</li>
       <li>Fee starts at 2.5%/invoice but actual rate requires application — less rate transparency upfront than some competitors</li>

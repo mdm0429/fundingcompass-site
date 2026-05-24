@@ -35,7 +35,7 @@ Technology equipment financing provides loans and leases for businesses purchasi
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Technology-Intensive Businesses</h4>
+    <h3>Pros for Technology-Intensive Businesses</h3>
     <ul>
       <li>Operating leases allow businesses to refresh hardware on a 3–5 year cycle without owning depreciating assets — avoiding the common problem of carrying $50,000 in equipment that's worth $5,000 when the lease ends</li>
       <li>Vendor financing programs (Dell Financial Services, HP Financial Services, Cisco Capital) often include 0% promotional terms unavailable from independent lenders — and apply only to that vendor's equipment, so they're easy to combine with third-party financing for mixed-brand deployments</li>
@@ -44,7 +44,7 @@ Technology equipment financing provides loans and leases for businesses purchasi
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>Technology has the fastest depreciation of any equipment category — standard servers and networking gear lose 80–90% of value in 5 years, meaning loans can go underwater quickly if you need to exit</li>
       <li>Start-up businesses face rates of 15–25%+ and terms capped at 12–24 months, making technology financing significantly more expensive when the business is new</li>

@@ -28,6 +28,24 @@ A business line of credit (LOC) is a revolving credit facility that lets you dra
 
 A line of credit is not a term loan. There is no fixed repayment schedule — you draw and repay on your timeline, subject to minimum payment requirements. Limits typically range from $10,000 to $500,000 for small businesses.
 
+<aside class="key-stat" role="note">
+  <strong>APR range for qualified borrowers:</strong>
+  <span class="stat-value">8–60%</span>
+  <span class="stat-source">Online lenders can reach 78–97% APR at ceiling; bank LOCs from Prime + 1%, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Draw period:</strong>
+  <span class="stat-value">Revolving, 12-month term</span>
+  <span class="stat-source">Annual renewal; repaid funds immediately restore available balance, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Minimum credit score (online lenders):</strong>
+  <span class="stat-value">600+</span>
+  <span class="stat-source">Bank LOCs typically require 680+; businesses as young as 6 months may qualify, May 2026</span>
+</aside>
+
 <blockquote class="stat-quote">
   <p><strong>You pay interest only on the drawn balance: a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest.</strong></p>
   <cite>FundingCompass research, May 2026</cite>
@@ -47,7 +65,7 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>You pay interest only on the amount you draw — a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest</li>
       <li>Revolving structure means repaid funds immediately restore your available balance — one facility handles recurring working capital needs indefinitely</li>
@@ -56,7 +74,7 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>Online lender rates can reach 78–97% APR at the ceiling — a $50,000 draw at 78% APR for 60 days costs $6,411 in interest</li>
       <li>Annual renewal means the lender can reduce your limit or close the facility at review — it is not a permanent credit commitment</li>

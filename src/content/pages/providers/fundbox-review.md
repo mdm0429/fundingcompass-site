@@ -108,7 +108,7 @@ This confusion is common in search results — Fundbox frequently appears in "be
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>No customer notification — customers never know Fundbox is involved, unlike invoice factoring which requires a Notice of Assignment; this is Fundbox's primary differentiator for relationship-sensitive businesses</li>
       <li>Decision in minutes via accounting software integration (QuickBooks, Xero, FreshBooks, Wave) — no manual document submission or customer credit review required</li>
@@ -116,7 +116,7 @@ This confusion is common in search results — Fundbox frequently appears in "be
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>$150,000 maximum credit line — insufficient for businesses with large invoice volumes; a freight broker with $500,000/month in receivables cannot fund operations from a $150,000 Fundbox facility</li>
       <li>You bear the collection risk — if your customer doesn't pay, you still owe Fundbox the weekly repayments on schedule (unlike factoring where the factor collects directly)</li>

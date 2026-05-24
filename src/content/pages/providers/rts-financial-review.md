@@ -111,7 +111,7 @@ RTS Financial is one of the largest independent receivables financing companies 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>40+ years of exclusive trucking industry experience (founded 1982) — more tenured than most trucking factors</li>
       <li>Fuel card accepted at 1,000+ truck stop locations with per-gallon discounts that can partially offset factoring fees — estimated $0.15+/gallon savings</li>
@@ -119,7 +119,7 @@ RTS Financial is one of the largest independent receivables financing companies 
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Advance rate up to 97% — Triumph Business Capital advances up to 100%, meaning a smaller reserve withheld</li>
       <li>TriumphPay broker network covers more brokers for automated same-day verification than RTS's proprietary system</li>

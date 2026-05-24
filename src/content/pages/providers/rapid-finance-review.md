@@ -103,7 +103,7 @@ Rapid Finance is a Maryland-based alternative lender with over 20 years of opera
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>20+ year operating track record with the broadest product suite among MCA providers — MCA, term loans, LOC, and SBA loans all available through one lender relationship, meaning you can potentially graduate from an MCA to SBA financing with the same lender</li>
       <li>SBA-approved lender: can facilitate SBA 7(a) loans at 10–13% APR for businesses that qualify (680+ credit, 2+ years, strong revenue) — one of very few MCA providers that can also serve SBA borrowers</li>
@@ -111,7 +111,7 @@ Rapid Finance is a Maryland-based alternative lender with over 20 years of opera
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>2-year minimum time in business is stricter than most MCA competitors — Credibly, Greenbox Capital, and BFS Capital all require only 6 months; this excludes a large portion of small businesses seeking MCA financing</li>
       <li>Factor rates not disclosed upfront — you must apply to compare costs; MCA effective APR runs 40–200%+ depending on repayment speed, consistent with the high-cost nature of the product category</li>

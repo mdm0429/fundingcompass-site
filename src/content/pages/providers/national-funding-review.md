@@ -98,7 +98,7 @@ National Funding is one of the larger online alternative lenders focused on equi
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Finances a wide range of equipment categories — vehicles, construction, restaurant, medical, technology — with 600 credit score minimum, accessible for businesses that don't meet bank lending standards</li>
       <li>Section 179 tax deduction promotion is relevant for equipment buyers: financing through National Funding may let you deduct the full equipment cost in the year of purchase (2026 limit: $1,160,000)</li>
@@ -106,7 +106,7 @@ National Funding is one of the larger online alternative lenders focused on equi
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Does not publish specific cost ranges upfront — you must apply to see your rate; working capital loans use factor rates (not APR), making cost comparison with other lenders more complex</li>
       <li>2-year minimum for equipment financing excludes newer businesses; $150,000 equipment financing cap is below Balboa Capital ($500,000) and Crest Capital ($500,000)</li>

@@ -30,6 +30,24 @@ Rate ranges are based on lender-published terms as of May 2026. The Consumer Fin
 
 This guide is written to help you understand exactly what you are buying before you sign. Merchant Cash Advances (MCAs) are sometimes the right choice. More often, there is a cheaper option.
 
+<aside class="key-stat" role="note">
+  <strong>Typical factor rate range:</strong>
+  <span class="stat-value">1.20–1.50</span>
+  <span class="stat-source">Multiplier applied to advance — total repayment = advance × factor rate, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Effective APR range:</strong>
+  <span class="stat-value">40–350%</span>
+  <span class="stat-source">Annualised cost based on factor rate and repayment period, May 2026</span>
+</aside>
+
+<aside class="key-stat" role="note">
+  <strong>Daily holdback range:</strong>
+  <span class="stat-value">5–20%</span>
+  <span class="stat-source">Percentage of daily card sales withheld for repayment, May 2026</span>
+</aside>
+
 <blockquote class="stat-quote">
   <p><strong>Merchant Cash Advances (MCAs) carry effective APRs of 40–350% — a 1.35 factor rate repaid over 45 days equals approximately 284% APR.</strong></p>
   <cite>FundingCompass research, May 2026</cite>
@@ -49,7 +67,7 @@ This guide is written to help you understand exactly what you are buying before 
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros</h4>
+    <h3>Pros</h3>
     <ul>
       <li>Funding in 24–48 hours with minimal documentation — typically 3–6 months of bank statements or payment processor access</li>
       <li>Accessible with credit scores as low as 500 — approval is based on daily sales volume, not credit history</li>
@@ -58,7 +76,7 @@ This guide is written to help you understand exactly what you are buying before 
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons</h4>
+    <h3>Cons</h3>
     <ul>
       <li>Effective APR (annual percentage rate) of 40–350% — a $50,000 advance at a 1.35 factor rate repaid over 45 days costs approximately 284% APR</li>
       <li>Early repayment does not reduce total cost — you owe the full advance × factor rate regardless of how quickly you pay</li>

@@ -18,6 +18,12 @@ We are a team of financial writers, researchers, and editors with backgrounds in
 
 Every rate range on FundingCompass includes a verification date. We update rate data when lenders change their published schedules, and we conduct a full review of all pages at minimum every 90 days.
 
+### David Mercer — Lead Financial Writer
+
+David Mercer is an independent financial writer specializing in B2B specialty financing, invoice factoring, and equipment lending. Over a decade of experience evaluating alternative lending products for small and mid-size businesses. His work focuses on translating complex fee structures and contract terms into plain-language comparisons that business owners can act on.
+
+David reviews all rate data on FundingCompass against lender-published schedules and has evaluated pricing structures from more than 40 factoring companies, equipment lenders, and MCA providers. He holds no financial interest in any lender reviewed on this site.
+
 ---
 
 ## Why We Built This

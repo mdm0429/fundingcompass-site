@@ -103,7 +103,7 @@ Credibly is one of the more transparent players in a notoriously opaque industry
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Publishes factor rate range upfront (1.15–1.49) — rare in the MCA industry, making pre-application cost comparison possible</li>
       <li>Single application surfaces both MCA and working capital loan offers side by side — lets you compare a revenue-based repayment option against a fixed APR loan before committing</li>
@@ -111,7 +111,7 @@ Credibly is one of the more transparent players in a notoriously opaque industry
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>MCA effective APR is 40–200%+ depending on repayment speed — high even among alternative lenders; should not be a first-resort financing option</li>
       <li>$400,000 maximum is lower than several competitors: Rapid Finance goes to $500,000, BFS Capital to $2,000,000</li>

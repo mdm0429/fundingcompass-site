@@ -104,7 +104,7 @@ Crest Capital is an Atlanta-based equipment financing and leasing company servin
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Rates published from approximately 5.99% APR (annual percentage rate) — more transparent than Balboa Capital or National Funding, which don't publish rates; at 7.5% APR on a $75,000 loan over 48 months, total interest is $12,216</li>
       <li>2-hour credit decisions for transactions under $250,000 with no tax returns or financial statements required — a major speed advantage for routine equipment purchases compared to bank or SBA financing timelines</li>
@@ -112,7 +112,7 @@ Crest Capital is an Atlanta-based equipment financing and leasing company servin
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>2-year time-in-business preference means newer businesses face higher scrutiny or may be declined; businesses with 1–2 years of history should consider Balboa Capital (1-year minimum)</li>
       <li>650 credit score minimum is higher than Balboa Capital (620) and National Funding (600) — lower credit businesses are not served; $500,000 maximum is insufficient for heavy construction or manufacturing equipment</li>

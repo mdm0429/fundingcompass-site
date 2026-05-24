@@ -103,7 +103,7 @@ Balboa Capital is a California-founded equipment lending and business lending co
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Bank-owned by Ameris Bank (publicly traded) — adds regulatory oversight and stability that standalone fintech equipment lenders don't have; no predatory collection practices associated with unregulated MCA providers</li>
       <li>1-year minimum time in business is lower than National Funding and Crest Capital (both 2 years) — meaningfully more accessible for businesses in their second year of operation</li>
@@ -111,7 +111,7 @@ Balboa Capital is a California-founded equipment lending and business lending co
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Rates not published upfront — requires application to compare; estimated effective APR (annual percentage rate) of 7–12% for 650–700 credit borrowers is competitive but unverifiable without applying</li>
       <li>$500,000 maximum may be insufficient for heavy equipment in construction or manufacturing; the working capital loan maximum of $250,000 is lower than some competitors</li>

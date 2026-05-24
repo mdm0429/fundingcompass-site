@@ -109,7 +109,7 @@ PRN Funding is an Ohio-based specialty finance company focused exclusively on he
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Strengths</h4>
+    <h3>Strengths</h3>
     <ul>
       <li>Exclusive healthcare receivables focus — one of the few factors that accepts Medicare, Medicaid, and managed care receivables that general B2B factors decline entirely</li>
       <li>HIPAA-compliant platform with BAA included — legally required for healthcare billing and executed as part of the standard factoring agreement</li>
@@ -117,7 +117,7 @@ PRN Funding is an Ohio-based specialty finance company focused exclusively on he
     </ul>
   </div>
   <div class="cons">
-    <h4>Limitations</h4>
+    <h3>Limitations</h3>
     <ul>
       <li>Advance rate capped at 80% — lower than the 90–97% available from general B2B factors, because insurance adjustment risk makes the final payment amount uncertain</li>
       <li>Rates not published — requires direct contact for a quote; fees run 2–5% per 30 days based on payer mix and volume</li>

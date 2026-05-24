@@ -58,22 +58,23 @@ Invoice financing and accounts receivable factoring both convert outstanding B2B
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:160px"></th>
-        <th>Invoice Factoring</th>
-        <th>Invoice Financing</th>
+        <th scope="col" style="min-width:160px"></th>
+        <th scope="col">Invoice Factoring</th>
+        <th scope="col">Invoice Financing</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td><strong>Transaction type</strong></td><td>You sell the invoice</td><td>You borrow against the invoice</td></tr>
-      <tr><td><strong>Customer knows?</strong></td><td>Yes — factor collects from them</td><td>No — you collect, repay lender</td></tr>
-      <tr><td><strong>Who collects?</strong></td><td>Factoring company</td><td>You (lender has lien on AR)</td></tr>
-      <tr><td><strong>Advance rate</strong></td><td class="td-num">80–97%</td><td class="td-num">70–90%</td></tr>
-      <tr><td><strong>Cost</strong></td><td class="td-num">1–5% per 30 days</td><td class="td-num">1–3% per 30 days + often higher total</td></tr>
-      <tr><td><strong>Credit requirement</strong></td><td>Based on customer credit</td><td>Based on your credit (primarily)</td></tr>
-      <tr><td><strong>Flexibility</strong></td><td>All invoices or selective</td><td>Usually revolving line against all AR</td></tr>
-      <tr><td><strong>Best for</strong></td><td>B2B businesses comfortable with factor-customer contact</td><td>Businesses that want invisible financing</td></tr>
+      <tr><td scope="row"><strong>Transaction type</strong></td><td>You sell the invoice</td><td>You borrow against the invoice</td></tr>
+      <tr><td scope="row"><strong>Customer knows?</strong></td><td>Yes — factor collects from them</td><td>No — you collect, repay lender</td></tr>
+      <tr><td scope="row"><strong>Who collects?</strong></td><td>Factoring company</td><td>You (lender has lien on AR)</td></tr>
+      <tr><td scope="row"><strong>Advance rate</strong></td><td class="td-num">80–97%</td><td class="td-num">70–90%</td></tr>
+      <tr><td scope="row"><strong>Cost</strong></td><td class="td-num">1–5% per 30 days</td><td class="td-num">1–3% per 30 days + often higher total</td></tr>
+      <tr><td scope="row"><strong>Credit requirement</strong></td><td>Based on customer credit</td><td>Based on your credit (primarily)</td></tr>
+      <tr><td scope="row"><strong>Flexibility</strong></td><td>All invoices or selective</td><td>Usually revolving line against all AR</td></tr>
+      <tr><td scope="row"><strong>Best for</strong></td><td>B2B businesses comfortable with factor-customer contact</td><td>Businesses that want invisible financing</td></tr>
     </tbody>
   </table>
 </div>
@@ -231,35 +232,36 @@ In most B2B contexts, factoring carries no stigma — it's a common working capi
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Lender</th>
-        <th>Advance Rate</th>
-        <th>Notes</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:180px">Lender</th>
+        <th scope="col">Advance Rate</th>
+        <th scope="col">Notes</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><div class="td-provider">Riviera Finance</div></td>
+        <td scope="row"><div class="td-provider">Riviera Finance</div></td>
         <td class="td-num">Up to 95%</td>
         <td>Non-recourse; 50-year history.</td>
         <td style="text-align:center"><a href="https://www.rivierafinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">TCI Business Capital</div></td>
+        <td scope="row"><div class="td-provider">TCI Business Capital</div></td>
         <td class="td-num">Up to 95%</td>
         <td>Staffing and manufacturing specialist.</td>
         <td style="text-align:center"><a href="https://www.tcicapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">eCapital</div></td>
+        <td scope="row"><div class="td-provider">eCapital</div></td>
         <td class="td-num">Up to 97%</td>
         <td>High advance rates; broad industries.</td>
         <td style="text-align:center"><a href="https://www.ecapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">BlueVine</div></td>
+        <td scope="row"><div class="td-provider">BlueVine</div></td>
         <td class="td-num">Up to 90%</td>
         <td>Online-first; accessible for small businesses.</td>
         <td style="text-align:center"><a href="https://www.bluevine.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
@@ -272,26 +274,27 @@ In most B2B contexts, factoring carries no stigma — it's a common working capi
 
 <div class="comp-table-wrap">
   <table class="comp-table">
+    <caption>Invoice Financing vs Factoring — Comparison</caption>
     <thead>
       <tr>
-        <th style="min-width:180px">Lender</th>
-        <th>Notes</th>
-        <th style="text-align:center">Action</th>
+        <th scope="col" style="min-width:180px">Lender</th>
+        <th scope="col">Notes</th>
+        <th scope="col" style="text-align:center">Action</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><div class="td-provider">BlueVine</div></td>
+        <td scope="row"><div class="td-provider">BlueVine</div></td>
         <td>Offers both invoice financing and factoring products.</td>
         <td style="text-align:center"><a href="https://www.bluevine.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Fundbox</div></td>
+        <td scope="row"><div class="td-provider">Fundbox</div></td>
         <td>Revolving line secured by AR, 600+ credit.</td>
         <td style="text-align:center"><a href="https://fundbox.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">OnDeck</div></td>
+        <td scope="row"><div class="td-provider">OnDeck</div></td>
         <td>Line of credit that can be used against AR.</td>
         <td style="text-align:center"><a href="https://www.ondeck.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>

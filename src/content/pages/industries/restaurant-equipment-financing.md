@@ -58,7 +58,7 @@ Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fry
 
 <div class="pros-cons">
   <div class="pros">
-    <h4>Pros for Restaurant Businesses</h4>
+    <h3>Pros for Restaurant Businesses</h3>
     <ul>
       <li>Equipment serves as collateral — no separate business assets required for approval, making financing accessible even for restaurants with limited balance sheets</li>
       <li>Preserves working capital for payroll, food costs, and marketing rather than tying up cash in depreciating kitchen equipment</li>
@@ -67,7 +67,7 @@ Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fry
     </ul>
   </div>
   <div class="cons">
-    <h4>Cons and Watch-outs</h4>
+    <h3>Cons and Watch-outs</h3>
     <ul>
       <li>High equipment depreciation — commercial kitchen equipment loses 40–60% of value in the first 3 years, meaning your loan balance can exceed resale value if you need to exit early</li>
       <li>Restaurant-sector rate premium — rates run 1–3% higher than manufacturing or construction equipment due to the hospitality industry's higher business failure rate</li>
