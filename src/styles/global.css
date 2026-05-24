@@ -34,7 +34,8 @@ body {
   color: var(--text-primary);
   background: var(--surface-page);
   min-height: 100vh;
-  overflow-x: clip;
+  /* overflow-x is handled by html → viewport; setting it on body too
+     creates a second clip container that confuses WebKit scroll behaviour */
 }
 
 img, video, svg { display: block; max-width: 100%; }
@@ -218,11 +219,19 @@ a.ext-link::after {
 /* CSS Grid gives the most reliable sticky-header behaviour — the header row
    takes its natural height (auto), the main content fills remaining space (1fr),
    and the footer collapses to its natural height (auto). Unlike flex-column,
-   grid-column containers don't interfere with position:sticky on child rows. */
+   grid-column containers don't interfere with position:sticky on child rows.
+
+   IMPORTANT: Use minmax(min-content, 1fr) — NOT bare 1fr — for the middle row.
+   bare 1fr: when browsers treat min-height:100vh as definite for fr-sizing,
+   the middle row gets a fixed height of (100vh - header - footer). Content
+   taller than that overflows main visibly, but the grid container does NOT grow,
+   so the page body stays 100vh tall and the page never scrolls.
+   minmax(min-content, 1fr): enforces that the row is at least as tall as its
+   content. Grid container always grows to fit content → body grows → page scrolls. */
 .layout {
   min-height: 100vh;
   display: grid;
-  grid-template-rows: auto 1fr auto;
+  grid-template-rows: auto minmax(min-content, 1fr) auto;
   grid-template-columns: 1fr;
 }
 
