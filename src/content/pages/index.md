@@ -100,7 +100,7 @@ Enter your invoice value, advance rate, and fee to see your net payout and effec
 
 ## How This Site Works
 
-FundingCompass earns no revenue from the lenders it covers at launch. When affiliate relationships are added, each one is disclosed individually on the relevant page and on our [How We Make Money](/how-we-make-money/) page.
+FundingCompass is advertiser-funded and editorially independent. We may earn a referral fee when you apply through links on this site — this never affects our rankings or editorial opinions. Each affiliate relationship is disclosed individually on the relevant page. [How We Make Money](/how-we-make-money/)
 
 Rate data on this site is updated when lenders change their published schedules — at minimum every 90 days. Every rate table shows the month and year it was last verified.
 

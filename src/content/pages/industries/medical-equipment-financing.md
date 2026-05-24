@@ -8,7 +8,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 # Medical Equipment Financing — Loans & Leases for Healthcare Businesses
 
-*Rates and eligibility verified May 2026 across multiple lenders. FundingCompass has no financial relationship with any lender listed. All rates are for comparison purposes — your offer may differ based on credit profile, practice size, and equipment type.*
+*Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on credit profile, practice size, and equipment type.*
 
 ---
 

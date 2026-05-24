@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Credibly Review 2026 — Merchant Cash Advances & Working Capital Loans
 
-*Last reviewed: May 2026 — Rates and terms verified via Credibly's published product pages and Nav.com lender database. FundingCompass has no financial relationship with Credibly. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Credibly's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with Credibly. This review reflects our independent assessment.*
 
 ---
 

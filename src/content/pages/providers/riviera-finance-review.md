@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Riviera Finance Review 2026 — Invoice Factoring for Small Business
 
-*Last reviewed: May 2026 — Rates and terms verified via Riviera Finance published terms and third-party lender databases. FundingCompass has no financial relationship with Riviera Finance. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Riviera Finance published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Riviera Finance. This review reflects our independent assessment.*
 
 ---
 

@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Triumph Business Capital Review 2026 — Invoice Factoring for Trucking & Freight
 
-*Last reviewed: May 2026 — Rates and terms verified via Triumph Business Capital published terms and industry sources. FundingCompass has no financial relationship with Triumph Business Capital. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Triumph Business Capital published terms and industry sources. FundingCompass has no current affiliate arrangement with Triumph Business Capital. This review reflects our independent assessment.*
 
 ---
 

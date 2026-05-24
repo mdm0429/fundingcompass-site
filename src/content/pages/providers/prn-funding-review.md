@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # PRN Funding Review 2026 — Healthcare Invoice Factoring
 
-*Last reviewed: May 2026 — Rates and terms verified via PRN Funding published terms and third-party lender databases. FundingCompass has no financial relationship with PRN Funding. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via PRN Funding published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with PRN Funding. This review reflects our independent assessment.*
 
 ---
 

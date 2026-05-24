@@ -1,6 +1,6 @@
 ---
 title: "How FundingCompass Makes Money — Transparency Disclosure"
-description: "Full disclosure of how FundingCompass is funded. Currently no affiliate relationships. All future relationships disclosed individually."
+description: "Full disclosure of how FundingCompass is funded. We earn referral fees from some providers we cover. Affiliate relationships are individually disclosed and never influence editorial decisions."
 canonical: "https://fundingcompass.guide/how-we-make-money/"
 last_reviewed: "2026-05-01"
 schema: ["BreadcrumbList"]
@@ -12,23 +12,15 @@ schema: ["BreadcrumbList"]
 
 ---
 
-## Current Status — No Affiliate Revenue
+## How We're Funded
 
-FundingCompass currently earns no revenue from the providers, lenders, or factoring companies it covers.
+FundingCompass is advertiser-funded and editorially independent. We earn revenue through three mechanisms:
 
-We include links to lender websites as a convenience to readers researching their options. Those links generate no compensation for FundingCompass at this time.
+**Referral fees.** When a reader clicks a link to a lender's site and applies for a product, the lender may pay FundingCompass a referral fee. Not all providers we cover have this arrangement — coverage decisions are made editorially, not commercially.
 
----
+**Display advertising.** General advertising from non-lending sources may appear on the site.
 
-## How We Plan to Generate Revenue
-
-We are building FundingCompass to be a sustainable editorial publication. When we generate revenue, it will be through one or more of the following mechanisms:
-
-**Affiliate arrangements.** If a reader clicks a link to a lender's site and applies for a product, the lender may pay FundingCompass a referral fee. This is the standard model for editorial financial sites.
-
-**Display advertising.** General advertising from non-lending advertisers may be added over time.
-
-**Direct sponsorships.** Lenders may pay to be listed as a "featured provider" in comparison sections, clearly labelled as sponsored.
+**Sponsored listings.** Lenders may pay to appear as a "featured provider" in comparison sections. Sponsored placements are clearly labelled and kept separate from editorial rankings.
 
 ---
 
@@ -45,11 +37,15 @@ Regardless of how FundingCompass generates revenue, these practices are permanen
 
 ## Disclosure Practice
 
-When an affiliate arrangement is in place for a specific provider, we will:
+Where FundingCompass has an affiliate arrangement with a specific provider, we:
 
-1. Disclose it at the top of the relevant review page
-2. Disclose it on this page with the date the arrangement began
-3. Maintain the same editorial standards as for non-affiliate providers — including negative information, cost warnings, and honest comparisons
+1. Disclose it at the top of the relevant review or compare page
+2. List it below with the date the arrangement began
+3. Apply the same editorial standards as for non-affiliate providers — including negative information, cost warnings, and honest comparisons
+
+**Active affiliate relationships:**
+
+*None at this time. This table will be updated when relationships are established.*
 
 Our editorial decisions — which providers to cover, how to rank them, what rates to publish — are made independently of any commercial relationship.
 

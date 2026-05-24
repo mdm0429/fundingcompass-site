@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Rapid Finance Review 2026 — Merchant Cash Advances & Small Business Loans
 
-*Last reviewed: May 2026 — Rates and terms verified via Rapid Finance published terms and third-party lender databases. FundingCompass has no financial relationship with Rapid Finance. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Rapid Finance published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Rapid Finance. This review reflects our independent assessment.*
 
 ---
 

@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Greenbox Capital Review 2026 — Merchant Cash Advances for Small Business
 
-*Last reviewed: May 2026 — Rates and terms verified via Greenbox Capital published terms and third-party lender databases. FundingCompass has no financial relationship with Greenbox Capital. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Greenbox Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Greenbox Capital. This review reflects our independent assessment.*
 
 ---
 

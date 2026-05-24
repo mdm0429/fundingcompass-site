@@ -8,7 +8,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Best Merchant Cash Advance Providers of 2026 — Ranked & Compared
 
-*Last reviewed: May 2026 — Factor rates verified via each provider's published terms. FundingCompass has no financial relationship with any listed provider. Before using any MCA, read our [full MCA cost guide](/guides/merchant-cash-advance/) — effective APRs range from 40–350%.*
+*Last reviewed: May 2026 — Factor rates verified via each provider's published terms. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Before using any MCA, read our [full MCA cost guide](/guides/merchant-cash-advance/) — effective APRs range from 40–350%.*
 
 ---
 

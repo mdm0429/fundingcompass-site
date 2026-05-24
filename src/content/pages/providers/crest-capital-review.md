@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Crest Capital Review 2026 — Equipment Financing & Leasing for Small Business
 
-*Last reviewed: May 2026 — Rates and terms verified via Crest Capital published terms and third-party lender databases. FundingCompass has no financial relationship with Crest Capital. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Crest Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Crest Capital. This review reflects our independent assessment.*
 
 ---
 

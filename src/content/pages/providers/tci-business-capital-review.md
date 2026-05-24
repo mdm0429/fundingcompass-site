@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # TCI Business Capital Review 2026 — Invoice Factoring for B2B Businesses
 
-*Last reviewed: May 2026 — Rates and terms verified via TCI Business Capital published terms and third-party lender databases. FundingCompass has no financial relationship with TCI Business Capital. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via TCI Business Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with TCI Business Capital. This review reflects our independent assessment.*
 
 ---
 

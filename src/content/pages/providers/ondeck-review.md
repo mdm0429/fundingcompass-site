@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # OnDeck Review 2026 — Business Term Loans, Lines of Credit & MCAs
 
-*Last reviewed: May 2026 — Rates and terms verified via OnDeck's published product pages and Enova International (NYSE: ENVA) SEC filings. FundingCompass has no financial relationship with OnDeck. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via OnDeck's published product pages and Enova International (NYSE: ENVA) SEC filings. FundingCompass has no current affiliate arrangement with OnDeck. This review reflects our independent assessment.*
 
 ---
 

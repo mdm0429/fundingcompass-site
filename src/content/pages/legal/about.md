@@ -1,6 +1,6 @@
 ---
 title: "About FundingCompass — Independent B2B Funding Guide"
-description: "FundingCompass is an independent editorial guide to B2B funding. No lender relationships. Content produced by financial writers and reviewed for accuracy."
+description: "FundingCompass is an advertiser-funded, editorially independent guide to B2B financing. Content produced by financial writers. Affiliate relationships are individually disclosed."
 canonical: "https://fundingcompass.guide/about/"
 last_reviewed: "2026-05-01"
 schema: ["BreadcrumbList"]
@@ -50,7 +50,7 @@ Every piece of content on FundingCompass follows these principles:
 
 **Always state the downside.** Every financing product has a cost, risk, or limitation. We name it explicitly. Trust is built by telling you what could go wrong, not by presenting every option as a good one.
 
-**No affiliate language.** We never write "apply now," "get funded today," or any transactional call-to-action. We are a guide, not a lead generation service.
+**Clarity first.** Our content is written to answer your question, not to push you toward an application. Where we link to a provider, we disclose whether a referral relationship exists — and that relationship never influences how we assess them.
 
 **Cite sources with dates.** All rate ranges include the source and verification month/year. Rates change — you deserve to know when the data was last confirmed.
 
@@ -60,9 +60,9 @@ For detailed methodology, see [Editorial Standards](/editorial-standards/).
 
 ## Revenue and Independence
 
-At launch, FundingCompass earns no revenue from the providers we cover. We include links to lender websites as a reader convenience — not as a monetisation mechanism.
+FundingCompass is advertiser-funded and editorially independent. We earn referral fees when readers apply for products through links on this site — this is how independent financial publishing sustains itself.
 
-When affiliate arrangements are added, each one will be disclosed individually on the relevant page and summarised on our [How We Make Money](/how-we-make-money/) page. Our editorial decisions are not influenced by commercial relationships, and no lender can pay to improve their review, ranking, or coverage on this site.
+Those commercial relationships do not influence our editorial decisions. Providers cannot pay to improve their ranking, modify their review, or suppress negative information. Every affiliate relationship is disclosed individually on the relevant page and listed on our [How We Make Money](/how-we-make-money/) page.
 
 ---
 

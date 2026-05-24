@@ -8,7 +8,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # eCapital Review 2026 — Rates, Fees & Who It Is Best For
 
-*Last reviewed: May 2026 — Rate data verified via eCapital's published rate schedule and product pages. FundingCompass has no financial relationship with eCapital. This is an independent editorial review.*
+*Last reviewed: May 2026 — Rate data verified via eCapital's published rate schedule and product pages. FundingCompass has no current affiliate arrangement with eCapital. This is an independent editorial review.*
 
 ---
 

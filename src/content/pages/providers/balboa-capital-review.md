@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Balboa Capital Review 2026 — Equipment Financing & Business Loans
 
-*Last reviewed: May 2026 — Rates and terms verified via Balboa Capital/Ameris Bank published terms and third-party lender databases. FundingCompass has no financial relationship with Balboa Capital. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via Balboa Capital/Ameris Bank published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Balboa Capital. This review reflects our independent assessment.*
 
 ---
 

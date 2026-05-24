@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # National Funding Review 2026 — Equipment Financing & Working Capital Loans
 
-*Last reviewed: May 2026 — Rates and terms verified via National Funding's published product pages and Nav.com lender database. FundingCompass has no financial relationship with National Funding. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Rates and terms verified via National Funding's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with National Funding. This review reflects our independent assessment.*
 
 ---
 

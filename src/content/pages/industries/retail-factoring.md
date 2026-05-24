@@ -8,7 +8,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 # Retail Factoring — Invoice Financing for Retail Suppliers and Wholesalers
 
-*Rates and eligibility verified May 2026 across multiple lenders. FundingCompass has no financial relationship with any lender listed. All rates are for comparison purposes — your offer may differ based on retailer creditworthiness, volume, and invoice terms.*
+*Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on retailer creditworthiness, volume, and invoice terms.*
 
 ---
 

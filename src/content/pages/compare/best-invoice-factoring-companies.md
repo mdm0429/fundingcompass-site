@@ -8,7 +8,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Best Invoice Factoring Companies of 2026 — Independent Rankings
 
-*Last reviewed: May 2026 — Rate data verified via each lender's published rate schedule. FundingCompass has no financial relationship with any provider listed. See [How We Make Money](/how-we-make-money/).*
+*Last reviewed: May 2026 — Rate data verified via each lender's published rate schedule. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. See [How We Make Money](/how-we-make-money/).*
 
 ---
 

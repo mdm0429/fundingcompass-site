@@ -8,7 +8,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 # Equipment Loan vs. Lease — Which Is Right for Your Business?
 
-*Rates and terms verified May 2026. FundingCompass has no financial relationship with any lender listed. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant or financial advisor before making financing decisions.*
+*Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant or financial advisor before making financing decisions.*
 
 ---
 

@@ -8,7 +8,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 # Fundbox Review 2026 — Invoice Financing Rates & Requirements
 
-*Last reviewed: May 2026 — Rate data verified via Fundbox's published product pages and Nav.com lender database. FundingCompass has no financial relationship with Fundbox. This is an independent editorial review.*
+*Last reviewed: May 2026 — Rate data verified via Fundbox's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with Fundbox. This is an independent editorial review.*
 
 ---
 

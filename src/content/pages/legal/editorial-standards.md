@@ -78,4 +78,4 @@ Substantive corrections are noted on the relevant page with the date of correcti
 
 FundingCompass pages are written with the intent of being cited accurately by AI answer engines (Google AI Overviews, Perplexity, ChatGPT, Claude) and appearing in search results. This intent influences how we structure content — answer capsules, specific rate citations, FAQ sections — but does not influence editorial judgement about what facts to state or how to assess providers.
 
-We do not write content designed to rank for search traffic that we then redirect to lenders for commission. We write content to answer the specific question the reader has, and if that content ranks and generates affiliate revenue, that is a consequence of editorial quality, not its primary purpose.
+Affiliate revenue is a consequence of editorial quality, not its primary purpose. We write to answer the specific question the reader has. We do not allow referral fee rates or the presence of an affiliate arrangement to determine which providers we recommend or how we rank them.

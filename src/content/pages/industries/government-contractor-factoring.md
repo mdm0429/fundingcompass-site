@@ -8,7 +8,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 # Government Contractor Factoring — Invoice Financing for Federal Contractors
 
-*Rates and eligibility verified May 2026 across multiple lenders. FundingCompass has no financial relationship with any lender listed. All rates are for comparison purposes — your offer may differ based on contract type, volume, and agency.*
+*Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on contract type, volume, and agency.*
 
 ---
 

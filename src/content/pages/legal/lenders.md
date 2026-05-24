@@ -8,7 +8,7 @@ schema: ["ItemList", "BreadcrumbList"]
 
 # List of Lenders
 
-*FundingCompass covers the following financing providers across four product categories. Where a full independent review exists, it is linked below. All external links go directly to the provider's product page. FundingCompass has no financial relationship with any provider unless separately disclosed on individual review pages.*
+*FundingCompass covers the following financing providers across four product categories. Where a full independent review exists, it is linked below. All external links go directly to the provider's product page. FundingCompass has no current affiliate arrangement with any provider unless separately disclosed on individual review pages.*
 
 ---
 

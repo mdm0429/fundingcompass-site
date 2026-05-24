@@ -8,7 +8,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 # Lendio Review 2026 — Small Business Loan Marketplace
 
-*Last reviewed: May 2026 — Information verified via Lendio published terms and third-party lender databases. FundingCompass has no financial relationship with Lendio. This review reflects our independent assessment.*
+*Last reviewed: May 2026 — Information verified via Lendio published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Lendio. This review reflects our independent assessment.*
 
 ---
 
