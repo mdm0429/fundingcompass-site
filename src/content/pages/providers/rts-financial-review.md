@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the freight invoice value RTS Financial pays you upfront. RTS advances up to 97% of each invoice's face value.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>A factoring arrangement where you remain responsible if the broker or shipper does not pay. RTS's recourse option carries lower fees. If a broker fails to pay, you may be required to buy back the invoice.</dd>
+  <dt>Non-Recourse Factoring</dt>
+  <dd>A factoring arrangement where RTS Financial absorbs the loss if an approved broker becomes insolvent. Available on approved debtors at RTS; fees are typically 0.5–1% higher per invoice than recourse.</dd>
+  <dt>Spot Factoring</dt>
+  <dd>Factoring individual invoices without a long-term contract commitment. RTS offers spot factoring on month-to-month arrangements — you can factor a single load without signing a 12-month agreement.</dd>
+</dl>
+
 ## Summary Verdict
 
 RTS Financial is one of the largest independent invoice factoring companies focused exclusively on the trucking and transportation industry. Founded in 1982 and headquartered in Scottsdale, AZ, it has served owner-operators for over four decades — longer than most competitors. Its fuel card network, 24/7 customer support, and flexible contract terms (including month-to-month options) make it a strong alternative to Triumph Business Capital, particularly for refrigerated freight and reefer carriers where RTS has additional load board integrations.
 
-**Best for:** Trucking owner-operators and small fleets that want a long-tenured, transportation-specialist factor with flexible contracts, a large fuel card network, and strong reefer/temperature-controlled load support.
+**Best for:** Trucking owner-operators and small fleets with active MC authority who want a 40-year transportation-specialist factor with flexible month-to-month contracts, a 1,000-location fuel card network, and strong reefer/temperature-controlled load support.
 
-**Not ideal for:** Non-transportation businesses, carriers doing very low volume (under $5,000/month) where minimum fees may make factoring less economical, or businesses seeking the absolute lowest factoring rate above all else.
+**Not ideal for:** Non-transportation businesses (RTS is trucking-only), carriers doing very low volume (under $5,000/month) where per-invoice minimum fees may make factoring less economical, or businesses that require non-recourse factoring on all loads.
 
 ---
 
@@ -74,10 +85,33 @@ RTS Financial is one of the largest independent invoice factoring companies focu
 | Non-recourse | Yes — available on approved debtors |
 | Fuel card | Yes — RTS Fuel Card, 1,000+ truck stop locations |
 | Founded | 1982 |
+| Min. personal credit score | No minimum stated — based on broker/shipper creditworthiness |
+| Min. time in business / authority | New carriers accepted — no minimum authority age |
+| Min. monthly volume | No published minimum |
+| Maximum funding | Up to $5,000,000 |
 
 *Rates verified May 2026 via RTS Financial published terms.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>40+ years of exclusive trucking industry experience (founded 1982) — more tenured than most trucking factors</li>
+      <li>Fuel card accepted at 1,000+ truck stop locations with per-gallon discounts that can partially offset factoring fees — estimated $0.15+/gallon savings</li>
+      <li>Accepts new carriers with no minimum authority age — day-one operators can start factoring immediately</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Advance rate up to 97% — Triumph Business Capital advances up to 100%, meaning a smaller reserve withheld</li>
+      <li>TriumphPay broker network covers more brokers for automated same-day verification than RTS's proprietary system</li>
+      <li>Private company with less financial transparency than Triumph (publicly traded bank subsidiary)</li>
+    </ul>
+  </div>
+</div>
 
 ## What RTS Financial Offers
 
@@ -89,7 +123,7 @@ RTS Financial is a privately held, transportation-only factoring company. Unlike
 
 **24/7 Customer Support:** RTS operates around the clock, matching the realities of trucking — loads don't deliver on 9-to-5 schedules. Factoring issues at 2 AM on a Sunday are handled by live staff.
 
-**Non-Recourse Factoring:** Available on approved debtors. RTS absorbs credit loss if an approved broker or shipper becomes insolvent and fails to pay. Fees are higher for non-recourse than recourse arrangements.
+**Non-Recourse Factoring:** Available on approved debtors. RTS absorbs credit loss if an approved broker or shipper becomes insolvent and fails to pay. Fees are higher for non-recourse than recourse arrangements. For an overview of carrier disclosure obligations and financing rights, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 ---
 
@@ -191,7 +225,7 @@ Apply directly at [RTSFinancial.com](https://www.rtsfinancial.com/).
 - **TBS Factoring:** Good for spot factoring; smaller provider.
 
 **Non-factoring alternatives (for established carriers):**
-- **Business line of credit:** If you have 680+ credit and 2+ years in business, a bank LOC at 9–15% APR is cheaper than ongoing factoring. Consider transitioning as your business matures.
+- **Business line of credit:** If you have 680+ credit and 2+ years in business, a bank LOC (line of credit) at 9–15% APR (annual percentage rate) is cheaper than ongoing factoring. Consider transitioning as your business matures.
 - **Trucking-specific bank lending:** Truist and Comerica have transportation divisions with working capital products for established fleets.
 
 For a full overview of trucking-specific financing: [Trucking Invoice Factoring Guide](/industries/trucking-factoring/).
@@ -222,6 +256,15 @@ Yes. On month-to-month contracts, you can terminate with appropriate notice (typ
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>RTS Financial advances up to 97% of freight invoice value — factoring fees run 1.5–5% per invoice, declining with volume (below 1.5% is possible at $150,000+/month)</li>
+      <li>Strongest use case: trucking owner-operators and small fleets — especially reefer/refrigerated carriers — who want same-day funding, fuel card discounts, and 24/7 live support</li>
+      <li>Biggest watch-out: advance rate caps at 97% vs. Triumph's 100%, and the TriumphPay broker network offers faster automated verification for dry van carriers with major brokers</li>
+      <li>Factoring fees of 1.5–5%/invoice are in line with the trucking factoring category average; fuel card savings of $0.15+/gallon can reduce effective cost by 0.5–1% per invoice</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/industries/trucking-factoring/">Trucking Factoring Guide</a></li>
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide — How It Works and What It Costs</a></li>

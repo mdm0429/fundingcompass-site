@@ -66,9 +66,9 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 Riviera Finance is one of the oldest and most established invoice factoring companies in the US, founded in 1969 and operating across all major industries. It offers non-recourse factoring — meaning the credit risk on invoices transfers to Riviera Finance rather than staying with your business — and is notable for working with very small businesses including those with monthly factoring volumes as low as $5,000. With 25+ US offices and over 50 years in operation, Riviera Finance is a credible choice for small businesses that want a non-recourse factoring relationship with an experienced counterparty.
 
-**Best for:** Small B2B businesses with reliable commercial customers that need same-day access to cash tied up in outstanding invoices — particularly businesses that prefer non-recourse (credit-risk-transferring) factoring.
+**Best for:** Small B2B businesses with $5,000–$500,000/month in outstanding invoices from creditworthy commercial customers that need same-day access to cash — particularly businesses with new or impaired personal credit that prefer non-recourse (credit-risk-transferring) factoring.
 
-**Not ideal for:** Businesses with B2C (consumer) sales, businesses with very high invoice volumes that might get better rates from a larger factoring company, or businesses whose invoices are overdue or disputed.
+**Not ideal for:** Businesses with B2C (consumer) sales, high-volume businesses exceeding $500,000/month that may get better rates from a larger factoring company, or businesses whose invoices are overdue or disputed.
 
 ---
 
@@ -84,10 +84,33 @@ Riviera Finance is one of the oldest and most established invoice factoring comp
 | Funding speed | Same day |
 | Industries served | All major B2B industries |
 | US offices | 25+ locations nationwide |
+| Min. personal credit score | No minimum — customer credit is primary qualifier |
+| Min. time in business | None stated — new businesses may qualify |
+| Min. monthly invoice volume | $5,000 |
+| Maximum funding | Up to $2,000,000 |
 
 *Rates verified May 2026 via Riviera Finance published disclosures. Your actual rate depends on invoice volume, customer creditworthiness, and industry.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Non-recourse factoring available — rare in the industry; credit risk on customer insolvency transfers to Riviera Finance rather than staying with your business</li>
+      <li>$5,000 monthly minimum — among the lowest in the industry, making it viable for very small B2B businesses and early-stage companies</li>
+      <li>25+ US regional offices — option to work with a local representative rather than a purely online process</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Factoring fee of 1.5–3.5%/30 days is moderate — high-volume businesses exceeding $500,000/month may get better rates from larger factors</li>
+      <li>Full-service factoring means your customers interact with Riviera Finance during collections — this is standard but not invisible</li>
+      <li>Non-recourse protection covers only customer insolvency — customer payment disputes are treated as recourse situations regardless of contract type</li>
+    </ul>
+  </div>
+</div>
 
 ## What Riviera Finance Offers
 
@@ -95,7 +118,7 @@ Riviera Finance operates a full-service invoice factoring platform for B2B busin
 
 **Non-Recourse Factoring:** Riviera Finance assumes the credit risk on the invoices it purchases. If a customer becomes insolvent and cannot pay, Riviera absorbs that loss rather than requiring you to buy back the invoice. This protection is meaningful for businesses with customers that have uncertain credit histories. Note: non-recourse does not protect against customer disputes or service-related non-payment.
 
-**Recourse Factoring:** Riviera also offers recourse factoring, where you remain liable if your customer does not pay. Recourse factoring typically carries a lower fee than non-recourse factoring.
+**Recourse Factoring:** Riviera also offers recourse factoring, where you remain liable if your customer does not pay. Recourse factoring typically carries a lower fee than non-recourse factoring. For disclosure requirements that apply to both types, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 **Full-Service Accounts Receivable Management:** Riviera Finance handles collections on the invoices it purchases — following up with your customers directly. This reduces your administrative burden but means your customers will interact with Riviera Finance rather than you during the payment process. This is standard in the factoring industry; your customers know their invoice has been assigned to a factor.
 
@@ -114,8 +137,8 @@ Riviera Finance publishes its factoring fee range — 1.5–3.5% per 30-day peri
 - Customer pays in 45 days: total fee = 2.5% × 1.5 = $375
 - Reserve released: $10,000 − $9,000 − $375 = $625
 
-**Effective APR context:**
-Factoring fees are not APR, but for comparison purposes: a 2.5% monthly fee on a 45-day invoice equates to approximately 20% effective APR. This is significantly lower than most MCA products and competitive with many business lines of credit for short-duration receivables.
+**Effective APR (annual percentage rate) context:**
+Factoring fees are not APR (annual percentage rate), but for comparison purposes: a 2.5% monthly fee on a 45-day invoice equates to approximately 20% effective APR. This is significantly lower than most MCA (merchant cash advance) products and competitive with many business lines of credit for short-duration receivables.
 
 Use the [Invoice Factoring Guide](/guides/invoice-factoring/) for a full explanation of factoring fee structures.
 
@@ -213,6 +236,15 @@ Riviera Finance funds advances on the same day as invoice submission for approve
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Riviera Finance advances up to 95% of invoice value — factoring fees run 1.5–3.5% per 30 days (verified May 2026)</li>
+      <li>Strongest use case: small B2B businesses with as little as $5,000/month in invoices who want non-recourse protection against customer insolvency</li>
+      <li>Biggest watch-out: non-recourse protection does not cover customer payment disputes — only customer insolvency</li>
+      <li>Fee range of 1.5–3.5%/30 days is moderate versus the industry average of 1–5%/30 days; high-volume businesses may negotiate better rates elsewhere</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>

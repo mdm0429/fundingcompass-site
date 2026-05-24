@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the invoice value PRN Funding pays you upfront. PRN Funding advances up to 80% of healthcare invoice face value — lower than the 90–97% typical for general commercial invoices because insurance adjustments make the final payment amount uncertain until the Explanation of Benefits (EOB) is received.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>PRN Funding uses recourse factoring — you remain liable if an insurer denies a claim. Claim denials are typically treated as recourse situations because they often result from provider-side issues (credentialing gaps, incomplete documentation) rather than payer insolvency.</dd>
+  <dt>HIPAA Business Associate Agreement (BAA)</dt>
+  <dd>A required legal agreement between PRN Funding and your healthcare business that governs the handling of Protected Health Information (PHI) in connection with healthcare receivables. PRN Funding executes a BAA as part of its factoring agreement — required before any healthcare billing data can be shared.</dd>
+  <dt>Payer Mix</dt>
+  <dd>The composition of your healthcare billing by payer type — Medicare, Medicaid, private insurance, managed care, and self-pay. PRN Funding evaluates your payer mix to determine eligibility and set rates; businesses with predominantly self-pay (cash-paying patient) revenue are generally not eligible.</dd>
+</dl>
+
 ## Summary Verdict
 
 PRN Funding is an Ohio-based specialty finance company focused exclusively on healthcare receivables factoring. It serves home health agencies, medical staffing companies, medical equipment suppliers, and other healthcare businesses that bill insurance companies, Medicare, Medicaid, and managed care organizations. PRN Funding is one of the few factoring companies that specifically understands healthcare billing cycles — where payment delays of 60–120 days are common and receivables are complex. If your business generates healthcare-specific receivables, PRN Funding is among the most specialized and experienced options in the market.
 
-**Best for:** Home health agencies, medical staffing firms, durable medical equipment suppliers, and other healthcare businesses with insurance, Medicare, or Medicaid receivables that need same-day cash flow.
+**Best for:** Home health agencies, medical staffing firms, and durable medical equipment (DME) suppliers with predominantly insurance, Medicare, or Medicaid receivables that need same-day cash flow — no personal credit minimum required, qualification is based on payer mix and claims history.
 
-**Not ideal for:** General B2B businesses without healthcare-specific receivables (who should look at Riviera Finance, TCI Business Capital, or eCapital), or healthcare businesses primarily billing retail patients rather than insurance or government payers.
+**Not ideal for:** General B2B businesses without healthcare-specific receivables (Riviera Finance or TCI Business Capital are better fits), healthcare businesses where more than 50% of revenue is self-pay (cash patients), or businesses needing more than $500,000 in funding.
 
 ---
 
@@ -72,10 +83,33 @@ PRN Funding is an Ohio-based specialty finance company focused exclusively on he
 | Funding speed | Same day |
 | Payer types accepted | Insurance, Medicare, Medicaid, managed care |
 | Industries served | Home health, medical staffing, DME suppliers, and more |
+| Min. personal credit score | No personal credit minimum — payer mix is primary qualifier |
+| Min. time in business | Healthcare/government receivables required; no stated minimum time |
+| Min. monthly volume | No minimum stated |
+| Maximum funding | Up to $500,000 |
 
 *Contact PRN Funding at [prnfunding.com](https://prnfunding.com/factoring-services/) for specific rates. Rates verified May 2026.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Exclusive healthcare receivables focus — one of the few factors that accepts Medicare, Medicaid, and managed care receivables that general B2B factors decline entirely</li>
+      <li>HIPAA-compliant platform with BAA included — legally required for healthcare billing and executed as part of the standard factoring agreement</li>
+      <li>No personal credit minimum — qualification is based on your payer mix and claims history, making it accessible to healthcare business owners with impaired personal credit</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Advance rate capped at 80% — lower than the 90–97% available from general B2B factors, because insurance adjustment risk makes the final payment amount uncertain</li>
+      <li>Rates not published — requires direct contact for a quote; fees run 2–5% per 30 days based on payer mix and volume</li>
+      <li>Recourse factoring standard — claim denials are your responsibility, not PRN Funding's, because they typically result from provider-side credentialing or documentation gaps</li>
+    </ul>
+  </div>
+</div>
 
 ## What PRN Funding Offers
 
@@ -131,7 +165,7 @@ PRN Funding serves healthcare businesses with insurance, Medicare, Medicaid, or 
 - Hospice and home hospice agencies
 - Physician groups billing insurance (select cases)
 
-PRN Funding evaluates your payer mix and claims history rather than your personal credit score. Businesses with predominantly self-pay (cash-paying patient) revenue rather than insurance billing are generally not eligible.
+PRN Funding evaluates your payer mix and claims history rather than your personal credit score. Businesses with predominantly self-pay (cash-paying patient) revenue rather than insurance billing are generally not eligible. For an overview of healthcare provider financing disclosures, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 ---
 
@@ -185,7 +219,7 @@ PRN Funding is the broadest healthcare factor of the three — it handles insura
 ## Alternatives to Evaluate First
 
 - **General invoice factoring:** If your business has non-healthcare commercial receivables alongside healthcare receivables, consider whether a general factor like Riviera Finance or TCI Business Capital can handle the non-healthcare portion. See [Invoice Factoring Guide](/guides/invoice-factoring/).
-- **Business line of credit:** For working capital needs not specifically tied to outstanding invoices, a business line of credit at 15–30% APR may be simpler. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
+- **Business line of credit:** For working capital needs not specifically tied to outstanding invoices, a business line of credit at 15–30% APR (annual percentage rate) may be simpler. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
 - **SBA 7(a) loan:** Healthcare businesses with 2+ years of operation and strong financials may qualify for SBA financing at 10–13% APR. See [SBA Loans Guide](/guides/sba-loans/).
 
 ---
@@ -211,6 +245,15 @@ Expect the initial setup to take approximately 5–10 business days. PRN Funding
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>PRN Funding advances up to 80% of healthcare invoice value — fees run 2–5% per 30 days based on payer mix (insurance receivables toward the lower end, Medicaid toward the higher end)</li>
+      <li>Strongest use case: home health agencies, medical staffing firms, and DME suppliers billing Medicare, Medicaid, or commercial insurance that need same-day cash flow and HIPAA-compliant handling</li>
+      <li>Biggest watch-out: recourse factoring standard — claim denials (the most common non-payment reason in healthcare) are your responsibility, not PRN Funding's</li>
+      <li>80% advance rate is notably below the 90–97% category average for general commercial factoring — the gap reflects healthcare's insurance adjustment risk, not PRN Funding's pricing</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/industries/healthcare-factoring/">Medical Invoice Factoring — Healthcare Factoring Guide</a></li>
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>

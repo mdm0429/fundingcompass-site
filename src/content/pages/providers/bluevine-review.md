@@ -50,6 +50,17 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the invoice value paid to you upfront. BlueVine's factoring product (now discontinued) advanced up to 90% — lower than the 95–97% offered by most active factoring providers. BlueVine's current line of credit advances up to 100% of the draw amount from your credit limit.</dd>
+  <dt>Revolving Credit</dt>
+  <dd>A credit facility where you draw funds, repay them, and the available balance restores for future use. BlueVine's LOC (line of credit) is a revolving credit product — you draw up to $250,000, repay over a draw period, and the line becomes available again.</dd>
+  <dt>Draw Period</dt>
+  <dd>The term over which you repay a single draw from a line of credit. BlueVine's line of credit draw terms vary by product tier; each draw is repaid in fixed weekly or monthly instalments over the draw period.</dd>
+  <dt>Factor Rate</dt>
+  <dd>The multiplier applied to a financed amount to determine total repayment — distinct from APR. BlueVine's historical factoring product used a weekly fee structure (0.25–1.7%/week); to compare to a monthly factor rate, multiply the weekly rate by 4.3.</dd>
+</dl>
+
 ## BlueVine's Product Shift — What You Need to Know First
 
 BlueVine launched as an invoice factoring company in 2013 and was a significant market presence in small business factoring through approximately 2021. Since then, BlueVine has substantially pivoted toward small business banking — offering checking accounts, lines of credit, and credit cards — and has reduced its active promotion of invoice factoring. As of May 2026, BlueVine's invoice factoring product availability should be confirmed directly with the company, as product availability and terms have changed since our prior review cycle.
@@ -75,6 +86,25 @@ BlueVine launched as an invoice factoring company in 2013 and was a significant 
 
 ---
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>No long-term contract for historical factoring — spot factoring with no minimum commitment was BlueVine's primary competitive differentiator and remains rare in the industry</li>
+      <li>BlueVine LOC (line of credit) up to $250,000 with seamless integration into BlueVine Business Checking — draws appear in the same account, repayment is automated</li>
+      <li>Accessible LOC qualification: 625 personal FICO, 12+ months in business, $40,000/month revenue — lower bar than most bank lines of credit (which typically require 680+ FICO)</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Invoice factoring product discontinued as of approximately 2022 — verify current availability directly at bluevine.com before spending time on an application</li>
+      <li>LOC rate range of approximately 15–78% APR (annual percentage rate) — the wide range means borrowers with 625–680 FICO scores will likely receive rates toward the higher end</li>
+      <li>Online-only banking with limited physical access — not suitable for businesses that require in-person banking relationships or cash deposit capabilities</li>
+    </ul>
+  </div>
+</div>
+
 ## What Made BlueVine's Factoring Product Notable
 
 When active, BlueVine's factoring product had several distinguishing features worth understanding — because they reflect what to look for in competitors:
@@ -85,7 +115,7 @@ When active, BlueVine's factoring product had several distinguishing features wo
 
 **Wide invoice range.** The ability to factor invoices from $500 to $5,000,000 addressed a broader spectrum than most competitors.
 
-**Weekly fee structure.** BlueVine's 0.25–1.7%/week fee structure required careful modelling. At 0.25%/week (~13% APR) for a 2-week payment cycle, it was competitive. At 1.7%/week (~88% APR) for a 4-week cycle, it was expensive. Your rate depended heavily on customer credit quality.
+**Weekly fee structure.** BlueVine's 0.25–1.7%/week fee structure required careful modelling. At 0.25%/week (~13% APR (annual percentage rate)) for a 2-week payment cycle, it was competitive. At 1.7%/week (~88% APR) for a 4-week cycle, it was expensive. Your rate depended heavily on customer credit quality.
 
 ---
 
@@ -107,13 +137,14 @@ If you came to this review seeking invoice factoring, the companies that current
 
 For businesses interested in BlueVine's active product (the line of credit), here is an independent assessment:
 
-**Who qualifies:**
-- 6+ months in business
-- Personal credit score 625+
-- Annual revenue $120,000+
+**Who qualifies (LOC — active product):**
+- 625+ personal FICO score
+- 12+ months in business
+- $40,000+ in monthly revenue ($480,000+ annually)
 - US-based business
+- Maximum credit line: $250,000
 
-**Rate assessment:** BlueVine's line of credit rates (approximately 15–78% APR range) are competitive with other online lenders (Kabbage, Ondeck) for borrowers with 625–680 credit scores. For borrowers with 700+ credit, bank lines of credit are typically cheaper. The rate transparency is a positive — BlueVine publishes a weekly rate so you can calculate the cost before drawing.
+**Rate assessment:** BlueVine's line of credit rates (approximately 15–78% APR range) are competitive with other online lenders (Kabbage, Ondeck) for borrowers with 625–680 credit scores. For borrowers with 700+ credit, bank lines of credit are typically cheaper. The rate transparency is a positive — BlueVine publishes a weekly rate so you can calculate the cost before drawing. For borrower rights and comparison resources for small-business lines of credit, see [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/).
 
 **The banking integration advantage:** For businesses already using BlueVine's checking account, the LOC integrates seamlessly — draws appear in the same account, and repayment is automated. This operational simplicity has genuine value.
 
@@ -166,6 +197,15 @@ BlueVine raised significant venture capital between 2013–2021 to build an invo
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>BlueVine's active LOC (line of credit) offers up to $250,000 at approximately 15–78% APR (annual percentage rate) — requires 625+ FICO, 12+ months in business, and $40,000+/month in revenue</li>
+      <li>Strongest use case: small B2B businesses already using BlueVine Business Checking that need a revolving credit line with automated repayment and no separate banking relationship to manage</li>
+      <li>Biggest watch-out: BlueVine's invoice factoring product has been discontinued — verify current product status at bluevine.com before applying if factoring is what you need</li>
+      <li>LOC rate of 15–78% APR is competitive with online lenders (Ondeck, Kabbage) for 625–680 FICO borrowers but more expensive than bank lines of credit (9–18% APR) for borrowers above 700 FICO</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/business-line-of-credit/">Business Line of Credit — Complete Guide</a></li>
     <li><a href="/compare/invoice-financing-vs-factoring/">Invoice Financing vs. Invoice Factoring</a></li>

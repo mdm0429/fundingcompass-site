@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the invoice value TCI Business Capital pays you upfront. TCI advances up to 95% of each invoice's face value, with the remaining 5% (minus fees) remitted when your customer pays.</dd>
+  <dt>Non-Recourse Factoring</dt>
+  <dd>A factoring arrangement where TCI Business Capital absorbs the loss if your customer becomes insolvent. TCI's non-recourse program protects against customer bankruptcy or receivership — but not against customer disputes over goods or services delivered.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>A factoring arrangement where you remain liable if your customer does not pay. TCI can require you to buy back invoices that remain unpaid after typically 90 days. Recourse factoring fees are lower than non-recourse.</dd>
+  <dt>UCC-1</dt>
+  <dd>UCC-1 (a public lien notice filed against your business assets) that TCI Business Capital files to establish a first-priority security interest in your accounts receivable. This is standard for all factoring arrangements.</dd>
+</dl>
+
 ## Summary Verdict
 
 TCI Business Capital is a Minnesota-based invoice factoring company serving B2B businesses across multiple industries since 1994. It offers non-recourse and recourse factoring, advances up to 95% of invoice value, and has earned a strong reputation for customer service and flexible contract terms. TCI focuses on relationship-based factoring and is particularly active in staffing, manufacturing, distribution, and service businesses. It is a credible choice for mid-sized B2B businesses looking for a long-term factoring partner with a non-recourse option and competitive rates.
 
-**Best for:** Established B2B businesses with $50,000–$5,000,000+ in monthly invoicing that need a reliable non-recourse factoring partner with strong customer service and flexible contract structures.
+**Best for:** Established B2B businesses with $25,000–$5,000,000+ in monthly invoicing in staffing, manufacturing, or distribution that need a non-recourse factoring partner with dedicated account management, a 600+ personal FICO score, and at least 2 years in business.
 
-**Not ideal for:** Very small businesses with less than $25,000 in monthly invoicing (who may be better served by Riviera Finance's $5,000 minimum), trucking-specific businesses (who should consider OTR Solutions or RTS Financial), or B2C businesses.
+**Not ideal for:** Businesses with less than $25,000/month in invoicing (Riviera Finance's $5,000 minimum is more accessible), trucking-specific businesses (OTR Solutions or RTS Financial provide trucking-specific programs), or B2C businesses without commercial receivables.
 
 ---
 
@@ -72,10 +83,33 @@ TCI Business Capital is a Minnesota-based invoice factoring company serving B2B 
 | Recourse vs. non-recourse | Both available |
 | Funding speed | Same day to next business day |
 | Industries served | Staffing, manufacturing, distribution, services, and more |
+| Min. personal credit score | 600+ personal FICO |
+| Min. time in business | 2+ years in business |
+| Min. monthly invoice volume | ~$25,000 |
+| Maximum funding | Up to $10,000,000 |
 
 *Rates verified May 2026 via TCI Business Capital published disclosures. Your actual rate depends on invoice volume, customer creditworthiness, and industry.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Lowest published fee in this comparison at 1–3%/30 days — at 1% for high-volume clients, this is below the industry average of 1.5–3.5% for non-recourse factoring</li>
+      <li>Non-recourse factoring available — credit risk on customer insolvency transfers to TCI, protecting businesses with large single-customer concentrations or customers in cyclical industries</li>
+      <li>Dedicated account manager for each client — one consistent contact for funding requests, customer questions, and contract management throughout the relationship</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>~$25,000 minimum monthly volume — not accessible for very small businesses; Riviera Finance serves businesses with as little as $5,000/month</li>
+      <li>Requires 600+ personal FICO and 2+ years in business — not suitable for start-ups or business owners with impaired credit</li>
+      <li>Full-service collections means your customers interact directly with TCI — the factoring arrangement is not invisible to your customer base</li>
+    </ul>
+  </div>
+</div>
 
 ## What TCI Business Capital Offers
 
@@ -83,7 +117,7 @@ TCI Business Capital provides full-service accounts receivable factoring — pur
 
 **Non-Recourse Factoring:** TCI's non-recourse program transfers the credit risk on purchased invoices to TCI. If a customer becomes insolvent, TCI absorbs the loss rather than requiring buyback. This protection is valuable for businesses with large single-customer concentrations or customers in cyclical industries. Non-recourse protection applies to customer insolvency — not to disputes over goods or services delivered.
 
-**Recourse Factoring:** TCI also offers recourse factoring at a lower fee. With recourse factoring, you remain liable if a customer does not pay — TCI can require you to buy back unpaid invoices after a defined period (typically 90 days).
+**Recourse Factoring:** TCI also offers recourse factoring at a lower fee. With recourse factoring, you remain liable if a customer does not pay — TCI can require you to buy back unpaid invoices after a defined period (typically 90 days). Review your factoring agreement carefully and consult [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance) for an overview of your disclosure rights.
 
 **Full Accounts Receivable Management:** TCI handles collections on purchased invoices, including following up with customers and processing payments. Your customers direct payments to a lockbox controlled by TCI.
 
@@ -104,7 +138,7 @@ TCI Business Capital publishes a factoring fee range of approximately 1–3% per
 
 **Volume discounts:** TCI Business Capital offers lower rates for higher monthly factoring volumes. Businesses factoring $500,000+/month typically receive better pricing than the published range. Negotiate rates at application based on your projected volume.
 
-**Effective APR context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective APR — competitive with many business lines of credit and significantly cheaper than most MCA products.
+**Effective APR (annual percentage rate) context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective APR — competitive with many business lines of credit and significantly cheaper than most MCA (merchant cash advance) products.
 
 ---
 
@@ -202,6 +236,15 @@ The factoring fee accrues for each 30-day period the invoice remains outstanding
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>TCI Business Capital advances up to 95% of invoice value — factoring fees run 1–3% per 30 days, with the lowest rates available to businesses factoring $500,000+/month (verified May 2026)</li>
+      <li>Strongest use case: established staffing, manufacturing, or distribution businesses with $25,000–$5,000,000+/month in invoicing that want non-recourse protection and a dedicated account manager</li>
+      <li>Biggest watch-out: requires 600+ personal FICO and 2+ years in business — start-ups and impaired-credit owners should look at Riviera Finance instead</li>
+      <li>Fee floor of 1%/30 days is below the B2B factoring category average of 1.5–3.5%, making TCI cost-competitive for high-volume established clients</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/invoice-factoring/">Invoice Factoring Guide</a></li>
     <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies of 2026</a></li>

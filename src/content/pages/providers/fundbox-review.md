@@ -51,6 +51,17 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Revolving Credit</dt>
+  <dd>A credit facility where you draw funds, repay them, and the available balance restores for future use. Fundbox's line of credit is revolving — once you repay a draw, that portion of your $1,000–$150,000 credit limit becomes available again.</dd>
+  <dt>Draw Period</dt>
+  <dd>The term over which you repay a single draw from a line of credit. Fundbox offers 12-week or 24-week draw terms — repaid in equal weekly instalments plus a fee charged on the outstanding balance.</dd>
+  <dt>Utilisation Fee</dt>
+  <dd>The weekly percentage fee Fundbox charges on your outstanding balance. At 0.5%/week, the equivalent APR (annual percentage rate) is approximately 26%. At 1.5%/week, the equivalent APR is approximately 78%.</dd>
+  <dt>UCC-1</dt>
+  <dd>UCC-1 (a public lien notice filed against your business assets) that Fundbox files when you open a line of credit. This creates a conflict with invoice factoring companies, which also require a first-priority security interest in your receivables — running both simultaneously is typically not permitted.</dd>
+</dl>
+
 ## The Critical Distinction: Fundbox Is Not a Factor
 
 Before comparing Fundbox to invoice factoring companies, this must be stated clearly: **Fundbox offers invoice financing (also called accounts receivable financing), not invoice factoring.** This is not a semantic technicality — the products work differently and carry different implications for your business.
@@ -80,6 +91,25 @@ This confusion is common in search results — Fundbox frequently appears in "be
 
 ---
 
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>No customer notification — customers never know Fundbox is involved, unlike invoice factoring which requires a Notice of Assignment; this is Fundbox's primary differentiator for relationship-sensitive businesses</li>
+      <li>Decision in minutes via accounting software integration (QuickBooks, Xero, FreshBooks, Wave) — no manual document submission or customer credit review required</li>
+      <li>Revolving line — repay a draw and the balance restores; can be used for any business purpose (payroll, inventory, rent) not just specific invoices</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>$150,000 maximum credit line — insufficient for businesses with large invoice volumes; a freight broker with $500,000/month in receivables cannot fund operations from a $150,000 Fundbox facility</li>
+      <li>You bear the collection risk — if your customer doesn't pay, you still owe Fundbox the weekly repayments on schedule (unlike factoring where the factor collects directly)</li>
+      <li>600+ credit score required — businesses below 600 do not qualify; specialist invoice factoring may be accessible at lower scores because qualification is customer-credit-centric</li>
+    </ul>
+  </div>
+</div>
+
 ## How Fundbox Works
 
 1. **Connect your accounting software or bank account.** Fundbox integrates with QuickBooks, FreshBooks, Wave, Xero, and others. This connection allows Fundbox to review your invoicing history without requiring manual document submission.
@@ -88,7 +118,7 @@ This confusion is common in search results — Fundbox frequently appears in "be
 
 3. **Draw against specific invoices or as a general draw.** You select which outstanding invoices to advance against (or draw general working capital). Fundbox advances up to 100% of the invoice value.
 
-4. **Repay over 12 or 24 weeks.** Repayment is in equal weekly instalments plus a fee. The fee is charged as a weekly percentage of the outstanding balance (approximately 0.5–1.5% per week, equivalent to 26–79% APR at the high end).
+4. **Repay over 12 or 24 weeks.** Repayment is in equal weekly instalments plus a fee. The fee is charged as a weekly percentage of the outstanding balance (approximately 0.5–1.5% per week, equivalent to 26–79% APR (annual percentage rate) at the high end).
 
 5. **You collect from your customers as normal.** There is no Notice of Assignment. Your customer pays you; you repay Fundbox on the weekly schedule.
 
@@ -107,7 +137,7 @@ Fundbox discloses fees as a percentage per week, not as an APR. Here is the tran
 
 **Key point:** The 12-week repayment term means you are repaying principal weekly while paying fees — so the effective cost is higher than a simple multiplier suggests if you need the full balance for the full term.
 
-Fundbox's rates are competitive for an unsecured product — significantly cheaper than an MCA (40–350% effective APR) and comparable to or cheaper than most merchant cash advance alternatives. They are more expensive than traditional invoice factoring from specialist factors when your customers are creditworthy.
+Fundbox's rates are competitive for an unsecured product — significantly cheaper than an MCA (merchant cash advance) (40–350% effective APR) and comparable to or cheaper than most merchant cash advance alternatives. They are more expensive than traditional invoice factoring from specialist factors when your customers are creditworthy.
 
 ---
 
@@ -119,7 +149,7 @@ Fundbox's rates are competitive for an unsecured product — significantly cheap
 
 **Flexible general use.** Unlike factoring, which is tied to specific invoices, Fundbox's line of credit can be used for any business purpose — inventory, payroll, rent, or equipment deposits — without being tethered to a specific receivable.
 
-**No long-term commitment.** Fundbox does not require a contract with minimum volume. Draw as needed, repay weekly, and the line revolves for future use.
+**No long-term commitment.** Fundbox does not require a contract with minimum volume. Draw as needed, repay weekly, and the line revolves for future use. For small-business borrower rights and line-of-credit comparison guidance, see [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/).
 
 ---
 
@@ -194,6 +224,15 @@ Potentially not. Fundbox files a UCC-1 lien on your business assets, which typic
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>Fundbox offers a revolving LOC (line of credit) of $1,000–$150,000 at 10–79% APR (annual percentage rate) — requires 600+ personal FICO, 6+ months in business, and $100,000+ annual revenue</li>
+      <li>Strongest use case: B2B businesses with 600+ credit score that want invoice financing without customer notification — customers never know Fundbox is involved, unlike factoring which requires a Notice of Assignment</li>
+      <li>Biggest watch-out: you bear the collection risk — if your customer doesn't pay, you still owe Fundbox weekly repayments on schedule from other funds; also, Fundbox files a UCC-1 (a public lien notice filed against your business assets) that conflicts with most factoring arrangements</li>
+      <li>Fundbox's 26–79% APR range is more expensive than specialist invoice factoring (18–60% effective APR) for businesses with creditworthy commercial customers — the premium is the cost of customer privacy and qualification simplicity</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/guides/business-line-of-credit/">Business Line of Credit — Complete Guide</a></li>
     <li><a href="/compare/invoice-financing-vs-factoring/">Invoice Financing vs. Invoice Factoring</a></li>

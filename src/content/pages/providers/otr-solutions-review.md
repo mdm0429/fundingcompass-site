@@ -51,13 +51,24 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
+<dl>
+  <dt>Advance Rate</dt>
+  <dd>The percentage of the freight invoice value OTR Solutions pays you upfront. OTR Solutions advances up to 97% of each invoice's face value on the same day you deliver the load.</dd>
+  <dt>Recourse Factoring</dt>
+  <dd>OTR Solutions primarily uses recourse factoring — meaning you remain liable if a broker or shipper does not pay. If a broker becomes insolvent, OTR Solutions may require you to buy back the invoice. Non-recourse is available on select accounts; confirm at application.</dd>
+  <dt>Spot Factoring</dt>
+  <dd>The ability to factor individual freight invoices without a long-term contract. OTR Solutions offers month-to-month contracts with no minimum volume, making spot factoring practical for owner-operators with variable load schedules.</dd>
+  <dt>UCC-1</dt>
+  <dd>UCC-1 (a public lien notice filed against your business assets) that OTR Solutions files to establish its security interest in your receivables. This is standard for all factoring arrangements and is visible in public records.</dd>
+</dl>
+
 ## Summary Verdict
 
 OTR Solutions is a Georgia-based freight factoring company serving owner-operators and small-to-mid-sized trucking companies across the US. It combines same-day freight factoring with fuel cards, load board access, and back-office support — making it a full-service platform rather than just a capital provider. OTR Solutions accepts new carriers (no minimum time in business or authority age) and works with rates competitive within the freight factoring market. It is a strong option for trucking businesses that want a single vendor for factoring, fuel savings, and load sourcing.
 
-**Best for:** Owner-operators and small trucking fleets that need same-day cash on freight invoices, want a fuel card with discounts, and prefer a single-vendor platform over piecing together factoring and fuel separately.
+**Best for:** Owner-operators and small trucking fleets with active USDOT/MC authority — including new carriers from day one — that need same-day cash on freight invoices and want a single-vendor platform combining factoring, fuel card discounts, and load board access.
 
-**Not ideal for:** Large fleets with significant negotiating power who can access better rates through enterprise freight factoring relationships, or carriers who prefer non-recourse factoring (OTR Solutions offers recourse factoring primarily).
+**Not ideal for:** Large fleets exceeding $500,000/month in freight invoices that have negotiating power to access enterprise-tier rates from bank-affiliated factors, or carriers who specifically require non-recourse protection on all loads (OTR Solutions is primarily recourse).
 
 ---
 
@@ -73,10 +84,33 @@ OTR Solutions is a Georgia-based freight factoring company serving owner-operato
 | Funding speed | Same day |
 | New carriers accepted | Yes (no minimum authority age) |
 | Fuel card | Yes |
+| Min. personal credit score | No minimum — based on broker/shipper creditworthiness |
+| Min. time in business / authority | None — new carriers accepted from day one |
+| Min. monthly volume | No minimum stated |
+| Maximum funding | Up to $5,000,000 |
 
 *Contact OTR Solutions at [otrsolutions.com](https://otrsolutions.com/solutions/services/transportation-and-freight-factoring/) for specific rates. Rates verified May 2026.*
 
 ---
+
+<div class="pros-cons">
+  <div class="pros">
+    <h4>Strengths</h4>
+    <ul>
+      <li>Same-day funding on freight invoices plus fuel card with $0.20–$0.40/gallon discounts at major truck stop networks — combining cash flow and fuel savings in one platform</li>
+      <li>New carriers accepted with no minimum authority age — operators with a brand-new MC number can start factoring immediately</li>
+      <li>Load board integration for sourcing freight — a meaningful differentiator for owner-operators building their freight network who don't have dedicated dispatch</li>
+    </ul>
+  </div>
+  <div class="cons">
+    <h4>Limitations</h4>
+    <ul>
+      <li>Primarily recourse factoring — you remain liable if a broker doesn't pay; non-recourse is only available on select accounts and must be confirmed at application</li>
+      <li>Fee starts at 2.5%/invoice but actual rate requires application — less rate transparency upfront than some competitors</li>
+      <li>Not a fit for non-trucking businesses — OTR Solutions serves freight carriers only</li>
+    </ul>
+  </div>
+</div>
 
 ## What OTR Solutions Offers
 
@@ -90,7 +124,7 @@ OTR Solutions operates as a full-service transportation finance platform. Its pr
 
 **Back-Office Support:** OTR Solutions handles invoicing, collections, and payment processing on factored invoices. This reduces administrative burden for small carriers that don't have dedicated office staff.
 
-**Non-Recourse Factoring (Select Accounts):** OTR Solutions offers non-recourse factoring for qualifying carriers and broker relationships. Confirm availability at application.
+**Non-Recourse Factoring (Select Accounts):** OTR Solutions offers non-recourse factoring for qualifying carriers and broker relationships. Confirm availability at application. For an overview of carrier financing rights and disclosure requirements, see [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 ---
 
@@ -200,6 +234,15 @@ OTR Solutions has a collections team that follows up directly with brokers for p
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
+  <div class="related-resources__recap">
+    <strong>Quick Recap</strong>
+    <ul>
+      <li>OTR Solutions advances up to 97% of freight invoice value — fees start at 2.5% per invoice (exact rate requires application; volume discounts available at $100,000+/month)</li>
+      <li>Strongest use case: new owner-operators who want a single vendor for same-day factoring, fuel card discounts ($0.20–$0.40/gallon), and load board access from day one of operation</li>
+      <li>Biggest watch-out: primarily recourse factoring — you remain liable if a broker doesn't pay; non-recourse must be specifically confirmed at application for your broker relationships</li>
+      <li>2.5%+ base fee is at the mid-range of the freight factoring market (category range: 1.5–5%); fuel card savings can partially offset the fee for high-mileage operators</li>
+    </ul>
+  </div>
   <ul class="related-resources__list">
     <li><a href="/industries/trucking-factoring/">Invoice Factoring for Trucking Companies</a></li>
     <li><a href="/providers/rts-financial-review/">RTS Financial Review 2026</a></li>
