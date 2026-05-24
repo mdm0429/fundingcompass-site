@@ -1473,13 +1473,51 @@ article a.btn--accent:hover {
 .error-page h2 { color: var(--text-primary); }
 
 
-/* ── Responsive — 680px ───────────────────────────────────── */
-@media (max-width: 680px) {
+/* ── Responsive — 768px (mobile-first threshold) ─────────── */
+/* Google uses mobile-first indexing — this breakpoint covers all phones
+   and tablets in portrait. Every element must be readable at 375px
+   without pinch-to-zoom. */
+@media (max-width: 768px) {
+
+  /* ── 1. Typography — enforce minimum readable sizes ─────── */
   :root { --gutter: var(--gutter-sm); }
 
-  /* Hamburger */
+  body { font-size: 16px; line-height: 1.6; }
+
+  h1 { font-size: 1.75rem;  }   /* 28px */
+  h2 { font-size: 1.375rem; }   /* 22px */
+  h3 { font-size: 1.125rem; }   /* 18px */
+  h4 { font-size: 1rem;     }   /* 16px */
+
+  /* Body copy — never below 16px */
+  p, li, dd { font-size: 1rem; }
+
+  /* Small labels — minimum 12px, not smaller */
+  .stat-card__label,
+  .card__label,
+  th { font-size: 0.75rem; }
+
+  /* ── 2. Navigation ─────────────────────────────────────── */
+  /* Hide desktop nav list; show hamburger */
   .site-nav__burger { display: flex; }
 
+  /* Header CTA ("Compare Lenders") takes up space between logo and burger
+     on small screens — hide it, the nav has the same links */
+  .site-header__cta { display: none; }
+
+  /* Hide domain tagline under logo on narrow screens */
+  .site-logo__domain { display: none; }
+
+  /* Hamburger — 44px touch target (Apple HIG / Material minimum) */
+  .site-nav__burger {
+    min-width: 44px;
+    min-height: 44px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Full-screen panel drops from below the 58px header */
   .site-nav {
     display: none;
     position: fixed;
@@ -1498,10 +1536,12 @@ article a.btn--accent:hover {
   .site-header.nav-open .site-nav { display: flex; }
   .site-nav__item { width: 100%; }
 
+  /* Nav triggers — full-width, 44px touch target */
   .site-nav__trigger {
     width: 100%;
     text-align: left;
     padding: var(--space-3) var(--space-4);
+    min-height: 44px;
     border-bottom: 1px solid rgba(255,255,255,0.08);
     font-size: var(--text-base);
     font-weight: var(--weight-medium);
@@ -1509,7 +1549,15 @@ article a.btn--accent:hover {
     color: rgba(255,255,255,0.9);
   }
 
-  /* On mobile all sub-menus are always visible — override .is-open gate */
+  /* Sub-menu links — 44px touch target */
+  .site-nav__sub a {
+    padding: 12px 24px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  /* On mobile all sub-menus always visible — override .is-open gate */
   .site-nav__item--has-sub .site-nav__sub {
     display: block;
     position: static;
@@ -1522,44 +1570,99 @@ article a.btn--accent:hover {
     border-bottom: 1px solid rgba(255,255,255,0.06);
   }
 
-  /* Tables */
-  table { font-size: var(--text-xs); }
+  /* ── 4. Tables — scroll, not shrink ───────────────────── */
+  /* The old rule was: table { font-size: var(--text-xs) } which shrank text
+     to illegible size. Tables now scroll horizontally at full readability. */
 
-  /* Calculators */
-  .calc-box { padding: var(--space-5) var(--space-4); }
-  .calc-fields { grid-template-columns: 1fr 1fr; }
+  /* Scroll-shadow hint — fades at right edge to signal scrollability */
+  .table-wrap,
+  .comp-table-wrap {
+    background:
+      linear-gradient(to right, var(--surface-default) 20px, transparent),
+      linear-gradient(to left,  var(--surface-default) 20px, transparent),
+      linear-gradient(to right, rgba(0,0,0,0.07), transparent 16px),
+      linear-gradient(to left,  rgba(0,0,0,0.07), transparent 16px);
+    background-position: left center, right center, left center, right center;
+    background-repeat:   no-repeat;
+    background-size:     30px 100%, 30px 100%, 16px 100%, 16px 100%;
+    background-attachment: local, local, scroll, scroll;
+  }
 
-  /* Contact */
-  .contact-form { padding: var(--space-5) var(--space-4); }
+  /* Tables keep readable size — never shrink below 14px */
+  table,
+  .comp-table { font-size: 0.875rem; }
 
-  /* Footer */
-  .site-footer__cols { grid-template-columns: 1fr 1fr; }
+  /* Freeze first column of comparison tables so row identity stays visible
+     while the user scrolls horizontally */
+  .comp-table th:first-child,
+  .comp-table td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    background: var(--surface-default);
+    box-shadow: 2px 0 6px rgba(0,0,0,0.06);
+  }
+  .comp-table thead th:first-child {
+    background: var(--surface-tinted);
+    z-index: 3;
+  }
 
-  /* Cards */
+  /* Calc tables (label|value) don't scroll — no sticky/shadow needed */
+  .comp-table--calc th:first-child,
+  .comp-table--calc td:first-child {
+    position: static;
+    box-shadow: none;
+    background: transparent;
+  }
+
+  /* ── 5. Card grids → single column ────────────────────── */
   .card-grid--2,
   .card-grid--3 { grid-template-columns: 1fr; }
 
-  /* Stats */
+  /* ── 6. Touch targets — 44px minimum ──────────────────── */
+  .btn { min-height: 44px; }
+
+  /* CTA unit action buttons — full-width on mobile */
+  .cta-unit__actions { width: 100%; }
+  .cta-unit__actions .btn { flex: 1; justify-content: center; min-height: 44px; }
+
+  /* ── Stats / metrics ───────────────────────────────────── */
   .stat-grid--3,
   .stat-grid--4 { grid-template-columns: 1fr 1fr; }
 
-  /* CTA Unit */
+  /* ── CTA Unit ──────────────────────────────────────────── */
   .cta-unit__metrics { grid-template-columns: 1fr 1fr; }
-  .cta-unit__footer { flex-direction: column; align-items: flex-start; }
-  .cta-unit__actions { width: 100%; }
-  .cta-unit__actions .btn { flex: 1; justify-content: center; }
+  .cta-unit__footer  { flex-direction: column; align-items: flex-start; }
+
+  /* ── Calculators ───────────────────────────────────────── */
+  .calc-box    { padding: var(--space-5) var(--space-4); }
+  .calc-fields { grid-template-columns: 1fr 1fr; }
+
+  /* ── Footer ────────────────────────────────────────────── */
+  .site-footer__cols { grid-template-columns: 1fr 1fr; }
+
+  /* ── Contact form ──────────────────────────────────────── */
+  .contact-form { padding: var(--space-5) var(--space-4); }
 }
 
 
-/* ── Responsive — 420px ───────────────────────────────────── */
-@media (max-width: 420px) {
+/* ── Responsive — 480px (small phones — iPhone SE etc.) ──── */
+@media (max-width: 480px) {
+  /* Calc fields stack fully */
   .calc-fields { grid-template-columns: 1fr; }
   .calc-results__grid { grid-template-columns: 1fr 1fr; }
+
+  /* All stat grids single column */
   .stat-grid--2,
   .stat-grid--3,
   .stat-grid--4 { grid-template-columns: 1fr; }
+
+  /* CTA unit metrics single column; hide score pill to save space */
   .cta-unit__metrics { grid-template-columns: 1fr; }
   .cta-unit__score-pill { display: none; }
+
+  /* Footer stacks fully */
+  .site-footer__cols { grid-template-columns: 1fr; }
 }
 
 
