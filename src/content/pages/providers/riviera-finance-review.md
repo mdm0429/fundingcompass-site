@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the invoice value Riviera Finance pays you upfront. Riviera Finance advances up to 95% of each invoice's face value.</dd>
-  <dt>Non-Recourse Factoring</dt>
-  <dd>A factoring arrangement where the factoring company absorbs the loss if your customer becomes insolvent and cannot pay. Riviera Finance's non-recourse program protects against customer insolvency — but not against payment disputes over goods or services.</dd>
-  <dt>Recourse Factoring</dt>
-  <dd>A factoring arrangement where you remain responsible if your customer does not pay. Riviera Finance's recourse option carries a lower fee than its non-recourse program.</dd>
-  <dt>UCC-1</dt>
-  <dd>UCC-1 (a public lien notice filed against your business assets) that a factoring company files to establish its security interest in your receivables. Riviera Finance files a UCC-1 on the receivables it purchases.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value Riviera Finance pays you upfront. Riviera Finance advances up to 95% of each invoice's face value.
+
+### Non-Recourse Factoring
+A factoring arrangement where the factoring company absorbs the loss if your customer becomes insolvent and cannot pay. Riviera Finance's non-recourse program protects against customer insolvency — but not against payment disputes over goods or services.
+
+### Recourse Factoring
+A factoring arrangement where you remain responsible if your customer does not pay. Riviera Finance's recourse option carries a lower fee than its non-recourse program.
+
+### UCC-1
+A public lien notice filed against your business assets that a factoring company files to establish its security interest in your receivables. Riviera Finance files a UCC-1 on the receivables it purchases.
 
 ## Summary Verdict
 

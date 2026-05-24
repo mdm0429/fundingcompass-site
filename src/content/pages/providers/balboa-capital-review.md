@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>APR (annual percentage rate)</dt>
-  <dd>Balboa Capital does not publish its APRs. Based on industry benchmarks for equipment loans at this credit tier, qualified borrowers (650–700 credit) can expect approximately 7–12% APR; 700+ credit borrowers typically see 5–8% APR, as of May 2026.</dd>
-  <dt>Equipment loan</dt>
-  <dd>An equipment loan from Balboa Capital results in ownership from day one. Fixed monthly payments run 12–72 months; the equipment serves as collateral, which enables lending at lower rates than unsecured products. At payoff, the equipment is free and clear.</dd>
-  <dt>Operating lease</dt>
-  <dd>Balboa Capital's true lease structure lets you return, purchase, or renew the equipment at the end of the lease term. Unlike an equipment loan, an operating lease keeps the asset off your balance sheet under some accounting treatments — consult your accountant about the right structure.</dd>
-  <dt>Balloon payment</dt>
-  <dd>Some Balboa Capital lease structures include a balloon payment — a larger final payment at the end of the term, sometimes structured as a purchase option. Confirm whether your lease includes a balloon payment and what the buyout amount is before signing.</dd>
-</dl>
+## Key Terms
+
+### APR (Annual Percentage Rate)
+Balboa Capital does not publish its APRs. Based on industry benchmarks for equipment loans at this credit tier, qualified borrowers (650–700 credit) can expect approximately 7–12% APR; 700+ credit borrowers typically see 5–8% APR, as of May 2026.
+
+### Equipment Loan
+An equipment loan from Balboa Capital results in ownership from day one. Fixed monthly payments run 12–72 months; the equipment serves as collateral, which enables lending at lower rates than unsecured products. At payoff, the equipment is free and clear.
+
+### Operating Lease
+Balboa Capital's true lease structure lets you return, purchase, or renew the equipment at the end of the lease term. Unlike an equipment loan, an operating lease keeps the asset off your balance sheet under some accounting treatments — consult your accountant about the right structure.
+
+### Balloon Payment
+Some Balboa Capital lease structures include a balloon payment — a larger final payment at the end of the term, sometimes structured as a purchase option. Confirm whether your lease includes a balloon payment and what the buyout amount is before signing.
 
 ## Summary Verdict
 

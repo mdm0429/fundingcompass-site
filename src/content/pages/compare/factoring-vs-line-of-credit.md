@@ -28,16 +28,6 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 A business line of credit gives you a revolving pool of funds to draw from as needed, repaid on your schedule, at rates typically ranging from 8–30% APR (annual percentage rate). It is substantially cheaper than accounts receivable factoring for qualified businesses. Invoice factoring gives you immediate cash against specific invoices you are already owed — accessible without strong credit, scalable with your invoice volume, and funded within 24–48 hours. The right choice depends on your credit profile, how predictably your customers pay, and whether you need ongoing liquidity or a solution tied to specific receivables. All rates are based on lender-published rates as of May 2026.
 
-<dl>
-  <dt>Invoice Factoring</dt>
-  <dd>The sale of outstanding B2B invoices to a third party (the factor) in exchange for immediate cash. The factor collects from your customers directly. Approval is based primarily on your customers' creditworthiness, not yours. Typical advance rate: 80–97%.</dd>
-  <dt>Business Line of Credit (LOC)</dt>
-  <dd>A revolving credit facility that lets you draw funds up to a set limit, repay, and draw again. Approval is based on your business credit, revenue, and time in business. Costs 8–30% APR for qualified borrowers — substantially cheaper than factoring for established businesses.</dd>
-  <dt>UCC-1 Filing</dt>
-  <dd>A UCC-1 (a public lien notice filed when a lender takes a security interest in your assets). Both factors and LOC lenders typically file UCC-1 liens. If a bank holds a blanket UCC-1 lien on your receivables, you cannot also assign those receivables to a factor without the bank's written consent — violating this is a default event.</dd>
-  <dt>Notice of Assignment</dt>
-  <dd>A notice sent to your customers when you factor their invoices, directing payment to the factor instead of you. Required in factoring; invisible in invoice financing or LOC arrangements.</dd>
-</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -88,6 +78,31 @@ A business line of credit gives you a revolving pool of funds to draw from as ne
 
 ---
 
+## Key Terms
+
+### Invoice Factoring
+The sale of outstanding B2B invoices to a third party (the factor) in exchange for immediate cash. The factor collects from your customers directly; approval is based primarily on your customers' creditworthiness, not yours.
+
+### Business Line of Credit
+A revolving credit facility that lets you draw funds up to a set limit, repay, and draw again. Approval is based on your business credit, revenue, and time in business; costs 8–30% APR for qualified borrowers.
+
+### Revolving Credit
+A credit structure that replenishes as you repay — unlike a term loan, a revolving facility lets you borrow, repay, and borrow again up to your limit without reapplying, as long as the facility remains open.
+
+### Borrowing Base
+The maximum amount a lender will advance against a defined pool of assets (often accounts receivable or inventory). For receivables-based LOCs, the borrowing base is recalculated as invoices age or are paid down.
+
+### Advance Rate
+The percentage of an invoice's face value you receive upfront when factoring. Typical advance rates run 80–97%; the remaining percentage (minus fees) is released as the reserve when your customer pays.
+
+### UCC-1 Filing
+A public lien notice filed when a lender takes a security interest in your assets. Both factors and LOC lenders typically file UCC-1 liens; if a bank holds a blanket lien on your receivables, you generally cannot assign those receivables to a factor without written consent — violating this is a default event.
+
+### Draw Period
+The period during which you can draw funds from a line of credit. Some LOCs have a defined draw period (e.g., 12 months) followed by a repayment period; others are evergreen and renew annually.
+
+---
+
 ## When Invoice Factoring Wins
 
 **1. Your credit score is below 650.**
@@ -126,21 +141,6 @@ If your gross margin is 12–15%, factoring fees (1–3% per 30 days on the invo
 ## Cost Comparison — Modelled Example
 
 A business needs $100,000 in working capital for 60 days, drawn against $120,000 in outstanding invoices. Customer payment arrives at day 60.
-
-<pre><code>Business needs $100,000 for 60 days against $120,000 in outstanding invoices
-
-Option A — Invoice Factoring (2%/30 days, 90% advance rate)
-  Advance:         $108,000 (90% of $120,000)
-  Fee:             2% × 2 periods = 4% × $120,000 = $4,800
-  Reserve:         ~$7,200 released when customer pays
-  Total cost:      $4,800
-
-Option B — Business Line of Credit (15% APR)
-  Draw:            $100,000
-  Interest:        $100,000 × (15% ÷ 365) × 60 days = $2,466
-  Total cost:      $2,466
-
-Cost difference: $2,334 in favour of the LOC (gap widens to $4,734 at 90-day payment)</code></pre>
 
 At 30-day customer payment, factoring fees halve ($2,400) and the gap narrows to $934. At 90-day payment, factoring costs $7,200 and the gap widens to $4,734.
 

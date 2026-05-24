@@ -63,16 +63,19 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Revolving Credit</dt>
-  <dd>A credit facility where you draw funds, repay them, and the available balance restores for future use. Fundbox's line of credit is revolving — once you repay a draw, that portion of your $1,000–$150,000 credit limit becomes available again.</dd>
-  <dt>Draw Period</dt>
-  <dd>The term over which you repay a single draw from a line of credit. Fundbox offers 12-week or 24-week draw terms — repaid in equal weekly instalments plus a fee charged on the outstanding balance.</dd>
-  <dt>Utilisation Fee</dt>
-  <dd>The weekly percentage fee Fundbox charges on your outstanding balance. At 0.5%/week, the equivalent APR (annual percentage rate) is approximately 26%. At 1.5%/week, the equivalent APR is approximately 78%.</dd>
-  <dt>UCC-1</dt>
-  <dd>UCC-1 (a public lien notice filed against your business assets) that Fundbox files when you open a line of credit. This creates a conflict with invoice factoring companies, which also require a first-priority security interest in your receivables — running both simultaneously is typically not permitted.</dd>
-</dl>
+## Key Terms
+
+### Revolving Credit
+A credit facility where you draw funds, repay them, and the available balance restores for future use. Fundbox's line of credit is revolving — once you repay a draw, that portion of your $1,000–$150,000 credit limit becomes available again.
+
+### Draw Period
+The term over which you repay a single draw from a line of credit. Fundbox offers 12-week or 24-week draw terms — repaid in equal weekly instalments plus a fee charged on the outstanding balance.
+
+### Utilisation Fee
+The weekly percentage fee Fundbox charges on your outstanding balance. At 0.5%/week, the equivalent APR (annual percentage rate) is approximately 26%. At 1.5%/week, the equivalent APR is approximately 78%.
+
+### UCC-1
+A public lien notice filed against your business assets that Fundbox files when you open a line of credit. This creates a conflict with invoice factoring companies, which also require a first-priority security interest in your receivables — running both simultaneously is typically not permitted.
 
 ## The Critical Distinction: Fundbox Is Not a Factor
 

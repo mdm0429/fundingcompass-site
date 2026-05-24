@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the freight invoice value RTS Financial pays you upfront. RTS advances up to 97% of each invoice's face value.</dd>
-  <dt>Recourse Factoring</dt>
-  <dd>A factoring arrangement where you remain responsible if the broker or shipper does not pay. RTS's recourse option carries lower fees. If a broker fails to pay, you may be required to buy back the invoice.</dd>
-  <dt>Non-Recourse Factoring</dt>
-  <dd>A factoring arrangement where RTS Financial absorbs the loss if an approved broker becomes insolvent. Available on approved debtors at RTS; fees are typically 0.5–1% higher per invoice than recourse.</dd>
-  <dt>Spot Factoring</dt>
-  <dd>Factoring individual invoices without a long-term contract commitment. RTS offers spot factoring on month-to-month arrangements — you can factor a single load without signing a 12-month agreement.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the freight invoice value RTS Financial pays you upfront. RTS advances up to 97% of each invoice's face value.
+
+### Recourse Factoring
+A factoring arrangement where you remain responsible if the broker or shipper does not pay. RTS's recourse option carries lower fees. If a broker fails to pay, you may be required to buy back the invoice.
+
+### Non-Recourse Factoring
+A factoring arrangement where RTS Financial absorbs the loss if an approved broker becomes insolvent. Available on approved debtors at RTS; fees are typically 0.5–1% higher per invoice than recourse.
+
+### Spot Factoring
+Factoring individual invoices without a long-term contract commitment. RTS offers spot factoring on month-to-month arrangements — you can factor a single load without signing a 12-month agreement.
 
 ## Summary Verdict
 

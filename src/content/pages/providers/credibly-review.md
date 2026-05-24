@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
-  <dd>Credibly's MCA factor rates run 1.15–1.49. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total — regardless of how quickly you repay.</dd>
-  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
-  <dd>Credibly collects 10–25% of your daily card sales until the purchased amount is repaid. If sales drop, less is collected that day — repayment naturally slows. If sales spike, repayment accelerates.</dd>
-  <dt>Effective APR (annual percentage rate)</dt>
-  <dd>The annualized cost of an MCA, calculated based on repayment speed. A 1.28 factor rate MCA repaid over 7 months carries an effective APR of approximately 66%; the same advance repaid in 4 months due to higher sales runs approximately 110% APR.</dd>
-  <dt>Daily ACH</dt>
-  <dd>Credibly's working capital loan uses a fixed daily ACH debit — unlike the holdback MCA, the payment amount does not change with your revenue. This makes cost predictable but removes the flexibility of revenue-based repayment.</dd>
-</dl>
+## Key Terms
+
+### Factor Rate
+The multiplier applied to your advance to determine total repayment. Credibly's MCA factor rates run 1.15–1.49. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total — regardless of how quickly you repay.
+
+### Daily Holdback
+The fixed percentage of daily sales deducted for repayment. Credibly collects 10–25% of your daily card sales until the purchased amount is repaid. If sales drop, less is collected that day — repayment naturally slows. If sales spike, repayment accelerates.
+
+### Effective APR
+The annualized cost of an MCA, calculated based on repayment speed. A 1.28 factor rate MCA repaid over 7 months carries an effective APR of approximately 66%; the same advance repaid in 4 months due to higher sales runs approximately 110% APR.
+
+### Daily ACH
+Credibly's working capital loan uses a fixed daily ACH debit — unlike the holdback MCA, the payment amount does not change with your revenue. This makes cost predictable but removes the flexibility of revenue-based repayment.
 
 ## Summary Verdict
 

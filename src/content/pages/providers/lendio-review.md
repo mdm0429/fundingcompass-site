@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>APR (annual percentage rate)</dt>
-  <dd>APR is the annualized cost of a loan including interest and fees. Through Lendio's network, APR ranges from approximately 10–13% for SBA 7(a) loans to 40–200%+ effective APR for merchant cash advances. Always compare APR — not just monthly payment — across offers.</dd>
-  <dt>Draw period</dt>
-  <dd>For business lines of credit available through Lendio's network, the draw period is the window when you can borrow against your credit limit. Each draw creates its own repayment schedule. Draw periods and terms vary by the specific lender that extends an offer.</dd>
-  <dt>Origination fee</dt>
-  <dd>Many lenders in Lendio's network charge an origination fee of 1–5% of the loan amount, deducted from the funded amount. This fee is included in the APR calculation — confirm it in any offer you receive before accepting.</dd>
-  <dt>Revolving credit</dt>
-  <dd>A revolving line of credit — available through Lendio's LOC (line of credit) matches — lets you draw, repay, and draw again up to your credit limit. Unlike a term loan, you only pay interest on what you've drawn. This is useful for ongoing operating capital needs rather than a one-time purchase.</dd>
-</dl>
+## Key Terms
+
+### APR (Annual Percentage Rate)
+APR is the annualized cost of a loan including interest and fees. Through Lendio's network, APR ranges from approximately 10–13% for SBA 7(a) loans to 40–200%+ effective APR for merchant cash advances. Always compare APR — not just monthly payment — across offers.
+
+### Draw Period
+For business lines of credit available through Lendio's network, the draw period is the window when you can borrow against your credit limit. Each draw creates its own repayment schedule. Draw periods and terms vary by the specific lender that extends an offer.
+
+### Origination Fee
+Many lenders in Lendio's network charge an origination fee of 1–5% of the loan amount, deducted from the funded amount. This fee is included in the APR calculation — confirm it in any offer you receive before accepting.
+
+### Revolving Credit
+A revolving line of credit — available through Lendio's LOC (line of credit) matches — lets you draw, repay, and draw again up to your credit limit. Unlike a term loan, you only pay interest on what you've drawn. This is useful for ongoing operating capital needs rather than a one-time purchase.
 
 ## Summary Verdict
 

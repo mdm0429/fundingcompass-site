@@ -232,9 +232,23 @@ declare module 'astro:content' {
   collection: "pages";
   data: InferEntrySchema<"pages">
 } & { render(): Render[".md"] };
+"guides/b2b-funding-glossary.md": {
+	id: "guides/b2b-funding-glossary.md";
+  slug: "guides/b2b-funding-glossary";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
 "guides/business-line-of-credit.md": {
 	id: "guides/business-line-of-credit.md";
   slug: "guides/business-line-of-credit";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
+"guides/equipment-financing-checklist.md": {
+	id: "guides/equipment-financing-checklist.md";
+  slug: "guides/equipment-financing-checklist";
   body: string;
   collection: "pages";
   data: InferEntrySchema<"pages">
@@ -253,9 +267,37 @@ declare module 'astro:content' {
   collection: "pages";
   data: InferEntrySchema<"pages">
 } & { render(): Render[".md"] };
+"guides/invoice-factoring-checklist.md": {
+	id: "guides/invoice-factoring-checklist.md";
+  slug: "guides/invoice-factoring-checklist";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
+"guides/invoice-factoring-faq.md": {
+	id: "guides/invoice-factoring-faq.md";
+  slug: "guides/invoice-factoring-faq";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
+"guides/invoice-factoring-red-flags.md": {
+	id: "guides/invoice-factoring-red-flags.md";
+  slug: "guides/invoice-factoring-red-flags";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
 "guides/invoice-factoring.md": {
 	id: "guides/invoice-factoring.md";
   slug: "guides/invoice-factoring";
+  body: string;
+  collection: "pages";
+  data: InferEntrySchema<"pages">
+} & { render(): Render[".md"] };
+"guides/merchant-cash-advance-faq.md": {
+	id: "guides/merchant-cash-advance-faq.md";
+  slug: "guides/merchant-cash-advance-faq";
   body: string;
   collection: "pages";
   data: InferEntrySchema<"pages">

@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
-  <dd>BFS Capital does not publish its factor rates. Based on industry benchmarks for this market segment, typical rates run 1.15–1.45. Your specific rate is disclosed only after applying — based on your credit profile, revenue, and industry.</dd>
-  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
-  <dd>BFS Capital's MCA product collects a holdback of typically 10–20% of your daily card sales until the advance is repaid. On days with lower card sales, less is collected — this natural flex is the MCA's core flexibility advantage over fixed-payment loans.</dd>
-  <dt>Effective APR (annual percentage rate)</dt>
-  <dd>Industry-benchmark effective APR for MCA products in BFS Capital's market segment runs 40–200%+ depending on repayment speed. The shorter the repayment period, the higher the annualized rate — though the total dollar cost stays fixed at the factor rate amount.</dd>
-  <dt>Daily ACH</dt>
-  <dd>BFS Capital's working capital loan product uses a fixed daily ACH debit over a set term (4–18 months). Unlike the MCA holdback, this payment does not flex with your revenue — making it more predictable but riskier during slow sales periods.</dd>
-</dl>
+## Key Terms
+
+### Factor Rate
+The multiplier applied to your advance to determine total repayment. BFS Capital does not publish its factor rates. Based on industry benchmarks for this market segment, typical rates run 1.15–1.45. Your specific rate is disclosed only after applying — based on your credit profile, revenue, and industry.
+
+### Daily Holdback
+The fixed percentage of daily sales deducted for repayment. BFS Capital's MCA product collects a holdback of typically 10–20% of your daily card sales until the advance is repaid. On days with lower card sales, less is collected — this natural flex is the MCA's core flexibility advantage over fixed-payment loans.
+
+### Effective APR (Annual Percentage Rate)
+Industry-benchmark effective APR for MCA products in BFS Capital's market segment runs 40–200%+ depending on repayment speed. The shorter the repayment period, the higher the annualized rate — though the total dollar cost stays fixed at the factor rate amount.
+
+### Daily ACH
+BFS Capital's working capital loan product uses a fixed daily ACH debit over a set term (4–18 months). Unlike the MCA holdback, this payment does not flex with your revenue — making it more predictable but riskier during slow sales periods.
 
 ## Summary Verdict
 

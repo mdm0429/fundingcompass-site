@@ -32,14 +32,6 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 The distinction sounds simple. It becomes complicated in practice because "non-recourse" in most factoring agreements applies only to verified customer insolvency — not to slow payment, invoice disputes, or contractual disagreements. All rates are based on lender-published rates as of May 2026.
 
-<dl>
-  <dt>Recourse Factoring</dt>
-  <dd>Factoring where you remain responsible if your customer does not pay the invoice. The factor charges the unpaid invoice back to your reserve or requires you to buy it back. Cheaper than non-recourse by 0.5–2% per 30-day period. The right choice when your customers are large, creditworthy corporations.</dd>
-  <dt>Non-Recourse Factoring</dt>
-  <dd>Factoring where the factor absorbs the loss if your customer becomes legally insolvent. Costs 0.5–2% more per 30-day period. Protection triggers only on verified legal insolvency (bankruptcy filing) — not on disputes, slow payment, or payment plans.</dd>
-  <dt>Reserve</dt>
-  <dd>The portion of the invoice value held back by the factor until your customer pays. If your advance rate is 90%, the reserve is the remaining 10% minus the factoring fee. In recourse arrangements, the factor charges unpaid invoices against this reserve.</dd>
-</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -88,6 +80,31 @@ The distinction sounds simple. It becomes complicated in practice because "non-r
 
 ---
 
+## Key Terms
+
+### Recourse Factoring
+Factoring where you remain responsible if your customer does not pay the invoice. The factor charges the unpaid invoice back to your reserve or requires you to buy it back; cheaper than non-recourse by 0.5–2% per 30-day period.
+
+### Non-Recourse Factoring
+Factoring where the factor absorbs the loss if your customer becomes legally insolvent. Costs 0.5–2% more per 30-day period; protection triggers only on verified legal insolvency (a formal bankruptcy filing) — not on disputes, slow payment, or payment plans.
+
+### Credit Risk
+The probability that a customer will fail to pay an invoice due to financial distress or insolvency. In recourse factoring, this risk stays with you; in non-recourse factoring, the factor takes on the insolvency portion of this risk for approved customers.
+
+### Advance Rate
+The percentage of an invoice's face value you receive upfront. Typical advance rates run 80–97%; the remaining balance (minus fees) is held in reserve and released when your customer pays — or charged back against the reserve if the invoice is not paid in a recourse arrangement.
+
+### Reserve Account
+The portion of the invoice value held back by the factor until your customer pays. If your advance rate is 90%, the factor holds 10% in reserve; in recourse factoring, unpaid invoices are charged against this reserve rather than requiring a separate cash buy-back.
+
+### Notice of Assignment
+A notice sent to your customers directing payment to the factor instead of you. Required in both recourse and non-recourse factoring; customers making payment to the wrong party after a Notice of Assignment has been issued can complicate collections and non-recourse claims.
+
+### Bankruptcy Trigger
+The specific legal event that activates non-recourse protection under most factoring agreements — typically a formal court-filed bankruptcy proceeding (Chapter 7 or Chapter 11 in the US). Informal payment plans, assignment for the benefit of creditors, or voluntary business closures may not qualify as a bankruptcy trigger under a given agreement.
+
+---
+
 ## The Critical Nuance — What Non-Recourse Does Not Cover
 
 Most businesses overestimate non-recourse protection. Here is what non-recourse factoring typically does NOT protect you from:
@@ -127,14 +144,6 @@ Before signing any non-recourse factoring agreement, request and review the spec
 ## When Non-Recourse Is Worth the Premium
 
 Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That premium adds up:
-
-<pre><code>Non-Recourse Premium Cost — Annual Impact (1% premium per 30-day period)
-  Monthly volume:   $50,000  → extra cost: $500/mo  = $6,000/yr
-  Monthly volume:  $100,000  → extra cost: $1,000/mo = $12,000/yr
-  Monthly volume:  $250,000  → extra cost: $2,500/mo = $30,000/yr
-
-Break-even: the premium is worth paying only if expected annual
-customer insolvency losses exceed the annual premium cost.</code></pre>
 
 <div class="comp-table-wrap">
   <table class="comp-table">

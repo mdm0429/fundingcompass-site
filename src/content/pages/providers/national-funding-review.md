@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>APR (annual percentage rate)</dt>
-  <dd>National Funding does not publish APRs for its equipment financing. Based on reported borrower experiences and comparable products, effective APRs range approximately 15–35% for equipment loans to qualified borrowers, as of May 2026.</dd>
-  <dt>Equipment loan</dt>
-  <dd>An equipment loan from National Funding is secured by the equipment itself, typically runs 24–60 months, and results in ownership at payoff. Because equipment serves as collateral, credit requirements are lower than for unsecured financing.</dd>
-  <dt>Operating lease</dt>
-  <dd>National Funding's equipment lease options let you return or buy out the equipment at end of term. Off-balance-sheet treatment may be available depending on lease structure and your accounting method — confirm with your accountant.</dd>
-  <dt>Section 179</dt>
-  <dd>Equipment purchased or financed through National Funding may qualify for the IRS Section 179 deduction, allowing the full purchase price to be deducted in the year of purchase rather than depreciated over time. The 2026 deduction limit is $1,160,000. Consult a tax adviser before making purchasing decisions based on this benefit.</dd>
-</dl>
+## Key Terms
+
+### APR (Annual Percentage Rate)
+National Funding does not publish APRs for its equipment financing. Based on reported borrower experiences and comparable products, effective APRs range approximately 15–35% for equipment loans to qualified borrowers, as of May 2026.
+
+### Equipment Loan
+An equipment loan from National Funding is secured by the equipment itself, typically runs 24–60 months, and results in ownership at payoff. Because equipment serves as collateral, credit requirements are lower than for unsecured financing.
+
+### Operating Lease
+National Funding's equipment lease options let you return or buy out the equipment at end of term. Off-balance-sheet treatment may be available depending on lease structure and your accounting method — confirm with your accountant.
+
+### Section 179
+Equipment purchased or financed through National Funding may qualify for the IRS Section 179 deduction, allowing the full purchase price to be deducted in the year of purchase rather than depreciated over time. The 2026 deduction limit is $1,160,000. Consult a tax adviser before making purchasing decisions based on this benefit.
 
 ## Summary Verdict
 

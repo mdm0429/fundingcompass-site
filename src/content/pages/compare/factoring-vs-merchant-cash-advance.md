@@ -28,16 +28,6 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Invoice factoring converts outstanding B2B invoices into immediate cash — you sell a receivable you are already owed, at 18–60% effective APR (the annualized cost of financing, accounting for all fees and repayment speed). A merchant advance gives you a lump sum in exchange for a fixed repayment amount collected from future sales, at 40–350% effective APR. Both are fast and accessible without strong credit. The difference is cost, mechanism, and who they serve: factoring requires B2B invoices with creditworthy customers; MCAs require card sales volume regardless of customer type. For guidance on MCA practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
-<dl>
-  <dt>Invoice Factoring</dt>
-  <dd>The sale of outstanding B2B invoices to a factoring company in exchange for immediate cash (80–97% of invoice value). The factor collects from your customers directly. Fees of 1–5% per 30 days; effective APR typically 18–60%.</dd>
-  <dt>Merchant Cash Advance (MCA)</dt>
-  <dd>An advance of cash in exchange for a fixed repayment amount collected as a percentage of future daily card sales. Not technically a loan — total repayment is set at the factor rate (the multiplier applied to your advance to determine total repayment) times the advance amount, regardless of repayment speed.</dd>
-  <dt>Factor Rate</dt>
-  <dd>The multiplier applied to your advance to determine total repayment. A factor rate of 1.30 on a $50,000 advance means you repay $65,000. Unlike APR, there is typically no benefit to repaying an MCA early under a standard factor rate structure.</dd>
-  <dt>Daily Holdback</dt>
-  <dd>The daily holdback (the percentage of daily sales automatically deducted for MCA repayment). At 15% holdback on $4,000/day in card sales, $600/day is deducted until repaid. True holdback flexes with revenue — fixed daily ACH does not.</dd>
-</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -88,27 +78,36 @@ Invoice factoring converts outstanding B2B invoices into immediate cash — you 
 
 ---
 
+## Key Terms
+
+### Invoice Factoring
+The sale of outstanding B2B invoices to a factoring company in exchange for immediate cash (80–97% of invoice value). The factor collects from your customers directly; fees run 1–5% per 30 days, translating to an effective APR of 18–60%.
+
+### Merchant Cash Advance (MCA)
+An advance of cash in exchange for a fixed repayment amount collected as a percentage of future daily card sales. Not technically a loan — total repayment is set at the factor rate times the advance amount, regardless of how quickly you repay.
+
+### Factor Rate
+The multiplier applied to your MCA advance to determine total repayment. A factor rate of 1.30 on a $50,000 advance means you repay $65,000; unlike APR, there is typically no benefit to early repayment under a standard factor rate structure.
+
+### Advance Rate
+The percentage of an invoice's face value (in factoring) or the lump sum issued relative to projected sales (in an MCA) that you receive upfront. Factoring advance rates typically run 80–97%; MCA advance amounts are underwritten against average monthly card sales.
+
+### Recourse Factoring
+The most common factoring structure, in which you remain responsible for buying back invoices if your customer does not pay. Cheaper than non-recourse factoring by 0.5–2% per 30-day period.
+
+### UCC-1 Filing
+A public lien notice filed when a lender takes a security interest in your assets. Both factors and MCA providers typically file UCC-1 liens — often on all business assets — which can complicate obtaining additional financing.
+
+### Daily Remittance
+The percentage of daily card sales automatically deducted each business day to repay an MCA. At 15% holdback on $4,000/day in card sales, $600/day is deducted until the fixed total repayment amount is satisfied.
+
+---
+
 ## Cost Comparison — Modelled Example
 
 Same business, same capital need, two different products.
 
 **The business:** A staffing agency needs $50,000 for 45 days to cover payroll while waiting on client payments.
-
-<pre><code>Option A — Invoice Factoring
-  Invoice:        $60,000 outstanding (net-45)
-  Advance rate:   90% = $54,000 upfront
-  Fee:            2%/30 days × 1.5 periods = 3% = $1,800
-  Reserve:        $3,600 released when client pays
-  Total cost:     $1,800   |   Effective APR: ~24%
-
-Option B — Merchant Cash Advance
-  Advance:        $50,000 at factor rate 1.30
-  Total repay:    $65,000 (fixed, regardless of speed)
-  Holdback:       15% of $4,000/day = $600/day deducted
-  Days to repay:  ~108 days
-  Total cost:     $15,000  |   Effective APR: ~101%
-
-Cost difference: $13,200 in favour of factoring — same $50,000, same 45-day window</code></pre>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

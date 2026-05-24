@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the invoice value TCI Business Capital pays you upfront. TCI advances up to 95% of each invoice's face value, with the remaining 5% (minus fees) remitted when your customer pays.</dd>
-  <dt>Non-Recourse Factoring</dt>
-  <dd>A factoring arrangement where TCI Business Capital absorbs the loss if your customer becomes insolvent. TCI's non-recourse program protects against customer bankruptcy or receivership — but not against customer disputes over goods or services delivered.</dd>
-  <dt>Recourse Factoring</dt>
-  <dd>A factoring arrangement where you remain liable if your customer does not pay. TCI can require you to buy back invoices that remain unpaid after typically 90 days. Recourse factoring fees are lower than non-recourse.</dd>
-  <dt>UCC-1</dt>
-  <dd>UCC-1 (a public lien notice filed against your business assets) that TCI Business Capital files to establish a first-priority security interest in your accounts receivable. This is standard for all factoring arrangements.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value TCI Business Capital pays you upfront. TCI advances up to 95% of each invoice's face value, with the remaining 5% (minus fees) remitted when your customer pays.
+
+### Non-Recourse Factoring
+A factoring arrangement where TCI Business Capital absorbs the loss if your customer becomes insolvent. TCI's non-recourse program protects against customer bankruptcy or receivership — but not against customer disputes over goods or services delivered.
+
+### Recourse Factoring
+A factoring arrangement where you remain liable if your customer does not pay. TCI can require you to buy back invoices that remain unpaid after typically 90 days. Recourse factoring fees are lower than non-recourse.
+
+### UCC-1
+A public lien notice filed against your business assets that TCI Business Capital files to establish a first-priority security interest in your accounts receivable. This is standard for all factoring arrangements.
 
 ## Summary Verdict
 

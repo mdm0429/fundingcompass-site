@@ -51,10 +51,10 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
   <table class="comp-table">
     <thead>
       <tr>
-        <th style="min-width:180px">Company</th>
+        <th style="min-width:220px">Company</th>
+        <th>Industry</th>
         <th>Advance Rate</th>
         <th>Fee / 30 Days</th>
-        <th>Industries</th>
         <th>Spot Factoring</th>
         <th>Min. Volume</th>
         <th style="text-align:center">Action</th>
@@ -63,65 +63,79 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
     <tbody>
       <tr class="td-pick">
         <td>
-          <div class="td-provider">eCapital <span>Freight &amp; B2B</span></div>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/ecapital.com" alt="eCapital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            eCapital <span>Freight &amp; B2B</span></div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
+        <td>Freight, staffing, general B2B</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">From 0.69%</td>
-        <td>Freight, staffing, general</td>
         <td>No</td>
         <td class="td-num">$10,000/mo</td>
         <td style="text-align:center"><a href="https://www.ecapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Triumph Business Capital <span>Multi-industry</span></div></td>
+        <td>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/triumphbusiness.com" alt="Triumph" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            Triumph Business Capital <span>Multi-industry</span></div>
+        </td>
+        <td>Freight, staffing, healthcare</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">1.5–3%</td>
-        <td>Freight, staffing, healthcare</td>
         <td>Yes (premium)</td>
         <td class="td-num">$25,000/mo</td>
         <td style="text-align:center"><a href="https://www.triumphbusiness.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
-      <tr style="opacity:0.6">
-        <td>
-          <div class="td-provider" style="text-decoration:line-through">BlueVine</div>
-          <span class="badge badge--warning" style="margin-top:4px">Discontinued</span>
-        </td>
-        <td colspan="5" style="color:var(--text-tertiary);font-style:italic;">Invoice factoring discontinued. <a href="/providers/bluevine-review/">See BlueVine Review</a> for current products.</td>
-        <td style="text-align:center">—</td>
-      </tr>
       <tr>
-        <td><div class="td-provider">Riviera Finance <span>Non-recourse specialist</span></div></td>
+        <td>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/rivierafinance.com" alt="Riviera Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            Riviera Finance <span>Non-recourse specialist</span></div>
+        </td>
+        <td>Manufacturing, distribution, construction</td>
         <td class="td-num">85–95%</td>
         <td class="td-num">1.5–3.5%</td>
-        <td>Manufacturing, distribution, construction</td>
         <td>Yes</td>
         <td class="td-num">$5,000/mo</td>
         <td style="text-align:center"><a href="https://www.rivierafinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">RTS Financial <span>Freight only, no minimums</span></div></td>
+        <td>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/rtsfinancial.com" alt="RTS Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            RTS Financial <span>Freight only, no minimums</span></div>
+        </td>
+        <td>Freight only</td>
         <td class="td-num">Up to 97%</td>
         <td class="td-num">1–3%</td>
-        <td>Freight only</td>
         <td>Yes</td>
         <td class="td-num">None</td>
         <td style="text-align:center"><a href="https://www.rtsfinancial.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">TCI Business Capital <span>Established B2B</span></div></td>
+        <td>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/tcicapital.com" alt="TCI" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            TCI Business Capital <span>Established B2B</span></div>
+        </td>
+        <td>General B2B, staffing, construction</td>
         <td class="td-num">80–95%</td>
         <td class="td-num">1.5–3.5%</td>
-        <td>General B2B, staffing, construction</td>
         <td>No</td>
         <td class="td-num">$25,000/mo</td>
         <td style="text-align:center"><a href="https://www.tcicapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Paragon Financial Group <span>Spot factoring available</span></div></td>
+        <td>
+          <div class="td-provider">
+            <img src="https://logo.clearbit.com/paragonfinancial.net" alt="Paragon" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            Paragon Financial Group <span>Spot factoring available</span></div>
+        </td>
+        <td>Construction, staffing, general</td>
         <td class="td-num">75–90%</td>
         <td class="td-num">1.5–4%</td>
-        <td>Construction, staffing, general</td>
         <td>Yes</td>
         <td class="td-num">$25,000/mo</td>
         <td style="text-align:center"><a href="https://www.paragonfinancial.net/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
@@ -135,7 +149,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">EC</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/ecapital.com" alt="eCapital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">eCapital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -174,7 +188,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">TBC</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/triumphbusiness.com" alt="Triumph Business Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Triumph Business Capital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -213,7 +227,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">RF</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rivierafinance.com" alt="Riviera Finance logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Riviera Finance</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -252,7 +266,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">RTS</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rtsfinancial.com" alt="RTS Financial logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">RTS Financial</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -291,7 +305,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">TCI</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/tcicapital.com" alt="TCI Business Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">TCI Business Capital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -330,7 +344,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">PFG</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/paragonfinancial.net" alt="Paragon Financial Group logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Paragon Financial Group</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -473,19 +487,6 @@ TCI focuses on established businesses (2+ years in operation, $25,000+ monthly) 
 ---
 
 ## Borrower Example
-
-<pre><code>Staffing agency — $100,000/month invoices, eCapital at 1.5% fee / 30 days, 90% advance
-
-  Monthly advance:    $90,000 (within 24 hours)
-  Factoring fee:      $1,500 (1.5% of $100,000 face value)
-  Reserve released:   $8,500 (when customers pay)
-  Effective APR:      ~18%
-
-Same fee (2%) at 60-day customer payment:
-  Monthly cost:       $4,000 ($2,000 × 2 periods)
-  Effective APR:      ~48%
-
-Customer payment speed is the single biggest cost driver.</code></pre>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

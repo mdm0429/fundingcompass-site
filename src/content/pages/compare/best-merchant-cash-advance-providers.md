@@ -47,7 +47,8 @@ With that context, here is an independent assessment of the major providers.
   <table class="comp-table">
     <thead>
       <tr>
-        <th style="min-width:180px">Provider</th>
+        <th style="min-width:220px">Provider</th>
+        <th>Best For</th>
         <th>Factor Rate</th>
         <th>Holdback</th>
         <th>Max Advance</th>
@@ -59,9 +60,10 @@ With that context, here is an independent assessment of the major providers.
     <tbody>
       <tr class="td-pick">
         <td>
-          <div class="td-provider">Credibly <span>Best transparency</span></div>
+          <div class="td-provider"><img src="https://logo.clearbit.com/credibly.com" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly <span>Best transparency</span></div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
+        <td>Businesses that want MCA + LOC comparison and fee transparency</td>
         <td class="td-num">1.15–1.49</td>
         <td class="td-num">10–25%</td>
         <td class="td-num">$400,000</td>
@@ -70,7 +72,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.credibly.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">OnDeck <span>Lowest factor rate floor</span></div></td>
+        <td><div class="td-provider"><img src="https://logo.clearbit.com/ondeck.com" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck <span>Lowest factor rate floor</span></div></td>
+        <td>Established businesses (12+ months, 625+ credit) seeking a regulated lender</td>
         <td class="td-num">1.10–1.40</td>
         <td class="td-num">Varies</td>
         <td class="td-num">$250,000</td>
@@ -79,7 +82,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.ondeck.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Rapid Finance <span>Largest max advance</span></div></td>
+        <td><div class="td-provider"><img src="https://logo.clearbit.com/rapidfinance.com" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance <span>Largest max advance</span></div></td>
+        <td>Established businesses (2+ years) needing larger advances up to $500,000</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
         <td class="td-num">$500,000</td>
@@ -88,7 +92,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.rapidfinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">BFS Capital <span>Accessible industries</span></div></td>
+        <td><div class="td-provider"><img src="https://logo.clearbit.com/bfscapital.com" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital <span>Accessible industries</span></div></td>
+        <td>Lower revenue businesses and industries other MCA providers avoid</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
         <td class="td-num">$500,000</td>
@@ -97,7 +102,8 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.bfscapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider">Greenbox Capital <span>Broad industry coverage</span></div></td>
+        <td><div class="td-provider"><img src="https://logo.clearbit.com/greenboxcapital.com" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital <span>Broad industry coverage</span></div></td>
+        <td>Businesses with $10,000+ monthly revenue seeking broad industry acceptance</td>
         <td class="td-num">1.18–1.48</td>
         <td class="td-num">10–20%</td>
         <td class="td-num">$500,000</td>
@@ -114,7 +120,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">CR</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/credibly.com" alt="Credibly logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Credibly</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -153,7 +159,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">OD</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/ondeck.com" alt="OnDeck logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">OnDeck</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -192,7 +198,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">RF</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rapidfinance.com" alt="Rapid Finance logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Rapid Finance</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -231,7 +237,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">BFS</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/bfscapital.com" alt="BFS Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">BFS Capital</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -270,7 +276,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">GB</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/greenboxcapital.com" alt="Greenbox Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Greenbox Capital</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -386,22 +392,6 @@ BFS Capital (now part of a larger alternative lending group) works with business
 ## Borrower Example
 
 **Scenario:** A restaurant with $40,000/month in card sales needs $30,000 for kitchen equipment repairs.
-
-<pre><code>Restaurant — $40,000/month card sales, $30,000 needed for kitchen equipment repairs
-
-Option A — Credibly MCA (factor rate 1.25, 15% holdback)
-  Total repayment:  $37,500 ($30,000 × 1.25)
-  Daily card sales: ~$1,333
-  Daily deduction:  $200 (15% holdback)
-  Payoff time:      ~188 days
-  Total cost:       $7,500   |   Effective APR: ~55%
-
-Option B — Equipment Financing (Balboa Capital, 12% APR, 36 months)
-  Monthly payment:  $997
-  Total interest:   $5,892
-  Total cost:       $5,892   |   Effective APR: 12%
-
-MCA premium over equipment financing: ~$1,608 more — plus daily cash-flow compression vs. fixed monthly payment</code></pre>
 
 If the restaurant cannot qualify for equipment financing, the MCA may be the only option. Rates depend on credit score, revenue consistency, and existing MCA obligations.
 

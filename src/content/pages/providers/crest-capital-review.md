@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>APR (annual percentage rate)</dt>
-  <dd>Crest Capital publishes starting rates from approximately 5.99% APR for equipment loans, based on lender-published rates as of May 2026. Your actual rate depends on credit score, time in business, equipment type and age, and loan term — stronger profiles receive lower rates.</dd>
-  <dt>Equipment loan</dt>
-  <dd>A Crest Capital equipment loan funds the full purchase of business equipment (up to $500,000), secured by the equipment itself. You own the equipment from day one. Terms run 24–72 months with fixed monthly payments and no prepayment penalty in many cases.</dd>
-  <dt>Operating lease</dt>
-  <dd>Crest Capital's true operating lease lets you use equipment for a set term and return, purchase, or renew at end of term. Unlike a loan or $1 buyout lease, operating leases may keep the asset off your balance sheet — consult your accountant about the impact on your financial statements.</dd>
-  <dt>Section 179</dt>
-  <dd>Equipment loans and $1 buyout leases through Crest Capital typically qualify for the IRS Section 179 deduction, allowing the full equipment cost to be deducted in the year of purchase. The 2026 Section 179 limit is $1,220,000. Consult a tax adviser to confirm eligibility for your specific situation.</dd>
-</dl>
+## Key Terms
+
+### APR (Annual Percentage Rate)
+Crest Capital publishes starting rates from approximately 5.99% APR for equipment loans, based on lender-published rates as of May 2026. Your actual rate depends on credit score, time in business, equipment type and age, and loan term — stronger profiles receive lower rates.
+
+### Equipment Loan
+A Crest Capital equipment loan funds the full purchase of business equipment (up to $500,000), secured by the equipment itself. You own the equipment from day one. Terms run 24–72 months with fixed monthly payments and no prepayment penalty in many cases.
+
+### Operating Lease
+Crest Capital's true operating lease lets you use equipment for a set term and return, purchase, or renew at end of term. Unlike a loan or $1 buyout lease, operating leases may keep the asset off your balance sheet — consult your accountant about the impact on your financial statements.
+
+### Section 179
+Equipment loans and $1 buyout leases through Crest Capital typically qualify for the IRS Section 179 deduction, allowing the full equipment cost to be deducted in the year of purchase. The 2026 Section 179 limit is $1,220,000. Consult a tax adviser to confirm eligibility for your specific situation.
 
 ## Summary Verdict
 

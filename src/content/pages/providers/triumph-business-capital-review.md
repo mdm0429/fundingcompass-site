@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance rate</dt>
-  <dd>The percentage of the invoice value Triumph pays you immediately. Triumph advances up to 100% (minus the factoring fee) for approved broker and shipper invoices — the highest published advance rate in trucking factoring.</dd>
-  <dt>Non-recourse factoring</dt>
-  <dd>Triumph's non-recourse option means that if an approved broker or shipper becomes insolvent and cannot pay, Triumph absorbs the loss rather than charging the invoice back to you. Non-recourse protection applies to credit risk (debtor insolvency) only — not to service disputes or short-pays.</dd>
-  <dt>TriumphPay</dt>
-  <dd>Triumph's proprietary broker payment network, used by 1,000+ freight brokers to verify and pay carrier invoices directly. When your broker is on TriumphPay, Triumph can fund your invoice the same day without waiting for broker confirmation or manual payment processing.</dd>
-  <dt>Recourse factoring</dt>
-  <dd>Triumph's lower-cost option where you remain liable if a broker does not pay. If a broker defaults after the recourse period (typically 90 days), the invoice is charged back to your reserve account. Best for carriers with established relationships with creditworthy, well-known brokers.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value Triumph pays you immediately. Triumph advances up to 100% (minus the factoring fee) for approved broker and shipper invoices — the highest published advance rate in trucking factoring.
+
+### Non-Recourse Factoring
+Triumph's non-recourse option means that if an approved broker or shipper becomes insolvent and cannot pay, Triumph absorbs the loss rather than charging the invoice back to you. Non-recourse protection applies to credit risk (debtor insolvency) only — not to service disputes or short-pays.
+
+### TriumphPay
+Triumph's proprietary broker payment network, used by 1,000+ freight brokers to verify and pay carrier invoices directly. When your broker is on TriumphPay, Triumph can fund your invoice the same day without waiting for broker confirmation or manual payment processing.
+
+### Recourse Factoring
+Triumph's lower-cost option where you remain liable if a broker does not pay. If a broker defaults after the recourse period (typically 90 days), the invoice is charged back to your reserve account. Best for carriers with established relationships with creditworthy, well-known brokers.
 
 ## Summary Verdict
 

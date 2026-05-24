@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the freight invoice value OTR Solutions pays you upfront. OTR Solutions advances up to 97% of each invoice's face value on the same day you deliver the load.</dd>
-  <dt>Recourse Factoring</dt>
-  <dd>OTR Solutions primarily uses recourse factoring — meaning you remain liable if a broker or shipper does not pay. If a broker becomes insolvent, OTR Solutions may require you to buy back the invoice. Non-recourse is available on select accounts; confirm at application.</dd>
-  <dt>Spot Factoring</dt>
-  <dd>The ability to factor individual freight invoices without a long-term contract. OTR Solutions offers month-to-month contracts with no minimum volume, making spot factoring practical for owner-operators with variable load schedules.</dd>
-  <dt>UCC-1</dt>
-  <dd>UCC-1 (a public lien notice filed against your business assets) that OTR Solutions files to establish its security interest in your receivables. This is standard for all factoring arrangements and is visible in public records.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the freight invoice value OTR Solutions pays you upfront. OTR Solutions advances up to 97% of each invoice's face value on the same day you deliver the load.
+
+### Recourse Factoring
+OTR Solutions primarily uses recourse factoring — meaning you remain liable if a broker or shipper does not pay. If a broker becomes insolvent, OTR Solutions may require you to buy back the invoice. Non-recourse is available on select accounts; confirm at application.
+
+### Spot Factoring
+The ability to factor individual freight invoices without a long-term contract. OTR Solutions offers month-to-month contracts with no minimum volume, making spot factoring practical for owner-operators with variable load schedules.
+
+### UCC-1
+A public lien notice filed against your business assets that OTR Solutions files to establish its security interest in your receivables. This is standard for all factoring arrangements and is visible in public records.
 
 ## Summary Verdict
 

@@ -615,14 +615,22 @@ blockquote {
   box-shadow: var(--shadow-md);
 }
 
-/* Accent — amber CTA (apply buttons) */
-.btn--accent {
+/* Accent — amber CTA (apply buttons).
+   High-specificity selector ensures #fff wins over .prose a colour rule. */
+.btn--accent,
+a.btn--accent,
+.prose a.btn--accent,
+article a.btn--accent {
   background: var(--color-accent-500);
   color: #fff;
 }
-.btn--accent:hover {
+.btn--accent:hover,
+a.btn--accent:hover,
+.prose a.btn--accent:hover,
+article a.btn--accent:hover {
   background: var(--color-accent-600);
   box-shadow: 0 4px 14px rgba(200,120,48,0.3);
+  color: #fff;
 }
 
 /* Soft — ghost on brand-tinted bg */

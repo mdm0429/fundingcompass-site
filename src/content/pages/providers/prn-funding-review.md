@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the invoice value PRN Funding pays you upfront. PRN Funding advances up to 80% of healthcare invoice face value — lower than the 90–97% typical for general commercial invoices because insurance adjustments make the final payment amount uncertain until the Explanation of Benefits (EOB) is received.</dd>
-  <dt>Recourse Factoring</dt>
-  <dd>PRN Funding uses recourse factoring — you remain liable if an insurer denies a claim. Claim denials are typically treated as recourse situations because they often result from provider-side issues (credentialing gaps, incomplete documentation) rather than payer insolvency.</dd>
-  <dt>HIPAA Business Associate Agreement (BAA)</dt>
-  <dd>A required legal agreement between PRN Funding and your healthcare business that governs the handling of Protected Health Information (PHI) in connection with healthcare receivables. PRN Funding executes a BAA as part of its factoring agreement — required before any healthcare billing data can be shared.</dd>
-  <dt>Payer Mix</dt>
-  <dd>The composition of your healthcare billing by payer type — Medicare, Medicaid, private insurance, managed care, and self-pay. PRN Funding evaluates your payer mix to determine eligibility and set rates; businesses with predominantly self-pay (cash-paying patient) revenue are generally not eligible.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value PRN Funding pays you upfront. PRN Funding advances up to 80% of healthcare invoice face value — lower than the 90–97% typical for general commercial invoices because insurance adjustments make the final payment amount uncertain until the Explanation of Benefits (EOB) is received.
+
+### Recourse Factoring
+PRN Funding uses recourse factoring — you remain liable if an insurer denies a claim. Claim denials are typically treated as recourse situations because they often result from provider-side issues (credentialing gaps, incomplete documentation) rather than payer insolvency.
+
+### HIPAA Business Associate Agreement (BAA)
+A required legal agreement between PRN Funding and your healthcare business that governs the handling of Protected Health Information (PHI) in connection with healthcare receivables. PRN Funding executes a BAA as part of its factoring agreement — required before any healthcare billing data can be shared.
+
+### Payer Mix
+The composition of your healthcare billing by payer type — Medicare, Medicaid, private insurance, managed care, and self-pay. PRN Funding evaluates your payer mix to determine eligibility and set rates; businesses with predominantly self-pay (cash-paying patient) revenue are generally not eligible.
 
 ## Summary Verdict
 

@@ -62,16 +62,19 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance Rate</dt>
-  <dd>The percentage of the invoice value paid to you upfront. BlueVine's factoring product (now discontinued) advanced up to 90% — lower than the 95–97% offered by most active factoring providers. BlueVine's current line of credit advances up to 100% of the draw amount from your credit limit.</dd>
-  <dt>Revolving Credit</dt>
-  <dd>A credit facility where you draw funds, repay them, and the available balance restores for future use. BlueVine's LOC (line of credit) is a revolving credit product — you draw up to $250,000, repay over a draw period, and the line becomes available again.</dd>
-  <dt>Draw Period</dt>
-  <dd>The term over which you repay a single draw from a line of credit. BlueVine's line of credit draw terms vary by product tier; each draw is repaid in fixed weekly or monthly instalments over the draw period.</dd>
-  <dt>Factor Rate</dt>
-  <dd>The multiplier applied to a financed amount to determine total repayment — distinct from APR. BlueVine's historical factoring product used a weekly fee structure (0.25–1.7%/week); to compare to a monthly factor rate, multiply the weekly rate by 4.3.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value paid to you upfront. BlueVine's factoring product (now discontinued) advanced up to 90% — lower than the 95–97% offered by most active factoring providers. BlueVine's current line of credit advances up to 100% of the draw amount from your credit limit.
+
+### Revolving Credit
+A credit facility where you draw funds, repay them, and the available balance restores for future use. BlueVine's LOC (line of credit) is a revolving credit product — you draw up to $250,000, repay over a draw period, and the line becomes available again.
+
+### Draw Period
+The term over which you repay a single draw from a line of credit. BlueVine's line of credit draw terms vary by product tier; each draw is repaid in fixed weekly or monthly instalments over the draw period.
+
+### Factor Rate
+The multiplier applied to a financed amount to determine total repayment — distinct from APR. BlueVine's historical factoring product used a weekly fee structure (0.25–1.7%/week); to compare to a monthly factor rate, multiply the weekly rate by 4.3.
 
 ## BlueVine's Product Shift — What You Need to Know First
 

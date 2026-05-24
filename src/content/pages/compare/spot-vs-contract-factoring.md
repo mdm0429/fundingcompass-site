@@ -28,16 +28,6 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Spot factoring (also called selective factoring) lets you submit individual invoices to a factor on a transaction-by-transaction basis — no minimum volume, no long-term contract. Contract factoring requires you to factor all invoices (or a minimum monthly volume) from agreed customers over a defined contract period, typically 12 months. Contract factoring costs less per invoice; spot accounts receivable factoring costs more but gives you complete flexibility.
 
-<dl>
-  <dt>Spot Factoring (Selective Factoring)</dt>
-  <dd>Factoring individual invoices on demand with no contract, no minimum volume, and no long-term commitment. Carries a fee premium of 0.5–1.5% per 30-day period over contract rates. Best for businesses with seasonal or irregular invoice volumes.</dd>
-  <dt>Contract Factoring</dt>
-  <dd>A 12-month (typical) factoring agreement committing you to factor all invoices from specified customers, or a minimum monthly volume. Offers lower per-invoice rates — typically 0.5–1.5% per period cheaper than spot. May include termination fees of 1–3% of contracted monthly volume if you exit early.</dd>
-  <dt>Minimum Volume Fee</dt>
-  <dd>A fee charged when your actual factoring volume falls below the contracted minimum. If your contract specifies $25,000/month and you only factor $10,000, the factor charges a fee on the $15,000 shortfall — even though you received no advance on it.</dd>
-  <dt>Factor Rate</dt>
-  <dd>The factoring fee expressed as a percentage per billing period (usually per 30 days). A 2% factor rate on a $50,000 invoice costs $1,000 per 30-day period. Rates depend on credit score, customer creditworthiness, and term length.</dd>
-</dl>
 
 <div class="stat-grid stat-grid--2">
   <div class="stat-card">
@@ -83,6 +73,31 @@ Spot factoring (also called selective factoring) lets you submit individual invo
 
 ---
 
+## Key Terms
+
+### Spot Factoring
+Factoring individual invoices on demand with no contract, no minimum volume, and no long-term commitment. Also called selective factoring; carries a fee premium of 0.5–1.5% per 30-day period over contract rates.
+
+### Contract Factoring
+A factoring agreement — typically 12 months — committing you to factor all invoices from specified customers, or a minimum monthly volume. Offers lower per-invoice rates but may include termination fees of 1–3% of contracted monthly volume if you exit early.
+
+### Advance Rate
+The percentage of an invoice's face value you receive upfront. Typical advance rates run 80–97% for both spot and contract factoring; the remaining balance (minus fees) is released from the reserve when your customer pays.
+
+### Factoring Fee
+The cost charged per billing period (usually per 30 days) on the invoice face value. Spot factoring fees run 0.5–1.5% higher per period than contract rates; the exact fee depends on customer creditworthiness, invoice size, and volume commitment.
+
+### Reserve Account
+The portion of the invoice value held back by the factor until your customer pays. If your advance rate is 90%, the factor holds 10% in reserve; when the customer pays, the reserve (minus the factoring fee) is released to you.
+
+### Notice of Assignment
+A notice sent to your customers when you factor their invoices, directing payment to the factor instead of you. Required in both spot and contract factoring; some customers may have assignment restrictions in their contracts, so verify before factoring.
+
+### Minimum Volume Commitment
+The contractual floor on monthly invoice volume in a contract factoring agreement. If your actual volume falls below the minimum (e.g., $25,000/month), the factor charges a shortfall fee on the gap — even though you received no advance on the missing volume.
+
+---
+
 ## Which Should You Choose?
 
 **Choose spot factoring if:** your invoice volume varies significantly month-to-month (seasonal businesses, project-based companies), you want to test a factor before committing to a 12-month agreement, you only need factoring 3–4 times per year, or you have a single large invoice you want to factor without entering an ongoing relationship. Spot factoring premium of 0.5–1.5% per period is cheaper than paying contract minimums in slow months.
@@ -116,17 +131,6 @@ Spot factoring (also called selective factoring) lets you submit individual invo
 ## Cost Comparison — Annual Fees
 
 A business factors $50,000/month in invoices with 30-day customer payment.
-
-<pre><code>Annual Fee Comparison — $50,000/month, 30-day customer payment
-
-                      Spot Factoring    Contract Factoring
-  Fee rate:           2.5%/30 days      2.0%/30 days
-  Monthly fee:        $1,250            $1,000
-  Annual fee:         $15,000           $12,000
-  Annual saving:      —                 $3,000
-
-  Risk: if volume drops below minimum in any month, shortfall fees
-  can eliminate the annual saving entirely — model your slowest months.</code></pre>
 
 <div class="comp-table-wrap">
   <table class="comp-table">

@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
-  <dd>Rapid Finance does not publish its MCA factor rates publicly. Industry benchmarks for this market segment run 1.15–1.45. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total. Your specific rate is disclosed only after applying.</dd>
-  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
-  <dd>For Rapid Finance MCAs, a holdback of typically 10–20% of your daily card sales is collected until the purchased amount is repaid. Repayment speed — and therefore effective APR — varies with your card sales volume.</dd>
-  <dt>Effective APR (annual percentage rate)</dt>
-  <dd>Effective APR for Rapid Finance MCAs runs 40–200%+ depending on repayment speed. The shorter the repayment period (driven by higher card sales), the higher the annualized rate — even though the total dollar cost stays fixed.</dd>
-  <dt>Daily ACH</dt>
-  <dd>Rapid Finance's small business loans use fixed daily ACH repayment rather than a revenue holdback. This makes repayment predictable but removes the natural flex of MCA repayment during slow revenue periods.</dd>
-</dl>
+## Key Terms
+
+### Factor Rate
+The multiplier applied to your advance to determine total repayment. Rapid Finance does not publish its MCA factor rates publicly. Industry benchmarks for this market segment run 1.15–1.45. A $100,000 advance at a 1.30 factor rate means you repay $130,000 total. Your specific rate is disclosed only after applying.
+
+### Daily Holdback
+The fixed percentage of daily sales deducted for repayment. For Rapid Finance MCAs, a holdback of typically 10–20% of your daily card sales is collected until the purchased amount is repaid. Repayment speed — and therefore effective APR — varies with your card sales volume.
+
+### Effective APR (Annual Percentage Rate)
+Effective APR for Rapid Finance MCAs runs 40–200%+ depending on repayment speed. The shorter the repayment period (driven by higher card sales), the higher the annualized rate — even though the total dollar cost stays fixed.
+
+### Daily ACH
+Rapid Finance's small business loans use fixed daily ACH repayment rather than a revenue holdback. This makes repayment predictable but removes the natural flex of MCA repayment during slow revenue periods.
 
 ## Summary Verdict
 

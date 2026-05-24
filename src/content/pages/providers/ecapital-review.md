@@ -63,16 +63,19 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Advance rate</dt>
-  <dd>The percentage of the invoice value paid to you upfront. eCapital advances up to 97% for freight invoices and up to 90% for general B2B — among the highest published rates in the industry.</dd>
-  <dt>Recourse factoring</dt>
-  <dd>A factoring arrangement where you remain responsible if your customer does not pay. eCapital is recourse-only — if a broker becomes insolvent, the invoice is charged back against your reserve and you bear the loss.</dd>
-  <dt>UCC-1 (a public lien notice filed against your assets)</dt>
-  <dd>When you factor with eCapital, they file a UCC-1 lien on your accounts receivable. This prevents you from pledging the same receivables to another lender simultaneously.</dd>
-  <dt>Factor rate</dt>
-  <dd>The fee eCapital charges per 30-day period. eCapital's published floor is 0.69% per 30 days; most accounts pay 1–2% per 30 days for freight and 1.5–2.5% for general B2B.</dd>
-</dl>
+## Key Terms
+
+### Advance Rate
+The percentage of the invoice value paid to you upfront. eCapital advances up to 97% for freight invoices and up to 90% for general B2B — among the highest published rates in the industry.
+
+### Recourse Factoring
+A factoring arrangement where you remain responsible if your customer does not pay. eCapital is recourse-only — if a broker becomes insolvent, the invoice is charged back against your reserve and you bear the loss.
+
+### UCC-1
+A public lien notice filed against your assets. When you factor with eCapital, they file a UCC-1 lien on your accounts receivable. This prevents you from pledging the same receivables to another lender simultaneously.
+
+### Factor Rate
+The fee eCapital charges per 30-day period. eCapital's published floor is 0.69% per 30 days; most accounts pay 1–2% per 30 days for freight and 1.5–2.5% for general B2B.
 
 ## eCapital at a Glance
 

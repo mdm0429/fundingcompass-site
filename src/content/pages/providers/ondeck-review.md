@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>APR (annual percentage rate)</dt>
-  <dd>OnDeck's term loans and lines of credit carry APRs of 29–97%, based on lender-published rates as of May 2026. APR includes interest and origination fees, making it the most accurate basis for comparing loan costs across lenders.</dd>
-  <dt>Origination fee</dt>
-  <dd>OnDeck charges 0–4% of the loan amount as an origination fee, depending on your credit profile and product. This fee is deducted from the funded amount and is included in the APR calculation — confirm the exact fee in your offer before signing.</dd>
-  <dt>Draw period</dt>
-  <dd>For OnDeck's LOC (line of credit), the draw period is the window during which you can borrow against your credit limit. Each draw has its own repayment schedule; you can draw again as you repay.</dd>
-  <dt>Prepayment penalty</dt>
-  <dd>OnDeck does not charge a prepayment penalty on its term loans — early payoff reduces your total interest cost. However, the origination fee is already deducted upfront. Confirm the prepayment terms for the specific product in your offer.</dd>
-</dl>
+## Key Terms
+
+### APR (Annual Percentage Rate)
+OnDeck's term loans and lines of credit carry APRs of 29–97%, based on lender-published rates as of May 2026. APR includes interest and origination fees, making it the most accurate basis for comparing loan costs across lenders.
+
+### Origination Fee
+OnDeck charges 0–4% of the loan amount as an origination fee, depending on your credit profile and product. This fee is deducted from the funded amount and is included in the APR calculation — confirm the exact fee in your offer before signing.
+
+### Draw Period
+For OnDeck's LOC (line of credit), the draw period is the window during which you can borrow against your credit limit. Each draw has its own repayment schedule; you can draw again as you repay.
+
+### Prepayment Penalty
+OnDeck does not charge a prepayment penalty on its term loans — early payoff reduces your total interest cost. However, the origination fee is already deducted upfront. Confirm the prepayment terms for the specific product in your offer.
 
 ## Summary Verdict
 

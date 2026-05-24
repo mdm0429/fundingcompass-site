@@ -63,16 +63,19 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
   </div>
 </div>
 
-<dl>
-  <dt>Factor rate (the multiplier applied to your advance to determine total repayment)</dt>
-  <dd>Greenbox Capital's published factor rate range is 1.18–1.48. A $50,000 advance at a 1.30 factor rate means you repay $65,000 total — $15,000 in fees. Higher factor rates result in proportionally higher total costs.</dd>
-  <dt>Daily holdback (the fixed percentage of daily sales deducted for repayment)</dt>
-  <dd>Greenbox Capital collects a fixed holdback percentage of your daily card sales until the purchased receivables amount is fully repaid. If daily sales average $2,000 and holdback is 15%, you pay $300/day. Slower sales days mean smaller payments — and a longer repayment period.</dd>
-  <dt>Effective APR (annual percentage rate)</dt>
-  <dd>At a 1.30 factor rate, effective APR ranges from approximately 120% (3-month repayment) to 30% (12-month repayment). The same total dollar cost produces a higher annualized rate when repaid faster. Use the MCA True Cost Calculator to model your specific scenario.</dd>
-  <dt>Daily ACH</dt>
-  <dd>Greenbox's short-term business funding product uses fixed daily ACH debits rather than a revenue-based holdback. Payment amounts do not flex with your sales — unlike the MCA product, this carries fixed repayment risk during slow periods.</dd>
-</dl>
+## Key Terms
+
+### Factor Rate
+The multiplier applied to your advance to determine total repayment. Greenbox Capital's published factor rate range is 1.18–1.48. A $50,000 advance at a 1.30 factor rate means you repay $65,000 total — $15,000 in fees. Higher factor rates result in proportionally higher total costs.
+
+### Daily Holdback
+The fixed percentage of daily sales deducted for repayment. Greenbox Capital collects a fixed holdback percentage of your daily card sales until the purchased receivables amount is fully repaid. If daily sales average $2,000 and holdback is 15%, you pay $300/day. Slower sales days mean smaller payments — and a longer repayment period.
+
+### Effective APR (Annual Percentage Rate)
+At a 1.30 factor rate, effective APR ranges from approximately 120% (3-month repayment) to 30% (12-month repayment). The same total dollar cost produces a higher annualized rate when repaid faster. Use the MCA True Cost Calculator to model your specific scenario.
+
+### Daily ACH
+Greenbox's short-term business funding product uses fixed daily ACH debits rather than a revenue-based holdback. Payment amounts do not flex with your sales — unlike the MCA product, this carries fixed repayment risk during slow periods.
 
 ## Summary Verdict
 
