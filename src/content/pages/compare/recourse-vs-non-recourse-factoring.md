@@ -162,18 +162,27 @@ Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That
   </table>
 </div>
 
-<div class="callout callout--tip">
-  <strong class="callout__title">Example Calculation</strong>
-  <div class="callout__body">
-    <p><strong>Scenario:</strong> Business factors $100,000/month — comparing recourse vs. non-recourse cost at 1% premium</p>
-    <ul>
-      <li>Monthly invoice volume: $100,000</li>
-      <li>Non-recourse premium: 1% per 30-day period = $1,000/month extra</li>
-      <li>Annual extra cost: $12,000</li>
-      <li>Effective APR: Break-even point — the premium is worth it only if expected annual customer insolvency losses exceed $12,000</li>
-    </ul>
-  </div>
-</div>
+<pre><code>Same invoice pool, same advance rate, two risk structures.
+Invoice pool: $100,000/month, net-30, 90% advance.
+
+Recourse Factoring
+  Fee rate:             1.5%/30 days
+  Monthly advance:      $90,000
+  Monthly fee:          $1,500
+  Risk:                 You bear loss if customer defaults (chargeback after 90 days)
+  Effective APR:        ~18%
+
+Non-Recourse Factoring
+  Fee rate:             2.5%/30 days (+1% premium)
+  Monthly advance:      $90,000
+  Monthly fee:          $2,500
+  Risk:                 Factor absorbs loss if customer is legally insolvent
+  Effective APR:        ~30%
+
+Premium cost: $1,000/month ($12,000/year) for non-recourse protection.
+Break-even: 1 customer insolvency of ~$12,000+ per year justifies the premium.
+Note: non-recourse does NOT protect against invoice disputes — only insolvency.
+</code></pre>
 
 Non-recourse is worth this premium in specific situations:
 

@@ -146,18 +146,28 @@ At 30-day customer payment, factoring fees halve ($2,400) and the gap narrows to
 
 The longer your customers take to pay, the more expensive factoring becomes relative to a line of credit at the same APR.
 
-<div class="callout callout--tip">
-  <strong class="callout__title">Example Calculation</strong>
-  <div class="callout__body">
-    <p><strong>Scenario:</strong> Business needs $100,000 for 60 days against $120,000 in outstanding invoices — factoring vs. LOC</p>
-    <ul>
-      <li>Invoice Factoring: 90% advance rate, 2% fee × 2 periods = $4,800 total cost</li>
-      <li>Business Line of Credit: $100,000 drawn at 15% APR for 60 days = $2,466 total cost</li>
-      <li>Net received after factoring fee: $103,200 advance plus ~$7,200 reserve at customer payment</li>
-      <li>Effective APR: The LOC saves $2,334 in this 60-day scenario — gap widens to $4,734 at 90-day payment</li>
-    </ul>
-  </div>
-</div>
+<pre><code>Same business, same capital need, two different products.
+Business: consulting firm with $80,000 outstanding invoices, needs $60,000 working capital.
+
+Option A — Invoice Factoring
+  Invoice pool:         $80,000 outstanding (net-30)
+  Advance rate:         90% = $72,000 available
+  Amount drawn:         $60,000
+  Fee:                  1.75%/30 days on $60,000 = $1,050
+  Total cost:           $1,050    |   Effective APR: ~21%
+
+Option B — Business Line of Credit
+  Credit limit:         $75,000 revolving
+  Amount drawn:         $60,000
+  Annual interest rate: 12% APR
+  Interest for 30 days: $60,000 × 12% / 12 = $600
+  Origination fee:      $500 (one-time, year 1)
+  Total cost (month 1): $1,100    |   Effective APR: ~22% (incl. origination)
+
+After month 1 (no origination fee):
+  LOC monthly cost:     $600    |   Factoring monthly cost: $1,050
+  LOC is cheaper by $450/month once the line is established.
+</code></pre>
 
 ---
 

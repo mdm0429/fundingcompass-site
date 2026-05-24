@@ -27,7 +27,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/otrsolutions.com" alt="OTR Solutions logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/otr.svg" alt="OTR Solutions logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">OTR Solutions</div>
         <div class="cta-unit__category">Invoice Factoring</div>

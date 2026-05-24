@@ -27,7 +27,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/tcicapital.com" alt="TCI Business Capital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/tci.svg" alt="TCI Business Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">TCI Business Capital</div>
         <div class="cta-unit__category">Invoice Factoring</div>

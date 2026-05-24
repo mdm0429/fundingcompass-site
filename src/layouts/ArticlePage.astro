@@ -1,7 +1,6 @@
 ---
 import Layout from './Layout.astro';
 import { extractFaqs } from '../utils/faq';
-import { heroUrl } from '../utils/pageImage';
 import type { CollectionEntry } from 'astro:content';
 
 export interface Props {
@@ -14,10 +13,6 @@ const fm = entry.data;
 const { Content } = await entry.render();
 
 const faqItems = fm.schema?.includes('FAQPage') ? extractFaqs(entry.body) : [];
-
-// Show hero image only on guides, industries, and tools pages
-const canonicalPath = fm.canonical.replace('https://fundingcompass.guide/', '');
-const showHero = ['guides/', 'industries/', 'tools/'].some(prefix => canonicalPath.startsWith(prefix));
 ---
 
 <Layout
@@ -38,18 +33,6 @@ const showHero = ['guides/', 'industries/', 'tools/'].some(prefix => canonicalPa
   </nav>
 
   <article>
-    {showHero && (
-      <figure class="article-hero">
-        <img
-          src={heroUrl(fm.canonical)}
-          alt={fm.title}
-          width="1400"
-          height="320"
-          loading="eager"
-          decoding="async"
-        />
-      </figure>
-    )}
     {fm.last_reviewed && (
       <div class="article-meta">
         <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>

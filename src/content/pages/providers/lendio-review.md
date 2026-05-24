@@ -27,7 +27,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/lendio.com" alt="Lendio logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/lendio.svg" alt="Lendio logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Lendio</div>
         <div class="cta-unit__category">Loan Marketplace</div>

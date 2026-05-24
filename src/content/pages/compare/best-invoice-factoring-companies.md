@@ -64,7 +64,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr class="td-pick">
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/ecapital.com" alt="eCapital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/ecapital.svg" alt="eCapital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             eCapital <span>Freight &amp; B2B</span></div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
@@ -78,7 +78,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr>
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/triumphbusiness.com" alt="Triumph" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/triumph.svg" alt="Triumph" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Triumph Business Capital <span>Multi-industry</span></div>
         </td>
         <td>Freight, staffing, healthcare</td>
@@ -91,7 +91,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr>
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/rivierafinance.com" alt="Riviera Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/riviera.svg" alt="Riviera Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Riviera Finance <span>Non-recourse specialist</span></div>
         </td>
         <td>Manufacturing, distribution, construction</td>
@@ -104,7 +104,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr>
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/rtsfinancial.com" alt="RTS Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/rts.svg" alt="RTS Financial" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             RTS Financial <span>Freight only, no minimums</span></div>
         </td>
         <td>Freight only</td>
@@ -117,7 +117,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr>
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/tcicapital.com" alt="TCI" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/tci.svg" alt="TCI" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             TCI Business Capital <span>Established B2B</span></div>
         </td>
         <td>General B2B, staffing, construction</td>
@@ -130,7 +130,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
       <tr>
         <td>
           <div class="td-provider">
-            <img src="https://logo.clearbit.com/paragonfinancial.net" alt="Paragon" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
+            <img src="/logos/paragon.svg" alt="Paragon" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">
             Paragon Financial Group <span>Spot factoring available</span></div>
         </td>
         <td>Construction, staffing, general</td>
@@ -144,12 +144,12 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
   </table>
 </div>
 
-<p style="font-size:0.75rem;color:var(--text-tertiary)"><i class="ti ti-info-circle"></i> Rates verified May 2026. Actual rates depend on invoice volume, customer creditworthiness, and individual account terms. We may earn a referral fee when you apply through our links.</p>
+<p style="font-size:0.75rem;color:var(--text-tertiary)">Rates verified May 2026. Actual rates depend on invoice volume, customer creditworthiness, and individual account terms. We may earn a referral fee when you apply through our links.</p>
 
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/ecapital.com" alt="eCapital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/ecapital.svg" alt="eCapital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">eCapital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -188,7 +188,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/triumphbusiness.com" alt="Triumph Business Capital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/triumph.svg" alt="Triumph Business Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Triumph Business Capital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -227,7 +227,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rivierafinance.com" alt="Riviera Finance logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/riviera.svg" alt="Riviera Finance logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Riviera Finance</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -266,7 +266,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rtsfinancial.com" alt="RTS Financial logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/rts.svg" alt="RTS Financial logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">RTS Financial</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -305,7 +305,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/tcicapital.com" alt="TCI Business Capital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/tci.svg" alt="TCI Business Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">TCI Business Capital</div>
         <div class="cta-unit__category">Invoice Factoring</div>
@@ -344,7 +344,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/paragonfinancial.net" alt="Paragon Financial Group logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/paragon.svg" alt="Paragon Financial Group logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Paragon Financial Group</div>
         <div class="cta-unit__category">Invoice Factoring</div>

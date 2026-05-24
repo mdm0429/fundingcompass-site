@@ -60,7 +60,7 @@ With that context, here is an independent assessment of the major providers.
     <tbody>
       <tr class="td-pick">
         <td>
-          <div class="td-provider"><img src="https://logo.clearbit.com/credibly.com" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly <span>Best transparency</span></div>
+          <div class="td-provider"><img src="/logos/credibly.svg" alt="Credibly" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Credibly <span>Best transparency</span></div>
           <span class="badge badge--pick" style="margin-top:4px"><i class="ti ti-star-filled"></i> #1</span>
         </td>
         <td>Businesses that want MCA + LOC comparison and fee transparency</td>
@@ -72,7 +72,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.credibly.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="https://logo.clearbit.com/ondeck.com" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck <span>Lowest factor rate floor</span></div></td>
+        <td><div class="td-provider"><img src="/logos/ondeck.svg" alt="OnDeck" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">OnDeck <span>Lowest factor rate floor</span></div></td>
         <td>Established businesses (12+ months, 625+ credit) seeking a regulated lender</td>
         <td class="td-num">1.10–1.40</td>
         <td class="td-num">Varies</td>
@@ -82,7 +82,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.ondeck.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="https://logo.clearbit.com/rapidfinance.com" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance <span>Largest max advance</span></div></td>
+        <td><div class="td-provider"><img src="/logos/rapid.svg" alt="Rapid Finance" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Rapid Finance <span>Largest max advance</span></div></td>
         <td>Established businesses (2+ years) needing larger advances up to $500,000</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
@@ -92,7 +92,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.rapidfinance.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="https://logo.clearbit.com/bfscapital.com" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital <span>Accessible industries</span></div></td>
+        <td><div class="td-provider"><img src="/logos/bfs.svg" alt="BFS Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">BFS Capital <span>Accessible industries</span></div></td>
         <td>Lower revenue businesses and industries other MCA providers avoid</td>
         <td class="td-num">1.15–1.45</td>
         <td class="td-num">10–20%</td>
@@ -102,7 +102,7 @@ With that context, here is an independent assessment of the major providers.
         <td style="text-align:center"><a href="https://www.bfscapital.com/" class="btn btn--accent btn--sm" target="_blank" rel="nofollow noopener">Apply <i class="ti ti-arrow-right"></i></a></td>
       </tr>
       <tr>
-        <td><div class="td-provider"><img src="https://logo.clearbit.com/greenboxcapital.com" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital <span>Broad industry coverage</span></div></td>
+        <td><div class="td-provider"><img src="/logos/greenbox.svg" alt="Greenbox Capital" width="28" height="28" style="border-radius:4px;vertical-align:middle;margin-right:8px;">Greenbox Capital <span>Broad industry coverage</span></div></td>
         <td>Businesses with $10,000+ monthly revenue seeking broad industry acceptance</td>
         <td class="td-num">1.18–1.48</td>
         <td class="td-num">10–20%</td>
@@ -115,12 +115,12 @@ With that context, here is an independent assessment of the major providers.
   </table>
 </div>
 
-<p style="font-size:0.75rem;color:var(--text-tertiary)"><i class="ti ti-info-circle"></i> Rates verified May 2026. Lower factor rates require longer business history, consistent revenue, and no current MCA obligations. We may earn a referral fee when you apply through our links.</p>
+<p style="font-size:0.75rem;color:var(--text-tertiary)">Rates verified May 2026. Lower factor rates require longer business history, consistent revenue, and no current MCA obligations. We may earn a referral fee when you apply through our links.</p>
 
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/credibly.com" alt="Credibly logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/credibly.svg" alt="Credibly logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Credibly</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -159,7 +159,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/ondeck.com" alt="OnDeck logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/ondeck.svg" alt="OnDeck logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">OnDeck</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -198,7 +198,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rapidfinance.com" alt="Rapid Finance logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/rapid.svg" alt="Rapid Finance logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Rapid Finance</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -237,7 +237,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/bfscapital.com" alt="BFS Capital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/bfs.svg" alt="BFS Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">BFS Capital</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>
@@ -276,7 +276,7 @@ With that context, here is an independent assessment of the major providers.
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/greenboxcapital.com" alt="Greenbox Capital logo" loading="lazy" width="48" height="48"></div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="/logos/greenbox.svg" alt="Greenbox Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Greenbox Capital</div>
         <div class="cta-unit__category">Merchant Cash Advance</div>

@@ -37,6 +37,9 @@ This glossary defines 40 terms that appear in factoring agreements, equipment lo
 <dt>Advance Rate</dt>
 <dd>The percentage of an invoice's face value that a factor pays you immediately upon purchasing the invoice. Typical advance rates: 80–90% for general commercial invoices, up to 97% for trucking freight invoices, 70–85% for construction and healthcare. The remaining balance is held in a reserve account and released minus fees once your customer pays. A higher advance rate is not always better — it depends on your cash needs relative to your fee cost.</dd>
 
+<dt>APR (Annual Percentage Rate)</dt>
+<dd>The annualised cost of borrowing expressed as a yearly percentage, including interest and mandatory fees. APR is the standard unit for comparing financing products that quote cost differently — equipment loan rates, SBA loan rates, and business line of credit rates are all expressed as APR. Products such as merchant cash advances (factor rates) and invoice factoring (per-period fees) must be converted to APR for a true cost comparison. Equipment financing APRs range from 5.5–18% for qualified borrowers; SBA 7(a) loans run approximately 9.5–12% APR; business lines of credit range from 8–30% APR.</dd>
+
 <dt>Accounts Receivable (A/R)</dt>
 <dd>Money owed to your business for goods or services already delivered but not yet paid for. Accounts receivable appear as a current asset on your balance sheet. In the context of business financing, A/R is the asset being financed in both invoice factoring (sold) and accounts receivable financing (used as collateral for a loan). The quality of your A/R — how creditworthy your customers are, how quickly they pay — determines your financing options and cost.</dd>
 
@@ -66,8 +69,14 @@ This glossary defines 40 terms that appear in factoring agreements, equipment lo
 
 Daily factor rates are useful for comparing MCAs with different terms, but estimates depend on assumed repayment duration — which is not guaranteed.</dd>
 
+<dt>Daily Holdback</dt>
+<dd>The fixed percentage of a business's daily credit card or debit card sales automatically deducted by a merchant cash advance provider to collect repayment. Typical daily holdback rates run 10–25%. Because the holdback is a percentage of sales rather than a fixed dollar amount, repayment slows automatically in low-revenue periods and accelerates in high-revenue periods — this flexibility is one of the primary arguments MCA providers make for their product. (Common misconception: all MCAs use holdback-based collection — some providers have shifted to fixed daily ACH debits, which eliminate this flexibility entirely. Confirm which method applies before signing.)</dd>
+
 <dt>Debenture</dt>
 <dd>In the SBA 504 loan context, the debenture is the bond issued by the Certified Development Company (CDC) to fund the SBA's 40% portion of a 504 project. SBA 504 debenture rates are fixed, set monthly, and typically range from 5.5–7% — lower than conventional equipment loan rates. The debenture is separate from the conventional lender's 50% portion, which carries market rates. When you see "SBA 504 debenture rate," it refers specifically to this CDC-issued fixed-rate portion.</dd>
+
+<dt>Draw Period</dt>
+<dd>The period during which a borrower can access funds from a revolving credit facility such as a business line of credit. Most business lines of credit have a 12-month draw period with annual renewal. During the draw period, the borrower makes minimum payments (interest-only or a small percentage of the outstanding balance) and can draw additional funds up to the credit limit at any time. At the end of the draw period, the lender reviews the facility and may renew, modify, or close it. (Compare to a term loan, which has no draw period — the full amount is disbursed at closing.)</dd>
 
 <dt>Effective APR</dt>
 <dd>The true annualized cost of a financing product, expressed as an annual percentage rate, accounting for all fees and the actual repayment timeline. Effective APR allows comparison across products that express cost differently — a factoring fee of 3%/30 days, an MCA factor rate of 1.30, and an equipment loan APR of 8% are all annual rates using effective APR as the common unit. Formula: (Total Fee ÷ Amount Financed) ÷ Days to Repay × 365. (Common misconception: the stated "rate" on an MCA is already an APR — it is not; factor rates must be converted.)</dd>
@@ -81,6 +90,9 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 <dt>Forbearance</dt>
 <dd>A temporary agreement between a lender and borrower to pause, reduce, or restructure loan payments during a period of financial hardship. Forbearance does not forgive the debt — it defers it, often with additional interest accruing during the forbearance period. Factoring facilities rarely offer forbearance because the factor's exposure is to specific customer invoices, not to ongoing credit. Business loan and equipment loan lenders are more likely to offer forbearance arrangements. Always request forbearance before missing a payment — not after.</dd>
 
+<dt>Guaranty Fee</dt>
+<dd>A fee charged by the SBA to lenders for guaranteeing an SBA loan, typically passed on to the borrower. The guaranty fee varies by loan size and term — verify current rates at sba.gov, as the SBA adjusts these annually and occasionally waives them for certain loan sizes or programs. For SBA 7(a) loans over $150,000, the guaranty fee is typically 2–3.5% of the guaranteed portion of the loan. The fee is usually rolled into the loan amount rather than requiring upfront cash at closing. (Not to be confused with an origination fee, which goes to the lender — the guaranty fee goes to the SBA.)</dd>
+
 <dt>Holdback</dt>
 <dd>In the MCA context: the percentage of daily sales or deposits collected by the MCA provider toward repayment. In the factoring context: the reserve amount withheld from the advance — the difference between the invoice value and the advance rate. Example (MCA): 15% holdback on $5,000/day card sales = $750/day collected. Example (factoring): 90% advance rate on a $100,000 invoice = $10,000 holdback reserve. The factoring reserve is released to you minus fees after your customer pays; the MCA holdback is never returned.</dd>
 
@@ -90,8 +102,14 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 <dt>Lien Waiver</dt>
 <dd>A document signed by a contractor, subcontractor, or supplier waiving their right to file a mechanic's lien against a property in exchange for payment. In the construction factoring context, lien waivers are critical — factors require them to confirm that the invoiced work is not subject to lien claims that could reduce the value of the receivable. Conditional lien waivers are signed upon receipt of payment (and become effective only when payment clears); unconditional lien waivers release lien rights immediately upon signing.</dd>
 
+<dt>Loan-to-Value (LTV)</dt>
+<dd>The ratio of the loan amount to the appraised or purchase value of the collateral asset, expressed as a percentage. A $80,000 loan on a $100,000 piece of equipment is an 80% LTV. In equipment financing, LTV determines how much the lender will advance: semi-trucks and construction equipment with strong resale markets may qualify for 100% LTV (zero down payment); specialised equipment with limited resale value may only support 60–70% LTV, requiring a meaningful down payment. Higher LTV means more lender risk and typically results in a higher interest rate.</dd>
+
 <dt>Merchant Cash Advance (MCA)</dt>
 <dd>A financing arrangement in which a provider purchases a portion of a business's future receivables at a discount in exchange for immediate cash. MCAs are repaid through a daily holdback from card sales or bank deposits. They are not loans — they are structured as receivables purchases, which exempts them from usury laws in most states. Effective APRs typically range from 40–350%. MCAs are fast to fund (24–48 hours) and accessible to businesses with poor credit, but are among the most expensive business financing products available.</dd>
+
+<dt>MCA Stacking</dt>
+<dd>The practice of taking a second or third merchant cash advance from a different provider while the first is still outstanding. Each additional MCA adds a new daily holdback on top of existing ones, compounding the daily cash drain. MCA stacking is the most common path to MCA-related business failure: if total holdbacks across all advances exceed daily sales capacity, the business cannot cover operating expenses and enters a cash flow spiral. Most MCA agreements prohibit stacking without lender consent, and violation can trigger default clauses. If you are considering a second MCA to repay the first, seek alternatives immediately — SBA microloan refinancing or invoice factoring may provide a lower-cost exit.</dd>
 
 <dt>NOA (Notice of Assignment)</dt>
 <dd>A formal notification sent by a factor to your customers informing them that their invoices have been assigned to (purchased by) the factor, and that payment must be remitted directly to the factor rather than to you. NOAs are a standard part of factoring — your customers will know you are using a factor. Some customers have policies against paying third-party factors; confirm whether your key customers will accept NOAs before signing a factoring agreement. (Common misconception: you can factor invoices without your customers knowing — you cannot if a NOA is required, which it almost always is.)</dd>
@@ -111,6 +129,9 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 <dt>Prepayment Penalty</dt>
 <dd>A fee charged for paying off a loan before the scheduled maturity date. Prepayment penalties compensate the lender for interest income lost due to early repayment. Common structures: flat fee (e.g., 2% of remaining balance), step-down (e.g., 3% in year 1, 2% in year 2, 1% in year 3), or yield maintenance (complex calculation ensuring the lender earns a target yield). Most MCA contracts have no prepayment penalty but also no prepayment discount — you owe the full factor amount regardless of timing.</dd>
 
+<dt>Prime Rate</dt>
+<dd>The benchmark interest rate that US commercial banks use as a reference for short-term business loans and lines of credit, currently 7.5% as of May 2026. The prime rate moves with the Federal Reserve's federal funds rate. SBA 7(a) loan rates are set as Prime plus an SBA-mandated spread (e.g., Prime + 2.25–4.75%), so SBA loan rates rise and fall with the prime rate. Bank business lines of credit are similarly priced as Prime plus a margin. When comparing loan offers, ask for the rate expressed as Prime plus a margin rather than a fixed percentage — this tells you how your rate will move if the prime rate changes.</dd>
+
 <dt>Purchase Order (PO)</dt>
 <dd>A formal document issued by a buyer to a supplier authorizing the purchase of specific goods at a specified price. In the financing context, purchase orders are the basis for PO financing — a lender advances funds to cover production or procurement costs against an approved PO, before delivery occurs. PO financing is distinct from invoice factoring: PO financing funds you before you deliver; invoice factoring funds you after you deliver and invoice. A single transaction can use both: PO financing for production, then factoring once the invoice is issued.</dd>
 
@@ -119,6 +140,9 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 
 <dt>Remittance</dt>
 <dd>The payment made by a customer against an invoice. In factoring, once your customer remits payment to the factor, the factor deducts its fee and releases the remaining reserve balance to you. Remittance timing — how quickly customers pay after the invoice due date — directly affects your factoring cost because most fee structures are time-based. Slow-paying customers cost more to factor. "Remittance report" is also a document the factor sends you detailing all customer payments received and fees deducted during a period.</dd>
+
+<dt>Residual Value</dt>
+<dd>The estimated market value of a leased asset at the end of the lease term. In an operating lease, the lessor retains the residual value — the lessor bets that the equipment will still be worth something when you return it. This retained residual value is what makes operating lease monthly payments lower than loan payments on the same equipment: you are paying only for the depreciation during your use period, not the full asset cost. In a $1 buyout lease or finance lease, the residual value is effectively zero (or $1), which is why monthly payments are higher — you are financing the full purchase price.</dd>
 
 <dt>Retainage</dt>
 <dd>A portion of a construction contract payment (typically 5–10%) withheld by the project owner or general contractor until project completion or a specified milestone. Retainage is not factorable — it represents a contingent receivable, not a completed obligation. Construction factoring facilities typically exclude retainage from the eligible invoice calculation. Retainage can represent a significant portion of a construction company's total receivables; managing retainage collection is one of the primary cash flow challenges in construction.</dd>
@@ -132,6 +156,12 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 <dt>SBA 504</dt>
 <dd>An SBA loan program specifically for fixed-asset purchases — equipment and commercial real estate — structured as a three-party arrangement: a conventional lender funds 50%, an SBA Certified Development Company (CDC) funds 40% at a fixed rate (currently approximately 5.5–7%), and you provide 10% down payment. SBA 504 loans range up to $5.5 million (or $5.5M for manufacturing/energy). The fixed CDC debenture rate is typically lower than conventional equipment loan rates. Drawback: 60–90 days to close and extensive documentation requirements.</dd>
 
+<dt>SBA Express</dt>
+<dd>A faster variant of the SBA 7(a) loan program that provides an SBA guarantee decision within 36 hours, compared to 5–10 business days for standard 7(a) processing. SBA Express loans are limited to $500,000 and carry a slightly higher interest rate (Prime + 4.5–6.5%) than standard 7(a) loans. SBA Express is the best SBA option when speed matters and your loan need is under $500,000. Full funding after SBA approval still takes 2–4 weeks. Not all lenders offer SBA Express — confirm your lender is an SBA Express lender before applying if speed is a priority.</dd>
+
+<dt>SBA Preferred Lender (PLP)</dt>
+<dd>A lender designated by the SBA to approve SBA loan guarantee requests in-house, without requiring SBA review of each individual application. Using an SBA Preferred Lender is the single most effective way to reduce SBA loan approval timelines. PLP lenders include Live Oak Bank, Wells Fargo, Chase, Huntington, and many regional banks. Non-preferred lenders must submit each application to the SBA for review, adding weeks to the process. Find the current PLP list at lendermap.sba.gov.</dd>
+
 <dt>Section 179</dt>
 <dd>An IRS tax provision (Section 179 of the Internal Revenue Code) that allows businesses to immediately expense (deduct in the current tax year) the full cost of qualifying equipment purchased or financed, rather than depreciating it over multiple years. The 2026 Section 179 deduction limit is $1,220,000 (indexed to inflation). The deduction applies to equipment that is put into service during the tax year — leased equipment under a $1 buyout or similar structure may also qualify. Consult a tax advisor; the full deduction phases out once total equipment purchases exceed $3,050,000.</dd>
 
@@ -143,6 +173,9 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 
 <dt>UCC-1 Filing</dt>
 <dd>A Uniform Commercial Code financing statement filed by a lender with the state to publicly declare a security interest in a borrower's collateral. UCC-1 filings establish lien priority — the first lender to file has first claim on the collateral. When a factor approves your application, one of the first steps is filing a UCC-1 on your receivables. A UCC-1 search at application reveals any existing liens from other lenders. You can check existing UCC filings against your business at your state's Secretary of State office. Liens must be terminated after a loan is paid off — this does not happen automatically.</dd>
+
+<dt>Utilisation Rate</dt>
+<dd>The percentage of a revolving credit facility that is currently drawn. If your business line of credit has a $100,000 limit and you have $35,000 outstanding, your utilisation rate is 35%. Lenders and business credit bureaus monitor utilisation as an indicator of financial health: sustained utilisation above 80% signals cash flow stress and may trigger a credit limit reduction at renewal. Keeping utilisation below 30% is the general benchmark for demonstrating healthy cash management. Paying down a credit line before applying for additional financing can materially improve how lenders assess your creditworthiness.</dd>
 
 <dt>Underwriting</dt>
 <dd>The process by which a lender or factor evaluates your application to determine approval, advance rate, credit limit, and pricing. For invoice factoring, underwriting focuses on customer creditworthiness, invoice quality, and your business's legal structure. For equipment financing, underwriting focuses on business financials, personal credit, and equipment collateral value. Underwriting timelines vary widely: same-day for small MCA applications; 3–5 days for factoring; 60–90 days for SBA loans. Understanding what underwriters look for helps you present your application most favorably.</dd>

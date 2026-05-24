@@ -124,18 +124,35 @@ pre code {
   font-size: inherit;
 }
 
-/* Definition lists */
+/* ── Key Terms definition lists ──────────────────────────── */
+/* Each dt+dd pair renders as a two-part card: the term is the card header
+   (brand-tinted), the definition is the card body (muted bg). Adjacent cards
+   are separated by margin-top on dt. */
+.prose dl, dl {
+  margin-bottom: var(--space-6);
+}
+
 dt {
   font-weight: var(--weight-medium);
-  color: var(--text-primary);
+  color: var(--color-brand-700, #1e3a8a);
+  background: var(--surface-tinted);
+  border: 1px solid var(--border-default);
+  border-bottom: none;
+  border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+  padding: var(--space-2) var(--space-3);
   margin-top: var(--space-4);
 }
 
 dt:first-child { margin-top: 0; }
 
 dd {
-  margin-left: var(--space-4);
-  margin-bottom: var(--space-2);
+  margin-left: 0;
+  background: var(--surface-muted);
+  border: 1px solid var(--border-default);
+  border-top: none;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  margin-bottom: 0;
   color: var(--text-secondary);
   line-height: var(--leading-relaxed);
 }
@@ -191,13 +208,16 @@ a.ext-link::after {
 
 
 /* ── Layout ───────────────────────────────────────────────── */
+/* CSS Grid gives the most reliable sticky-header behaviour — the header row
+   takes its natural height (auto), the main content fills remaining space (1fr),
+   and the footer collapses to its natural height (auto). Unlike flex-column,
+   grid-column containers don't interfere with position:sticky on child rows. */
 .layout {
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: 1fr;
 }
-
-.layout main { flex: 1; }
 
 .page-wrap {
   max-width: var(--max-w-prose);
@@ -416,20 +436,7 @@ hr {
 .breadcrumb a:hover { color: var(--text-brand); }
 
 
-/* ── Article Hero Image ───────────────────────────────────── */
-.article-hero {
-  margin: 0 0 var(--space-6);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-  line-height: 0; /* collapse figure whitespace */
-}
-.article-hero img {
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-  object-position: center;
-  display: block;
-}
+/* .article-hero removed — hero images removed from site (QA Round 2) */
 
 /* ── Article Meta ─────────────────────────────────────────── */
 .article-meta {

@@ -109,18 +109,25 @@ Same business, same capital need, two different products.
 
 **The business:** A staffing agency needs $50,000 for 45 days to cover payroll while waiting on client payments.
 
-<div class="callout callout--tip">
-  <strong class="callout__title">Example Calculation</strong>
-  <div class="callout__body">
-    <p><strong>Scenario:</strong> Staffing agency needs $50,000 for 45 days — invoice factoring vs. MCA</p>
-    <ul>
-      <li>Invoice Factoring: $60,000 invoice at 90% advance, 2% fee × 1.5 periods = $1,800 total cost</li>
-      <li>MCA: $50,000 advance at 1.30 factor rate = $65,000 total repayment; 15% holdback on $4,000/day = $600/day; ~108 days to repay</li>
-      <li>MCA total cost: $15,000</li>
-      <li>Effective APR: ~101% for the MCA vs. ~24% for factoring on this scenario</li>
-    </ul>
-  </div>
-</div>
+<pre><code>Same business, same capital need, two different products.
+Business: staffing agency needs $50,000 for 45 days to cover payroll.
+
+Option A — Invoice Factoring
+  Invoice:              $60,000 outstanding (net-45)
+  Advance rate:         90% = $54,000 upfront
+  Fee:                  2%/30 days × 1.5 periods = 3% = $1,800
+  Reserve released:     $3,600 (when client pays)
+  Total cost:           $1,800    |   Effective APR: ~24%
+
+Option B — Merchant Cash Advance
+  Advance:              $50,000 at factor rate 1.30
+  Total repayment:      $65,000 (fixed)
+  Daily holdback:       15% × $4,000/day = $600/day
+  Days to repay:        ~108 days
+  Total cost:           $15,000   |   Effective APR: ~101%
+
+Difference: $13,200 in favour of factoring for the same $50,000, 45-day window.
+</code></pre>
 
 This example assumes the business has B2B invoices to factor. If it only has card sales and no outstanding invoices, factoring is not available — the MCA may be the only option.
 

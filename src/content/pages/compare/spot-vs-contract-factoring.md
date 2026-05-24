@@ -153,18 +153,26 @@ A business factors $50,000/month in invoices with 30-day customer payment.
 
 The $3,000 annual saving from contract factoring needs to be weighed against: the termination fee risk if circumstances change, the minimum volume fee if some months fall below the floor, and the value of flexibility if your business needs to pause factoring mid-contract.
 
-<div class="callout callout--tip">
-  <strong class="callout__title">Example Calculation</strong>
-  <div class="callout__body">
-    <p><strong>Scenario:</strong> Business factors $50,000/month in invoices with 30-day customer payment — spot vs. contract factoring</p>
-    <ul>
-      <li>Spot factoring at 2.5%/30 days: monthly fee $1,250; annual fee $15,000</li>
-      <li>Contract factoring at 2.0%/30 days: monthly fee $1,000; annual fee $12,000</li>
-      <li>Annual saving from contract: $3,000</li>
-      <li>Effective APR: If monthly volume drops below the contract minimum of $25,000 in any month, shortfall fees may eliminate the annual savings — model your slowest months before committing</li>
-    </ul>
-  </div>
-</div>
+<pre><code>Same invoice, two factoring structures.
+Invoice: $50,000, net-30 customer, 90% advance.
+
+Spot Factoring
+  Fee rate:             3.5%/30 days (premium for no contract)
+  Advance:              $45,000 (90%)
+  Fee on $50,000:       $1,750
+  Reserve:              $3,250 (released when paid)
+  Effective APR:        ~42%
+
+Contract Factoring (12-month, $25,000/mo minimum)
+  Fee rate:             1.75%/30 days
+  Advance:              $45,000 (90%)
+  Fee on $50,000:       $875
+  Reserve:              $4,125 (released when paid)
+  Effective APR:        ~21%
+
+Cost difference per invoice: $875 cheaper with contract factoring.
+At $25,000/month over 12 months: ~$10,500 total savings vs. spot rates.
+</code></pre>
 
 ---
 
