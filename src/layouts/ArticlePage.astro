@@ -1,6 +1,7 @@
 ---
 import Layout from './Layout.astro';
 import { extractFaqs } from '../utils/faq';
+import { heroUrl } from '../utils/pageImage';
 import type { CollectionEntry } from 'astro:content';
 
 export interface Props {
@@ -33,6 +34,16 @@ const faqItems = fm.schema?.includes('FAQPage') ? extractFaqs(entry.body) : [];
   </nav>
 
   <article>
+    <figure class="article-hero">
+      <img
+        src={heroUrl(fm.canonical)}
+        alt={fm.title}
+        width="1400"
+        height="320"
+        loading="eager"
+        decoding="async"
+      />
+    </figure>
     {fm.last_reviewed && (
       <div class="article-meta">
         <span>Last reviewed: {new Date(fm.last_reviewed).toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>

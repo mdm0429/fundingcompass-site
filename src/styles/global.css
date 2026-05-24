@@ -1,5 +1,3 @@
-@import url("./tokens.css");
-
 /* ============================================================
    FUNDINGCOMPASS — PRODUCTION STYLESHEET
    Version 1.0 · May 2026
@@ -107,9 +105,9 @@ code {
 
 /* ── Links ────────────────────────────────────────────────── */
 
-/* Inline prose links — target only bare links (no class), never buttons */
+/* Inline prose links */
 a.link,
-.prose a:not([class]),
+.prose a,
 article a:not([class]) {
   color: var(--text-brand);
   text-decoration: underline;
@@ -119,7 +117,7 @@ article a:not([class]) {
 }
 
 a.link:hover,
-.prose a:not([class]):hover,
+.prose a:hover,
 article a:not([class]):hover {
   color: var(--color-brand-600);
   text-decoration-color: var(--color-brand-500);
@@ -311,16 +309,6 @@ hr {
   padding: 6px 0;
   z-index: var(--z-dropdown);
 }
-/* Transparent bridge — fills the 6px gap so the cursor doesn't
-   leave the <li> hover zone while moving from trigger to dropdown */
-.site-nav__sub::before {
-  content: '';
-  position: absolute;
-  top: -8px;
-  left: 0;
-  right: 0;
-  height: 8px;
-}
 
 .site-nav__item--has-sub:hover .site-nav__sub,
 .site-nav__item--has-sub:focus-within .site-nav__sub { display: block; }
@@ -386,6 +374,21 @@ hr {
 }
 .breadcrumb a:hover { color: var(--text-brand); }
 
+
+/* ── Article Hero Image ───────────────────────────────────── */
+.article-hero {
+  margin: 0 0 var(--space-6);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  line-height: 0; /* collapse figure whitespace */
+}
+.article-hero img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+}
 
 /* ── Article Meta ─────────────────────────────────────────── */
 .article-meta {
@@ -504,12 +507,6 @@ blockquote {
   font-size: 15px;
   line-height: 1;
 }
-.callout--tip {
-  background: var(--color-accent-50);
-  border: 1px solid var(--color-accent-200);
-}
-.callout--tip::before { content: '💡'; color: var(--color-accent-600); font-size: 13px; }
-
 .callout--info {
   background: var(--color-info-bg);
   border: 1px solid var(--color-info-border);
@@ -535,7 +532,6 @@ blockquote {
   font-weight: var(--weight-medium);
   margin-bottom: var(--space-1);
 }
-.callout--tip     .callout__title { color: var(--color-accent-700); }
 .callout--info    .callout__title { color: var(--color-info); }
 .callout--success .callout__title { color: var(--color-success); }
 .callout--warning .callout__title { color: var(--color-warning); }
@@ -591,28 +587,20 @@ blockquote {
 /* Soft — ghost on brand-tinted bg */
 .btn--soft {
   background: var(--surface-tinted);
-  color: var(--color-neutral-800);
+  color: var(--color-neutral-800); /* dark text — NOT brand blue on tinted bg */
 }
 .btn--soft:hover { background: var(--border-default); }
 
-/* Outline — bordered */
+/* Outline — bordered, dark text so it reads on any light bg */
 .btn--outline {
   background: transparent;
-  color: var(--color-neutral-800);
+  color: var(--color-neutral-800); /* dark text — NOT brand blue on colored bg */
   border: 1.5px solid var(--color-brand-500);
 }
 .btn--outline:hover { background: var(--surface-tinted); }
 
-/* Ghost — text only with arrow */
-.btn--ghost {
-  background: transparent;
-  color: var(--color-neutral-800);
-  padding: 6px 4px;
-  border-radius: var(--radius-xs);
-}
-.btn--ghost:hover { background: var(--surface-tinted); }
-
-/* Nav — transparent triggers on brand-blue header */
+/* Nav — for use inside the brand-blue site header only */
+/* Transparent with white text; white border appears on hover */
 .btn--nav {
   background: transparent;
   color: rgba(255,255,255,0.85);
@@ -621,8 +609,22 @@ blockquote {
 .btn--nav:hover {
   background: rgba(255,255,255,0.12);
   color: #fff;
-  border-color: rgba(255,255,255,0.2);
+  border-color: rgba(255,255,255,0.35);
 }
+.btn--nav[aria-current="page"] {
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+  border-color: rgba(255,255,255,0.4);
+}
+
+/* Ghost — text only with arrow */
+.btn--ghost {
+  background: transparent;
+  color: var(--text-secondary);
+  padding: 6px 4px;
+  border-radius: var(--radius-xs);
+}
+.btn--ghost:hover { background: var(--surface-tinted); }
 
 /* Danger */
 .btn--danger {
@@ -707,57 +709,6 @@ blockquote {
 }
 
 
-/* ── Comparison Table ─────────────────────────────────────── */
-.comp-table-wrap {
-  overflow-x: auto;
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--border-default);
-  box-shadow: var(--shadow-xs);
-  margin: var(--space-5) 0;
-}
-.comp-table {
-  width: 100%;
-  border-collapse: collapse;
-  background: var(--surface-default);
-}
-.comp-table th {
-  background: var(--surface-tinted);
-  padding: 12px 16px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--text-tertiary);
-  text-align: left;
-  white-space: nowrap;
-}
-.comp-table td {
-  padding: 14px 16px;
-  font-size: 0.9rem;
-  color: var(--text-primary);
-  border-bottom: 1px solid var(--border-default);
-  vertical-align: middle;
-}
-.comp-table tbody tr:last-child td { border-bottom: none; }
-.comp-table tbody tr:hover > td { background: var(--surface-tinted); }
-.td-pick > td { background: var(--color-accent-50); }
-.td-pick:hover > td { background: var(--color-accent-100); }
-.td-provider {
-  font-weight: 600;
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-.td-provider span {
-  font-size: 0.75rem;
-  font-weight: 400;
-  color: var(--text-tertiary);
-}
-.td-num {
-  font-variant-numeric: tabular-nums lining-nums;
-  font-weight: 500;
-}
-
 /* ── Cards ────────────────────────────────────────────────── */
 .card {
   background: var(--surface-default);
@@ -821,14 +772,6 @@ blockquote {
   color: var(--text-primary);
   line-height: 1;
   margin-bottom: var(--space-2);
-}
-
-.stat-card__sub {
-  font-family: var(--font-body);
-  font-size: var(--text-xs);
-  color: var(--text-tertiary);
-  line-height: var(--leading-normal);
-  margin-top: var(--space-1);
 }
 
 .stat-card__delta {
@@ -1282,17 +1225,6 @@ blockquote {
   padding: 0 var(--gutter);
 }
 
-.site-footer__brand {
-  margin-bottom: var(--space-8);
-}
-
-.site-footer__tagline {
-  font-size: var(--text-sm);
-  color: rgba(255,255,255,0.6);
-  margin: var(--space-2) 0 0;
-  font-style: italic;
-}
-
 .site-footer__cols {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
@@ -1336,19 +1268,23 @@ blockquote {
 .site-footer__copy {
   color: rgba(255,255,255,0.75);
   font-size: var(--text-xs);
-}
-.site-footer__copy a {
-  color: inherit;
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  font-weight: var(--weight-semibold);
 }
 
 .site-footer__disclaimer {
   font-size: 0.6875rem;
   color: rgba(255,255,255,0.75);
+  font-weight: var(--weight-semibold);
   max-width: 58ch;
   line-height: var(--leading-relaxed);
 }
+
+.site-footer__disclaimer a {
+  color: rgba(255,255,255,0.9);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.site-footer__disclaimer a:hover { color: #fff; }
 
 
 /* ── 404 ──────────────────────────────────────────────────── */
@@ -1370,7 +1306,6 @@ blockquote {
 
   /* Hamburger */
   .site-nav__burger { display: flex; }
-  .site-header__cta { margin-left: auto; }
 
   .site-nav {
     display: none;

@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { heroUrl } from '../utils/pageImage';
 
 export interface Props {
   title: string;
@@ -41,6 +42,61 @@ function resolveItem(name: string, url: string): string {
   if (url.startsWith('http')) return url;               // already absolute
   if (url === '/') return SECTION_URLS[name] ?? `${SITE_URL}/`;  // placeholder → section root
   return `${SITE_URL}${url}`;                           // relative path → absolute
+}
+
+/** Derive articleSection from the canonical URL path. */
+function getArticleSection(url: string): string | null {
+  const u = url.toLowerCase();
+  if (u.includes('/guides/'))     return 'Guides';
+  if (u.includes('/industries/')) return 'Industries';
+  if (u.includes('/compare/'))    return 'Compare';
+  if (u.includes('/providers/'))  return 'Provider Reviews';
+  if (u.includes('/tools/'))      return 'Tools';
+  if (u.includes('/glossary/'))   return 'Glossary';
+  return null;
+}
+
+/** Derive topical keywords from the canonical URL for Article schema. */
+function getKeywords(url: string): string {
+  const base = 'B2B financing, small business funding, working capital';
+  const u = url.toLowerCase();
+  if (u.includes('invoice-factoring') || (u.includes('factoring') && !u.includes('purchase-order')))
+    return `invoice factoring, accounts receivable financing, factoring company, ${base}`;
+  if (u.includes('merchant-cash-advance') || u.includes('/mca-'))
+    return `merchant cash advance, MCA, business cash advance, alternative financing, ${base}`;
+  if (u.includes('equipment-leasing'))
+    return `equipment leasing, operating lease, capital lease, equipment rental, ${base}`;
+  if (u.includes('equipment-financ') || u.includes('equipment-loan'))
+    return `equipment financing, equipment loans, business equipment, asset financing, ${base}`;
+  if (u.includes('sba-loan') || u.includes('sba-504'))
+    return `SBA loans, SBA 7(a), SBA 504, government-backed loans, ${base}`;
+  if (u.includes('business-line-of-credit'))
+    return `business line of credit, revolving credit facility, working capital line, ${base}`;
+  if (u.includes('purchase-order'))
+    return `purchase order financing, PO financing, supply chain financing, ${base}`;
+  if (u.includes('accounts-receivable'))
+    return `accounts receivable financing, AR financing, invoice financing, ${base}`;
+  if (u.includes('trucking'))
+    return `trucking factoring, freight factoring, carrier factoring, load factoring, ${base}`;
+  if (u.includes('staffing'))
+    return `staffing factoring, staffing agency financing, payroll financing, ${base}`;
+  if (u.includes('healthcare'))
+    return `healthcare factoring, medical factoring, medical billing financing, ${base}`;
+  if (u.includes('construction'))
+    return `construction factoring, contractor financing, construction working capital, ${base}`;
+  if (u.includes('agricultural'))
+    return `agricultural equipment financing, farm equipment loans, farm credit, ${base}`;
+  if (u.includes('medical-equipment'))
+    return `medical equipment financing, healthcare equipment loans, ${base}`;
+  if (u.includes('restaurant'))
+    return `restaurant equipment financing, restaurant financing, food service equipment, ${base}`;
+  if (u.includes('retail'))
+    return `retail factoring, retail supplier financing, purchase order factoring, ${base}`;
+  if (u.includes('wholesale'))
+    return `wholesale factoring, wholesale financing, distributor factoring, ${base}`;
+  if (u.includes('government-contractor'))
+    return `government contractor factoring, federal receivables financing, ${base}`;
+  return base;
 }
 
 /** Derive FinancialProduct name + description from the canonical URL. */
@@ -119,11 +175,18 @@ if (allBreadcrumbs.length > 1 || schema.includes('BreadcrumbList')) {
 // Article schema (with optional FinancialProduct typing)
 if (schema.includes('Article')) {
   const financialProduct = getFinancialProduct(canonical);
+  const articleSection    = getArticleSection(canonical);
+  const keywords          = getKeywords(canonical);
+  const pageImageUrl      = heroUrl(canonical);
+
   const articleSchema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
     description: description,
+    // abstract = the article summary — used by AI engines to identify the
+    // lead paragraph / key takeaways block as the authoritative summary.
+    abstract: description,
     url: canonical,
     mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
     datePublished: lastReviewed ?? '2026-05-01',
@@ -139,7 +202,26 @@ if (schema.includes('Article')) {
       name: SITE_NAME,
       url: `${SITE_URL}/`,
     },
+    // image — required for Google rich results; used by AI engines for
+    // visual context when citing this page.
+    image: {
+      '@type': 'ImageObject',
+      url: pageImageUrl,
+      width: 1400,
+      height: 320,
+    },
+    // keywords — topical signals for classification.
+    keywords: keywords,
+    // speakable — tells AI engines (Google, voice assistants, LLM crawlers)
+    // which CSS selectors contain the most citable / summarisable content.
+    speakable: {
+      '@type': 'SpeakableSpecification',
+      cssSelector: ['h1', '[aria-label="Key takeaways"]'],
+    },
   };
+
+  if (articleSection) articleSchema.articleSection = articleSection;
+
   if (financialProduct) {
     articleSchema.about = {
       '@type': 'FinancialProduct',
@@ -228,6 +310,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={heroUrl(canonical)} />
+  <meta property="og:image:width" content="1400" />
+  <meta property="og:image:height" content="320" />
+  <meta property="og:image:alt" content={title} />
 
   <!-- Verification -->
   <meta name="google-site-verification" content="7Cn_hQwPan240P08jRkb36k0K9hHgUK9EXwSt6eaH4c" />
