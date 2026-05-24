@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Greenbox Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Greenbox Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for businesses with $7,500+/month in revenue and 500+ credit that need fast capital — especially those in high-risk industries or Canadian businesses that most MCA providers decline.</li>
+      <li>Published factor rate range is 1.18–1.48 — a $50,000 advance costs $9,000 (at 1.18) to $24,000 (at 1.48) in total fees.</li>
+      <li>One of the few US-based MCA providers that explicitly serves Canadian businesses in addition to all 50 US states, and accepts many high-risk merchant categories.</li>
+      <li>$500,000 maximum is lower than BFS Capital ($2,000,000); factor rates at the high end (1.48) represent very high effective APR — always compare offers before signing.</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Greenbox Capital is a Miami-based alternative lender offering merchant cash advances and short-term business funding to small businesses in the US and Canada. It serves a wide range of industries including many that larger lenders decline — retail, restaurants, healthcare, transportation, and construction. Factor rates run higher than bank alternatives but are typical for the MCA market, and Greenbox is transparent about disclosing them before you sign. Funding as fast as 24 hours makes it a viable option when speed is the priority and cheaper options have been exhausted.
+Greenbox Capital is a Miami-based alternative lender offering merchant advances and short-term business funding to small businesses in the US and Canada. It serves a wide range of industries including many that larger lenders decline — retail, restaurants, healthcare, transportation, and construction. Factor rates run higher than bank alternatives but are typical for the MCA market, and Greenbox is transparent about disclosing them before you sign. Funding as fast as 24 hours makes it a viable option when speed is the priority and cheaper options have been exhausted.
 
 **Best for:** Businesses with $7,500+/month in revenue that need fast capital and have been declined by banks or SBA (Small Business Administration) programs — particularly businesses in non-traditional industries or with lower credit scores, including some high-risk merchant categories that most MCA (merchant cash advance) providers decline.
 
@@ -110,7 +122,7 @@ Greenbox Capital is a Miami-based alternative lender offering merchant cash adva
 
 ## What Greenbox Capital Offers
 
-Greenbox Capital operates as a direct funder for small businesses that need fast access to working capital. Its primary product is a merchant cash advance — a purchase of a fixed amount of future receivables in exchange for a lump sum today.
+Greenbox Capital operates as a direct funder for small businesses that need fast access to operating capital. Its primary product is a merchant cash advance — a purchase of a fixed amount of future receivables in exchange for a lump sum today.
 
 **Merchant Cash Advance:** Greenbox Capital purchases a portion of your future credit card and debit card receipts. Repayment is collected daily as a fixed holdback percentage of your card sales — meaning payment fluctuates with your revenue rather than staying fixed. This makes it more flexible during slow periods than a fixed-payment loan, though total cost remains fixed regardless of repayment speed.
 
@@ -215,22 +227,29 @@ Greenbox's published rate range and low revenue minimum are its strongest differ
 
 ---
 
-## Frequently Asked Questions
-
-**Is Greenbox Capital a direct lender?**
-Yes, Greenbox Capital funds from its own capital rather than brokering to third parties. This generally means fewer intermediary fees and a single point of contact. Always compare at least two offers before signing.
-
-**Does Greenbox Capital serve Canadian businesses?**
-Yes. Greenbox Capital is one of the few US-based MCA providers that explicitly serves Canadian small businesses in addition to all 50 US states.
-
-**What is Greenbox Capital's minimum credit score?**
-Greenbox Capital works with personal credit scores as low as 500. Lower credit scores typically result in higher factor rates. Revenue consistency and bank statement history are weighted heavily alongside credit.
-
-**Does Greenbox Capital report to business credit bureaus?**
-Greenbox Capital does not typically report repayment to major business credit bureaus. Timely repayment generally does not build your business credit profile. Confirm the reporting policy at application if this matters to your business.
-
-**Can I get a second advance from Greenbox Capital?**
-Greenbox Capital does offer renewals and subsequent advances for existing clients with positive repayment history. Renewal offers typically appear once a significant portion (often 50–70%) of the original advance has been repaid.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is Greenbox Capital a direct lender?</summary>
+    <p>Yes, Greenbox Capital funds from its own capital rather than brokering to third parties. This generally means fewer intermediary fees and a single point of contact. Always compare at least two offers before signing.</p>
+  </details>
+  <details>
+    <summary>Does Greenbox Capital serve Canadian businesses?</summary>
+    <p>Yes. Greenbox Capital is one of the few US-based MCA providers that explicitly serves Canadian small businesses in addition to all 50 US states.</p>
+  </details>
+  <details>
+    <summary>What is Greenbox Capital's minimum credit score?</summary>
+    <p>Greenbox Capital works with personal credit scores as low as 500. Lower credit scores typically result in higher factor rates. Revenue consistency and bank statement history are weighted heavily alongside credit.</p>
+  </details>
+  <details>
+    <summary>Does Greenbox Capital report to business credit bureaus?</summary>
+    <p>Greenbox Capital does not typically report repayment to major business credit bureaus. Timely repayment generally does not build your business credit profile. Confirm the reporting policy at application if this matters to your business.</p>
+  </details>
+  <details>
+    <summary>Can I get a second advance from Greenbox Capital?</summary>
+    <p>Greenbox Capital does offer renewals and subsequent advances for existing clients with positive repayment history. Renewal offers typically appear once a significant portion (often 50–70%) of the original advance has been repaid.</p>
+  </details>
+</section>
 
 ---
 

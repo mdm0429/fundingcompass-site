@@ -10,6 +10,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via each lender's published rate schedule. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Affiliate relationships do not affect rankings or editorial coverage. See [How We Make Money](/how-we-make-money/).*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Top advance rates reach 97% (eCapital, Triumph, RTS Financial) — the highest available for qualified accounts</li>
+      <li>eCapital's fee floor is 0.69% per 30 days for high-volume freight; general B2B accounts typically pay 1–2.5% per period</li>
+      <li>Riviera Finance has the lowest minimum volume on this list at $5,000/month, and offers non-recourse factoring for manufacturers and distributors</li>
+      <li>A 2% fee on a 30-day invoice equates to ~24% effective APR; the same fee on a 60-day invoice drops to ~12% — customer payment speed is the single biggest cost driver</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## How We Ranked These Companies
@@ -366,7 +378,7 @@ Rankings are based on six criteria: advance rate (higher is better), fee transpa
 **Non-recourse option:** No
 **Fuel advance:** Yes (freight)
 
-eCapital is a top-tier choice for freight carriers due to its combination of the highest advance rates in the industry, same-day funding capability, and integrated freight software. The published rate floor of 0.69% per 30 days is for high-volume freight accounts — general B2B accounts typically land in the 1–2.5% range. The 12-month contract and volume minimums are a drawback for businesses with irregular invoice volumes.
+eCapital is a top-tier choice for freight carriers due to its combination of the highest advance rates in the industry, same-day funding capability, and integrated freight software. The published rate floor of 0.69% per 30 days is for high-volume freight accounts — general B2B accounts typically land in the 1–2.5% range. The 12-month contract and volume minimums are a drawback for businesses with irregular invoice volumes. Businesses exploring receivables financing should also compare Triumph Business Capital and Riviera Finance before committing.
 
 **Best for:** Freight carriers, staffing agencies, and B2B businesses invoicing $50,000+ monthly.
 **Not ideal for:** Small businesses with inconsistent invoice volume, businesses needing spot factoring.
@@ -457,14 +469,27 @@ TCI focuses on established businesses (2+ years in operation, $25,000+ monthly) 
 
 ## Borrower Example
 
-**Scenario:** A staffing agency invoices $100,000/month on net-30 (your customer has 30 days to pay) terms. They choose eCapital at a 1.5% fee per 30 days and 90% advance rate.
+**Scenario:** A staffing agency invoices $100,000/month on net-30 (meaning payment is due in 30 days) terms. They choose eCapital at a 1.5% fee per 30 days and 90% advance rate.
 
 - Monthly advance: $90,000 (received within 24 hours of submitting invoices)
 - Monthly factoring fee: $1,500 (1.5% of $100,000)
 - Reserve released when customers pay: $8,500 ($100,000 − $90,000 − $1,500)
-- Effective annual cost: ~18% APR (annual percentage rate)
+- Effective annual cost: ~18% effective APR (the annualized cost of financing, accounting for all fees and repayment speed)
 
 At 2% fees with 60-day customer payment, the same $100,000 in monthly invoicing would cost $4,000/month — approximately 48% effective APR. Customer payment speed is the single biggest driver of factoring cost.
+
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> Staffing agency, $100,000/month in invoices, eCapital at 1.5% fee / 30 days, 90% advance rate, net-30 customers</p>
+    <ul>
+      <li>Amount advanced: $90,000 (received within 24 hours)</li>
+      <li>Fee: $1,500 (1.5% of $100,000 face value)</li>
+      <li>Reserve released when customers pay: $8,500</li>
+      <li>Effective APR: ~18%</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -482,22 +507,29 @@ Before signing any factoring agreement, get written answers to these questions:
 
 ---
 
-## Frequently Asked Questions
-
-**How do I compare factoring company fees accurately?**
-Convert all fees to a monthly rate before comparing. Weekly fees (common at BlueVine) must be multiplied by 4.3 to get the monthly equivalent. Daily rates must be multiplied by 30. Once everything is on a per-30-day basis, model your expected fee at three customer payment speeds: 30 days, 45 days, and 60 days — because many factors charge incremental fees beyond the base period.
-
-**What is the difference between a factor rate and an APR (annual percentage rate) in factoring?**
-Factoring fees are quoted per billing period (usually per 30 days), not as an annual rate. To calculate effective APR (annual percentage rate): divide the fee by the advance amount, divide by the number of days in the payment period, and multiply by 365. A 2% fee on a 30-day invoice equates to approximately 24% APR. A 2% fee on a 60-day invoice equates to approximately 12% APR — so your effective cost drops as customer payment time extends, assuming the fee does not increase with the period.
-
-**Should I use a local factor or a national factor?**
-National factors typically offer better rates (greater volume, lower cost of funds) and more sophisticated technology platforms. Local and regional factors offer relationship-based service and may be more flexible for unusual situations. For established businesses with straightforward receivables, a national factor is usually the better financial choice. For complex situations (construction, disputed industries), a local factor with sector expertise may be worth the premium.
-
-**Is invoice factoring regulated?**
-Factoring is not subject to the same federal regulations as consumer lending. However, several states (California SB 1035, New York, Utah, Virginia, Florida, Georgia) have passed commercial financing disclosure laws requiring factors to disclose the equivalent APR or estimated annual cost. Even in unregulated states, you can and should request a full cost disclosure in writing before signing. For broader borrower rights guidance, see the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/).
-
-**Can I negotiate factoring rates?**
-Yes. Factoring rates are negotiable, especially on volume. At $25,000/month, you have limited negotiating leverage. At $100,000/month, most factors will discount rates by 0.25–0.75% per period. At $250,000+/month, custom rate agreements are standard. Leverage competitive offers from multiple factors when negotiating.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>How do I compare factoring company fees accurately?</summary>
+    <p>Convert all fees to a monthly rate before comparing. Weekly fees (common at BlueVine) must be multiplied by 4.3 to get the monthly equivalent. Daily rates must be multiplied by 30. Once everything is on a per-30-day basis, model your expected fee at three customer payment speeds: 30 days, 45 days, and 60 days — because many factors charge incremental fees beyond the base period.</p>
+  </details>
+  <details>
+    <summary>What is the difference between a factor rate and an APR (annual percentage rate) in factoring?</summary>
+    <p>Factoring fees are quoted per billing period (usually per 30 days), not as an annual rate. To calculate effective APR (annual percentage rate): divide the fee by the advance amount, divide by the number of days in the payment period, and multiply by 365. A 2% fee on a 30-day invoice equates to approximately 24% APR. A 2% fee on a 60-day invoice equates to approximately 12% APR — so your effective cost drops as customer payment time extends, assuming the fee does not increase with the period.</p>
+  </details>
+  <details>
+    <summary>Should I use a local factor or a national factor?</summary>
+    <p>National factors typically offer better rates (greater volume, lower cost of funds) and more sophisticated technology platforms. Local and regional factors offer relationship-based service and may be more flexible for unusual situations. For established businesses with straightforward receivables, a national factor is usually the better financial choice. For complex situations (construction, disputed industries), a local factor with sector expertise may be worth the premium.</p>
+  </details>
+  <details>
+    <summary>Is invoice factoring regulated?</summary>
+    <p>Factoring is not subject to the same federal regulations as consumer lending. However, several states (California SB 1035, New York, Utah, Virginia, Florida, Georgia) have passed commercial financing disclosure laws requiring factors to disclose the equivalent APR or estimated annual cost. Even in unregulated states, you can and should request a full cost disclosure in writing before signing. For broader borrower rights guidance, see the <a href="https://www.consumerfinance.gov/consumer-tools/small-business-lending/">CFPB small-business lending resources</a>.</p>
+  </details>
+  <details>
+    <summary>Can I negotiate factoring rates?</summary>
+    <p>Yes. Factoring rates are negotiable, especially on volume. At $25,000/month, you have limited negotiating leverage. At $100,000/month, most factors will discount rates by 0.25–0.75% per period. At $250,000+/month, custom rate agreements are standard. Leverage competitive offers from multiple factors when negotiating.</p>
+  </details>
+</section>
 
 ---
 

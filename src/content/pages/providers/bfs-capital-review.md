@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via BFS Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with BFS Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for businesses with $120,000+/year in revenue and 550+ credit that need working capital quickly and require funding amounts above what Credibly ($400,000) or Greenbox Capital ($500,000) can offer.</li>
+      <li>MCA factor rates are not published upfront; industry-benchmark range is 1.15–1.45, translating to 40–200%+ effective APR depending on repayment speed.</li>
+      <li>$2,000,000 maximum funding is the highest cap among the major MCA providers reviewed here — a meaningful advantage for businesses that need larger advances.</li>
+      <li>Factor rates are not disclosed before applying, making pre-application cost comparison impossible — a transparency gap compared to Credibly and Greenbox Capital, which publish rates upfront.</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-BFS Capital is a Florida-based alternative lender that has provided over $1 billion in working capital financing to small and medium-sized businesses across more than 400 industries since its founding. It offers merchant cash advances and short-term working capital loans through its technology platform, with a fast application process and same-day or next-business-day funding in many cases. BFS Capital is a legitimate option for businesses that need fast capital and have exhausted cheaper alternatives — but like all MCA providers, its effective APR is high relative to bank or SBA financing.
+BFS Capital is a Florida-based alternative lender that has provided over $1 billion in operating capital financing to small and medium-sized businesses across more than 400 industries since its founding. It offers merchant advances and short-term working capital loans through its technology platform, with a fast application process and same-day or next-business-day funding in many cases. BFS Capital is a legitimate option for businesses that need fast capital and have exhausted cheaper alternatives — but like all MCA providers, its effective APR is high relative to bank or SBA financing.
 
 **Best for:** Businesses with $120,000+/year in revenue ($10,000+/month) and 550+ credit that need working capital quickly and have been declined by bank lenders or SBA (Small Business Administration) programs — including businesses in many of the 400+ industries BFS Capital serves.
 
@@ -203,22 +215,29 @@ BFS Capital's $2M maximum is the highest of the three. Credibly's advantage is t
 
 ---
 
-## Frequently Asked Questions
-
-**Is BFS Capital a direct lender or a broker?**
-BFS Capital is primarily a direct lender — it funds from its own capital rather than brokering applications to third parties. This generally means fewer intermediary fees, but it also means you're seeing only one lender's offer. Always compare at least two offers before signing.
-
-**What is BFS Capital's website?**
-BFS Capital's current platform is at [trybfs.com](https://www.trybfs.com/). The older domain bfscapital.com redirects elsewhere — use trybfs.com for applications and account management.
-
-**Does BFS Capital report to business credit bureaus?**
-BFS Capital does not typically report to major business credit bureaus (Dun & Bradstreet, Experian Business). Timely repayment generally does not build your business credit profile. Defaults may result in collections activity that appears on your personal credit report.
-
-**Can I get a BFS Capital MCA with bad credit?**
-BFS Capital works with credit scores as low as 550. However, lower credit scores typically result in higher factor rates. Your creditworthiness is one input — revenue consistency and bank account history also factor significantly into the offer you receive.
-
-**What happens if I can't repay my BFS Capital advance?**
-MCA agreements include default provisions that vary by contract. Contact BFS Capital directly as early as possible if your sales drop significantly — some providers will restructure holdback percentages. Read your agreement's default triggers before signing, particularly any clauses triggered by a material decline in sales volume.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is BFS Capital a direct lender or a broker?</summary>
+    <p>BFS Capital is primarily a direct lender — it funds from its own capital rather than brokering applications to third parties. This generally means fewer intermediary fees, but it also means you're seeing only one lender's offer. Always compare at least two offers before signing.</p>
+  </details>
+  <details>
+    <summary>What is BFS Capital's website?</summary>
+    <p>BFS Capital's current platform is at <a href="https://www.trybfs.com/">trybfs.com</a>. The older domain bfscapital.com redirects elsewhere — use trybfs.com for applications and account management.</p>
+  </details>
+  <details>
+    <summary>Does BFS Capital report to business credit bureaus?</summary>
+    <p>BFS Capital does not typically report to major business credit bureaus (Dun &amp; Bradstreet, Experian Business). Timely repayment generally does not build your business credit profile. Defaults may result in collections activity that appears on your personal credit report.</p>
+  </details>
+  <details>
+    <summary>Can I get a BFS Capital MCA with bad credit?</summary>
+    <p>BFS Capital works with credit scores as low as 550. However, lower credit scores typically result in higher factor rates. Your creditworthiness is one input — revenue consistency and bank account history also factor significantly into the offer you receive.</p>
+  </details>
+  <details>
+    <summary>What happens if I can't repay my BFS Capital advance?</summary>
+    <p>MCA agreements include default provisions that vary by contract. Contact BFS Capital directly as early as possible if your sales drop significantly — some providers will restructure holdback percentages. Read your agreement's default triggers before signing, particularly any clauses triggered by a material decline in sales volume.</p>
+  </details>
+</section>
 
 ---
 

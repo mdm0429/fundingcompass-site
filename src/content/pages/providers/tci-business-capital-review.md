@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via TCI Business Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with TCI Business Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for established staffing, manufacturing, or distribution businesses with $25,000–$5,000,000+/month in invoicing that need non-recourse protection and a dedicated account manager</li>
+      <li>Fees run 1–3% per 30 days — the 1% floor is below the B2B factoring category average of 1.5–3.5% for high-volume clients ($500,000+/month)</li>
+      <li>Dedicated account manager for each client — one consistent contact for funding, customer questions, and contract management throughout the relationship</li>
+      <li>Requires 600+ personal FICO and 2+ years in business — start-ups and impaired-credit owners should look at Riviera Finance ($5,000 minimum, no credit requirement) instead</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-TCI Business Capital is a Minnesota-based invoice factoring company serving B2B businesses across multiple industries since 1994. It offers non-recourse and recourse factoring, advances up to 95% of invoice value, and has earned a strong reputation for customer service and flexible contract terms. TCI focuses on relationship-based factoring and is particularly active in staffing, manufacturing, distribution, and service businesses. It is a credible choice for mid-sized B2B businesses looking for a long-term factoring partner with a non-recourse option and competitive rates.
+TCI Business Capital is a Minnesota-based receivables financing company serving B2B businesses across multiple industries since 1994. It offers non-recourse and recourse factoring, advances up to 95% of invoice value, and has earned a strong reputation for customer service and flexible contract terms. TCI focuses on relationship-based factoring and is particularly active in staffing, manufacturing, distribution, and service businesses. It is a credible choice for mid-sized B2B businesses looking for a long-term factoring partner with a non-recourse option and competitive rates.
 
 **Best for:** Established B2B businesses with $25,000–$5,000,000+ in monthly invoicing in staffing, manufacturing, or distribution that need a non-recourse factoring partner with dedicated account management, a 600+ personal FICO score, and at least 2 years in business.
 
@@ -138,7 +150,7 @@ TCI Business Capital publishes a factoring fee range of approximately 1–3% per
 
 **Volume discounts:** TCI Business Capital offers lower rates for higher monthly factoring volumes. Businesses factoring $500,000+/month typically receive better pricing than the published range. Negotiate rates at application based on your projected volume.
 
-**Effective APR (annual percentage rate) context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective APR — competitive with many business lines of credit and significantly cheaper than most MCA (merchant cash advance) products.
+**Effective APR context:** A 2% monthly factoring fee on a 45-day invoice equates to approximately 16% effective APR (the annualized cost of financing, accounting for all fees and repayment speed) — competitive with many business lines of credit and significantly cheaper than most MCA (merchant cash advance) products.
 
 ---
 
@@ -211,26 +223,33 @@ TCI and Riviera Finance are similar in core offering — both established non-re
 
 - **Invoice financing (vs. factoring):** If you want to borrow against invoices without selling them — keeping the customer relationship entirely in-house — consider invoice financing. Typically costs slightly more than factoring but is invisible to customers. See [Invoice Financing vs. Factoring](/compare/invoice-financing-vs-factoring/).
 - **Business line of credit:** For businesses with consistent revenue who don't need invoice-specific financing, a revolving line of credit at 15–30% APR may be cheaper long-term. See [Business Line of Credit Guide](/guides/business-line-of-credit/).
-- **SBA loan:** For general working capital, SBA 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
+- **SBA loan:** For general operating capital, SBA 7(a) offers 10–13% APR for qualified borrowers. See [SBA Loans Guide](/guides/sba-loans/).
 
 ---
 
-## Frequently Asked Questions
-
-**What industries does TCI Business Capital specialize in?**
-TCI Business Capital is particularly experienced in staffing (temporary and permanent placement), manufacturing, distribution, and professional services. It also serves government contractors, transportation (general freight, not trucking-specific), healthcare services, and other B2B industries. Contact TCI to confirm eligibility for your specific industry.
-
-**Does TCI Business Capital work with start-ups?**
-TCI Business Capital does not have a stated minimum time in business. Start-ups with commercial or government contracts and creditworthy customers may qualify. The factoring approval is primarily based on your customers' ability to pay, not your business history — making factoring one of the few financing options accessible to very new businesses with commercial sales.
-
-**How does non-recourse factoring protect my business?**
-With non-recourse factoring, TCI Business Capital assumes the credit risk on the invoices it purchases. If a customer cannot pay due to insolvency (bankruptcy, receivership), TCI absorbs the loss — not your business. This protects you from catastrophic losses if a large customer fails. However, non-recourse does not cover disputes — if a customer refuses to pay because they claim goods were defective or services were incomplete, you remain liable.
-
-**Can I factor only some of my invoices with TCI Business Capital?**
-TCI Business Capital's contract terms vary — confirm whether selective factoring (choosing which invoices to submit) or whole-ledger factoring (submitting all invoices for a customer) is available for your account. Some factoring companies require whole-ledger factoring to prevent adverse selection (only submitting slow-paying customers). Discuss contract flexibility at application.
-
-**What happens if my customer pays TCI Business Capital late?**
-The factoring fee accrues for each 30-day period the invoice remains outstanding. If your customer pays on day 60, you pay fees for two 30-day periods. The total cost of factoring is tied to how quickly your customers pay — faster-paying customers reduce your effective cost. TCI's collections team actively follows up with your customers to accelerate payment.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What industries does TCI Business Capital specialize in?</summary>
+    <p>TCI Business Capital is particularly experienced in staffing (temporary and permanent placement), manufacturing, distribution, and professional services. It also serves government contractors, transportation (general freight, not trucking-specific), healthcare services, and other B2B industries. Contact TCI to confirm eligibility for your specific industry.</p>
+  </details>
+  <details>
+    <summary>Does TCI Business Capital work with start-ups?</summary>
+    <p>TCI Business Capital does not have a stated minimum time in business. Start-ups with commercial or government contracts and creditworthy customers may qualify. The factoring approval is primarily based on your customers' ability to pay, not your business history — making factoring one of the few financing options accessible to very new businesses with commercial sales.</p>
+  </details>
+  <details>
+    <summary>How does non-recourse factoring protect my business?</summary>
+    <p>With non-recourse factoring, TCI Business Capital assumes the credit risk on the invoices it purchases. If a customer cannot pay due to insolvency (bankruptcy, receivership), TCI absorbs the loss — not your business. This protects you from catastrophic losses if a large customer fails. However, non-recourse does not cover disputes — if a customer refuses to pay because they claim goods were defective or services were incomplete, you remain liable.</p>
+  </details>
+  <details>
+    <summary>Can I factor only some of my invoices with TCI Business Capital?</summary>
+    <p>TCI Business Capital's contract terms vary — confirm whether selective factoring (choosing which invoices to submit) or whole-ledger factoring (submitting all invoices for a customer) is available for your account. Some factoring companies require whole-ledger factoring to prevent adverse selection (only submitting slow-paying customers). Discuss contract flexibility at application.</p>
+  </details>
+  <details>
+    <summary>What happens if my customer pays TCI Business Capital late?</summary>
+    <p>The factoring fee accrues for each 30-day period the invoice remains outstanding. If your customer pays on day 60, you pay fees for two 30-day periods. The total cost of factoring is tied to how quickly your customers pay — faster-paying customers reduce your effective cost. TCI's collections team actively follows up with your customers to accelerate payment.</p>
+  </details>
+</section>
 
 ---
 

@@ -10,11 +10,21 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on contract type, volume, and agency.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Government contractor factoring advances 85–95% of federal invoice value at fees of 1–3% per 30-day period — the lowest rates of any industry because federal agencies carry virtually zero insolvency risk</li>
+      <li>The Assignment of Claims Act (the federal law permitting assignment of government contract receivables to lenders) requires contracting officer notification — only use factors with documented federal contracting experience</li>
+      <li>Start-up contractors who have won a federal contract can qualify immediately — approval is based on the agency's creditworthiness, not the contractor's history</li>
+      <li>Subcontract factoring requires prime contractor acknowledgment, and some primes are slow to cooperate — plan for potential setup delays on first invoices</li>
+    </ul>
+  </div>
+</div>
 
 ## Summary
 
-Government contractor factoring converts outstanding federal invoices into immediate cash — bridging the gap between when work is delivered and when the government pays (typically 30–45 days under the Prompt Payment Act, though delays are common). Unlike commercial factoring, government contractor factoring must comply with the Federal Acquisition Regulation (FAR) — specifically the Assignment of Claims Act, which governs how receivables from federal contracts can be assigned to a third party. Advance rates reach 90–95% of invoice value, with factoring fees of 1–3% per 30 days. This is a mature, well-regulated market with numerous experienced lenders.
+Government contractor receivables financing converts outstanding federal invoices into immediate cash — bridging the gap between when work is delivered and when the government pays (typically 30–45 days under the Prompt Payment Act, though delays are common). Unlike commercial factoring, government contractor factoring must comply with the Federal Acquisition Regulation (FAR) — specifically the Assignment of Claims Act, which governs how receivables from federal contracts can be assigned to a third party. Advance rates reach 90–95% of invoice value, with factoring fees of 1–3% per 30 days. This is a mature, well-regulated market with numerous experienced lenders.
 
 <div class="pros-cons">
   <div class="pros">
@@ -85,7 +95,7 @@ For small businesses, this gap — paying out before receiving payment — creat
 
 **Prompt Payment Act:** Federal agencies are required to pay invoices within 30 days of receipt and acceptance. Late payments accrue interest. In practice, many agencies take longer — net 45–60 days is common for some contract types.
 
-A factoring company must be familiar with government assignment-of-claims procedures. Always confirm that a prospective factor has experience with federal contracts before signing an agreement.
+A receivables financing company must be familiar with government assignment-of-claims procedures. Always confirm that a prospective factor has experience with federal contracts before signing an agreement.
 
 ---
 
@@ -196,7 +206,7 @@ Learn more at [sba.gov](https://www.sba.gov/) or see the [SBA Loans Guide](/guid
 ## Alternatives to Government Contractor Factoring
 
 - **Accounts receivable line of credit:** Some banks offer lines of credit secured by government contracts — you retain ownership of the receivables and borrow against them. Typically requires 2+ years of contracting history and strong financials. Rates may be lower than factoring for established contractors.
-- **Contract financing / mobilization loans:** Some lenders advance working capital at contract award — before any invoices are generated — based on the contract award letter. This covers the gap at contract start when expenses begin before delivery (and therefore before invoicing).
+- **Contract financing / mobilization loans:** Some lenders advance operating capital at contract award — before any invoices are generated — based on the contract award letter. This covers the gap at contract start when expenses begin before delivery (and therefore before invoicing).
 - **SBA working capital line:** As noted above, SBA lines at 10–13% APR are cost-effective for ongoing use if you qualify.
 
 **Who this works for:** Federal prime contractors and subcontractors (IT services, professional services, staffing, facilities, defense) billing $50,000+/month under time-and-materials, cost-plus, GSA schedule, or IDIQ task-order contracts, particularly small businesses and 8(a)/WOSB/SDVOSB firms experiencing payroll or overhead gaps between delivery and payment.
@@ -205,22 +215,29 @@ Learn more at [sba.gov](https://www.sba.gov/) or see the [SBA Loans Guide](/guid
 
 ---
 
-## Frequently Asked Questions
-
-**Does factoring affect my relationship with the federal agency?**
-The contracting officer is notified of the assignment when you factor your invoices, but this is standard practice in government contracting. Most agencies have straightforward processes for handling assignment of claims. The notice does not imply financial distress to the agency — factoring is a common, accepted financing tool for small businesses in federal contracting.
-
-**Can I factor subcontract invoices?**
-It depends on the factor and the prime contractor. Some factors work with subcontract receivables, but require documentation from the prime contractor acknowledging the subcontract and agreeing to pay the factor rather than the subcontractor directly. This is more complex than prime contract factoring. Confirm at application whether your specific subcontract structure qualifies.
-
-**How do I notify the contracting officer of the assignment?**
-Your factoring company will typically provide a Notice of Assignment form and guide you through the process. The notice is sent to the Contracting Officer (CO) and the contract's Designated Billing Office. Once received, the agency is legally required to direct payments to the factor rather than to your business. FAR 32.805 governs the form and procedure.
-
-**What is the Prompt Payment Act and how does it affect factoring?**
-The Prompt Payment Act (31 U.S.C. § 3901) requires federal agencies to pay invoices within 30 days of receipt and acceptance. Agencies that pay late must add interest to the payment. This means government contractor factoring has highly predictable payment timelines compared to commercial factoring — which reduces the factor's risk and contributes to lower fees.
-
-**Can a start-up government contractor use factoring?**
-Yes. Unlike bank loans, factoring eligibility is based primarily on your customers' (the agency's) creditworthiness, not your business history. A start-up that has won a federal contract and delivered work can factor invoices even without years of operating history or strong credit. This makes factoring one of the most accessible financing tools for new government contractors.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Does factoring affect my relationship with the federal agency?</summary>
+    <p>The contracting officer is notified of the assignment when you factor your invoices, but this is standard practice in government contracting. Most agencies have straightforward processes for handling assignment of claims. The notice does not imply financial distress to the agency — factoring is a common, accepted financing tool for small businesses in federal contracting.</p>
+  </details>
+  <details>
+    <summary>Can I factor subcontract invoices?</summary>
+    <p>It depends on the factor and the prime contractor. Some factors work with subcontract receivables, but require documentation from the prime contractor acknowledging the subcontract and agreeing to pay the factor rather than the subcontractor directly. This is more complex than prime contract factoring. Confirm at application whether your specific subcontract structure qualifies.</p>
+  </details>
+  <details>
+    <summary>How do I notify the contracting officer of the assignment?</summary>
+    <p>Your factoring company will typically provide a Notice of Assignment form and guide you through the process. The notice is sent to the Contracting Officer (CO) and the contract's Designated Billing Office. Once received, the agency is legally required to direct payments to the factor rather than to your business. FAR 32.805 governs the form and procedure.</p>
+  </details>
+  <details>
+    <summary>What is the Prompt Payment Act and how does it affect factoring?</summary>
+    <p>The Prompt Payment Act (31 U.S.C. § 3901) requires federal agencies to pay invoices within 30 days of receipt and acceptance. Agencies that pay late must add interest to the payment. This means government contractor factoring has highly predictable payment timelines compared to commercial factoring — which reduces the factor's risk and contributes to lower fees.</p>
+  </details>
+  <details>
+    <summary>Can a start-up government contractor use factoring?</summary>
+    <p>Yes. Unlike bank loans, factoring eligibility is based primarily on your customers' (the agency's) creditworthiness, not your business history. A start-up that has won a federal contract and delivered work can factor invoices even without years of operating history or strong credit. This makes factoring one of the most accessible financing tools for new government contractors.</p>
+  </details>
+</section>
 
 ---
 

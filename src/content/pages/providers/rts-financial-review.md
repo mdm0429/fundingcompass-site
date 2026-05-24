@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via RTS Financial published terms and industry sources. FundingCompass has no current affiliate arrangement with RTS Financial. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for trucking owner-operators and small fleets — especially reefer/refrigerated carriers — who want same-day funding and no long-term contract commitment</li>
+      <li>Advance rate up to 97%; fees run 1.5–5% per invoice with fuel card savings of $0.15+/gallon that can reduce effective cost by 0.5–1% per invoice</li>
+      <li>40+ years of exclusive trucking industry experience (founded 1982) with 24/7 live support and a 1,000-location fuel card network</li>
+      <li>Advance rate caps at 97% vs. Triumph's 100%, and Triumph's TriumphPay network offers faster automated verification for dry van carriers with major brokers</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-RTS Financial is one of the largest independent invoice factoring companies focused exclusively on the trucking and transportation industry. Founded in 1982 and headquartered in Scottsdale, AZ, it has served owner-operators for over four decades — longer than most competitors. Its fuel card network, 24/7 customer support, and flexible contract terms (including month-to-month options) make it a strong alternative to Triumph Business Capital, particularly for refrigerated freight and reefer carriers where RTS has additional load board integrations.
+RTS Financial is one of the largest independent receivables financing companies focused exclusively on the trucking and transportation industry. Founded in 1982 and headquartered in Scottsdale, AZ, it has served owner-operators for over four decades — longer than most competitors. Its fuel card network, 24/7 customer support, and flexible contract terms (including month-to-month options) make it a strong alternative to Triumph Business Capital, particularly for refrigerated freight and reefer carriers where RTS has additional load board integrations.
 
 **Best for:** Trucking owner-operators and small fleets with active MC authority who want a 40-year transportation-specialist factor with flexible month-to-month contracts, a 1,000-location fuel card network, and strong reefer/temperature-controlled load support.
 
@@ -226,31 +238,39 @@ Apply directly at [RTSFinancial.com](https://www.rtsfinancial.com/).
 
 **Non-factoring alternatives (for established carriers):**
 - **Business line of credit:** If you have 680+ credit and 2+ years in business, a bank LOC (line of credit) at 9–15% APR (annual percentage rate) is cheaper than ongoing factoring. Consider transitioning as your business matures.
-- **Trucking-specific bank lending:** Truist and Comerica have transportation divisions with working capital products for established fleets.
+- **Trucking-specific bank lending:** Truist and Comerica have transportation divisions with operating capital products for established fleets.
 
 For a full overview of trucking-specific financing: [Trucking Invoice Factoring Guide](/industries/trucking-factoring/).
 
 ---
 
-## Frequently Asked Questions
-
-**Does RTS factor spot loads?**
-Yes. RTS factors both spot and contract freight. You can factor individual spot loads without committing to a minimum volume or contract requirement on month-to-month arrangements.
-
-**What is the difference between RTS recourse and non-recourse factoring?**
-Recourse factoring: if the broker doesn't pay, you buy back the invoice. Lower fees. Non-recourse factoring: if an approved broker becomes insolvent, RTS absorbs the loss. Higher fees (typically 0.5–1% more per invoice). Neither protects you from short-pays due to service disputes — those are treated as recourse situations regardless.
-
-**Can I use the RTS Fuel Card before my invoice is funded?**
-Yes. The fuel card allows you to draw against pending factored invoice value at the pump. This means you can fuel immediately after delivering a load, before RTS has fully processed and funded the invoice. The drawn amount is deducted from your final invoice payment.
-
-**What happens to the reserve when the broker pays?**
-RTS holds 3% of the invoice as a reserve. When the broker pays, RTS deducts its factoring fee from the reserve and releases the remainder to you. If the fee is 3% and the reserve is 3%, you receive no additional payment on that invoice. At higher volumes where fees are below 3%, you receive a reserve release.
-
-**Does RTS report factoring to credit bureaus?**
-RTS does not report to personal or business credit bureaus for normal factoring activity. Factoring is not a loan — there is nothing to report as credit. If an account goes to collections, that activity may appear in collections records.
-
-**Can I switch from RTS to another factor?**
-Yes. On month-to-month contracts, you can terminate with appropriate notice (typically 30–60 days). Your new factor must buy out any outstanding invoices from RTS — this is standard across the industry. On 12-month contracts, early termination fees apply.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Does RTS factor spot loads?</summary>
+    <p>Yes. RTS factors both spot and contract freight. You can factor individual spot loads without committing to a minimum volume or contract requirement on month-to-month arrangements.</p>
+  </details>
+  <details>
+    <summary>What is the difference between RTS recourse and non-recourse factoring?</summary>
+    <p>Recourse factoring: if the broker doesn't pay, you buy back the invoice. Lower fees. Non-recourse factoring: if an approved broker becomes insolvent, RTS absorbs the loss. Higher fees (typically 0.5–1% more per invoice). Neither protects you from short-pays due to service disputes — those are treated as recourse situations regardless.</p>
+  </details>
+  <details>
+    <summary>Can I use the RTS Fuel Card before my invoice is funded?</summary>
+    <p>Yes. The fuel card allows you to draw against pending factored invoice value at the pump. This means you can fuel immediately after delivering a load, before RTS has fully processed and funded the invoice. The drawn amount is deducted from your final invoice payment.</p>
+  </details>
+  <details>
+    <summary>What happens to the reserve when the broker pays?</summary>
+    <p>RTS holds 3% of the invoice as a reserve. When the broker pays, RTS deducts its factoring fee from the reserve and releases the remainder to you. If the fee is 3% and the reserve is 3%, you receive no additional payment on that invoice. At higher volumes where fees are below 3%, you receive a reserve release.</p>
+  </details>
+  <details>
+    <summary>Does RTS report factoring to credit bureaus?</summary>
+    <p>RTS does not report to personal or business credit bureaus for normal factoring activity. Factoring is not a loan — there is nothing to report as credit. If an account goes to collections, that activity may appear in collections records.</p>
+  </details>
+  <details>
+    <summary>Can I switch from RTS to another factor?</summary>
+    <p>Yes. On month-to-month contracts, you can terminate with appropriate notice (typically 30–60 days). Your new factor must buy out any outstanding invoices from RTS — this is standard across the industry. On 12-month contracts, early termination fees apply.</p>
+  </details>
+</section>
 
 ---
 

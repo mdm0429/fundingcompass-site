@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Crest Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Crest Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for businesses with 2+ years in operation, 650+ credit, and $100,000+/year revenue that need $5,000–$500,000 in equipment financing with 2-hour credit decisions and flexible loan or lease structures.</li>
+      <li>Rates published from approximately 5.99% APR — a $75,000 equipment loan at 7.5% APR over 48 months costs $12,216 in total interest; more transparent than Balboa Capital or National Funding.</li>
+      <li>35+ year equipment financing specialist offering both loan and lease structures, soft-cost financing, and no prepayment penalty in many cases — rare depth for an independent lender.</li>
+      <li>2-year time-in-business preference is stricter than Balboa Capital (1-year minimum) — newer businesses face higher scrutiny or may be declined.</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -68,7 +80,7 @@ Crest Capital is an Atlanta-based equipment financing and leasing company servin
 
 **Best for:** Businesses with 2+ years in operation, 650+ credit, and $100,000+/year in revenue that need $5,000–$500,000 in equipment financing with 2-hour credit decisions (for amounts under $250,000) and the flexibility to choose between loan and lease structures.
 
-**Not ideal for:** Start-ups under 2 years old (who face more scrutiny and should consider Balboa Capital's 1-year minimum), businesses needing working capital rather than equipment-specific financing, or businesses seeking manufacturer-sponsored financing programs which may offer lower promotional rates.
+**Not ideal for:** Start-ups under 2 years old (who face more scrutiny and should consider Balboa Capital's 1-year minimum), businesses needing operating capital rather than equipment-specific financing, or businesses seeking manufacturer-sponsored financing programs which may offer lower promotional rates.
 
 ---
 
@@ -110,7 +122,7 @@ Crest Capital is an Atlanta-based equipment financing and leasing company servin
 
 ## What Crest Capital Offers
 
-Crest Capital operates as a direct lender for equipment financing and leasing. It is not a marketplace — it funds from its own capital, which means credit decisions are faster and there are fewer intermediary fees.
+Crest Capital operates as a direct lender for equipment lending and leasing. It is not a marketplace — it funds from its own capital, which means credit decisions are faster and there are fewer intermediary fees.
 
 **Equipment Loans:** Crest Capital funds the purchase of equipment, which you own from day one. Monthly payments are fixed, and the loan is secured by the equipment itself. At payoff, the equipment is free and clear. Loans work well for equipment you expect to use long-term or that holds resale value.
 
@@ -217,22 +229,29 @@ Crest Capital's rate transparency and 35-year track record are its core advantag
 
 ---
 
-## Frequently Asked Questions
-
-**Is Crest Capital a direct lender or a broker?**
-Crest Capital is a direct lender — it funds equipment loans and leases from its own capital rather than brokering applications to third parties. This generally means faster decisions and fewer fees compared to marketplace lenders.
-
-**What types of equipment does Crest Capital finance?**
-Crest Capital finances a wide range of equipment including commercial vehicles, medical and dental equipment, manufacturing machinery, restaurant equipment, construction equipment, technology hardware, agricultural equipment, and more. Contact Crest Capital to confirm eligibility for a specific equipment type.
-
-**Does Crest Capital offer 0% down equipment financing?**
-For qualified borrowers (strong credit, established business), Crest Capital can fund 100% of the equipment cost with no down payment. This preserves working capital but results in higher monthly payments and more total interest.
-
-**Can I finance used equipment through Crest Capital?**
-Yes, Crest Capital finances used equipment, though age limits apply for certain categories. In general, equipment more than 10–15 years old may face restrictions. Confirm at application based on the specific make, model, and year of the equipment.
-
-**What is the difference between a $1 buyout lease and an equipment loan?**
-Both structures result in ownership at the end of the term. The key difference is accounting treatment: equipment loans appear as assets and liabilities on the balance sheet, while $1 buyout leases are classified as capital leases with similar balance sheet treatment. True operating leases keep equipment off the balance sheet. Consult your accountant to determine which structure is better for your financial statements and tax situation.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is Crest Capital a direct lender or a broker?</summary>
+    <p>Crest Capital is a direct lender — it funds equipment loans and leases from its own capital rather than brokering applications to third parties. This generally means faster decisions and fewer fees compared to marketplace lenders.</p>
+  </details>
+  <details>
+    <summary>What types of equipment does Crest Capital finance?</summary>
+    <p>Crest Capital finances a wide range of equipment including commercial vehicles, medical and dental equipment, manufacturing machinery, restaurant equipment, construction equipment, technology hardware, agricultural equipment, and more. Contact Crest Capital to confirm eligibility for a specific equipment type.</p>
+  </details>
+  <details>
+    <summary>Does Crest Capital offer 0% down equipment financing?</summary>
+    <p>For qualified borrowers (strong credit, established business), Crest Capital can fund 100% of the equipment cost with no down payment. This preserves working capital but results in higher monthly payments and more total interest.</p>
+  </details>
+  <details>
+    <summary>Can I finance used equipment through Crest Capital?</summary>
+    <p>Yes, Crest Capital finances used equipment, though age limits apply for certain categories. In general, equipment more than 10–15 years old may face restrictions. Confirm at application based on the specific make, model, and year of the equipment.</p>
+  </details>
+  <details>
+    <summary>What is the difference between a $1 buyout lease and an equipment loan?</summary>
+    <p>Both structures result in ownership at the end of the term. The key difference is accounting treatment: equipment loans appear as assets and liabilities on the balance sheet, while $1 buyout leases are classified as capital leases with similar balance sheet treatment. True operating leases keep equipment off the balance sheet. Consult your accountant to determine which structure is better for your financial statements and tax situation.</p>
+  </details>
+</section>
 
 ---
 

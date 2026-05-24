@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Factor rate data verified via Credibly, BFS Capital, and Rapid Finance published terms.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Restaurant MCAs carry factor rates of 1.15–1.49, translating to effective APRs of 40–300% — far more expensive than equipment financing (6–20% APR) or an SBA loan (~12% APR)</li>
+      <li>Approval is based on card sales volume and consistency, not credit score — accessible to restaurants with scores below 500 that cannot qualify for bank financing</li>
+      <li>The main advantage is 24–48 hour funding for emergency short-term needs where no other financing is available or downtime cost exceeds the MCA fee</li>
+      <li>Daily holdback (10–25% of daily card sales) reduces cash available for fixed costs — using an MCA for ongoing operating expenses will worsen, not solve, a structural cash flow problem</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Why Restaurants Are Targeted for MCAs
 
-Restaurants process high volumes of daily credit and debit card transactions — which makes them ideal candidates for MCA (merchant cash advance) holdback collection. MCA providers can see exactly how much a restaurant processes each day and calculate repayment with precision. This accessibility, combined with restaurants' frequent need for fast capital (broken equipment, seasonal slow periods, sudden opportunities), makes the restaurant industry one of the heaviest users of MCA products.
+Restaurants process high volumes of daily credit and debit card transactions — which makes them ideal candidates for MCA (merchant cash advance) holdback collection. MCA providers can see exactly how much a restaurant processes each day and calculate repayment with precision. This accessibility, combined with restaurants' frequent need for fast merchant funding (broken equipment, seasonal slow periods, sudden opportunities), makes the restaurant industry one of the heaviest users of MCA products.
 
 It also means restaurant owners are aggressively marketed to by MCA providers. This guide exists to help you understand the real cost before signing anything.
 
@@ -109,7 +121,7 @@ For additional context on lending practices and borrower rights, see the <a href
 Despite the cost, MCAs are appropriate in narrow restaurant-specific situations:
 
 - **Emergency equipment replacement** where you cannot wait 48 hours for equipment financing approval and downtime is costing you more than the MCA fee
-- **Opportunity with a concrete short payback** — a private event contract paying $80,000 in 30 days that requires $20,000 in supplies now
+- **Opportunity with a concrete short payback** — a private event contract paying $80,000 in 30 days that requires $20,000 in supplies now, where a merchant advance is the fastest available option
 - **You cannot qualify for anything else** — very new restaurants or those with poor credit may have no alternative
 
 <div class="callout callout--warning">
@@ -119,22 +131,29 @@ Despite the cost, MCAs are appropriate in narrow restaurant-specific situations:
 
 ---
 
-## Frequently Asked Questions
-
-**How much of an MCA can a restaurant get?**
-Most providers advance 50–150% of your average monthly card sales volume. A restaurant processing $60,000/month in card sales can typically access $30,000–$90,000. The advance amount depends on your sales consistency, time in business, and how many existing MCAs you have outstanding.
-
-**Can a restaurant with bad credit get an MCA?**
-Yes. MCA providers focus on your card sales volume and consistency, not your credit score. Some providers approve with credit scores below 500. This accessibility is one reason MCAs are common among restaurants that cannot qualify for bank financing or SBA loans.
-
-**What happens if my restaurant closes while I have an MCA outstanding?**
-If your restaurant closes, the MCA provider has no more card sales to collect against. Most MCA agreements include provisions for this scenario — the full outstanding balance becomes immediately due. Providers may pursue collections against your personal guarantee if one was signed. This is a significant risk for MCAs, and one reason they are inappropriate as a tool for businesses already showing financial stress.
-
-**Can I pay off an MCA early to save money?**
-Generally no. The total repayment amount (advance × factor rate) is fixed regardless of how quickly you pay. Early repayment means you pay the full amount faster — not less. Some providers offer early settlement discounts — always ask about this before signing.
-
-**Does the MCA holdback apply to all card sales or just credit cards?**
-The holdback applies to all card transactions processed through your point-of-sale system — credit and debit. Cash transactions are not subject to holdback. Some restaurants attempt to shift customers toward cash to slow holdback collection — while this technically works, most MCA agreements require you to maintain your normal processing mix and include provisions allowing the provider to take action if card volume drops significantly.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>How much of an MCA can a restaurant get?</summary>
+    <p>Most providers advance 50–150% of your average monthly card sales volume. A restaurant processing $60,000/month in card sales can typically access $30,000–$90,000. The advance amount depends on your sales consistency, time in business, and how many existing MCAs you have outstanding.</p>
+  </details>
+  <details>
+    <summary>Can a restaurant with bad credit get an MCA?</summary>
+    <p>Yes. MCA providers focus on your card sales volume and consistency, not your credit score. Some providers approve with credit scores below 500. This accessibility is one reason MCAs are common among restaurants that cannot qualify for bank financing or SBA loans.</p>
+  </details>
+  <details>
+    <summary>What happens if my restaurant closes while I have an MCA outstanding?</summary>
+    <p>If your restaurant closes, the MCA provider has no more card sales to collect against. Most MCA agreements include provisions for this scenario — the full outstanding balance becomes immediately due. Providers may pursue collections against your personal guarantee if one was signed. This is a significant risk for MCAs, and one reason they are inappropriate as a tool for businesses already showing financial stress.</p>
+  </details>
+  <details>
+    <summary>Can I pay off an MCA early to save money?</summary>
+    <p>Generally no. The total repayment amount (advance × factor rate) is fixed regardless of how quickly you pay. Early repayment means you pay the full amount faster — not less. Some providers offer early settlement discounts — always ask about this before signing.</p>
+  </details>
+  <details>
+    <summary>Does the MCA holdback apply to all card sales or just credit cards?</summary>
+    <p>The holdback applies to all card transactions processed through your point-of-sale system — credit and debit. Cash transactions are not subject to holdback. Some restaurants attempt to shift customers toward cash to slow holdback collection — while this technically works, most MCA agreements require you to maintain your normal processing mix and include provisions allowing the provider to take action if card volume drops significantly.</p>
+  </details>
+</section>
 
 ---
 

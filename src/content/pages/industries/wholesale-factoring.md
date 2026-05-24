@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via Riviera Finance, TCI Business Capital, and Triumph Business Capital published schedules.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Wholesale factoring advances 80–92% of delivered invoices at fees of 1–4% per 30-day period</li>
+      <li>Qualification requires fully delivered goods invoiced to creditworthy B2B customers — consumer-direct and consignment receivables are ineligible</li>
+      <li>The main advantage is converting 30–60 day receivables to same-week cash, enabling immediate restocking and supplier payments without drawing down a credit line</li>
+      <li>Concentration limits cap advances on any single customer at 20–25% — distributors with one customer representing 50%+ of revenue face restricted funding</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Why Wholesale Distributors Use Factoring
 
-Wholesale distribution has one of the most acute cash flow timing problems in B2B commerce: you pay suppliers on delivery (or net-15) but extend net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms to retail and commercial customers. On a $500,000 monthly revenue stream, that 45-day gap represents $750,000 in outstanding receivables at any given time. Factoring converts those receivables to cash immediately, allowing distributors to restock inventory, take on new accounts, and pay suppliers on time — without drawing down a credit line or waiting for customer payments.
+Wholesale distribution has one of the most acute cash flow timing problems in B2B commerce: you pay suppliers on delivery (or net-15) but extend net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms to retail and commercial customers. On a $500,000 monthly revenue stream, that 45-day gap represents $750,000 in outstanding receivables at any given time. Factoring converts those receivables to cash immediately, allowing distributors to restock inventory, take on new accounts, and pay suppliers on time — without drawing down a credit line or waiting for customer payments to fund operating capital needs.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -59,7 +71,7 @@ Wholesale distribution has one of the most acute cash flow timing problems in B2
 
 ## How Wholesale Factoring Works
 
-The mechanics follow standard invoice factoring with particular attention to two wholesale-specific issues:
+The mechanics follow standard receivables financing with particular attention to two wholesale-specific issues:
 
 **Purchase order (PO) financing vs. invoice factoring.** Some distributors confuse these. Invoice factoring applies to completed orders — goods delivered, invoice issued. PO financing applies to orders received but not yet fulfilled — it funds the supplier payment so you can complete the order. For distributors who need capital before delivery, PO financing may be relevant; factoring only applies after delivery.
 
@@ -129,19 +141,25 @@ PO financing is more expensive than invoice factoring (typically 3–5% per 30 d
 
 ---
 
-## Frequently Asked Questions
-
-**Can a wholesale distributor factor invoices to retail chains?**
-Yes, as long as the retail chain is creditworthy. Major national retailers (Walmart, Target, Costco, Home Depot) are well-rated and readily accepted by most factors. Regional or independent retailers need to be credit-checked individually — some will be approved, some declined. The factor makes this determination based on payment history data from Dun & Bradstreet and other sources.
-
-**How does wholesale factoring interact with early payment discount programs?**
-Some large retailers offer early payment discount programs (e.g., 2/10 net 30 — 2% discount if paid within 10 days). If you factor an invoice that is subject to an early payment discount, the buyer may deduct the discount from their payment to the factor. This reduces the amount the factor receives and may result in a charge-back or adjustment to your reserve. Clarify with your factor how early payment discounts are handled before factoring invoices subject to them.
-
-**What is the difference between factoring and accounts receivable financing for distributors?**
-Invoice factoring sells the invoice to the factor — the buyer pays the factor directly. Accounts receivable financing uses the invoices as collateral for a loan — you continue to collect from customers and repay the lender. Factoring is faster and requires no minimum credit score; AR financing is cheaper and preserves the customer relationship. For distributors with large retail customers who already understand factoring (Notices of Assignment are common in wholesale), factoring is typically the more practical choice.
-
-**Does factoring work with EDI invoicing systems?**
-Yes. Most wholesale factors accept invoices submitted via EDI (Electronic Data Interchange) as well as PDF and web portal. Confirm with your factor whether they can receive EDI 810 (invoice) transactions directly — larger factors (TCI, Triumph, Riviera) typically have EDI capabilities, which significantly reduces administrative friction for high-volume distributors.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can a wholesale distributor factor invoices to retail chains?</summary>
+    <p>Yes, as long as the retail chain is creditworthy. Major national retailers (Walmart, Target, Costco, Home Depot) are well-rated and readily accepted by most factors. Regional or independent retailers need to be credit-checked individually — some will be approved, some declined. The factor makes this determination based on payment history data from Dun &amp; Bradstreet and other sources.</p>
+  </details>
+  <details>
+    <summary>How does wholesale factoring interact with early payment discount programs?</summary>
+    <p>Some large retailers offer early payment discount programs (e.g., 2/10 net 30 — 2% discount if paid within 10 days). If you factor an invoice that is subject to an early payment discount, the buyer may deduct the discount from their payment to the factor. This reduces the amount the factor receives and may result in a charge-back or adjustment to your reserve. Clarify with your factor how early payment discounts are handled before factoring invoices subject to them.</p>
+  </details>
+  <details>
+    <summary>What is the difference between factoring and accounts receivable financing for distributors?</summary>
+    <p>Invoice factoring sells the invoice to the factor — the buyer pays the factor directly. Accounts receivable financing uses the invoices as collateral for a loan — you continue to collect from customers and repay the lender. Factoring is faster and requires no minimum credit score; AR financing is cheaper and preserves the customer relationship. For distributors with large retail customers who already understand factoring (Notices of Assignment — letters directing your customer to pay the factor instead of you — are common in wholesale), factoring is typically the more practical choice.</p>
+  </details>
+  <details>
+    <summary>Does factoring work with EDI invoicing systems?</summary>
+    <p>Yes. Most wholesale factors accept invoices submitted via EDI (Electronic Data Interchange) as well as PDF and web portal. Confirm with your factor whether they can receive EDI 810 (invoice) transactions directly — larger factors (TCI, Triumph, Riviera) typically have EDI capabilities, which significantly reduces administrative friction for high-volume distributors.</p>
+  </details>
+</section>
 
 ---
 

@@ -10,6 +10,18 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant or financial advisor before making financing decisions.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Equipment loan APR runs 5–20% with terms of 24–84 months; you own the equipment from day one with no separate end-of-term buyout</li>
+      <li>On a $100,000 equipment purchase, an operating lease costs ~$96,000 total vs. ~$121,680 for a loan — but you must buy or return the asset at lease end</li>
+      <li>Section 179 allows up to $1,220,000 in equipment deductions in 2026 — available for loans and $1 buyout leases, but not standard operating leases</li>
+      <li>FASB ASC 842 now requires most operating leases to appear on the balance sheet for GAAP-reporting companies — confirm treatment with your accountant before assuming off-balance-sheet benefits</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Summary
@@ -94,6 +106,19 @@ An equipment loan is a fixed-term loan secured by the equipment itself. The lend
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model your specific purchase.
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> $100,000 equipment purchase, 0% down, 60-month term via equipment loan</p>
+    <ul>
+      <li>Amount financed: $100,000</li>
+      <li>APR: 8% fixed</li>
+      <li>Monthly payment: $2,028</li>
+      <li>Total payments: $121,680 — vs. $96,000 for an operating lease on the same equipment (though lease requires return or buyout at end of term)</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## How Equipment Leases Work
@@ -171,7 +196,7 @@ This is where the decision gets complicated. Always consult your accountant.
 
 ## Which Is Right for Your Business?
 
-**Choose an equipment loan if:** the equipment has a useful life of 7+ years (construction machinery, manufacturing equipment, commercial vehicles), you have 650+ credit and 2+ years in business to access rates below 10% APR, or you have high taxable income and want to maximize the Section 179 deduction in year one.
+**Choose an equipment loan if:** the equipment has a useful life of 7+ years (construction machinery, manufacturing equipment, commercial vehicles), you have 650+ credit and 2+ years in business to access equipment funding rates below 10% APR, or you have high taxable income and want to maximize the Section 179 deduction in year one.
 
 **Choose an operating lease if:** the equipment depreciates or becomes obsolete within 3–5 years (servers, copiers, medical imaging technology), you want lower monthly payments and upgrade flexibility, or you want to preserve debt capacity by keeping the asset off your balance sheet.
 
@@ -266,22 +291,29 @@ This is where the decision gets complicated. Always consult your accountant.
 
 ---
 
-## Frequently Asked Questions
-
-**Is leasing always more expensive than buying?**
-Not necessarily. Month-to-month, leasing is cheaper than a loan. But over time, if you renew a lease indefinitely, total payments may exceed what you'd have paid to own the equipment. The comparison depends on how long you use the equipment and the buyout price at lease end. Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model the comparison for your specific purchase.
-
-**Can I switch from a lease to ownership mid-term?**
-Most leases have a buyout provision that allows you to purchase the equipment before lease end — but the buyout price may be higher than anticipated. Check the early buyout schedule in your lease agreement before signing.
-
-**What credit score do I need for equipment financing?**
-Most lenders require 620–650 for established businesses. Some lenders (National Funding) work with 600+. Start-ups typically need 680+ or a strong personal guarantor. See [Best Equipment Financing Companies](/compare/best-equipment-financing-companies/) for a comparison.
-
-**What happens if I return leased equipment in poor condition?**
-Operating leases include "fair wear and tear" provisions — normal use is acceptable, but damage beyond normal wear results in end-of-lease charges. Review the lease's condition requirements carefully before signing, and inspect equipment regularly to avoid surprise charges.
-
-**Does equipment financing require a down payment?**
-Many lenders offer 0% down for qualified borrowers. Some require a first-and-last payment at lease inception (equivalent to a small down payment). If you have less-than-perfect credit, a 10–20% down payment may be required to access financing.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is leasing always more expensive than buying?</summary>
+    <p>Not necessarily. Month-to-month, leasing is cheaper than a loan. But over time, if you renew a lease indefinitely, total payments may exceed what you'd have paid to own the equipment. The comparison depends on how long you use the equipment and the buyout price at lease end. Use the <a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a> to model the comparison for your specific purchase.</p>
+  </details>
+  <details>
+    <summary>Can I switch from a lease to ownership mid-term?</summary>
+    <p>Most leases have a buyout provision that allows you to purchase the equipment before lease end — but the buyout price may be higher than anticipated. Check the early buyout schedule in your lease agreement before signing.</p>
+  </details>
+  <details>
+    <summary>What credit score do I need for equipment financing?</summary>
+    <p>Most lenders require 620–650 for established businesses. Some lenders (National Funding) work with 600+. Start-ups typically need 680+ or a strong personal guarantor. See <a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies</a> for a comparison.</p>
+  </details>
+  <details>
+    <summary>What happens if I return leased equipment in poor condition?</summary>
+    <p>Operating leases include "fair wear and tear" provisions — normal use is acceptable, but damage beyond normal wear results in end-of-lease charges. Review the lease's condition requirements carefully before signing, and inspect equipment regularly to avoid surprise charges.</p>
+  </details>
+  <details>
+    <summary>Does equipment financing require a down payment?</summary>
+    <p>Many lenders offer 0% down for qualified borrowers. Some require a first-and-last payment at lease inception (equivalent to a small down payment). If you have less-than-perfect credit, a 10–20% down payment may be required to access financing.</p>
+  </details>
+</section>
 
 ---
 

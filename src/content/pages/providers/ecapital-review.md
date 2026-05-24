@@ -10,6 +10,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via eCapital's published rate schedule and product pages. FundingCompass has no current affiliate arrangement with eCapital. This is an independent editorial review.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for freight carriers running $25,000+/month in loads who need the highest published advance rate (up to 97%) and 2–4 hour funding</li>
+      <li>Fees from 0.69% per 30 days — but most freight accounts pay 1–2%; general B2B clients should expect 1.5–2.5%</li>
+      <li>Dedicated industry divisions for freight, staffing, and government contracting with separate underwriting teams — not a generalist retrofitted for trucking</li>
+      <li>Recourse-only: no non-recourse option, and the 12-month contract with volume minimums creates real exit risk for seasonal businesses</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -180,22 +192,29 @@ Apply directly at [eCapital.com](https://www.ecapital.com/).
 
 ---
 
-## Frequently Asked Questions
-
-**What is eCapital's actual rate for a typical freight account?**
-eCapital's published rate floor of 0.69% per 30 days is reserved for high-volume accounts ($250,000+ monthly) with exceptional broker credit profiles. Most freight accounts pay 1–2% per 30 days. General B2B accounts typically pay 1.5–2.5%. Request a rate specific to your customer list before signing.
-
-**Does eCapital offer spot factoring?**
-No. eCapital requires a contract with minimum monthly volume commitments. If you need the flexibility to factor individual invoices without a contract, consider RTS Financial (freight) or BlueVine (general B2B).
-
-**How quickly does eCapital fund freight invoices?**
-eCapital funds freight invoices in 2–4 hours from verified document submission during business hours. Documents submitted after 3 PM Eastern may fund the following business morning. Same-day ACH is standard; wire transfers are available for a fee.
-
-**What happens if a broker doesn't pay an invoice I factored with eCapital?**
-eCapital is recourse-only. If a broker does not pay after the recourse period (typically 90 days), eCapital charges the invoice back against your reserve account. You then pursue the broker directly. If the broker has failed or is unreachable, you bear the loss. This is standard for recourse factoring and not unique to eCapital.
-
-**Can I use eCapital for both freight and staffing invoices?**
-Yes. eCapital has dedicated freight and staffing divisions and can serve businesses with invoices in both categories. Each division operates semi-independently with its own account management. Confirm whether your contract covers both services and whether separate volume minimums apply to each.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What is eCapital's actual rate for a typical freight account?</summary>
+    <p>eCapital's published rate floor of 0.69% per 30 days is reserved for high-volume accounts ($250,000+ monthly) with exceptional broker credit profiles. Most freight accounts pay 1–2% per 30 days. General B2B accounts typically pay 1.5–2.5%. Request a rate specific to your customer list before signing.</p>
+  </details>
+  <details>
+    <summary>Does eCapital offer spot factoring?</summary>
+    <p>No. eCapital requires a contract with minimum monthly volume commitments. If you need the flexibility to factor individual invoices without a contract, consider RTS Financial (freight) or BlueVine (general B2B).</p>
+  </details>
+  <details>
+    <summary>How quickly does eCapital fund freight invoices?</summary>
+    <p>eCapital funds freight invoices in 2–4 hours from verified document submission during business hours. Documents submitted after 3 PM Eastern may fund the following business morning. Same-day ACH is standard; wire transfers are available for a fee.</p>
+  </details>
+  <details>
+    <summary>What happens if a broker doesn't pay an invoice I factored with eCapital?</summary>
+    <p>eCapital is recourse-only. If a broker does not pay after the recourse period (typically 90 days), eCapital charges the invoice back against your reserve account. You then pursue the broker directly. If the broker has failed or is unreachable, you bear the loss. This is standard for recourse factoring and not unique to eCapital.</p>
+  </details>
+  <details>
+    <summary>Can I use eCapital for both freight and staffing invoices?</summary>
+    <p>Yes. eCapital has dedicated freight and staffing divisions and can serve businesses with invoices in both categories. Each division operates semi-independently with its own account management. Confirm whether your contract covers both services and whether separate volume minimums apply to each.</p>
+  </details>
+</section>
 
 ---
 

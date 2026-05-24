@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Factor rates verified via each provider's published terms; all rates are based on provider-published rates as of May 2026. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Affiliate relationships do not affect rankings or editorial coverage. Before using any MCA (merchant cash advance), read our [full MCA cost guide](/guides/merchant-cash-advance/) — effective APRs (annual percentage rates) range from 40–350%.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Credibly (#1 for transparency) publishes factor rates of 1.15–1.49 before you apply and requires a minimum of $15,000/month revenue and 500 credit score</li>
+      <li>OnDeck has the lowest factor rate floor on this list (1.10–1.40) but requires 12 months in business and a 625 credit score minimum</li>
+      <li>MCA effective APRs range from 40–350% — compare against invoice factoring (18–60% effective APR) or equipment financing (5–26% APR) before committing</li>
+      <li>Any MCA agreement containing a confession of judgment clause should be rejected — it allows the provider to obtain a court judgment against you without notice</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## A Note Before This List
 
-MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, SBA loans — and determined that an MCA is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/). For context on small business financing practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
+MCAs are among the most expensive forms of business financing. This list is provided for businesses that have already evaluated cheaper alternatives — invoice factoring, equipment financing, business lines of credit, SBA loans — and determined that merchant funding is the appropriate tool. If you have not yet evaluated alternatives, start with the [MCA guide](/guides/merchant-cash-advance/) and [MCA True Cost Calculator](/tools/mca-true-cost-calculator/). For context on small business financing practices and borrower rights, see the [FTC guidance on small-business financing](https://www.ftc.gov/business-guidance/credit-finance).
 
 With that context, here is an independent assessment of the major providers.
 
@@ -307,7 +319,7 @@ With that context, here is an independent assessment of the major providers.
 **Min. time in business:** 6 months
 **Min. credit score:** 500
 
-Credibly stands out in an opaque industry for publishing its factor rate range and providing a cost calculator before you apply. It also offers business lines of credit and working capital loans alongside MCAs — allowing you to compare products in a single application. The working capital loan (if you qualify) is significantly cheaper than the MCA product.
+Credibly stands out in an opaque industry for publishing its factor rate range and providing a cost calculator before you apply. It also offers business lines of credit and operating capital loans alongside MCAs — allowing you to compare products in a single application. The operating capital loan (if you qualify) is significantly cheaper than the MCA product.
 
 Credibly operates in most US states and has compliance processes for states with commercial financing disclosure requirements.
 
@@ -380,6 +392,19 @@ BFS Capital (now part of a larger alternative lending group) works with business
 
 The MCA costs roughly $7,500 vs. $5,892 for equipment financing — and the MCA repayment compresses cash flow daily while equipment financing has a fixed monthly payment. If the restaurant cannot qualify for equipment financing, the MCA may be the only option. Rates depend on credit score, revenue consistency, and existing MCA obligations.
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> Restaurant with $40,000/month in card sales, $30,000 needed for kitchen equipment repairs — Credibly MCA</p>
+    <ul>
+      <li>Amount advanced: $30,000 at factor rate 1.25</li>
+      <li>Total repayment: $37,500 ($30,000 × 1.25)</li>
+      <li>Daily deduction: $200/day (15% holdback on ~$1,333/day in card sales)</li>
+      <li>Effective APR: ~55% (estimated payoff ~188 days)</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Red Flags to Watch For in Any MCA Agreement
@@ -396,22 +421,29 @@ Regardless of which provider you use, review your agreement for:
 
 ---
 
-## Frequently Asked Questions
-
-**Which MCA provider has the lowest factor rates?**
-OnDeck's published range (1.10–1.40) has one of the lower floors in the market, but their 12-month minimum and 625 credit score requirement means many businesses will not qualify for their best rates. Credibly's 1.15 floor is accessible with 500+ credit and 6 months of history. Factor rates are highly individualised — the only way to know your rate is to apply and compare offers.
-
-**Can I negotiate MCA terms?**
-To a limited degree. Factor rates are less negotiable than holdback percentages. If you have offers from multiple providers, you can use them as leverage — some providers will match a competitor's holdback rate to win the deal. The most negotiable element is often the prepayment discount (if applicable) and the holdback percentage.
-
-**How many MCA providers should I apply to?**
-Apply to 2–3 and compare actual offers before signing. MCA applications typically use soft credit pulls for pre-qualification — getting multiple quotes does not damage your credit. Never sign with the first provider that offers you funding without comparing at least one alternative.
-
-**What is the difference between an MCA and a business cash advance loan?**
-These terms are often used interchangeably in marketing. Technically, an MCA is a purchase of future receivables (not a loan), while a business cash advance loan is a short-term loan with fixed repayment. The practical distinction matters for regulatory purposes — MCAs are not subject to usury laws; loans are. In practice, both products are expensive and the total cost should be evaluated in effective APR regardless of what they are called.
-
-**Do MCA providers report to business credit bureaus?**
-Most do not report to major business credit bureaus (Dun & Bradstreet, Experian Business). Timely MCA repayment generally does not improve your business credit. Defaults may result in collections activity that does appear on your credit report. This is one of many reasons MCAs are generally inferior to conventional financing when conventional financing is accessible.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Which MCA provider has the lowest factor rates?</summary>
+    <p>OnDeck's published range (1.10–1.40) has one of the lower floors in the market, but their 12-month minimum and 625 credit score requirement means many businesses will not qualify for their best rates. Credibly's 1.15 floor is accessible with 500+ credit and 6 months of history. Factor rates are highly individualised — the only way to know your rate is to apply and compare offers.</p>
+  </details>
+  <details>
+    <summary>Can I negotiate MCA terms?</summary>
+    <p>To a limited degree. Factor rates are less negotiable than holdback percentages. If you have offers from multiple providers, you can use them as leverage — some providers will match a competitor's holdback rate to win the deal. The most negotiable element is often the prepayment discount (if applicable) and the holdback percentage.</p>
+  </details>
+  <details>
+    <summary>How many MCA providers should I apply to?</summary>
+    <p>Apply to 2–3 and compare actual offers before signing. MCA applications typically use soft credit pulls for pre-qualification — getting multiple quotes does not damage your credit. Never sign with the first provider that offers you funding without comparing at least one alternative.</p>
+  </details>
+  <details>
+    <summary>What is the difference between an MCA and a business cash advance loan?</summary>
+    <p>These terms are often used interchangeably in marketing. Technically, an MCA is a purchase of future receivables (not a loan), while a business cash advance loan is a short-term loan with fixed repayment. The practical distinction matters for regulatory purposes — MCAs are not subject to usury laws; loans are. In practice, both products are expensive and the total cost should be evaluated in effective APR regardless of what they are called.</p>
+  </details>
+  <details>
+    <summary>Do MCA providers report to business credit bureaus?</summary>
+    <p>Most do not report to major business credit bureaus (Dun & Bradstreet, Experian Business). Timely MCA repayment generally does not improve your business credit. Defaults may result in collections activity that does appear on your credit report. This is one of many reasons MCAs are generally inferior to conventional financing when conventional financing is accessible.</p>
+  </details>
+</section>
 
 ---
 

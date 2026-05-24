@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Advance rates and terms verified via Riviera Finance, Paragon Financial Group, and InterNex Capital published schedules.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Construction factoring advances 70–85% of approved progress billings at fees of 2–5% per 30-day period — among the highest fees across all industries</li>
+      <li>Approval is based on GC or municipal owner creditworthiness — subcontractors with creditworthy GC clients can qualify even with limited financial history</li>
+      <li>The main advantage is converting approved progress billings to cash in 2–5 days, eliminating the 30–60 day wait that strains payroll and supplier obligations</li>
+      <li>Retainage (5–10% withheld until project completion) is excluded from advances — plan cash flow to cover this gap until project closeout</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Why Construction Factoring Is More Complex
 
-Construction factoring carries unique complications not present in other industries — [retainage](/glossary/), [lien waivers](/glossary/), and the multi-party payment chain (owner → GC → subcontractor → supplier) create risks that lead most general factors to decline construction invoices. Specialist construction factors advance 70–85% of approved progress billings — lower than the 90–97% typical in trucking or staffing — and the educational value here is high: understanding retainage and lien exposure before approaching a factor is essential.
+Construction accounts receivable factoring carries unique complications not present in other industries — [retainage](/glossary/), [lien waivers](/glossary/), and the multi-party payment chain (owner → GC → subcontractor → supplier) create risks that lead most general factors to decline construction invoices. Specialist construction factors advance 70–85% of approved progress billings — lower than the 90–97% typical in trucking or staffing — and the educational value here is high: understanding retainage and lien exposure before approaching a factor is essential.
 
 Progress billings submitted via AIA (American Institute of Architects billing format) G702/G703 forms are the accepted standard — factors familiar with construction expect this format.
 
@@ -50,7 +62,7 @@ Progress billings submitted via AIA (American Institute of Architects billing fo
     <h4>Cons and Watch-outs</h4>
     <ul>
       <li>Retainage invoices (the 5–10% withheld until project completion) are typically excluded — factors do not advance on withheld amounts, leaving a significant portion of your contract value inaccessible until project closeout</li>
-      <li>GC notification via Notice of Assignment is required and some GCs have policies that complicate or delay factoring arrangements — discuss with your GC before applying</li>
+      <li>GC notification via Notice of Assignment (a letter directing your customer to pay the factor instead of you) is required and some GCs have policies that complicate or delay factoring arrangements — discuss with your GC before applying</li>
       <li>Construction factoring fees (2–5% per 30 days) are among the highest of any industry, reflecting contract completion risk and invoice dispute frequency</li>
       <li>Joint check agreements and payment bond requirements can make some invoices unfactorable — disclose these upfront</li>
     </ul>
@@ -161,7 +173,7 @@ Executing a lien waiver waives your right to file a mechanic's lien against the 
 | Approval based on | GC/owner creditworthiness | Your credit + bonding capacity |
 | Speed to funding | 2–5 days post-approval | Days to weeks |
 | Retainage funded? | No | Sometimes |
-| Cost | 24–60% effective APR | 8–20% APR |
+| Cost | 24–60% effective APR (the annualized cost of the financing, accounting for all fees and repayment speed) | 8–20% APR |
 | Min. time in business | 12+ months typically | 24+ months typically |
 | Best for | Subcontractors with slow-paying GCs | Established contractors with bank relationships |
 
@@ -171,25 +183,33 @@ Executing a lien waiver waives your right to file a mechanic's lien against the 
 
 ---
 
-## Frequently Asked Questions
-
-**Can a general contractor (GC) factor invoices?**
-It is rare. Most construction factors focus on subcontractors because the payment chain is more direct — subcontractor invoices the GC, factor collects from GC. GC invoices go to project owners, who may issue joint checks, have retention disputes, or require architect certification — adding complexity that most factors decline. Some specialty factors work with GCs on smaller residential or commercial projects.
-
-**What is retainage and can it be factored?**
-Retainage is the 5–10% of each progress payment that the owner or GC withholds until the project is substantially complete (and sometimes for a further defect liability period). Most factors will not advance on retainage because it is contingent on project completion — potentially months away. Some specialised lenders offer retainage financing separately, at higher rates (often 15–30% APR), given the uncertainty of timing.
-
-**Do I need to notify my GC that I'm factoring my invoices?**
-Yes. The factor issues a Notice of Assignment to your GC, directing payment to the factor rather than to you. In construction, this is less universally accepted than in freight or staffing — some GCs have payment policies that complicate factoring. Discuss the Notice of Assignment with your GC before submitting your first invoice to a factor.
-
-**How does construction factoring interact with payment bonds?**
-If a project has a payment bond (common on public works), unpaid subcontractors have bond claims in addition to (or instead of) lien rights. Factoring does not directly affect your bond claim rights, but assigning your receivables to a factor may complicate bond claim procedures. Consult a construction attorney familiar with your state's bond claim rules before factoring on bonded projects.
-
-**What is a joint check agreement and how does it affect factoring?**
-A joint check agreement requires the GC to issue checks payable jointly to you and your material supplier — ensuring the supplier is paid and preventing supplier liens. Joint checks complicate factoring because the check cannot be deposited by the factor alone — both parties must endorse it. Some construction factors will work around joint check arrangements; others will decline the invoice. Disclose any joint check agreements upfront.
-
-**Can construction companies with tax liens get factoring?**
-IRS tax liens create a priority claim on your receivables that generally blocks factoring — the IRS must be paid before the factor can collect. Some construction factors work with businesses on IRS payment plans, but the factor will require written confirmation from the IRS that the payment plan is in good standing and that the IRS will subordinate its lien to the factor's security interest. This is possible but requires additional steps and may take 2–4 weeks to arrange.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can a general contractor (GC) factor invoices?</summary>
+    <p>It is rare. Most construction factors focus on subcontractors because the payment chain is more direct — subcontractor invoices the GC, factor collects from GC. GC invoices go to project owners, who may issue joint checks, have retention disputes, or require architect certification — adding complexity that most factors decline. Some specialty factors work with GCs on smaller residential or commercial projects.</p>
+  </details>
+  <details>
+    <summary>What is retainage and can it be factored?</summary>
+    <p>Retainage is the 5–10% of each progress payment that the owner or GC withholds until the project is substantially complete (and sometimes for a further defect liability period). Most factors will not advance on retainage because it is contingent on project completion — potentially months away. Some specialised lenders offer retainage financing separately, at higher rates (often 15–30% APR), given the uncertainty of timing.</p>
+  </details>
+  <details>
+    <summary>Do I need to notify my GC that I'm factoring my invoices?</summary>
+    <p>Yes. The factor issues a Notice of Assignment to your GC, directing payment to the factor rather than to you. In construction, this is less universally accepted than in freight or staffing — some GCs have payment policies that complicate factoring. Discuss the Notice of Assignment with your GC before submitting your first invoice to a factor.</p>
+  </details>
+  <details>
+    <summary>How does construction factoring interact with payment bonds?</summary>
+    <p>If a project has a payment bond (common on public works), unpaid subcontractors have bond claims in addition to (or instead of) lien rights. Factoring does not directly affect your bond claim rights, but assigning your receivables to a factor may complicate bond claim procedures. Consult a construction attorney familiar with your state's bond claim rules before factoring on bonded projects.</p>
+  </details>
+  <details>
+    <summary>What is a joint check agreement and how does it affect factoring?</summary>
+    <p>A joint check agreement requires the GC to issue checks payable jointly to you and your material supplier — ensuring the supplier is paid and preventing supplier liens. Joint checks complicate factoring because the check cannot be deposited by the factor alone — both parties must endorse it. Some construction factors will work around joint check arrangements; others will decline the invoice. Disclose any joint check agreements upfront.</p>
+  </details>
+  <details>
+    <summary>Can construction companies with tax liens get factoring?</summary>
+    <p>IRS tax liens create a priority claim on your receivables that generally blocks factoring — the IRS must be paid before the factor can collect. Some construction factors work with businesses on IRS payment plans, but the factor will require written confirmation from the IRS that the payment plan is in good standing and that the IRS will subordinate its lien to the factor's security interest. This is possible but requires additional steps and may take 2–4 weeks to arrange.</p>
+  </details>
+</section>
 
 ---
 

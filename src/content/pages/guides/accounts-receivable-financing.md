@@ -10,11 +10,21 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Invoice factoring advances 80–97% of invoice face value and charges 1–5% per 30-day period; AR lines of credit advance 70–90% at 0.03–0.06% per day.</li>
+      <li>Factoring is visible to your customers (Notice of Assignment required); AR lines of credit are invisible — customers pay you as normal.</li>
+      <li>Factoring approval is based on your customers' credit — startups and businesses with limited history can qualify; AR lines require 1–2+ years and 600+ credit score.</li>
+      <li>Non-recourse factoring protects against customer insolvency only — not invoice disputes. Always read the recourse carve-outs.</li>
+    </ul>
+  </div>
+</div>
 
 ## What Is Accounts Receivable Financing?
 
-Accounts receivable (AR) financing is a broad category of funding that uses your outstanding invoices as the basis for accessing capital. If your business regularly waits 30–90 days for customers to pay, AR financing lets you convert that waiting period into immediate cash flow. It encompasses two distinct products: **invoice factoring** (selling invoices to a third party that then collects from your customers) and **invoice financing / AR lines of credit** (borrowing against invoices as collateral while you continue collecting from customers).
+Accounts receivable (AR) financing is a broad category of funding that uses your outstanding invoices as the basis for accessing capital. If your business regularly waits 30–90 days for customers to pay, AR financing lets you convert that waiting period into immediate cash flow. It encompasses two distinct products: **receivables financing** (selling invoices to a third party that then collects from your customers) and **invoice financing / AR lines of credit** (borrowing against invoices as collateral while you continue collecting from customers).
 
 Both products serve the same fundamental purpose — eliminating the cash flow gap created by net-30 (your customer has 30 days to pay), net-60 (your customer has 60 days to pay), and net-90 payment terms — but they work differently and suit different business situations.
 
@@ -75,7 +85,7 @@ Businesses that sell to other businesses (B2B) routinely extend payment terms. A
 
 Meanwhile, operating expenses — payroll, rent, supplies, insurance — are due monthly. The gap between cash out (expenses) and cash in (customer payments) creates a working capital deficit.
 
-**AR financing eliminates the gap by converting receivables to immediate cash.** You don't wait 45 days for the hospital to pay — you get 85–95% of that invoice's value today and let the factoring company or lender wait for the payment.
+**AR financing eliminates the gap by converting receivables to immediate operating capital.** You don't wait 45 days for the hospital to pay — you get 85–95% of that invoice's value today and let the factoring company or lender wait for the payment.
 
 ---
 
@@ -143,7 +153,7 @@ Invoice: $100,000 | Advance rate: 90% | Fee: 2% per 30 days | Customer pays in 4
 - Factoring fee: 2% × 1.5 months = 3% = $3,000
 - Reserve released: $100,000 − $90,000 − $3,000 = **$7,000**
 - Total cost: $3,000 (3% of invoice value)
-- Effective APR equivalent: approximately 24%
+- Effective APR equivalent (the annualized cost of financing, accounting for all fees and repayment speed): approximately 24%
 
 ### AR Line of Credit Example
 
@@ -156,6 +166,20 @@ Invoice: $100,000 | Advance: 80% = $80,000 | Rate: 0.04%/day | Customer pays in 
 - Effective APR equivalent: approximately 14–18% depending on fees
 
 AR lines of credit can be cheaper than factoring if your customers pay quickly and you have adequate credit to qualify. For slower-paying customers (60–90 days), the cost differential narrows.
+
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> A government contractor factors a $100,000 invoice at a 90% advance rate with a 2% factoring fee per 30 days. The customer pays in 45 days.</p>
+    <ul>
+      <li>Immediate advance: $90,000 (90% of $100,000)</li>
+      <li>Factoring fee: 2% × 1.5 months = $3,000</li>
+      <li>Reserve released: $100,000 − $90,000 − $3,000 = $7,000</li>
+      <li>Effective APR (annualized cost of financing, accounting for all fees and repayment speed): approximately 24%</li>
+    </ul>
+    <p>An AR line of credit on the same invoice at 0.04%/day over 45 days costs approximately $1,620 — about 46% cheaper, but requires 1–2+ years in business and a 600+ credit score to qualify.</p>
+  </div>
+</div>
 
 ---
 
@@ -229,7 +253,7 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 
 **Non-recourse factoring:** The factor absorbs the credit risk if the customer becomes insolvent. Fees are slightly higher.
 
-**Notice of assignment:** A formal notice sent to your customer directing them to pay the factor rather than you. Required in factoring transactions.
+**Notice of assignment:** A formal notice sent to your customer directing them to pay the factor rather than you. Required in factoring transactions. Factors typically file a UCC-1 lien against your receivables to perfect their security interest — see the <a href="https://www.law.cornell.edu/ucc/9" rel="noopener">Cornell LII overview of UCC Article 9</a> for how secured transactions in receivables work.
 
 **Concentration limit:** Maximum percentage of your total AR that can come from a single customer. Factors limit concentration to manage risk.
 
@@ -256,22 +280,29 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 
 ---
 
-## Frequently Asked Questions
-
-**Is accounts receivable financing the same as invoice factoring?**
-Accounts receivable financing is the umbrella term for both invoice factoring (selling invoices) and invoice financing/AR lines of credit (borrowing against invoices). Factoring is the most common form of AR financing for small businesses. See [Invoice Financing vs. Factoring](/compare/invoice-financing-vs-factoring/) for a detailed comparison.
-
-**Can a start-up use accounts receivable financing?**
-Invoice factoring is accessible to start-ups that have commercial or government customers. Because the factor evaluates your customers' creditworthiness (not yours), a new business with strong customer relationships can factor invoices without years of history. AR lines of credit typically require 1–2+ years in business.
-
-**Does AR financing affect my credit score?**
-Invoice factoring typically involves a soft credit pull during setup — this doesn't affect your score. If the factor requires a personal guarantee, they may do a hard pull. AR lines of credit typically require a hard credit pull. Factoring companies do not typically report repayment behavior to business credit bureaus.
-
-**What percentage of my invoices can I factor?**
-That depends on the factoring agreement. Some factors require whole-ledger factoring (all invoices from a given customer must be factored — you can't cherry-pick). Others offer spot factoring (selective individual invoices). Concentration limits also apply — most factors cap how much of your AR can come from a single customer (typically 25–50%).
-
-**How does non-recourse factoring protect my business?**
-With non-recourse factoring, if a customer becomes insolvent (bankrupt or goes into receivership) and cannot pay, the factor absorbs that loss — not you. This protects businesses with significant exposure to a single large customer. Non-recourse does NOT protect against customer disputes over the underlying goods or services — if the customer refuses to pay because they claim goods were defective, you remain liable even in a non-recourse arrangement.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is accounts receivable financing the same as invoice factoring?</summary>
+    <p>Accounts receivable financing is the umbrella term for both invoice factoring (selling invoices) and invoice financing/AR lines of credit (borrowing against invoices). Factoring is the most common form of AR financing for small businesses. See <a href="/compare/invoice-financing-vs-factoring/">Invoice Financing vs. Factoring</a> for a detailed comparison.</p>
+  </details>
+  <details>
+    <summary>Can a start-up use accounts receivable financing?</summary>
+    <p>Invoice factoring is accessible to start-ups that have commercial or government customers. Because the factor evaluates your customers' creditworthiness (not yours), a new business with strong customer relationships can factor invoices without years of history. AR lines of credit typically require 1–2+ years in business.</p>
+  </details>
+  <details>
+    <summary>Does AR financing affect my credit score?</summary>
+    <p>Invoice factoring typically involves a soft credit pull during setup — this doesn't affect your score. If the factor requires a personal guarantee, they may do a hard pull. AR lines of credit typically require a hard credit pull. Factoring companies do not typically report repayment behavior to business credit bureaus.</p>
+  </details>
+  <details>
+    <summary>What percentage of my invoices can I factor?</summary>
+    <p>That depends on the factoring agreement. Some factors require whole-ledger factoring (all invoices from a given customer must be factored — you can't cherry-pick). Others offer spot factoring (selective individual invoices). Concentration limits also apply — most factors cap how much of your AR can come from a single customer (typically 25–50%).</p>
+  </details>
+  <details>
+    <summary>How does non-recourse factoring protect my business?</summary>
+    <p>With non-recourse factoring, if a customer becomes insolvent (bankrupt or goes into receivership) and cannot pay, the factor absorbs that loss — not you. This protects businesses with significant exposure to a single large customer. Non-recourse does NOT protect against customer disputes over the underlying goods or services — if the customer refuses to pay because they claim goods were defective, you remain liable even in a non-recourse arrangement.</p>
+  </details>
+</section>
 
 ---
 

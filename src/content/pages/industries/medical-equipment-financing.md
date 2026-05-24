@@ -10,11 +10,21 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on credit profile, practice size, and equipment type.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Medical equipment financing rates run 5–12% APR for established practices — lower than most industries because insurance reimbursements provide stable, predictable revenue that lenders view favourably</li>
+      <li>Established practices (700+ credit) can access 5–8% APR; start-up practices (under 2 years) face 12–20%+ and typically need a 20–30% down payment</li>
+      <li>Section 179 deductions (up to $1,220,000 in 2026) can offset a large share of first-year financing costs — at a 30% effective tax rate, an $80,000 dental setup generates $24,000 in immediate tax savings</li>
+      <li>Imaging equipment (MRI, CT scanners) depreciates rapidly as technology improves — operating leases are often better than loans for technology-driven equipment you expect to upgrade in 3–5 years</li>
+    </ul>
+  </div>
+</div>
 
 ## Summary
 
-Medical equipment financing provides loans and leases for healthcare businesses purchasing diagnostic imaging equipment, surgical tools, dental chairs, laboratory instruments, physical therapy equipment, and other clinical assets. Most healthcare practices finance medical equipment rather than paying cash — equipment often costs $50,000–$2,000,000+, and financing preserves working capital for staffing and operations. Rates for qualified practices typically run 5–12% APR (annual percentage rate) through specialized healthcare lenders as of May 2026, and Section 179 tax deductions may reduce the effective cost significantly in the year of purchase.
+Medical equipment financing provides loans and leases for healthcare businesses purchasing diagnostic imaging equipment, surgical tools, dental chairs, laboratory instruments, physical therapy equipment, and other clinical assets. Most healthcare practices finance medical equipment rather than paying cash — equipment often costs $50,000–$2,000,000+, and financing preserves operating capital for staffing and operations. Rates for qualified practices typically run 5–12% APR (annual percentage rate) through specialized healthcare lenders as of May 2026, and Section 179 tax deductions may reduce the effective cost significantly in the year of purchase.
 
 ---
 
@@ -22,7 +32,7 @@ Medical equipment financing provides loans and leases for healthcare businesses 
   <div class="pros">
     <h4>Pros for Healthcare Practices</h4>
     <ul>
-      <li>Healthcare practices qualify for among the lowest equipment financing rates (5–8% APR for established practices with 700+ credit) because insurance reimbursements provide stable, predictable revenue that lenders view favourably</li>
+      <li>Healthcare practices qualify for among the lowest equipment lending rates (5–8% APR for established practices with 700+ credit) because insurance reimbursements provide stable, predictable revenue that lenders view favourably</li>
       <li>Section 179 deduction (the IRS deduction that lets businesses expense equipment purchases in the year of purchase) allows practices to deduct up to $1,220,000 in 2026, generating immediate tax savings that can exceed the first year of financing costs on major equipment</li>
       <li>Specialized healthcare lenders (Stearns Bank, National Western Financial) understand insurance billing cycles and do not penalize practices for the gap between service delivery and reimbursement receipt</li>
       <li>Operating leases keep equipment off the balance sheet — useful for practices managing debt covenants or partnership agreements that restrict total liabilities</li>
@@ -196,22 +206,29 @@ Key considerations for used equipment financing:
 
 ---
 
-## Frequently Asked Questions
-
-**What credit score do I need for medical equipment financing?**
-Most lenders require a personal credit score of 620–650 for established practices. Specialized healthcare lenders may work with lower scores for practices with strong revenue. Start-up practices generally need 680+ to access financing without a substantial down payment.
-
-**Can I finance software and EHR systems along with equipment?**
-Yes. Many equipment lenders will finance "soft costs" alongside the physical equipment — including software, installation, training, and maintenance contracts. The software and services must typically be bundled with equipment and cannot exceed a certain percentage of the total (often 20–30%). Confirm soft-cost eligibility at application.
-
-**How does the Section 179 deduction work with leased equipment?**
-Section 179 applies to equipment purchased (owned), not to operating leases. A $1 buyout lease is treated as a purchase for Section 179 purposes. A true operating lease — where you return the equipment at lease end — does not qualify for Section 179, but lease payments are deductible as operating expenses. Consult your accountant to determine which structure maximizes your after-tax cost.
-
-**Is there a minimum amount for medical equipment financing?**
-Most lenders have a minimum of $5,000–$10,000. For smaller equipment purchases (stethoscopes, basic diagnostic tools), a business credit card or line of credit is typically more efficient than a formal equipment loan.
-
-**Do I need an equipment appraisal?**
-For standard equipment from major manufacturers, an appraisal is generally not required. For specialized or used equipment over $250,000, some lenders may require an independent appraisal to establish value before approving financing.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What credit score do I need for medical equipment financing?</summary>
+    <p>Most lenders require a personal credit score of 620–650 for established practices. Specialized healthcare lenders may work with lower scores for practices with strong revenue. Start-up practices generally need 680+ to access financing without a substantial down payment.</p>
+  </details>
+  <details>
+    <summary>Can I finance software and EHR systems along with equipment?</summary>
+    <p>Yes. Many equipment lenders will finance "soft costs" alongside the physical equipment — including software, installation, training, and maintenance contracts. The software and services must typically be bundled with equipment and cannot exceed a certain percentage of the total (often 20–30%). Confirm soft-cost eligibility at application.</p>
+  </details>
+  <details>
+    <summary>How does the Section 179 deduction work with leased equipment?</summary>
+    <p>Section 179 applies to equipment purchased (owned), not to operating leases. A $1 buyout lease is treated as a purchase for Section 179 purposes. A true operating lease — where you return the equipment at lease end — does not qualify for Section 179, but lease payments are deductible as operating expenses. Consult your accountant to determine which structure maximizes your after-tax cost.</p>
+  </details>
+  <details>
+    <summary>Is there a minimum amount for medical equipment financing?</summary>
+    <p>Most lenders have a minimum of $5,000–$10,000. For smaller equipment purchases (stethoscopes, basic diagnostic tools), a business credit card or line of credit is typically more efficient than a formal equipment loan.</p>
+  </details>
+  <details>
+    <summary>Do I need an equipment appraisal?</summary>
+    <p>For standard equipment from major manufacturers, an appraisal is generally not required. For specialized or used equipment over $250,000, some lenders may require an independent appraisal to establish value before approving financing.</p>
+  </details>
+</section>
 
 ---
 

@@ -10,11 +10,23 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>PO financing activates before delivery (pays your supplier at 50–80% of PO value); invoice factoring activates after delivery (advances 80–97% of invoice value)</li>
+      <li>PO financing costs 3–6%/month; invoice factoring costs 1–3%/30 days — PO financing is more expensive because the lender advances before delivery is confirmed</li>
+      <li>For a $200,000 order with 1-month production and 2-month payment cycle, combined PO + factoring fees total ~$14,800 (7.4% of order value)</li>
+      <li>PO financing is limited to physical goods businesses with gross margins above ~20–25%; invoice factoring works for both goods and services businesses</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## Summary
 
-Purchase order (PO) financing and invoice factoring both help businesses access cash tied up in the order-to-payment cycle — but they solve different problems at different points in the process. PO financing advances funds before you manufacture or deliver, allowing you to fulfill a large order you couldn't otherwise fund. Invoice factoring advances funds after you deliver, converting an outstanding invoice into immediate cash. Many businesses use both in sequence — PO financing to fund production, then factoring to accelerate payment. PO financing costs more (3–6%/month vs. 1–3% for factoring) because the lender takes on more risk before goods are delivered. All rates are based on lender-published rates as of May 2026.
+PO funding and invoice factoring both help businesses access cash tied up in the order-to-payment cycle — but they solve different problems at different points in the process. PO financing advances funds before you manufacture or deliver, allowing you to fulfill a large order you couldn't otherwise fund. Receivables financing via factoring advances funds after you deliver, converting an outstanding invoice into immediate cash. Many businesses use both in sequence — PO financing to fund production, then factoring to accelerate payment. PO financing costs more (3–6%/month vs. 1–3% for factoring) because the lender takes on more risk before goods are delivered. All rates are based on lender-published rates as of May 2026.
 
 <dl>
   <dt>Purchase Order (PO) Financing</dt>
@@ -98,7 +110,7 @@ Invoice factoring solves the gap between delivering goods or services and receiv
 2. You issue an invoice (net-30, net-60, etc.)
 3. You sell (assign) the invoice to a factoring company
 4. The factor advances 80–97% of the invoice immediately
-5. Your customer pays the factor directly (they receive a Notice of Assignment)
+5. Your customer pays the factor directly (they receive a Notice of Assignment — a letter directing your customer to pay the factor instead of you)
 6. The factor remits the reserve balance (minus its fee) when your customer pays
 
 **Example:**
@@ -138,6 +150,19 @@ PO financing is significantly more expensive than invoice factoring because the 
 </div>
 
 Using both in sequence, total financing cost is $14,800 on a $200,000 order — approximately 7.4% of order value. For a 40% gross margin business ($80,000 gross profit), this leaves $65,200 — still highly profitable for an order that couldn't have been fulfilled otherwise.
+
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> $200,000 customer order — 1-month production phase + 2-month customer payment cycle using both PO financing and invoice factoring</p>
+    <ul>
+      <li>PO financing: $120,000 to supplier at 4%/month × 1 month = $4,800 fee</li>
+      <li>Invoice factoring: $200,000 invoice at 2.5%/month × 2 months = $10,000 fee</li>
+      <li>Combined financing cost: $14,800 (7.4% of order value)</li>
+      <li>Effective APR: Net profit after combined fees on a 40% gross margin order = $65,200 — the order could not have been fulfilled without financing</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -246,22 +271,29 @@ If you need both products, working with a single lender that offers both simplif
 
 ---
 
-## Frequently Asked Questions
-
-**Can I use PO financing for service businesses?**
-No. PO financing is designed for physical goods businesses — the lender pays your supplier and controls the production/sourcing process. Service businesses (staffing, consulting, professional services) don't have a supplier payment step and are not eligible for PO financing. Service businesses should use invoice factoring after delivering services.
-
-**Does my customer know about PO financing or invoice factoring?**
-With invoice factoring, yes — your customer receives a Notice of Assignment directing payment to the factor. With PO financing, your customer may know that a third party paid your supplier — this is disclosed in the process. In most B2B contexts, both arrangements are familiar and carry no stigma.
-
-**What credit score do I need for PO financing?**
-Your personal credit score is less critical for PO financing than your customer's creditworthiness. The PO financier is primarily evaluating whether your customer (the company that issued the PO) will pay. A start-up with a purchase order from a Fortune 500 company can qualify for PO financing even with limited business history.
-
-**What profit margin do I need for PO financing to make sense?**
-PO financing fees run 3–6%/month. If your PO cycle (from supplier payment to customer invoice payment) is 3 months, your total PO financing cost could be 9–18% of the advanced amount. For PO financing to make sense, your gross margin should be high enough to absorb these costs and still generate profit. Businesses with under 25–30% gross margin may find PO financing erodes profits significantly. Calculate the full cost for your specific order before committing.
-
-**How do I transition from PO financing to invoice factoring?**
-Once goods are delivered and the invoice is issued, the PO financier is typically repaid from the invoice proceeds. If you're working with a lender that offers both products, this transition is often handled in a single transaction — the same lender converts the PO advance to a factored invoice advance when you submit the invoice. If you're using separate providers, coordinate timing carefully to ensure the PO financer is repaid when the factor advances against the invoice.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can I use PO financing for service businesses?</summary>
+    <p>No. PO financing is designed for physical goods businesses — the lender pays your supplier and controls the production/sourcing process. Service businesses (staffing, consulting, professional services) don't have a supplier payment step and are not eligible for PO financing. Service businesses should use invoice factoring after delivering services.</p>
+  </details>
+  <details>
+    <summary>Does my customer know about PO financing or invoice factoring?</summary>
+    <p>With invoice factoring, yes — your customer receives a Notice of Assignment directing payment to the factor. With PO financing, your customer may know that a third party paid your supplier — this is disclosed in the process. In most B2B contexts, both arrangements are familiar and carry no stigma.</p>
+  </details>
+  <details>
+    <summary>What credit score do I need for PO financing?</summary>
+    <p>Your personal credit score is less critical for PO financing than your customer's creditworthiness. The PO financier is primarily evaluating whether your customer (the company that issued the PO) will pay. A start-up with a purchase order from a Fortune 500 company can qualify for PO financing even with limited business history.</p>
+  </details>
+  <details>
+    <summary>What profit margin do I need for PO financing to make sense?</summary>
+    <p>PO financing fees run 3–6%/month. If your PO cycle (from supplier payment to customer invoice payment) is 3 months, your total PO financing cost could be 9–18% of the advanced amount. For PO financing to make sense, your gross margin should be high enough to absorb these costs and still generate profit. Businesses with under 25–30% gross margin may find PO financing erodes profits significantly. Calculate the full cost for your specific order before committing.</p>
+  </details>
+  <details>
+    <summary>How do I transition from PO financing to invoice factoring?</summary>
+    <p>Once goods are delivered and the invoice is issued, the PO financier is typically repaid from the invoice proceeds. If you're working with a lender that offers both products, this transition is often handled in a single transaction — the same lender converts the PO advance to a factored invoice advance when you submit the invoice. If you're using separate providers, coordinate timing carefully to ensure the PO financer is repaid when the factor advances against the invoice.</p>
+  </details>
+</section>
 
 ---
 

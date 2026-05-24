@@ -10,6 +10,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026. Important context note: BlueVine has significantly shifted its focus toward small business banking since 2022. Its invoice factoring product was discontinued as an active offering. Verify current product availability at bluevine.com before applying. This review is maintained for research context and historical comparison.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>BlueVine's invoice factoring product has been discontinued — if factoring is what you need, see Riviera Finance ($5,000 minimum) or TCI Business Capital instead</li>
+      <li>BlueVine's active LOC offers up to $250,000 at approximately 15–78% APR — requires 625+ FICO, 12+ months in business, and $40,000+/month in revenue</li>
+      <li>Strongest current use case: small B2B businesses already using BlueVine Business Checking that need a revolving credit line with automated repayment</li>
+      <li>LOC rate of 15–78% APR is competitive with online lenders for 625–680 FICO borrowers but more expensive than bank lines of credit (9–18% APR) for borrowers above 700 FICO</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -63,7 +75,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## BlueVine's Product Shift — What You Need to Know First
 
-BlueVine launched as an invoice factoring company in 2013 and was a significant market presence in small business factoring through approximately 2021. Since then, BlueVine has substantially pivoted toward small business banking — offering checking accounts, lines of credit, and credit cards — and has reduced its active promotion of invoice factoring. As of May 2026, BlueVine's invoice factoring product availability should be confirmed directly with the company, as product availability and terms have changed since our prior review cycle.
+BlueVine launched as a receivables financing company in 2013 and was a significant market presence in small business factoring through approximately 2021. Since then, BlueVine has substantially pivoted toward small business banking — offering checking accounts, lines of credit, and credit cards — and has reduced its active promotion of invoice factoring. As of May 2026, BlueVine's invoice factoring product availability should be confirmed directly with the company, as product availability and terms have changed since our prior review cycle.
 
 **The practical implication:** If you are researching BlueVine specifically for invoice factoring, verify current product status before spending significant time on an application. The rates and terms below reflect BlueVine's factoring product as last published — they may not reflect current offerings.
 
@@ -176,22 +188,29 @@ Apply directly at [BlueVine.com](https://www.bluevine.com/).
 
 ---
 
-## Frequently Asked Questions
-
-**Does BlueVine still offer invoice factoring?**
-As of May 2026, BlueVine's factoring product is not actively marketed. BlueVine has focused its growth strategy on business banking and lines of credit. Verify current product availability at bluevine.com — product availability can change. This review is maintained for research reference.
-
-**What is BlueVine's credit score requirement for its line of credit?**
-BlueVine's line of credit requires a minimum personal credit score of 625, at least 6 months in business, and $120,000 in annual revenue. These requirements are slightly more accessible than bank lines of credit (which typically require 680+) but more restrictive than invoice factoring products.
-
-**How does BlueVine's weekly fee structure compare to monthly factoring fees?**
-To compare BlueVine's weekly fee (0.25–1.7%/week) to monthly factoring fees, multiply by 4.3 to get the monthly equivalent. At 0.25%/week, the monthly equivalent is approximately 1.08%/month — competitive. At 1.7%/week, the monthly equivalent is approximately 7.3%/month — expensive relative to most traditional factoring companies. Your actual rate depends on customer creditworthiness.
-
-**Is BlueVine Business Checking worth using?**
-BlueVine's checking account offers above-average interest rates (2.0–3.0% on qualifying balances) with no monthly fees — competitive with online-only banking alternatives. For small businesses holding $50,000+ in checking, the interest earning is meaningful. The main limitation is that it is online-only with limited physical banking access. Verify current rates at bluevine.com as rates are variable.
-
-**What happened to BlueVine's invoice factoring product?**
-BlueVine raised significant venture capital between 2013–2021 to build an invoice factoring platform. Post-2021, BlueVine shifted its strategic focus toward banking products, which offer more scalable economics and less credit risk than factoring. The factoring product — which requires significant capital deployment against each invoice — was wound down in favour of the deposit-funded banking model. This is a common pattern among fintech lenders that started in lending and shifted toward banking.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Does BlueVine still offer invoice factoring?</summary>
+    <p>As of May 2026, BlueVine's factoring product is not actively marketed. BlueVine has focused its growth strategy on business banking and lines of credit. Verify current product availability at bluevine.com — product availability can change. This review is maintained for research reference.</p>
+  </details>
+  <details>
+    <summary>What is BlueVine's credit score requirement for its line of credit?</summary>
+    <p>BlueVine's line of credit requires a minimum personal credit score of 625, at least 6 months in business, and $120,000 in annual revenue. These requirements are slightly more accessible than bank lines of credit (which typically require 680+) but more restrictive than invoice factoring products.</p>
+  </details>
+  <details>
+    <summary>How does BlueVine's weekly fee structure compare to monthly factoring fees?</summary>
+    <p>To compare BlueVine's weekly fee (0.25–1.7%/week) to monthly factoring fees, multiply by 4.3 to get the monthly equivalent. At 0.25%/week, the monthly equivalent is approximately 1.08%/month — competitive. At 1.7%/week, the monthly equivalent is approximately 7.3%/month — expensive relative to most traditional factoring companies. Your actual rate depends on customer creditworthiness.</p>
+  </details>
+  <details>
+    <summary>Is BlueVine Business Checking worth using?</summary>
+    <p>BlueVine's checking account offers above-average interest rates (2.0–3.0% on qualifying balances) with no monthly fees — competitive with online-only banking alternatives. For small businesses holding $50,000+ in checking, the interest earning is meaningful. The main limitation is that it is online-only with limited physical banking access. Verify current rates at bluevine.com as rates are variable.</p>
+  </details>
+  <details>
+    <summary>What happened to BlueVine's invoice factoring product?</summary>
+    <p>BlueVine raised significant venture capital between 2013–2021 to build an invoice factoring platform. Post-2021, BlueVine shifted its strategic focus toward banking products, which offer more scalable economics and less credit risk than factoring. The factoring product — which requires significant capital deployment against each invoice — was wound down in favour of the deposit-funded banking model. This is a common pattern among fintech lenders that started in lending and shifted toward banking.</p>
+  </details>
+</section>
 
 ---
 

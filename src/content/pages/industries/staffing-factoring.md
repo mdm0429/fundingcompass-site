@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via Triumph Business Capital, Capital Plus Financial, and Triumph Staffing Capital published rate schedules.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Staffing factoring advances 85–95% of client invoices at fees of 1.5–4% per 30-day period</li>
+      <li>Key qualification criterion: creditworthy business or government clients — approval is based on your clients' credit, not yours</li>
+      <li>The main advantage is payroll funding within 24 hours that scales automatically with placements, eliminating the need to draw down a bank line of credit</li>
+      <li>Co-employment risk and timesheet disputes can trigger charge-backs under recourse agreements — verify all timesheets before invoice submission</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## The Staffing Agency Cash Flow Problem
 
-Staffing agencies face a structural timing mismatch that makes factoring nearly universal in the industry: you pay temporary workers weekly (or bi-weekly), but your clients pay invoices on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms. A $500,000 monthly payroll cannot wait 45 days for client payments. Staffing factoring — also called payroll funding — closes this gap by advancing 85–95% of outstanding client invoices immediately, giving agencies the cash to make payroll without drawing down a bank line of credit or taking on debt.
+Staffing agencies face a structural timing mismatch that makes factoring nearly universal in the industry: you pay temporary workers weekly (or bi-weekly), but your clients pay invoices on net-30 (your customer has 30 days to pay) to net-60 (your customer has 60 days to pay) terms. A $500,000 monthly payroll cannot wait 45 days for client payments. Accounts receivable factoring — also called payroll funding — closes this gap by advancing 85–95% of outstanding client invoices immediately, giving agencies the cash to make payroll without drawing down a bank line of credit or taking on debt.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -59,7 +71,7 @@ Staffing agencies face a structural timing mismatch that makes factoring nearly 
 
 ## How Staffing Factoring Works
 
-The mechanics follow standard [invoice factoring](/guides/invoice-factoring/), with modifications for staffing's weekly billing cycles:
+The mechanics follow standard [receivables financing](/guides/invoice-factoring/), with modifications for staffing's weekly billing cycles:
 
 1. **You place workers and send weekly invoices to clients.** Invoices are typically based on hours worked at the billable rate.
 
@@ -160,7 +172,7 @@ These bundled services make staffing-specialist factors more expensive per dolla
 |---|---|---|
 | Approval based on | Client creditworthiness | Your credit + revenue |
 | Funding speed | 24 hours | Days to weeks |
-| Cost | 18–50% effective APR | 8–20% APR |
+| Cost | 18–50% effective APR (the annualized cost of the financing, accounting for all fees and repayment speed) | 8–20% APR |
 | Scales with growth | Yes — grows with invoice volume | Fixed credit limit |
 | Admin services | Available (payroll, WC) | None |
 | Best for | New agencies, rapid growth | Established agencies with strong credit |
@@ -169,29 +181,37 @@ An established staffing agency with 24+ months of history and strong credit can 
 
 **Who this works for:** Staffing agencies billing $10,000+/month to creditworthy business or government clients, paying temporary workers weekly or bi-weekly, and experiencing a recurring 30–45 day gap between payroll obligations and client invoice payment.
 
-**Who should look elsewhere:** Established agencies (24+ months in business, strong credit) with consistent monthly billing can typically access a business line of credit at 8–20% APR (annual percentage rate) — materially cheaper than factoring's effective cost of 18–50% APR. Agencies with 100% of placements at a single client face concentration limits that restrict funding availability.
+**Who should look elsewhere:** Established agencies (24+ months in business, strong credit) with consistent monthly billing can typically access a business line of credit at 8–20% APR (annual percentage rate) — materially cheaper than factoring's effective cost of 18–50% APR. Agencies with 100% of placements at a single client face concentration limits that restrict operating capital availability.
 
 ---
 
-## Frequently Asked Questions
-
-**What is the difference between staffing factoring and a payroll advance?**
-Staffing factoring involves selling your client invoices to a third party (the factor), which then advances you cash and collects from your clients. A payroll advance is a short-term loan specifically to cover payroll — it must be repaid on a set schedule regardless of client payment. Factoring is more flexible and scales with your invoice volume; payroll advances are cheaper for single-use needs but do not address the ongoing timing mismatch.
-
-**Can a new staffing agency qualify for factoring?**
-Yes, if your clients are creditworthy. Factors assess the creditworthiness of who owes the invoice, not who submits it. A new agency placing workers at Fortune 500 companies can qualify for factoring immediately. The main challenge for very new agencies is the due diligence period (5–10 business days) to verify client relationships and set up the account.
-
-**Do my clients need to know I'm using factoring?**
-Yes. Factoring requires a Notice of Assignment — your client is informed that invoices should be paid to the factor rather than to you. In staffing, this is a well-understood practice. Factors handle this communication professionally, and established staffing clients are familiar with the process.
-
-**What happens if a client disputes an invoice I've already factored?**
-Under recourse factoring, you are responsible for resolving disputes and buying back the disputed invoice if it cannot be collected. Most factoring agreements require you to replace a disputed invoice with another valid one, or repay the advance from your reserve. This is why clean invoicing practices — confirmed timesheets, signed rate agreements — are essential before submitting to a factor.
-
-**How often can I factor invoices?**
-As often as you invoice your clients. Most staffing agencies submit invoices weekly as they bill for the prior week's hours. There is no minimum wait period between submissions — you can factor every invoice, every week, as long as the clients' credit ratings support it.
-
-**Can I use staffing factoring if I also have a bank line of credit?**
-This depends on your bank agreement. Most business lines of credit include a borrowing base restriction that treats accounts receivable as collateral. If your bank has a blanket UCC-1 (a public lien notice filed against your business assets) lien on your receivables, you cannot also factor those same receivables without the bank's consent. Review your loan agreement or consult your banker before pursuing factoring alongside an existing credit facility.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What is the difference between staffing factoring and a payroll advance?</summary>
+    <p>Staffing factoring involves selling your client invoices to a third party (the factor), which then advances you cash and collects from your clients. A payroll advance is a short-term loan specifically to cover payroll — it must be repaid on a set schedule regardless of client payment. Factoring is more flexible and scales with your invoice volume; payroll advances are cheaper for single-use needs but do not address the ongoing timing mismatch.</p>
+  </details>
+  <details>
+    <summary>Can a new staffing agency qualify for factoring?</summary>
+    <p>Yes, if your clients are creditworthy. Factors assess the creditworthiness of who owes the invoice, not who submits it. A new agency placing workers at Fortune 500 companies can qualify for factoring immediately. The main challenge for very new agencies is the due diligence period (5–10 business days) to verify client relationships and set up the account.</p>
+  </details>
+  <details>
+    <summary>Do my clients need to know I'm using factoring?</summary>
+    <p>Yes. Factoring requires a Notice of Assignment (a letter directing your customer to pay the factor instead of you) — your client is informed that invoices should be paid to the factor rather than to you. In staffing, this is a well-understood practice. Factors handle this communication professionally, and established staffing clients are familiar with the process.</p>
+  </details>
+  <details>
+    <summary>What happens if a client disputes an invoice I've already factored?</summary>
+    <p>Under recourse factoring, you are responsible for resolving disputes and buying back the disputed invoice if it cannot be collected. Most factoring agreements require you to replace a disputed invoice with another valid one, or repay the advance from your reserve. This is why clean invoicing practices — confirmed timesheets, signed rate agreements — are essential before submitting to a factor.</p>
+  </details>
+  <details>
+    <summary>How often can I factor invoices?</summary>
+    <p>As often as you invoice your clients. Most staffing agencies submit invoices weekly as they bill for the prior week's hours. There is no minimum wait period between submissions — you can factor every invoice, every week, as long as the clients' credit ratings support it.</p>
+  </details>
+  <details>
+    <summary>Can I use staffing factoring if I also have a bank line of credit?</summary>
+    <p>This depends on your bank agreement. Most business lines of credit include a borrowing base restriction that treats accounts receivable as collateral. If your bank has a blanket UCC-1 (a public lien notice filed against your business assets) lien on your receivables, you cannot also factor those same receivables without the bank's consent. Review your loan agreement or consult your banker before pursuing factoring alongside an existing credit facility.</p>
+  </details>
+</section>
 
 ---
 

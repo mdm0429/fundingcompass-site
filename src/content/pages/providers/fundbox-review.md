@@ -10,6 +10,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via Fundbox's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with Fundbox. This is an independent editorial review.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for B2B businesses with 600+ credit score that want invoice financing without customer notification — customers never know Fundbox is involved, unlike invoice factoring which requires a Notice of Assignment</li>
+      <li>Revolving credit line of $1,000–$150,000 at 10–79% APR; requires 600+ personal FICO, 6+ months in business, and $100,000+ annual revenue</li>
+      <li>Integrates with QuickBooks, Xero, and FreshBooks for approval in minutes without manual document submission</li>
+      <li>You bear the collection risk — if your customer doesn't pay, you still owe Fundbox weekly repayments on schedule; Fundbox also files a UCC-1 that conflicts with most factoring arrangements</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -66,7 +78,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 Before comparing Fundbox to invoice factoring companies, this must be stated clearly: **Fundbox offers invoice financing (also called accounts receivable financing), not invoice factoring.** This is not a semantic technicality — the products work differently and carry different implications for your business.
 
-**Invoice factoring:** You sell your invoices to the factor. The factor collects from your customers directly. Your customers receive a Notice of Assignment. Qualification is based primarily on customer creditworthiness, not yours.
+**Invoice factoring:** You sell your invoices to the factor. The factor collects from your customers directly. Your customers receive a Notice of Assignment (a letter directing your customer to pay the factor). Qualification is based primarily on customer creditworthiness, not yours.
 
 **Invoice financing (Fundbox's product):** Fundbox extends you a line of credit secured by your outstanding invoices. You continue to collect from your customers. Your customers never know Fundbox is involved. Qualification is based on your business credit and revenue history, not your customers' creditworthiness.
 
@@ -116,7 +128,7 @@ This confusion is common in search results — Fundbox frequently appears in "be
 
 2. **Fundbox extends a credit line based on your revenue.** Approval is based on your business bank history and revenue — not customer creditworthiness. Qualified businesses receive a revolving line of $1,000–$150,000.
 
-3. **Draw against specific invoices or as a general draw.** You select which outstanding invoices to advance against (or draw general working capital). Fundbox advances up to 100% of the invoice value.
+3. **Draw against specific invoices or as a general draw.** You select which outstanding invoices to advance against (or draw general operating capital). Fundbox advances up to 100% of the invoice value.
 
 4. **Repay over 12 or 24 weeks.** Repayment is in equal weekly instalments plus a fee. The fee is charged as a weekly percentage of the outstanding balance (approximately 0.5–1.5% per week, equivalent to 26–79% APR (annual percentage rate) at the high end).
 
@@ -137,7 +149,7 @@ Fundbox discloses fees as a percentage per week, not as an APR. Here is the tran
 
 **Key point:** The 12-week repayment term means you are repaying principal weekly while paying fees — so the effective cost is higher than a simple multiplier suggests if you need the full balance for the full term.
 
-Fundbox's rates are competitive for an unsecured product — significantly cheaper than an MCA (merchant cash advance) (40–350% effective APR) and comparable to or cheaper than most merchant cash advance alternatives. They are more expensive than traditional invoice factoring from specialist factors when your customers are creditworthy.
+Fundbox's rates are competitive for an unsecured product — significantly cheaper than an MCA (merchant cash advance) (40–350% effective APR (the annualized cost of financing, accounting for all fees and repayment speed)) and comparable to or cheaper than most merchant cash advance alternatives. They are more expensive than traditional invoice factoring from specialist factors when your customers are creditworthy.
 
 ---
 
@@ -203,22 +215,29 @@ Apply directly at [Fundbox.com](https://www.fundbox.com/).
 
 ---
 
-## Frequently Asked Questions
-
-**Is Fundbox a factoring company?**
-No. Fundbox is a lender that offers invoice financing — a line of credit secured by your outstanding invoices. The difference matters: with Fundbox, you retain the customer relationship and collection responsibility. With factoring, you sell the invoice and the factor collects. Fundbox frequently appears in invoice factoring comparisons because both products advance cash against receivables, but the mechanics and risk profiles are different.
-
-**What credit score do I need for Fundbox?**
-Fundbox requires a minimum personal credit score of 600. This is lower than most bank lenders but higher than what many invoice factoring companies require. Fundbox also requires at least 6 months in business and $100,000 in annual revenue.
-
-**Does Fundbox integrate with my accounting software?**
-Yes. Fundbox integrates directly with QuickBooks Online, QuickBooks Desktop, FreshBooks, Wave, Xero, Clio, and JobNimbus. You can also connect your business bank account. The integration allows Fundbox to review your invoicing and cash flow history without manual document submission — this is how Fundbox approves accounts within minutes.
-
-**What happens if my customer doesn't pay the invoice I financed with Fundbox?**
-You still owe Fundbox the weekly repayments on schedule. Unlike factoring, where the factor collects from your customer, Fundbox is a lender to you. Non-payment by your customer is your problem to resolve — you must still repay Fundbox from other funds if needed. This is the most significant operational risk difference between Fundbox and invoice factoring.
-
-**Can I use Fundbox and invoice factoring at the same time?**
-Potentially not. Fundbox files a UCC-1 lien on your business assets, which typically includes accounts receivable. A factoring company also requires a first-priority security interest in your receivables. Running both simultaneously creates a lien conflict that most lenders will not permit. Consult both lenders about your existing financing arrangements before applying.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is Fundbox a factoring company?</summary>
+    <p>No. Fundbox is a lender that offers invoice financing — a line of credit secured by your outstanding invoices. The difference matters: with Fundbox, you retain the customer relationship and collection responsibility. With factoring, you sell the invoice and the factor collects. Fundbox frequently appears in invoice factoring comparisons because both products advance cash against receivables, but the mechanics and risk profiles are different.</p>
+  </details>
+  <details>
+    <summary>What credit score do I need for Fundbox?</summary>
+    <p>Fundbox requires a minimum personal credit score of 600. This is lower than most bank lenders but higher than what many invoice factoring companies require. Fundbox also requires at least 6 months in business and $100,000 in annual revenue.</p>
+  </details>
+  <details>
+    <summary>Does Fundbox integrate with my accounting software?</summary>
+    <p>Yes. Fundbox integrates directly with QuickBooks Online, QuickBooks Desktop, FreshBooks, Wave, Xero, Clio, and JobNimbus. You can also connect your business bank account. The integration allows Fundbox to review your invoicing and cash flow history without manual document submission — this is how Fundbox approves accounts within minutes.</p>
+  </details>
+  <details>
+    <summary>What happens if my customer doesn't pay the invoice I financed with Fundbox?</summary>
+    <p>You still owe Fundbox the weekly repayments on schedule. Unlike factoring, where the factor collects from your customer, Fundbox is a lender to you. Non-payment by your customer is your problem to resolve — you must still repay Fundbox from other funds if needed. This is the most significant operational risk difference between Fundbox and invoice factoring.</p>
+  </details>
+  <details>
+    <summary>Can I use Fundbox and invoice factoring at the same time?</summary>
+    <p>Potentially not. Fundbox files a UCC-1 lien on your business assets, which typically includes accounts receivable. A factoring company also requires a first-priority security interest in your receivables. Running both simultaneously creates a lien conflict that most lenders will not permit. Consult both lenders about your existing financing arrangements before applying.</p>
+  </details>
+</section>
 
 ---
 

@@ -10,7 +10,17 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via SBA.gov, Lendio, and Nav.com. SBA maximum loan amounts and guarantee percentages verified against current SBA Standard Operating Procedures.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>SBA 7(a) loans offer rates of approximately 9.5–12% APR — substantially cheaper than online term loans (15–60% APR) or merchant cash advances (40–350% effective APR).</li>
+      <li>Down payment is 10% on most 7(a) loans, compared to 20–30% required by conventional bank loans.</li>
+      <li>SBA Express decisions arrive in 36 hours for loans up to $500,000; standard 7(a) loans take 30–60 days from application to funding.</li>
+      <li>SBA 504 loans offer a fixed rate of approximately 5.5–7% for equipment and commercial real estate — the lowest rate available for large fixed-asset purchases.</li>
+    </ul>
+  </div>
+</div>
 
 ## What Is an SBA Loan?
 
@@ -86,7 +96,7 @@ The guarantee structure means your lender takes less risk — which translates d
 
 **The 7(a) program** is the most flexible and widely used. It can be used for working capital, equipment, inventory, real estate, business acquisition, and refinancing of existing debt — sometimes in a single loan.
 
-**The 504 program** is specifically for fixed assets (equipment and commercial real estate). It works through a bank (50% of the loan) and a Certified Development Company (40%), with a 10% borrower down payment. The CDC portion carries a fixed interest rate — unusual in small business lending.
+**The 504 program** is specifically for fixed assets (equipment and commercial real estate). It works through a bank (50% of the loan) and a Certified Development Company (40%), with a 10% borrower down payment. The CDC portion carries a fixed interest rate — unusual in small business lending. Full program details are available on the <a href="https://www.sba.gov/funding-programs/loans/504-loans" rel="noopener">SBA 504 loan program page</a>.
 
 **The Microloan program** is administered through nonprofit intermediaries and serves startups and very small businesses that don't qualify for conventional SBA programs.
 
@@ -175,7 +185,7 @@ Not all banks are equal in SBA lending. Two key designations:
 
 ## SBA Loans vs. Other Specialty B2B Financing
 
-If you are here because you have been quoted an MCA or factoring arrangement, compare the cost against an SBA loan before accepting. The approval process is longer, but the cost difference is substantial:
+If you are here because you have been quoted an MCA or factoring arrangement, compare the cost against an SBA loan before accepting. The approval process is longer, but the operating capital cost difference is substantial:
 
 | $100,000 Funding Need | Cost at 60 Days |
 |---|---|
@@ -188,25 +198,33 @@ If you can wait 30–60 days and meet SBA eligibility criteria, the cost savings
 
 ---
 
-## Frequently Asked Questions
-
-**How long does it take to get an SBA loan?**
-Timeline varies significantly by program and lender. SBA Express loans (up to $500,000) can fund in 2–4 weeks. Standard 7(a) loans typically take 30–60 days from application to funding. SBA 504 loans are the most complex and typically take 45–90 days. Using an SBA Preferred Lender (PLP) significantly reduces the timeline versus a non-preferred bank, as PLP lenders handle SBA guarantee approval in-house.
-
-**What credit score do I need for an SBA loan?**
-The SBA does not set a minimum credit score — individual lenders do. Most SBA lenders require a personal credit score of 680+. Some SBA Preferred Lenders (especially those using SBSS scoring) work with scores of 650+ for smaller loans. Scores below 650 will find SBA approval difficult regardless of other qualifications.
-
-**Do I need collateral for an SBA loan?**
-SBA policy requires lenders to take all available collateral — business and personal — when approving loans over $25,000. This typically means a blanket lien on all business assets (equipment, inventory, receivables) and may include your personal real estate if business assets are insufficient to cover the loan amount. The SBA will not decline a loan solely due to insufficient collateral — but collateral shortfall may result in additional conditions.
-
-**Can I use an SBA loan to refinance existing debt?**
-Yes. SBA 7(a) loans can refinance existing business debt under specific conditions: the existing debt must be on less favourable terms (higher rate, shorter term, or burdensome payment schedule), and refinancing must improve the business's cash flow. SBA loans cannot refinance existing SBA debt. Debt refinancing is one of the most valuable and underused applications of SBA 7(a) loans — particularly for businesses carrying high-rate MCA or short-term loan debt.
-
-**What is the SBA guarantee fee?**
-The SBA charges a guarantee fee to lenders, who typically pass it on to borrowers. For 7(a) loans approved in fiscal year 2026: loans up to $1M — fee varies by loan size and term (verify current fees at sba.gov as these change annually). Loans under $150,000 have reduced or waived guarantee fees in some years. The guarantee fee is typically rolled into the loan amount and does not require upfront cash.
-
-**Can a startup get an SBA loan?**
-Startups (under 2 years) face significantly higher barriers for SBA 7(a) loans — most lenders require 2+ years of operating history and business tax returns. The SBA Microloan program (up to $50,000) through nonprofit intermediaries is the most accessible SBA product for startups. Some lenders offer SBA loans to startups with strong business plans, industry experience, and adequate personal collateral — but approval requires a compelling case.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>How long does it take to get an SBA loan?</summary>
+    <p>Timeline varies significantly by program and lender. SBA Express loans (up to $500,000) can fund in 2–4 weeks. Standard 7(a) loans typically take 30–60 days from application to funding. SBA 504 loans are the most complex and typically take 45–90 days. Using an SBA Preferred Lender (PLP) significantly reduces the timeline versus a non-preferred bank, as PLP lenders handle SBA guarantee approval in-house.</p>
+  </details>
+  <details>
+    <summary>What credit score do I need for an SBA loan?</summary>
+    <p>The SBA does not set a minimum credit score — individual lenders do. Most SBA lenders require a personal credit score of 680+. Some SBA Preferred Lenders (especially those using SBSS scoring) work with scores of 650+ for smaller loans. Scores below 650 will find SBA approval difficult regardless of other qualifications.</p>
+  </details>
+  <details>
+    <summary>Do I need collateral for an SBA loan?</summary>
+    <p>SBA policy requires lenders to take all available collateral — business and personal — when approving loans over $25,000. This typically means a blanket lien on all business assets (equipment, inventory, receivables) and may include your personal real estate if business assets are insufficient to cover the loan amount. The SBA will not decline a loan solely due to insufficient collateral — but collateral shortfall may result in additional conditions.</p>
+  </details>
+  <details>
+    <summary>Can I use an SBA loan to refinance existing debt?</summary>
+    <p>Yes. SBA 7(a) loans can refinance existing business debt under specific conditions: the existing debt must be on less favourable terms (higher rate, shorter term, or burdensome payment schedule), and refinancing must improve the business's cash flow. SBA loans cannot refinance existing SBA debt. Debt refinancing is one of the most valuable and underused applications of SBA 7(a) loans — particularly for businesses carrying high-rate MCA or short-term loan debt.</p>
+  </details>
+  <details>
+    <summary>What is the SBA guarantee fee?</summary>
+    <p>The SBA charges a guarantee fee to lenders, who typically pass it on to borrowers. For 7(a) loans approved in fiscal year 2026: loans up to $1M — fee varies by loan size and term (verify current fees at sba.gov as these change annually). Loans under $150,000 have reduced or waived guarantee fees in some years. The guarantee fee is typically rolled into the loan amount and does not require upfront cash.</p>
+  </details>
+  <details>
+    <summary>Can a startup get an SBA loan?</summary>
+    <p>Startups (under 2 years) face significantly higher barriers for SBA 7(a) loans — most lenders require 2+ years of operating history and business tax returns. The SBA Microloan program (up to $50,000) through nonprofit intermediaries is the most accessible SBA product for startups. Some lenders offer SBA loans to startups with strong business plans, industry experience, and adequate personal collateral — but approval requires a compelling case.</p>
+  </details>
+</section>
 
 ---
 

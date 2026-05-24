@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Balboa Capital/Ameris Bank published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Balboa Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for businesses with 1+ year in operation and 620+ credit that need equipment financing with same-day credit decisions on amounts under $250,000 from a bank-backed lender.</li>
+      <li>Estimated effective APR of 7–12% for 650–700 credit borrowers (5–8% for 700+ credit) — rates are not published upfront and require an application to confirm.</li>
+      <li>Bank-owned by Ameris Bank (publicly traded) — adds regulatory oversight and stability that standalone fintech equipment lenders don't have, with no predatory collection practices.</li>
+      <li>1-year minimum time in business is a meaningful differentiator — lower than National Funding and Crest Capital (both require 2 years); does not serve true start-ups under 1 year.</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Balboa Capital is a California-founded equipment financing and business lending company now operating as part of Ameris Bank, a publicly traded regional bank holding company. The Balboa Capital brand continues to operate its direct lending platform for small business equipment financing and working capital loans. Its 1-year minimum time in business is lower than many competitors, and same-day credit decisions for transactions under $250,000 make it a fast option. Rates are not published upfront, but the bank-backed structure provides stability and a broader product suite than standalone fintech lenders.
+Balboa Capital is a California-founded equipment lending and business lending company now operating as part of Ameris Bank, a publicly traded regional bank holding company. The Balboa Capital brand continues to operate its direct lending platform for small business equipment financing and working capital loans. Its 1-year minimum time in business is lower than many competitors, and same-day credit decisions for transactions under $250,000 make it a fast option. Rates are not published upfront, but the bank-backed structure provides stability and a broader product suite than standalone fintech lenders.
 
 **Best for:** Businesses with 1+ year in operation, 620+ credit, and $100,000+/year in revenue that need equipment financing or working capital loans with same-day credit decisions on amounts under $250,000 and a bank-backed lender relationship.
 
@@ -113,7 +125,7 @@ Balboa Capital operates as the direct small business lending platform within Ame
 
 **Equipment Financing:** Balboa Capital offers both equipment loans and equipment leases. Loans result in ownership from day one; leases offer flexibility at end of term (return, purchase, or renew). Balboa finances new and used equipment across a wide range of categories including technology, medical, construction, manufacturing, transportation, and restaurant equipment.
 
-**Working Capital Loans:** Short-term business loans for general working capital purposes — covering payroll, inventory, marketing, or operational needs. Terms run 12–60 months with fixed daily or weekly repayment.
+**Working Capital Loans:** Short-term business loans for general operating capital purposes — covering payroll, inventory, marketing, or operational needs. Terms run 12–60 months with fixed daily or weekly repayment.
 
 **Lines of Credit:** Balboa Capital offers revolving business lines of credit for qualified businesses, providing flexible access to funds for ongoing operational needs.
 
@@ -221,22 +233,29 @@ Balboa Capital's 1-year time-in-business requirement is its strongest differenti
 
 ---
 
-## Frequently Asked Questions
-
-**Is Balboa Capital a bank?**
-Balboa Capital operates as part of Ameris Bank, a publicly traded bank holding company. This means Balboa Capital's lending activities are bank-regulated, though the Balboa Capital brand functions as the direct small business lending platform within the Ameris Bank organization.
-
-**Does Balboa Capital offer start-up financing?**
-Balboa Capital's 1-year minimum time in business excludes true start-ups (under 1 year). For businesses under 1 year old, equipment financing options are limited — manufacturer financing programs, SBA microloans, or equipment leases with strong personal credit are typically the most accessible paths.
-
-**Can Balboa Capital finance used equipment?**
-Yes, Balboa Capital finances used equipment in many categories. Age restrictions apply — very old equipment (typically 10+ years) may not qualify. Confirm at application based on the specific make, model, and year of the equipment you need.
-
-**How does vendor financing through Balboa Capital work?**
-Balboa Capital partners with equipment dealers and manufacturers to offer embedded financing at the point of sale. If you purchase from a vendor that partners with Balboa, you may be offered Balboa financing directly through the dealer — the application process is the same, but the experience is streamlined through the vendor.
-
-**What happened to Balboa Capital?**
-Balboa Capital was acquired by Ameris Bank in 2021. The brand continues to operate under the Balboa Capital name as the direct small business lending arm of Ameris Bank. The platform, products, and online application process remain functionally similar to the pre-acquisition operation.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is Balboa Capital a bank?</summary>
+    <p>Balboa Capital operates as part of Ameris Bank, a publicly traded bank holding company. This means Balboa Capital's lending activities are bank-regulated, though the Balboa Capital brand functions as the direct small business lending platform within the Ameris Bank organization.</p>
+  </details>
+  <details>
+    <summary>Does Balboa Capital offer start-up financing?</summary>
+    <p>Balboa Capital's 1-year minimum time in business excludes true start-ups (under 1 year). For businesses under 1 year old, equipment financing options are limited — manufacturer financing programs, SBA microloans, or equipment leases with strong personal credit are typically the most accessible paths.</p>
+  </details>
+  <details>
+    <summary>Can Balboa Capital finance used equipment?</summary>
+    <p>Yes, Balboa Capital finances used equipment in many categories. Age restrictions apply — very old equipment (typically 10+ years) may not qualify. Confirm at application based on the specific make, model, and year of the equipment you need.</p>
+  </details>
+  <details>
+    <summary>How does vendor financing through Balboa Capital work?</summary>
+    <p>Balboa Capital partners with equipment dealers and manufacturers to offer embedded financing at the point of sale. If you purchase from a vendor that partners with Balboa, you may be offered Balboa financing directly through the dealer — the application process is the same, but the experience is streamlined through the vendor.</p>
+  </details>
+  <details>
+    <summary>What happened to Balboa Capital?</summary>
+    <p>Balboa Capital was acquired by Ameris Bank in 2021. The brand continues to operate under the Balboa Capital name as the direct small business lending arm of Ameris Bank. The platform, products, and online application process remain functionally similar to the pre-acquisition operation.</p>
+  </details>
+</section>
 
 ---
 

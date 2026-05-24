@@ -10,11 +10,21 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via National Funding, Balboa Capital, and Crest Capital published schedules.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Restaurant equipment financing rates run 6–20% APR — 1–3% higher than manufacturing or construction due to the hospitality sector's higher business failure rate</li>
+      <li>The equipment itself serves as collateral, making approval accessible even for restaurants with limited credit history (minimum 550 credit score with some lenders)</li>
+      <li>Same-day funding is available from multiple lenders for purchases under $75,000 — critical for emergency equipment replacements</li>
+      <li>High depreciation risk: commercial kitchen equipment loses 40–60% of value in the first 3 years, and a personal guarantee means you remain liable for any shortfall if the restaurant closes</li>
+    </ul>
+  </div>
+</div>
 
 ## Why Restaurants Use Equipment Financing
 
-Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fryers, espresso machines — depreciates quickly but costs significantly upfront. Equipment financing lets restaurants acquire the equipment now and pay over 24–60 months at 6–20% APR (annual percentage rate), preserving cash for payroll, inventory, and marketing. Because the equipment itself serves as collateral, approval is more accessible than unsecured working capital loans — even for restaurants with limited credit history.
+Restaurant equipment — commercial ovens, refrigeration units, dishwashers, fryers, espresso machines — depreciates quickly but costs significantly upfront. Equipment lending lets restaurants acquire the equipment now and pay over 24–60 months at 6–20% APR (annual percentage rate), preserving cash for payroll, inventory, and marketing. Because the equipment itself serves as collateral, approval is more accessible than unsecured operating capital loans — even for restaurants with limited credit history.
 
 <div class="stat-grid stat-grid--4">
   <div class="stat-card">
@@ -154,22 +164,29 @@ The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/secti
 
 ---
 
-## Frequently Asked Questions
-
-**Can a new restaurant get equipment financing?**
-Yes, though options are more limited. Pre-opening restaurants typically need a 20–30% down payment, a detailed business plan, and a personal guarantee from the owner. Taycor Financial and TimePayment are among the most accessible lenders for new restaurants. Expect rates in the 15–25% APR range.
-
-**Can I finance used restaurant equipment?**
-Yes. Most equipment lenders finance used commercial kitchen equipment up to 10 years old. Advance rates on used equipment are typically 80–85% (vs. 90–100% for new), and some lenders require an appraisal for equipment over $50,000. Rates on used equipment are generally 2–4% higher than on comparable new equipment.
-
-**How does equipment financing affect my ability to get other loans?**
-Equipment financing lenders file a UCC-1 lien specifically against the financed equipment — not against your entire business. This is less restrictive than a blanket lien (common with working capital loans) and generally does not prevent you from obtaining additional financing secured by other assets.
-
-**What if my restaurant needs to close before the loan is paid off?**
-If your restaurant closes, the lender repossesses and sells the equipment. If the sale price covers the outstanding balance, no further liability. If there is a shortfall (common with used equipment that depreciated quickly), a personal guarantee means you are responsible for the difference. This is the primary risk of personal guarantee provisions — read your agreement carefully.
-
-**Is equipment financing better than using a business line of credit for equipment?**
-For equipment purchases, dedicated equipment financing is almost always better than a line of credit. Equipment financing offers longer terms (up to 84 months vs. 12 months typical for LOC), lower rates for the same credit profile (because the equipment is collateral), and does not consume your revolving credit capacity. Reserve your line of credit for working capital needs where the flexibility of revolving credit has genuine value.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can a new restaurant get equipment financing?</summary>
+    <p>Yes, though options are more limited. Pre-opening restaurants typically need a 20–30% down payment, a detailed business plan, and a personal guarantee from the owner. Taycor Financial and TimePayment are among the most accessible lenders for new restaurants. Expect rates in the 15–25% APR range.</p>
+  </details>
+  <details>
+    <summary>Can I finance used restaurant equipment?</summary>
+    <p>Yes. Most equipment lenders finance used commercial kitchen equipment up to 10 years old. Advance rates on used equipment are typically 80–85% (vs. 90–100% for new), and some lenders require an appraisal for equipment over $50,000. Rates on used equipment are generally 2–4% higher than on comparable new equipment.</p>
+  </details>
+  <details>
+    <summary>How does equipment financing affect my ability to get other loans?</summary>
+    <p>Equipment financing lenders file a UCC-1 lien specifically against the financed equipment — not against your entire business. This is less restrictive than a blanket lien (common with working capital loans) and generally does not prevent you from obtaining additional financing secured by other assets.</p>
+  </details>
+  <details>
+    <summary>What if my restaurant needs to close before the loan is paid off?</summary>
+    <p>If your restaurant closes, the lender repossesses and sells the equipment. If the sale price covers the outstanding balance, no further liability. If there is a shortfall (common with used equipment that depreciated quickly), a personal guarantee means you are responsible for the difference. This is the primary risk of personal guarantee provisions — read your agreement carefully.</p>
+  </details>
+  <details>
+    <summary>Is equipment financing better than using a business line of credit for equipment?</summary>
+    <p>For equipment purchases, dedicated machinery financing is almost always better than a line of credit. Equipment financing offers longer terms (up to 84 months vs. 12 months typical for LOC), lower rates for the same credit profile (because the equipment is collateral), and does not consume your revolving credit capacity. Reserve your line of credit for working capital needs where the flexibility of revolving credit has genuine value.</p>
+  </details>
+</section>
 
 ---
 

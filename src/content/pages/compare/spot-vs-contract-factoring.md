@@ -10,11 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026. All rates are based on lender-published rates as of May 2026.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Spot factoring costs 0.5–1.5% more per 30-day period than contract factoring — at $50,000/month in consistent volume, contract factoring saves ~$3,000/year</li>
+      <li>Contract factoring typically requires a 12-month commitment and minimum monthly volume of $10,000–$50,000; early termination fees run 1–3% of contracted monthly volume</li>
+      <li>If your monthly volume falls below a contract minimum, you pay a shortfall fee on the gap — model your slowest months before committing to any volume floor</li>
+      <li>Spot factoring is available from Riviera Finance (month-to-month) and RTS Financial (freight, no minimums); eCapital and Triumph Business Capital require contracts with minimums</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## The Core Difference
 
-Spot factoring (also called selective factoring) lets you submit individual invoices to a factor on a transaction-by-transaction basis — no minimum volume, no long-term contract. Contract factoring requires you to factor all invoices (or a minimum monthly volume) from agreed customers over a defined contract period, typically 12 months. Contract factoring costs less per invoice; spot factoring costs more but gives you complete flexibility.
+Spot factoring (also called selective factoring) lets you submit individual invoices to a factor on a transaction-by-transaction basis — no minimum volume, no long-term contract. Contract factoring requires you to factor all invoices (or a minimum monthly volume) from agreed customers over a defined contract period, typically 12 months. Contract factoring costs less per invoice; spot accounts receivable factoring costs more but gives you complete flexibility.
 
 <dl>
   <dt>Spot Factoring (Selective Factoring)</dt>
@@ -121,24 +133,44 @@ A business factors $50,000/month in invoices with 30-day customer payment.
 
 The $3,000 annual saving from contract factoring needs to be weighed against: the termination fee risk if circumstances change, the minimum volume fee if some months fall below the floor, and the value of flexibility if your business needs to pause factoring mid-contract.
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> Business factors $50,000/month in invoices with 30-day customer payment — spot vs. contract factoring</p>
+    <ul>
+      <li>Spot factoring at 2.5%/30 days: monthly fee $1,250; annual fee $15,000</li>
+      <li>Contract factoring at 2.0%/30 days: monthly fee $1,000; annual fee $12,000</li>
+      <li>Annual saving from contract: $3,000</li>
+      <li>Effective APR: If monthly volume drops below the contract minimum of $25,000 in any month, shortfall fees may eliminate the annual savings — model your slowest months before committing</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
-## Frequently Asked Questions
-
-**Which factors offer spot factoring?**
-Spot factoring is less common than contract factoring. Providers offering genuine spot factoring (no contract, no minimums) include [Riviera Finance](/providers/riviera-finance-review/) (month-to-month available), [Paragon Financial Group](https://www.paragonfinancial.net/), and BlueVine (where factoring is available). Most large freight factors ([eCapital](/providers/ecapital-review/), [Triumph Business Capital](/providers/triumph-business-capital-review/), [RTS Financial](/providers/rts-financial-review/)) require contracts with minimum volumes, though some offer spot at a premium. Always confirm spot availability and pricing directly — published rates are usually for contract arrangements.
-
-**What is a minimum volume fee?**
-Contract factoring agreements specify a minimum monthly volume (e.g., $25,000/month). If your actual factoring volume in a given month falls below this minimum, the factor charges a shortfall fee — typically the factoring fee on the difference between your actual volume and the minimum. A month where you factor only $10,000 against a $25,000 minimum could result in a fee on the $15,000 shortfall, even though you received no advance on it.
-
-**Can I switch from contract to spot factoring?**
-Yes, but you need to wait for your contract to end (or pay the termination fee). Most contract factoring agreements have a 30–90 day termination notice requirement. Some allow conversion to spot at the contract renewal date. If you are approaching a renewal, negotiate for spot or month-to-month terms rather than automatically renewing.
-
-**Is spot factoring available for freight?**
-Yes — [RTS Financial](/providers/rts-financial-review/) is the largest freight factor with no minimum volume requirement and no long-term contract requirement for owner-operators. Other freight factors (Bobtail, some regional freight factors) also offer spot. [eCapital](/providers/ecapital-review/) and [Triumph Business Capital](/providers/triumph-business-capital-review/) require 12-month contracts with volume minimums and do not offer true spot factoring.
-
-**What is the difference between spot factoring and invoice financing on demand?**
-Spot factoring involves selling the invoice to the factor (the factor collects from your customer). Invoice financing on demand (like Fundbox's product) is a revolving line where you draw against outstanding invoices but retain the customer relationship and collection responsibility. Spot factoring is faster and qualifies based on customer creditworthiness; on-demand invoice financing is private (no customer notification) but requires your credit qualification.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Which factors offer spot factoring?</summary>
+    <p>Spot factoring is less common than contract factoring. Providers offering genuine spot factoring (no contract, no minimums) include <a href="/providers/riviera-finance-review/">Riviera Finance</a> (month-to-month available), <a href="https://www.paragonfinancial.net/">Paragon Financial Group</a>, and BlueVine (where factoring is available). Most large freight factors (<a href="/providers/ecapital-review/">eCapital</a>, <a href="/providers/triumph-business-capital-review/">Triumph Business Capital</a>, <a href="/providers/rts-financial-review/">RTS Financial</a>) require contracts with minimum volumes, though some offer spot at a premium. Always confirm spot availability and pricing directly — published rates are usually for contract arrangements.</p>
+  </details>
+  <details>
+    <summary>What is a minimum volume fee?</summary>
+    <p>Contract factoring agreements specify a minimum monthly volume (e.g., $25,000/month). If your actual factoring volume in a given month falls below this minimum, the factor charges a shortfall fee — typically the factoring fee on the difference between your actual volume and the minimum. A month where you factor only $10,000 against a $25,000 minimum could result in a fee on the $15,000 shortfall, even though you received no advance on it.</p>
+  </details>
+  <details>
+    <summary>Can I switch from contract to spot factoring?</summary>
+    <p>Yes, but you need to wait for your contract to end (or pay the termination fee). Most contract factoring agreements have a 30–90 day termination notice requirement. Some allow conversion to spot at the contract renewal date. If you are approaching a renewal, negotiate for spot or month-to-month terms rather than automatically renewing.</p>
+  </details>
+  <details>
+    <summary>Is spot factoring available for freight?</summary>
+    <p>Yes — <a href="/providers/rts-financial-review/">RTS Financial</a> is the largest freight factor with no minimum volume requirement and no long-term contract requirement for owner-operators. Other freight factors (Bobtail, some regional freight factors) also offer spot. <a href="/providers/ecapital-review/">eCapital</a> and <a href="/providers/triumph-business-capital-review/">Triumph Business Capital</a> require 12-month contracts with volume minimums and do not offer true spot factoring.</p>
+  </details>
+  <details>
+    <summary>What is the difference between spot factoring and invoice financing on demand?</summary>
+    <p>Spot factoring involves selling the invoice to the factor (the factor collects from your customer). Invoice financing on demand (like Fundbox's product) is a revolving line where you draw against outstanding invoices but retain the customer relationship and collection responsibility. Spot factoring is faster and qualifies based on customer creditworthiness; on-demand invoice financing is private (no customer notification) but requires your credit qualification.</p>
+  </details>
+</section>
 
 ---
 

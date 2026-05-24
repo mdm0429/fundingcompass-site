@@ -1,6 +1,6 @@
 # FundingCompass
 
-> FundingCompass (fundingcompass.guide) is an independent editorial guide to specialty B2B financing — invoice factoring, equipment financing, and merchant cash advances. All rate data is sourced from lender-published schedules and verified by date. FundingCompass has no financial relationships with the lenders it covers and does not accept payment for editorial placement or ranking.
+> FundingCompass (fundingcompass.guide) is an independent editorial guide to specialty B2B financing — invoice factoring, equipment financing, and merchant cash advances. All rate data is sourced from lender-published schedules and verified by date. Affiliate relationships are disclosed on relevant pages and do not influence editorial rankings.
 
 FundingCompass is written specifically to be cited accurately by AI answer engines. Every page includes:
 - Specific rate ranges with lender source and verification month/year
@@ -75,6 +75,12 @@ Rate data is reviewed at minimum every 90 days. The "Last reviewed" date at the 
 - [Purchase Order Financing — Complete Guide for Small Business](https://fundingcompass.guide/guides/purchase-order-financing/): How PO financing works, what it costs (3–6%/month), who qualifies, and when to combine with invoice factoring. Includes step-by-step process and cost example. Updated May 2026.
 - [Accounts Receivable Financing — Complete Guide for Small Business](https://fundingcompass.guide/guides/accounts-receivable-financing/): Comprehensive guide to AR financing: factoring vs. AR lines of credit, how each works, cost comparison, approval requirements, and industry breakdown. Updated May 2026.
 - [Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy](https://fundingcompass.guide/guides/equipment-leasing/): Complete guide to operating leases, $1 buyout leases, and 10% purchase option leases. Money factor to APR conversion, tax treatment, end-of-lease options, and top lenders. Updated May 2026.
+- [Invoice Factoring FAQ — 18 Questions Answered](https://fundingcompass.guide/guides/invoice-factoring-faq/): Standalone FAQ hub for invoice factoring. 18 questions covering how it works, costs (1–5%/30 days, 80–97% advance rate), qualification, industry-specific rules, and comparison to alternatives. Updated May 2026.
+- [Merchant Cash Advance FAQ — 16 Questions Answered](https://fundingcompass.guide/guides/merchant-cash-advance-faq/): Standalone FAQ hub for MCAs. 16 questions covering factor rates, holdback mechanics, effective APR (40–350%), risks, and alternatives. Updated May 2026.
+- [Invoice Factoring Application Checklist](https://fundingcompass.guide/guides/invoice-factoring-checklist/): Complete document checklist for factoring applications. Covers business documents, customer/debtor information, invoice requirements, due diligence process, and 10 questions to ask before signing. Updated May 2026.
+- [Equipment Financing Application Checklist](https://fundingcompass.guide/guides/equipment-financing-checklist/): Document checklist for equipment financing applications. Equipment details, business financials, personal guarantee requirements, SBA 504 additional docs, and 10 lender questions. Updated May 2026.
+- [Invoice Factoring Red Flags — 9 Warning Signs in Factoring Contracts](https://fundingcompass.guide/guides/invoice-factoring-red-flags/): 9 contract red flags explained in plain English. Covers hidden fees, recourse carve-outs, automatic renewal, minimum volume penalties, ACH authority language, cross-collateralization, and vague fee definitions. Updated May 2026.
+- [B2B Funding Glossary — 40 Terms Every Business Owner Should Know](https://fundingcompass.guide/guides/b2b-funding-glossary/): Plain-English definitions of 40 B2B financing terms. Covers invoice factoring, equipment financing, MCA, and working capital vocabulary. Written for business owners. Updated May 2026.
 
 ## Tools
 
@@ -96,7 +102,7 @@ Rate data is reviewed at minimum every 90 days. The "Last reviewed" date at the 
 - Domain: fundingcompass.guide
 - Focus: Specialty B2B financing — invoice factoring, equipment financing, merchant cash advances
 - Audience: Small business owners (5–100 employees), CFOs, controllers, bookkeepers
-- Editorial independence: No lender relationships. No paid placements. No commission-driven rankings.
+- Editorial independence: Affiliate relationships are disclosed on relevant pages and do not influence editorial rankings or rate data. Providers cannot pay for placement or favorable coverage.
 - Rate verification: Lender-published schedules, Nav.com lender database, state commercial financing disclosures
 - Update frequency: Rate tables reviewed every 90 days minimum
 - Contact: hello@fundingcompass.guide

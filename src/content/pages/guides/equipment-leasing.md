@@ -10,11 +10,21 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant before making financing decisions.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>An operating lease on a $60,000 asset can cost 26% less per month than a 36-month loan at 8% APR — because you pay only for the depreciation during the lease term, not for full ownership.</li>
+      <li>Convert any money factor to APR by multiplying by 2,400 — always request the money factor in writing before signing.</li>
+      <li>$1 buyout leases qualify for the Section 179 deduction (2026 limit: $1,220,000) and guarantee ownership at term end for $1.</li>
+      <li>Early termination penalties can equal all remaining payments — know your exit cost before entering a lease.</li>
+    </ul>
+  </div>
+</div>
 
 ## What Is Equipment Leasing?
 
-Equipment leasing is an arrangement where a lender (lessor) purchases equipment and rents it to a business (lessee) for a set monthly payment over a defined term. You use the equipment without owning it — though most leases include an option to purchase at the end. Leasing is an alternative to an equipment loan that offers lower monthly payments and more flexibility, at the cost of not building equity in the asset.
+Equipment leasing is an arrangement where a lender (lessor) purchases equipment and rents it to a business (lessee) for a set monthly payment over a defined term. You use the equipment without owning it — though most leases include an option to purchase at the end. Leasing is an alternative to equipment lending that offers lower monthly payments and more flexibility, at the cost of not building equity in the asset.
 
 Approximately 80% of US businesses lease at least some of their equipment. It's particularly common for technology, vehicles, medical equipment, and any category that becomes obsolete quickly.
 
@@ -184,6 +194,20 @@ Lease payments are quoted as a money factor rather than an APR. To convert:
 
 Always ask for the money factor and convert it to APR for comparison with loan rates. A lease quote presented without the money factor should raise questions.
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> A dental practice leases a $90,000 digital imaging system on a 48-month operating lease with a money factor of 0.00292 and an estimated residual value of $18,000.</p>
+    <ul>
+      <li>Monthly operating lease payment: approximately $1,838</li>
+      <li>Equivalent 48-month loan at 8% APR: approximately $2,196/month</li>
+      <li>Monthly savings: $358 — the operating lease is 16% lower per month</li>
+      <li>Effective APR: approximately 7% (money factor 0.00292 × 2,400)</li>
+    </ul>
+    <p>Over 48 months the operating lease saves $17,184 in payments — and the practice can return the system and lease updated imaging technology at term end, avoiding ownership of a rapidly depreciating asset.</p>
+  </div>
+</div>
+
 ---
 
 ## Tax Considerations
@@ -199,7 +223,7 @@ Always ask for the money factor and convert it to APR for comparison with loan r
 - Depreciation deduction over useful life if Section 179 not fully used
 - Interest component of payments deductible
 
-**Which is better for taxes?** Depends on your taxable income and timing. Section 179 provides a large immediate deduction; operating lease payments provide steady ongoing deductions. Work with your accountant to model both scenarios.
+**Which is better for taxes?** Depends on your taxable income and timing. Section 179 provides a large immediate deduction; operating lease payments provide steady ongoing deductions. Work with your accountant to model both scenarios. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/interest-expense" rel="noopener">IRS guidance on interest expense</a> covers how the interest component of capital lease payments is treated for tax purposes.
 
 ---
 
@@ -255,22 +279,29 @@ See [Best Equipment Financing Companies](/compare/best-equipment-financing-compa
 
 ---
 
-## Frequently Asked Questions
-
-**Is equipment leasing better than buying for a small business?**
-Depends on the equipment. For technology and other fast-depreciating equipment, leasing is usually better — lower payments, easier to upgrade, no ownership of a depreciating asset. For equipment with long useful life and meaningful resale value (construction machinery, agricultural equipment), buying often wins because you build equity. See [Equipment Loan vs. Lease](/compare/equipment-loan-vs-lease/) for a detailed comparison.
-
-**What credit score do I need to lease equipment?**
-Most lenders require 620–650+ for established businesses. Some (National Funding) work with 600+. For large amounts ($250,000+), lenders typically require financial statements and may require 680+. Start-ups face higher scrutiny — a strong personal guarantor often unlocks access.
-
-**Can I lease used equipment?**
-Yes. Many lenders finance certified refurbished or used equipment. Age limits apply — most lenders cap financing at equipment 5–10 years old. Used equipment leases typically carry higher money factors than new equipment leases due to greater uncertainty about condition and resale value.
-
-**What is a master lease agreement?**
-A master lease agreement establishes the terms of a leasing relationship between a business and a lessor, allowing multiple equipment schedules (individual leases) to be added to the master agreement over time without renegotiating base terms. This is useful for businesses that regularly acquire equipment and want a standing relationship with a lessor.
-
-**What happens if the equipment breaks during the lease?**
-In most equipment leases, maintenance and repairs are your responsibility. If equipment fails due to a manufacturing defect, the manufacturer's warranty applies. Otherwise, equipment malfunctions are your problem to repair. This is why reviewing the lease's maintenance clause and understanding what warranty coverage comes with the equipment is important before signing.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Is equipment leasing better than buying for a small business?</summary>
+    <p>Depends on the equipment. For technology and other fast-depreciating equipment, leasing is usually better — lower payments, easier to upgrade, no ownership of a depreciating asset. For equipment with long useful life and meaningful resale value (construction machinery, agricultural equipment), buying often wins because you build equity. See <a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease</a> for a detailed comparison.</p>
+  </details>
+  <details>
+    <summary>What credit score do I need to lease equipment?</summary>
+    <p>Most lenders require 620–650+ for established businesses. Some (National Funding) work with 600+. For large amounts ($250,000+), lenders typically require financial statements and may require 680+. Start-ups face higher scrutiny — a strong personal guarantor often unlocks access.</p>
+  </details>
+  <details>
+    <summary>Can I lease used equipment?</summary>
+    <p>Yes. Many lenders finance certified refurbished or used equipment. Age limits apply — most lenders cap financing at equipment 5–10 years old. Used equipment leases typically carry higher money factors than new equipment leases due to greater uncertainty about condition and resale value.</p>
+  </details>
+  <details>
+    <summary>What is a master lease agreement?</summary>
+    <p>A master lease agreement establishes the terms of a leasing relationship between a business and a lessor, allowing multiple equipment schedules (individual leases) to be added to the master agreement over time without renegotiating base terms. This is useful for businesses that regularly acquire equipment and want a standing relationship with a lessor.</p>
+  </details>
+  <details>
+    <summary>What happens if the equipment breaks during the lease?</summary>
+    <p>In most equipment leases, maintenance and repairs are your responsibility. If equipment fails due to a manufacturing defect, the manufacturer's warranty applies. Otherwise, equipment malfunctions are your problem to repair. This is why reviewing the lease's maintenance clause and understanding what warranty coverage comes with the equipment is important before signing.</p>
+  </details>
+</section>
 
 ---
 

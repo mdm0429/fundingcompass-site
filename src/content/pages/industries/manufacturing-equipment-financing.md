@@ -10,13 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via Currency Capital, Crest Capital, and Balboa Capital published schedules.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Manufacturing equipment financing rates run 5.5–14% APR — among the lowest of any industry due to strong resale markets for major-brand CNC machines and industrial equipment</li>
+      <li>Major-brand equipment (Haas, Mazak, FANUC) supports advance rates of 85–100%; specialised single-purpose machinery qualifies for only 60–75% and shorter terms</li>
+      <li>Terms up to 84 months match the 10–20 year useful life of industrial equipment, keeping monthly payments manageable relative to revenue generated</li>
+      <li>Used equipment financing carries a 2–4% APR premium over comparable new equipment, which can reduce the savings from the lower purchase price</li>
+    </ul>
+  </div>
+</div>
 
 ## Why Manufacturing Equipment Financing Is Different
 
-Manufacturing equipment — CNC machines, lathes, injection moulding presses, industrial robots, laser cutters — often costs $50,000 to $2,000,000+ per unit and has a useful life of 10–20 years. Equipment financing is the dominant funding tool for manufacturers because: the equipment serves as collateral (no additional assets required), terms up to 84 months match the asset's useful life, and the interest is deductible while the equipment generates revenue immediately upon installation.
+Manufacturing equipment — CNC machines, lathes, injection moulding presses, industrial robots, laser cutters — often costs $50,000 to $2,000,000+ per unit and has a useful life of 10–20 years. Equipment lending is the dominant funding tool for manufacturers because: the equipment serves as collateral (no additional assets required), terms up to 84 months match the asset's useful life, and the interest is deductible while the equipment generates revenue immediately upon installation.
 
-Current rates for manufacturing equipment range from 5.5–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — significantly cheaper than working capital financing and close to bank loan rates, without the bank's documentation burden or timeline.
+Current rates for manufacturing equipment range from 5.5–14% APR (annual percentage rate) for qualified borrowers as of May 2026 — significantly cheaper than operating capital financing and close to bank loan rates, without the bank's documentation burden or timeline.
 
 <div class="stat-grid stat-grid--3">
   <div class="stat-card">
@@ -120,23 +130,29 @@ Multi-unit or full production line financing requires a different approach than 
 
 ---
 
-## Frequently Asked Questions
-
-**Can I finance equipment I'm buying from another manufacturer going out of business?**
-Yes — buying from a liquidation or distressed sale often creates excellent value but complicates financing. Lenders want clear title to the equipment. Ensure the selling entity has the legal right to sell (no prior lien holders), obtain a bill of sale, and confirm no UCC-1 filings against the equipment exist before the lender advances. An equipment appraisal is typically required for liquidation purchases.
-
-**How does equipment age affect financing terms?**
-Most lenders cap financing at 120 months divided by the equipment's remaining useful life. A 15-year-old CNC machine with an expected remaining life of 5 years may only qualify for a 48–60 month term, and at reduced advance rates. Equipment over 15 years old is difficult to finance through traditional channels — specialised used equipment lenders or dealer financing may be the only options.
-
-**What is a fair market value (FMV) lease for manufacturing equipment?**
-In an FMV lease, you make monthly payments and at lease end you can buy the equipment at its then-current fair market value, renew, or return it. FMV leases have the lowest monthly payments of any structure and are ideal for equipment you expect to upgrade. The downside: you have no guaranteed ownership path and no equity building. For 10–15 year useful life manufacturing equipment, a loan is typically the better long-term financial choice.
-
-**Can I get equipment financing if my manufacturing business has an SBA loan outstanding?**
-Yes — as long as your SBA loan does not include a blanket lien on all business assets that prohibits additional security interests. Review your SBA loan agreement for collateral restrictions. Equipment-specific financing lenders take a lien only on the financed equipment, not your entire asset base — this is often compatible with existing SBA debt. Confirm with your SBA lender before proceeding.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can I finance equipment I'm buying from another manufacturer going out of business?</summary>
+    <p>Yes — buying from a liquidation or distressed sale often creates excellent value but complicates financing. Lenders want clear title to the equipment. Ensure the selling entity has the legal right to sell (no prior lien holders), obtain a bill of sale, and confirm no UCC-1 filings against the equipment exist before the lender advances. An equipment appraisal is typically required for liquidation purchases.</p>
+  </details>
+  <details>
+    <summary>How does equipment age affect financing terms?</summary>
+    <p>Most lenders cap financing at 120 months divided by the equipment's remaining useful life. A 15-year-old CNC machine with an expected remaining life of 5 years may only qualify for a 48–60 month term, and at reduced advance rates. Equipment over 15 years old is difficult to finance through traditional channels — specialised used equipment lenders or dealer financing may be the only options.</p>
+  </details>
+  <details>
+    <summary>What is a fair market value (FMV) lease for manufacturing equipment?</summary>
+    <p>In an FMV lease, you make monthly payments and at lease end you can buy the equipment at its then-current fair market value, renew, or return it. FMV leases have the lowest monthly payments of any structure and are ideal for equipment you expect to upgrade. The downside: you have no guaranteed ownership path and no equity building. For 10–15 year useful life manufacturing equipment, a loan is typically the better long-term financial choice.</p>
+  </details>
+  <details>
+    <summary>Can I get equipment financing if my manufacturing business has an SBA loan outstanding?</summary>
+    <p>Yes — as long as your SBA loan does not include a blanket lien on all business assets that prohibits additional security interests. Review your SBA loan agreement for collateral restrictions. Equipment-specific financing lenders take a lien only on the financed equipment, not your entire asset base — this is often compatible with existing SBA debt. Confirm with your SBA lender before proceeding.</p>
+  </details>
+</section>
 
 ---
 
-**Who this works for:** Established manufacturers (2+ years, 640+ credit score) financing major brand CNC machines, laser cutters, press brakes, or industrial robots costing $50,000 or more. Companies where the equipment directly generates production revenue that supports the monthly payment. Operations that can leverage Section 179 against meaningful taxable income.
+**Who this works for:** Established manufacturers (2+ years, 640+ credit score) using machinery financing for major brand CNC machines, laser cutters, press brakes, or industrial robots costing $50,000 or more. Companies where the equipment directly generates production revenue that supports the monthly payment. Operations that can leverage Section 179 against meaningful taxable income.
 
 **Who should look elsewhere:** Start-up manufacturers under 1 year with no revenue (consider SBA microloan or owner-financing the first piece of equipment). Businesses financing highly specialised single-purpose equipment with no secondary market — advance rates will be 60–75% and rates will be at the top of the range. Any operation whose production forecast doesn't support the debt service on the equipment payment.
 

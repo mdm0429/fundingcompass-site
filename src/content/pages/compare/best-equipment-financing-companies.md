@@ -15,6 +15,18 @@ schema:
 
 *Last reviewed: May 2026 — APR (annual percentage rate) ranges and qualification criteria verified via each lender's published rate schedules and Nav.com lender database. Affiliate relationships do not affect rankings or editorial coverage.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Crest Capital offers the lowest non-bank APR on this list (5.5–12%) for businesses with 650+ credit and 2+ years in operation</li>
+      <li>Balboa Capital funds same-day on loans under $75,000 with a 620 minimum credit score — fastest option when equipment downtime is costly</li>
+      <li>SBA 504 offers the lowest long-term rates (5.5–7% fixed on the SBA debenture portion) but takes 30–90 days to fund</li>
+      <li>National Funding accepts a 600 minimum credit score with rates up to 26% APR — accessible for early-stage businesses, but model payments carefully at the upper end</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## How We Selected These Lenders
@@ -446,10 +458,10 @@ Taycor is one of the few equipment financing lenders with an explicit startup pr
 **Min. time in business:** 2 years typically
 **Funding time:** 30–90 days
 
-For borrowers with strong credit (680+) who can wait 30–90 days, the [SBA (Small Business Administration) loan programs](https://www.sba.gov/funding-programs/loans) offer the lowest rates available on equipment financing. The 504 program is particularly attractive for purchases that include real property alongside equipment (e.g., a manufacturing facility with machinery).
+For borrowers with strong credit (680+) who can wait 30–90 days, the [SBA (Small Business Administration) loan programs](https://www.sba.gov/funding-programs/loans) offer the lowest rates available on equipment lending. The 504 program is particularly attractive for purchases that include real property alongside equipment (e.g., a manufacturing facility with machinery).
 
 **SBA 7(a) vs. SBA 504:**
-- **7(a):** More flexible use of funds; can finance equipment, working capital, and refinancing in a single loan. Maximum $5M.
+- **7(a):** More flexible use of funds; can finance equipment, operating capital, and refinancing in a single loan. Maximum $5M.
 - **504:** Lower rate; specifically for fixed assets (equipment and real estate). Requires a Certified Development Company (CDC) as an intermediary. Maximum $5.5M on equipment portion.
 
 **Best for:** Established businesses (2+ years, 680+ credit) buying $150,000+ of equipment and able to wait on funding.
@@ -481,27 +493,48 @@ For borrowers with strong credit (680+) who can wait 30–90 days, the [SBA (Sma
 
 For a credit score of 660, Crest Capital at 7% saves ~$31,000 in interest versus National Funding over the loan term. Rates depend on credit score, collateral, and term length.
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> Construction company, $150,000 excavator, 660 credit score, 3 years in business — Crest Capital vs. National Funding</p>
+    <ul>
+      <li>Amount financed: $150,000 (60-month term)</li>
+      <li>Crest Capital at 7% APR: monthly payment ~$2,970; total interest ~$28,200</li>
+      <li>National Funding at 14% APR: monthly payment ~$3,489; total interest ~$59,340</li>
+      <li>Effective APR difference: 7 percentage points — saves ~$31,000 in total interest over the loan term</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
-## Frequently Asked Questions
-
-**What credit score do I need for equipment financing?**
-Most fintech equipment lenders start at 580–620. The best rates (below 8% APR) generally require 650+. For SBA programs, 680+ is typically required. Your personal credit score is checked alongside your business credit for loans under $250,000; for larger amounts, lenders look at both in depth.
-
-**Can I finance used equipment?**
-Yes. Most equipment financing lenders fund used equipment up to 10–15 years old (asset class dependent). Used equipment typically qualifies for 80–90% LTV versus 90–100% for new, and rates on used equipment are 1–3% higher. Some lenders (Taycor, Currency Capital) are more flexible on equipment age than others.
-
-**Is a down payment required?**
-Not always. For equipment with strong resale values (trucks, CNC machines, certain construction equipment), many lenders offer 100% financing. For specialised or rapidly depreciating equipment, 10–20% down is common. Startups are typically required to put 20% down regardless of equipment type.
-
-**How long are equipment financing terms?**
-Terms range from 24 to 84 months, depending on equipment type and lender. Longer terms reduce monthly payments but increase total interest paid. Match the term to the useful life of the equipment — financing a 3-year-useful-life asset on a 7-year term creates negative equity risk.
-
-**Can I pay off equipment financing early?**
-This depends on the lender. Some (particularly bank lenders) charge prepayment penalties of 1–5% of the remaining balance. Fintech lenders are more likely to allow penalty-free prepayment. Confirm the prepayment policy in writing before signing — and run the numbers if you plan to sell the equipment before the loan term ends.
-
-**What happens if I default on an equipment loan?**
-The lender repossesses the financed equipment — this is the primary security for the loan. In most cases, the lender cannot pursue your other business or personal assets (unlike a personal guarantee on an unsecured loan). However, equipment loans often include a personal guarantee clause, which does expose personal assets. Read your agreement carefully for personal guarantee language.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What credit score do I need for equipment financing?</summary>
+    <p>Most fintech equipment lenders start at 580–620. The best rates (below 8% APR) generally require 650+. For SBA programs, 680+ is typically required. Your personal credit score is checked alongside your business credit for loans under $250,000; for larger amounts, lenders look at both in depth.</p>
+  </details>
+  <details>
+    <summary>Can I finance used equipment?</summary>
+    <p>Yes. Most equipment financing lenders fund used equipment up to 10–15 years old (asset class dependent). Used equipment typically qualifies for 80–90% LTV versus 90–100% for new, and rates on used equipment are 1–3% higher. Some lenders (Taycor, Currency Capital) are more flexible on equipment age than others.</p>
+  </details>
+  <details>
+    <summary>Is a down payment required?</summary>
+    <p>Not always. For equipment with strong resale values (trucks, CNC machines, certain construction equipment), many lenders offer 100% financing. For specialised or rapidly depreciating equipment, 10–20% down is common. Startups are typically required to put 20% down regardless of equipment type.</p>
+  </details>
+  <details>
+    <summary>How long are equipment financing terms?</summary>
+    <p>Terms range from 24 to 84 months, depending on equipment type and lender. Longer terms reduce monthly payments but increase total interest paid. Match the term to the useful life of the equipment — financing a 3-year-useful-life asset on a 7-year term creates negative equity risk.</p>
+  </details>
+  <details>
+    <summary>Can I pay off equipment financing early?</summary>
+    <p>This depends on the lender. Some (particularly bank lenders) charge prepayment penalties of 1–5% of the remaining balance. Fintech lenders are more likely to allow penalty-free prepayment. Confirm the prepayment policy in writing before signing — and run the numbers if you plan to sell the equipment before the loan term ends.</p>
+  </details>
+  <details>
+    <summary>What happens if I default on an equipment loan?</summary>
+    <p>The lender repossesses the financed equipment — this is the primary security for the loan. In most cases, the lender cannot pursue your other business or personal assets (unlike a personal guarantee on an unsecured loan). However, equipment loans often include a personal guarantee clause, which does expose personal assets. Read your agreement carefully for personal guarantee language.</p>
+  </details>
+</section>
 
 ---
 

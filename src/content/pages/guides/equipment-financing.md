@@ -10,13 +10,23 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — APR ranges verified via Balboa Capital, Crest Capital, National Funding, and Currency Capital published rate schedules and Nav.com lender database.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Equipment financing rates range from 5.5–18% APR for qualified borrowers — the equipment itself serves as collateral, so no separate business assets need to be pledged.</li>
+      <li>100% financing (zero down payment) is available for equipment with strong resale markets such as semi-trucks and construction machinery.</li>
+      <li>The Section 179 deduction allows businesses to deduct the full purchase price in Year 1 (2026 limit: $1,220,000), substantially reducing net financing cost.</li>
+      <li>Fintech lenders fund in 24 hours to 5 days; SBA 7(a) loans offer lower rates (9.5–12% APR) but take 30–90 days to fund.</li>
+    </ul>
+  </div>
+</div>
 
 ## What Is Equipment Financing?
 
 Equipment financing is a loan or lease used to purchase or access business equipment, where the equipment itself serves as collateral. Rates currently range from 5.5–18% APR (annual percentage rate) for qualified borrowers, with the financed equipment securing the loan — meaning no separate collateral is required. Lenders advance 80–100% of the equipment's purchase price, and repayment terms range from 24 to 84 months. Rate ranges are based on lender-published rates as of May 2026.
 
-Unlike a general business loan, equipment financing is tied to a specific asset. If you default, the lender repossesses the equipment — not your other business or personal assets (in most cases).
+Unlike a general business loan, machinery financing is tied to a specific asset. If you default, the lender repossesses the equipment — not your other business or personal assets (in most cases).
 
 <div class="pros-cons">
   <div class="pros">
@@ -107,6 +117,20 @@ Unlike a general business loan, equipment financing is tied to a specific asset.
   <div class="callout__body"><p>The single largest factor in your rate is credit score — a borrower at 680 typically qualifies for rates 4–8 percentage points lower than a borrower at 580. Equipment type matters too: a semi-truck or CNC machine (established resale market) gets a better rate than specialised single-use equipment with limited resale value.</p></div>
 </div>
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> A landscaping company finances a $120,000 skid steer loader at 8% APR over 60 months through an equipment lender.</p>
+    <ul>
+      <li>Amount financed: $120,000 (100% — no down payment on high-resale equipment)</li>
+      <li>Monthly payment: approximately $2,433</li>
+      <li>Total interest over 60 months: approximately $25,980</li>
+      <li>Effective APR: 8% (annualised, per lender-published rates)</li>
+    </ul>
+    <p>With the Section 179 deduction at a 25% effective tax rate, the ~$30,000 tax saving nearly offsets the entire interest cost — making the effective cost of the machinery financing significantly lower than the stated rate suggests.</p>
+  </div>
+</div>
+
 ---
 
 ## What Equipment Can Be Financed?
@@ -162,7 +186,7 @@ Section 179 of the US tax code allows businesses to deduct the full purchase pri
   <div class="callout__body"><p>For 2026, bonus depreciation is phased down to 20% (reduced from 100% in prior years). Consult a tax professional before making equipment purchase decisions based primarily on depreciation strategy.</p></div>
 </div>
 
-**Why this matters for financing:** If you finance equipment and take the Section 179 deduction, your tax savings in Year 1 can substantially reduce the net cost of the financing. A $100,000 equipment purchase at a 25% effective tax rate generates a ~$25,000 tax saving — offsetting a significant portion of first-year interest costs.
+**Why this matters for financing:** If you finance equipment and take the Section 179 deduction, your tax savings in Year 1 can substantially reduce the net cost of the financing. A $100,000 equipment purchase at a 25% effective tax rate generates a ~$25,000 tax saving — offsetting a significant portion of first-year interest costs. The <a href="https://www.irs.gov/businesses/small-businesses-self-employed/interest-expense" rel="noopener">IRS guidance on interest expense deductions</a> covers the deductibility of interest paid on business equipment loans.
 
 ---
 
@@ -192,31 +216,39 @@ For amounts over $250,000, lenders typically require full financial statements a
 | Credit requirement | 580+ (varies) | 680+ |
 | Best for | Speed + flexibility | Lowest rate on large purchases |
 
-The SBA 7(a) route typically saves 2–5 percentage points in rate but adds 30–60 days to the process. For established businesses with strong credit on purchases over $150,000, the SBA route is worth the wait. For faster access or lower credit scores, equipment financing from a fintech lender is the practical choice.
+The SBA 7(a) route typically saves 2–5 percentage points in rate but adds 30–60 days to the process. For established businesses with strong credit on purchases over $150,000, the SBA route is worth the wait. For faster access or lower credit scores, equipment lending from a fintech lender is the practical choice. The <a href="https://www.sba.gov/funding-programs/loans" rel="noopener">SBA's loan programs page</a> lists all current 7(a) and 504 equipment loan options.
 
 See [Best Equipment Financing Companies of 2026](/compare/best-equipment-financing-companies/) for our ranked lender comparison.
 
 ---
 
-## Frequently Asked Questions
-
-**Can I finance used equipment?**
-Yes. Most lenders finance used equipment up to 10 years old (some extend to 15–20 years for certain asset classes like construction equipment). Advance rates on used equipment are typically 10–20% lower than on new, and some lenders require a formal appraisal. Interest rates on used equipment are generally 1–3% higher than on comparable new equipment.
-
-**Do I need a down payment for equipment financing?**
-Not always. Many lenders offer 100% financing on equipment with strong resale value (trucks, certain construction equipment). Lenders typically require a 10–20% down payment for equipment with limited resale markets or for borrowers with credit below 620.
-
-**What is a fair market value (FMV) lease?**
-In a fair market value lease, you make monthly payments to use the equipment, and at the end of the lease you can purchase the equipment at its then-current fair market value, renew the lease, or return the equipment. FMV leases offer the lowest monthly payments of any equipment financing structure but provide no guaranteed path to ownership.
-
-**Does equipment financing affect my ability to get other loans?**
-Equipment financing appears on your credit report and contributes to your total debt load. It is structured as a secured loan, which creditors view more favourably than unsecured debt. Unlike a blanket lien (common with working capital loans), equipment financing liens are typically filed only against the financed asset — leaving your other assets unencumbered for future financing.
-
-**What happens if I need to sell or trade in financed equipment before the loan is paid off?**
-You can sell financed equipment, but the loan must be paid off at closing. If the sale price covers the outstanding balance, the transaction is straightforward. If the sale price is below the outstanding balance (negative equity), you must cover the difference. For rapidly depreciating equipment (computers, certain vehicles), check your loan balance versus the equipment's likely resale value before committing to a term.
-
-**Can a startup get equipment financing?**
-Yes, though options are more limited. Startups (under 1 year in business) typically qualify for up to $50,000 through specialty startup equipment lenders, often with a 20% down payment and a personal guarantee. Some lenders (Taycor Financial, TimePayment) explicitly serve startups. Rates will be at the higher end of the range (12–20% APR).
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Can I finance used equipment?</summary>
+    <p>Yes. Most lenders finance used equipment up to 10 years old (some extend to 15–20 years for certain asset classes like construction equipment). Advance rates on used equipment are typically 10–20% lower than on new, and some lenders require a formal appraisal. Interest rates on used equipment are generally 1–3% higher than on comparable new equipment.</p>
+  </details>
+  <details>
+    <summary>Do I need a down payment for equipment financing?</summary>
+    <p>Not always. Many lenders offer 100% financing on equipment with strong resale value (trucks, certain construction equipment). Lenders typically require a 10–20% down payment for equipment with limited resale markets or for borrowers with credit below 620.</p>
+  </details>
+  <details>
+    <summary>What is a fair market value (FMV) lease?</summary>
+    <p>In a fair market value lease, you make monthly payments to use the equipment, and at the end of the lease you can purchase the equipment at its then-current fair market value, renew the lease, or return the equipment. FMV leases offer the lowest monthly payments of any equipment financing structure but provide no guaranteed path to ownership.</p>
+  </details>
+  <details>
+    <summary>Does equipment financing affect my ability to get other loans?</summary>
+    <p>Equipment financing appears on your credit report and contributes to your total debt load. It is structured as a secured loan, which creditors view more favourably than unsecured debt. Unlike a blanket lien (common with working capital loans), equipment financing liens are typically filed only against the financed asset — leaving your other assets unencumbered for future financing.</p>
+  </details>
+  <details>
+    <summary>What happens if I need to sell or trade in financed equipment before the loan is paid off?</summary>
+    <p>You can sell financed equipment, but the loan must be paid off at closing. If the sale price covers the outstanding balance, the transaction is straightforward. If the sale price is below the outstanding balance (negative equity), you must cover the difference. For rapidly depreciating equipment (computers, certain vehicles), check your loan balance versus the equipment's likely resale value before committing to a term.</p>
+  </details>
+  <details>
+    <summary>Can a startup get equipment financing?</summary>
+    <p>Yes, though options are more limited. Startups (under 1 year in business) typically qualify for up to $50,000 through specialty startup equipment lenders, often with a 20% down payment and a personal guarantee. Some lenders (Taycor Financial, TimePayment) explicitly serve startups. Rates will be at the higher end of the range (12–20% APR).</p>
+  </details>
+</section>
 
 ---
 
@@ -227,7 +259,7 @@ Yes, though options are more limited. Startups (under 1 year in business) typica
 
 **Who this is for:** Businesses with 1+ year in business, $100,000+ annual revenue, and a need to acquire a specific piece of equipment that has an established resale market. Credit scores as low as 580 can qualify with specialty lenders.
 
-**Who should look elsewhere:** Businesses needing cash for operating expenses (not equipment), companies purchasing highly specialised equipment with no resale market (rates will be at the high end or financing may be unavailable), or businesses with tax liens that complicate lien priority.
+**Who should look elsewhere:** Businesses needing cash for operating capital (not equipment), companies purchasing highly specialised equipment with no resale market (rates will be at the high end or financing may be unavailable), or businesses with tax liens that complicate lien priority.
 
 For regulatory context on small-business equipment financing agreements, the [Federal Reserve's Small Business Credit Survey](https://www.newyorkfed.org/smallbusiness/small-business-credit-survey) tracks equipment financing approval rates and terms across lender categories annually.
 

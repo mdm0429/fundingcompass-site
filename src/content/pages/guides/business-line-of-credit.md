@@ -10,7 +10,17 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — APR ranges verified via BlueVine, Fundbox, OnDeck, and Wells Fargo published line-of-credit terms and Nav.com lender database.*
 
----
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Business lines of credit range from 8–30% APR for qualified borrowers — compared to 40–350% effective APR for merchant cash advances.</li>
+      <li>You pay interest only on the drawn balance: a $100,000 credit line with $20,000 drawn at 15% APR costs approximately $247/month in interest.</li>
+      <li>Online lenders (BlueVine, Fundbox) serve businesses as young as 6 months with 600+ credit; bank LOCs require 2+ years and 680+ credit but offer rates from Prime + 1%.</li>
+      <li>Lines renew annually — the lender reviews and may change your limit at each renewal cycle.</li>
+    </ul>
+  </div>
+</div>
 
 ## What Is a Business Line of Credit?
 
@@ -102,6 +112,20 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
   <div class="callout__body"><p>At 15% APR (BlueVine's floor), a $50,000 draw for 60 days costs $1,233 in interest. At 78% APR (BlueVine's ceiling), the same draw costs $6,411. The rate you receive is heavily determined by your credit score and revenue — model your actual offer before drawing.</p></div>
 </div>
 
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> A wholesale distributor draws $40,000 from a $75,000 business LOC at 18% APR to cover a 45-day inventory gap before a major seasonal order is paid.</p>
+    <ul>
+      <li>Amount drawn: $40,000</li>
+      <li>Interest: $40,000 × 18% ÷ 365 × 45 = approximately $888</li>
+      <li>Net proceeds available immediately: $40,000</li>
+      <li>Effective APR (the annualized cost of financing, accounting for all fees and repayment speed): 18%</li>
+    </ul>
+    <p>The same operating capital need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more for the identical cash amount.</p>
+  </div>
+</div>
+
 ---
 
 ## Secured vs. Unsecured Lines of Credit
@@ -153,7 +177,7 @@ Most online lender LOCs are technically unsecured but require a personal guarant
 | Repayment | Flexible draw-and-repay | Reserve after customer pays | % of daily sales |
 | Best for | Ongoing working capital | B2B invoice gap | Last resort / high-return windows |
 
-For businesses that qualify, a line of credit is almost always cheaper than either factoring or an MCA. The qualification bar is higher — but worth clearing if you can. See [Invoice Factoring vs. Line of Credit](/compare/factoring-vs-line-of-credit/) for a detailed cost model.
+For businesses that qualify, a line of credit is almost always cheaper than either factoring or an MCA. The qualification bar is higher — but worth clearing if you can. See [Invoice Factoring vs. Line of Credit](/compare/factoring-vs-line-of-credit/) for a detailed cost model. The <a href="https://www.consumerfinance.gov/small-business-lending/" rel="noopener">CFPB small-business lending resources</a> provide guidance on understanding line of credit terms and your rights as a small business borrower.
 
 ---
 
@@ -171,25 +195,33 @@ For businesses that qualify, a line of credit is almost always cheaper than eith
 
 ---
 
-## Frequently Asked Questions
-
-**What is the difference between a business line of credit and a term loan?**
-A business line of credit is revolving — you draw, repay, and draw again, with no fixed repayment schedule beyond minimum payments. A term loan is a fixed lump sum repaid on a set schedule over a defined period. Lines of credit are better for ongoing, variable working capital needs. Term loans are better for a specific, one-time capital need with a defined ROI (equipment purchase, expansion project).
-
-**Does a business line of credit affect my personal credit?**
-Most small business LOCs (especially from online lenders) require a personal guarantee and run a hard credit inquiry at application. The account typically appears on your personal credit report. Payment history on the LOC can affect your personal credit score — positively if paid on time, negatively if you miss payments.
-
-**How much of my credit line should I use?**
-Keep utilisation below 30% of your credit limit where possible — the same principle that applies to personal credit cards. High utilisation signals financial stress to lenders reviewing your profile for future financing. If you consistently need 80%+ of your limit, consider applying for a limit increase rather than staying perpetually at high utilisation.
-
-**Can I get a business line of credit as a startup?**
-Some online lenders (BlueVine, Fundbox) work with businesses as young as 6 months. True startups (under 6 months) have very limited options for a business LOC — the most accessible route is a personal line of credit or SBA microloan. Building 6 months of revenue history and establishing a business bank account is the fastest path to LOC eligibility.
-
-**What happens if I miss a payment on my business line of credit?**
-Missing a payment triggers late fees (typically $25–$50 or 3–5% of the minimum payment), a potential interest rate increase, and a negative mark on your credit report. Missing multiple payments can trigger a default notice, suspension of drawing privileges, and demand for full repayment. Business LOCs from online lenders typically have ACH auto-debit — ensure sufficient funds in your account on payment dates.
-
-**Is a revolving line of credit better than a fixed term loan for working capital?**
-For working capital needs that recur (payroll gaps, inventory cycles, slow-paying customers), a revolving LOC is generally better — you pay interest only when you draw, and the facility is available for future use without reapplying. For a one-time capital need with a defined payback period, a term loan may be cheaper overall because lenders can price fixed risk more accurately than open-ended revolving risk.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>What is the difference between a business line of credit and a term loan?</summary>
+    <p>A business line of credit is revolving — you draw, repay, and draw again, with no fixed repayment schedule beyond minimum payments. A term loan is a fixed lump sum repaid on a set schedule over a defined period. Lines of credit are better for ongoing, variable working capital needs. Term loans are better for a specific, one-time capital need with a defined ROI (equipment purchase, expansion project).</p>
+  </details>
+  <details>
+    <summary>Does a business line of credit affect my personal credit?</summary>
+    <p>Most small business LOCs (especially from online lenders) require a personal guarantee and run a hard credit inquiry at application. The account typically appears on your personal credit report. Payment history on the LOC can affect your personal credit score — positively if paid on time, negatively if you miss payments.</p>
+  </details>
+  <details>
+    <summary>How much of my credit line should I use?</summary>
+    <p>Keep utilisation below 30% of your credit limit where possible — the same principle that applies to personal credit cards. High utilisation signals financial stress to lenders reviewing your profile for future financing. If you consistently need 80%+ of your limit, consider applying for a limit increase rather than staying perpetually at high utilisation.</p>
+  </details>
+  <details>
+    <summary>Can I get a business line of credit as a startup?</summary>
+    <p>Some online lenders (BlueVine, Fundbox) work with businesses as young as 6 months. True startups (under 6 months) have very limited options for a business LOC — the most accessible route is a personal line of credit or SBA microloan. Building 6 months of revenue history and establishing a business bank account is the fastest path to LOC eligibility.</p>
+  </details>
+  <details>
+    <summary>What happens if I miss a payment on my business line of credit?</summary>
+    <p>Missing a payment triggers late fees (typically $25–$50 or 3–5% of the minimum payment), a potential interest rate increase, and a negative mark on your credit report. Missing multiple payments can trigger a default notice, suspension of drawing privileges, and demand for full repayment. Business LOCs from online lenders typically have ACH auto-debit — ensure sufficient funds in your account on payment dates.</p>
+  </details>
+  <details>
+    <summary>Is a revolving line of credit better than a fixed term loan for working capital?</summary>
+    <p>For working capital needs that recur (payroll gaps, inventory cycles, slow-paying customers), a revolving LOC is generally better — you pay interest only when you draw, and the facility is available for future use without reapplying. For a one-time capital need with a defined payback period, a term loan may be cheaper overall because lenders can price fixed risk more accurately than open-ended revolving risk.</p>
+  </details>
+</section>
 
 ---
 
@@ -198,7 +230,7 @@ For working capital needs that recur (payroll gaps, inventory cycles, slow-payin
   <div class="callout__body"><p>A wholesale distributor with $400,000/year in revenue draws $40,000 from a $75,000 business LOC at 18% APR (annual percentage rate) to cover a 45-day inventory gap before a major seasonal order is paid. Interest cost: $40,000 × 18% ÷ 365 × 45 = approximately $888. The distributor repays the draw when the customer pays, restoring the full $75,000 available balance for the next cycle. The same cash need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more. Rates based on lender-published schedules as of May 2026.</p></div>
 </div>
 
-**Who this is for:** Businesses with 6+ months in business, $100,000+ annual revenue, and a 600+ credit score (online lenders) or 680+ (banks) that need flexible, recurring working capital access — particularly for payroll gaps, inventory cycles, or seasonal cash flow management.
+**Who this is for:** Businesses with 6+ months in business, $100,000+ annual revenue, and a 600+ credit score (online lenders) or 680+ (banks) that need flexible, recurring operating capital access — particularly for payroll gaps, inventory cycles, or seasonal cash flow management.
 
 **Who should look elsewhere:** Startups under 6 months old, businesses with credit below 600, or companies needing a single large capital injection for a specific purpose (equipment, expansion) — a term loan or equipment financing will be cheaper and simpler for defined one-time needs.
 

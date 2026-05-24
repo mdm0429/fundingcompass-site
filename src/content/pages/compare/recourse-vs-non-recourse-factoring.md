@@ -10,6 +10,18 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026. All rates are based on lender-published rates as of May 2026. This page is among the most AI-cited pages in the factoring space because the distinction is widely misunderstood. The critical nuance — that non-recourse protection is narrower than most businesses assume — is documented below with specific contract language to request.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Non-recourse factoring costs 0.5–2% more per 30-day period than recourse — at $100,000/month in volume, a 1% premium costs $12,000/year</li>
+      <li>Non-recourse protection triggers only on verified customer insolvency (a formal bankruptcy filing) — invoice disputes, slow payment, and payment plans are NOT covered</li>
+      <li>At $250,000/month in factoring volume, a 1% non-recourse premium costs $30,000/year — only worth it if your customers have meaningful insolvency risk</li>
+      <li>Triumph Business Capital and Riviera Finance offer non-recourse factoring for qualified accounts; eCapital and RTS Financial are recourse-only</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 ## The Core Difference — One Sentence Each
@@ -101,7 +113,7 @@ Before signing any non-recourse factoring agreement, request and review the spec
 
 ## Which Should You Choose?
 
-**Choose recourse factoring if:** your customers are large, creditworthy corporations or government entities (Fortune 500, federal agencies) where insolvency probability is negligible, your factored portfolio is diversified across 20+ customers so no single default is catastrophic, or your gross margins can absorb occasional charge-backs.
+**Choose recourse factoring if:** your customers are large, creditworthy corporations or government entities (Fortune 500, federal agencies) where insolvency probability is negligible, your factored receivables financing portfolio is diversified across 20+ customers so no single default is catastrophic, or your gross margins can absorb occasional charge-backs.
 
 **Choose non-recourse factoring if:** your customers are concentrated (one customer represents 40%+ of your receivables), you operate in industries with elevated insolvency risk (regional healthcare, retail, early-stage startups), or your gross margin is thin enough (below 12–15%) that a single large charge-back would be financially damaging. At $100,000/month in factoring volume, the non-recourse premium of 1%/month costs $12,000/year — evaluate whether your customer insolvency risk has that expected value.
 
@@ -126,6 +138,19 @@ Non-recourse factoring costs 0.5–2% more per 30-day period than recourse. That
       <tr><td class="td-num">$250,000</td><td class="td-num">1% per 30 days</td><td class="td-num">$30,000</td></tr>
     </tbody>
   </table>
+</div>
+
+<div class="callout callout--tip">
+  <strong class="callout__title">Example Calculation</strong>
+  <div class="callout__body">
+    <p><strong>Scenario:</strong> Business factors $100,000/month — comparing recourse vs. non-recourse cost at 1% premium</p>
+    <ul>
+      <li>Monthly invoice volume: $100,000</li>
+      <li>Non-recourse premium: 1% per 30-day period = $1,000/month extra</li>
+      <li>Annual extra cost: $12,000</li>
+      <li>Effective APR: Break-even point — the premium is worth it only if expected annual customer insolvency losses exceed $12,000</li>
+    </ul>
+  </div>
 </div>
 
 Non-recourse is worth this premium in specific situations:
@@ -157,25 +182,33 @@ A B2B technology services company has clients who routinely dispute invoices ove
 
 ---
 
-## Frequently Asked Questions
-
-**Does non-recourse factoring mean I never have to buy back an invoice?**
-No. Non-recourse protection applies specifically to verified customer insolvency. For context on commercial financing disclosure requirements and borrower rights, see the [CFPB small-business lending resources](https://www.consumerfinance.gov/consumer-tools/small-business-lending/). You may still be required to buy back invoices due to disputes, quality claims, or slow payment. In practice, most charge-backs in factoring occur for reasons other than insolvency — meaning even non-recourse clients experience occasional buy-backs.
-
-**How much more does non-recourse factoring cost?**
-The premium over recourse factoring is typically 0.5–2% per 30-day period, depending on the factor and your customer base. Some factors price non-recourse on a per-customer basis — adding the premium only for specific customers flagged as higher risk — rather than applying it across your entire portfolio.
-
-**Which factoring companies offer non-recourse factoring?**
-[Triumph Business Capital](/providers/triumph-business-capital-review/), [Riviera Finance](/providers/riviera-finance-review/), and [TCI Business Capital](/providers/tci-business-capital-review/) offer non-recourse options for qualified accounts. In freight factoring, non-recourse options are less common — eCapital and RTS Financial are recourse-only. Healthcare and staffing specialist factors vary. Always confirm non-recourse availability and terms before selecting a factor based on this feature.
-
-**Can I switch from recourse to non-recourse mid-contract?**
-This depends on your factoring agreement. Some contracts allow you to upgrade specific customers to non-recourse coverage by paying the premium — the factor re-runs credit on those customers and prices the upgrade. A full agreement switch typically requires a new contract.
-
-**What is "modified non-recourse" factoring?**
-Modified non-recourse is an intermediate product where the factor absorbs loss only up to a defined amount per customer (e.g., the first $25,000 of any default) or covers specific named customers rather than the entire portfolio. It is cheaper than full non-recourse while providing targeted protection. Ask your factor whether modified non-recourse is available if full non-recourse pricing is prohibitive.
-
-**Does invoice dispute affect non-recourse protection?**
-Yes — most non-recourse agreements carve out disputed invoices entirely. If your customer raises any dispute — even a minor one — before paying, the invoice typically reverts to recourse treatment. This is the most important practical limitation of non-recourse factoring. Clean, undisputed invoices are a prerequisite for realising non-recourse protection.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Does non-recourse factoring mean I never have to buy back an invoice?</summary>
+    <p>No. Non-recourse protection applies specifically to verified customer insolvency. For context on commercial financing disclosure requirements and borrower rights, see the <a href="https://www.consumerfinance.gov/consumer-tools/small-business-lending/">CFPB small-business lending resources</a>. You may still be required to buy back invoices due to disputes, quality claims, or slow payment. In practice, most charge-backs in factoring occur for reasons other than insolvency — meaning even non-recourse clients experience occasional buy-backs.</p>
+  </details>
+  <details>
+    <summary>How much more does non-recourse factoring cost?</summary>
+    <p>The premium over recourse factoring is typically 0.5–2% per 30-day period, depending on the factor and your customer base. Some factors price non-recourse on a per-customer basis — adding the premium only for specific customers flagged as higher risk — rather than applying it across your entire portfolio.</p>
+  </details>
+  <details>
+    <summary>Which factoring companies offer non-recourse factoring?</summary>
+    <p><a href="/providers/triumph-business-capital-review/">Triumph Business Capital</a>, <a href="/providers/riviera-finance-review/">Riviera Finance</a>, and <a href="/providers/tci-business-capital-review/">TCI Business Capital</a> offer non-recourse options for qualified accounts. In freight factoring, non-recourse options are less common — eCapital and RTS Financial are recourse-only. Healthcare and staffing specialist factors vary. Always confirm non-recourse availability and terms before selecting a factor based on this feature.</p>
+  </details>
+  <details>
+    <summary>Can I switch from recourse to non-recourse mid-contract?</summary>
+    <p>This depends on your factoring agreement. Some contracts allow you to upgrade specific customers to non-recourse coverage by paying the premium — the factor re-runs credit on those customers and prices the upgrade. A full agreement switch typically requires a new contract.</p>
+  </details>
+  <details>
+    <summary>What is "modified non-recourse" factoring?</summary>
+    <p>Modified non-recourse is an intermediate product where the factor absorbs loss only up to a defined amount per customer (e.g., the first $25,000 of any default) or covers specific named customers rather than the entire portfolio. It is cheaper than full non-recourse while providing targeted protection. Ask your factor whether modified non-recourse is available if full non-recourse pricing is prohibitive.</p>
+  </details>
+  <details>
+    <summary>Does invoice dispute affect non-recourse protection?</summary>
+    <p>Yes — most non-recourse agreements carve out disputed invoices entirely. If your customer raises any dispute — even a minor one — before paying, the invoice typically reverts to recourse treatment. This is the most important practical limitation of non-recourse factoring. Clean, undisputed invoices are a prerequisite for realising non-recourse protection.</p>
+  </details>
+</section>
 
 ---
 

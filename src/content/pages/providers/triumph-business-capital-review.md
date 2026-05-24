@@ -10,6 +10,18 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Triumph Business Capital published terms and industry sources. FundingCompass has no current affiliate arrangement with Triumph Business Capital. This review reflects our independent assessment.*
 
+<div class="callout callout--info">
+  <strong class="callout__title">Key Takeaways</strong>
+  <div class="callout__body">
+    <ul>
+      <li>Best for trucking owner-operators and small fleets (1–50 trucks) whose brokers are on the TriumphPay network — same-day funding without waiting for broker confirmation</li>
+      <li>Advance rate up to 100% of invoice value (minus fee) — the highest published rate in trucking factoring, vs. the 90–97% industry standard</li>
+      <li>TriumphPay network covers 1,000+ freight brokers, enabling automated verified same-day funding — a genuine operational advantage, not just marketing language</li>
+      <li>Non-recourse fees run 0.5–1% higher per invoice than recourse; overall fee structure is not published — you must apply to see your specific rate</li>
+    </ul>
+  </div>
+</div>
+
 ---
 
 <div class="cta-unit">
@@ -64,7 +76,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 ## Summary Verdict
 
-Triumph Business Capital is the dominant invoice factoring provider in the trucking and freight industry. It is not a generalist factoring company — it is purpose-built for transportation: it operates a fuel card program, provides load board integrations, and has built the TriumphPay network, which connects factors with freight brokers for automated payment verification and faster funding. For trucking owner-operators and small fleets, Triumph is the most widely used factoring option and the one that brokers most commonly recognise.
+Triumph Business Capital is the dominant receivables financing provider in the trucking and freight industry. It is not a generalist factoring company — it is purpose-built for transportation: it operates a fuel card program, provides load board integrations, and has built the TriumphPay network, which connects factors with freight brokers for automated payment verification and faster funding. For trucking owner-operators and small fleets, Triumph is the most widely used factoring option and the one that brokers most commonly recognise.
 
 **Best for:** Trucking owner-operators and small fleets (1–50 trucks) that factor freight invoices and want same-day funding, a fuel card, and broker integrations through TriumphPay.
 
@@ -146,7 +158,7 @@ Triumph does not publish a single fixed fee. Fees depend on:
 - Gross invoices: $25,000
 - Triumph fee (3%): $750
 - Net received: $24,250
-- Annualised cost: $9,000 (approximately 36% effective APR vs. waiting 30–45 days)
+- Annualised cost: $9,000 (approximately 36% effective APR (the annualized cost of financing, accounting for all fees and repayment speed) vs. waiting 30–45 days)
 
 The effective APR (annual percentage rate) comparison is relevant when evaluating factoring against a line of credit — but for truckers without access to bank financing, factoring's same-day cash flow benefit often outweighs the cost. For a plain-language explanation of what lenders must disclose about costs and recourse terms, see the <a href="https://www.ftc.gov/business-guidance/credit-finance" target="_blank" rel="noopener">FTC's small-business credit and financing guidance</a>.
 
@@ -214,7 +226,7 @@ For a full breakdown of the trade-offs: [Recourse vs. Non-Recourse Factoring](/c
 
 **For trucking businesses with stronger financials:**
 - **Business line of credit:** If your business has 680+ credit and 2+ years of history, a bank LOC at 9–15% APR is significantly cheaper than factoring. Use it for payroll gaps and fuel while waiting on broker payments.
-- **Truist, Comerica, or commercial bank lending:** Banks with dedicated transportation divisions offer equipment financing and working capital loans at competitive rates for established carriers.
+- **Truist, Comerica, or commercial bank lending:** Banks with dedicated transportation divisions offer equipment financing and operating capital loans at competitive rates for established carriers.
 
 **Other trucking-specific factoring providers:**
 - **RTS Financial:** Strong alternative, reviewed separately. Serves refrigerated/reefer loads well. See [RTS Financial Review](/providers/rts-financial-review/).
@@ -223,22 +235,29 @@ For a full breakdown of the trade-offs: [Recourse vs. Non-Recourse Factoring](/c
 
 ---
 
-## Frequently Asked Questions
-
-**Does Triumph factor spot loads or only contract freight?**
-Triumph factors both spot and contract freight invoices. You do not need to be on a dedicated lane or contract to use Triumph's factoring. Spot load factoring is standard.
-
-**Can I factor with Triumph and still work with non-TriumphPay brokers?**
-Yes. The TriumphPay network enhances speed for participating brokers, but Triumph factors invoices from all creditworthy brokers — TriumphPay or not. Non-TriumphPay invoices fund in 24–48 hours rather than same-day.
-
-**What is the minimum credit score to factor with Triumph?**
-Triumph's approval is primarily based on the creditworthiness of your customers (the brokers and shippers who owe you money), not your personal credit score. Owner-operators with poor personal credit can often still qualify if they work with established, creditworthy brokers. Triumph runs credit checks on your customers, not primarily on you.
-
-**What happens if I want to switch factoring companies?**
-If you're on a month-to-month contract, you can leave at any time. If you're on a 12-month contract, early termination fees apply. When switching, your new factor must receive a buyout of any outstanding invoices from Triumph — this is standard in the industry. Notify both companies of the transition timing to avoid funding gaps.
-
-**Does Triumph factor international freight?**
-Triumph primarily serves domestic (US) and Canada/Mexico cross-border freight. It does not factor international ocean or air freight invoices. For international factoring needs, look at trade finance or export factoring specialists.
+<section class="faq-section" aria-label="Frequently Asked Questions">
+  <h2>Frequently Asked Questions</h2>
+  <details>
+    <summary>Does Triumph factor spot loads or only contract freight?</summary>
+    <p>Triumph factors both spot and contract freight invoices. You do not need to be on a dedicated lane or contract to use Triumph's factoring. Spot load factoring is standard.</p>
+  </details>
+  <details>
+    <summary>Can I factor with Triumph and still work with non-TriumphPay brokers?</summary>
+    <p>Yes. The TriumphPay network enhances speed for participating brokers, but Triumph factors invoices from all creditworthy brokers — TriumphPay or not. Non-TriumphPay invoices fund in 24–48 hours rather than same-day.</p>
+  </details>
+  <details>
+    <summary>What is the minimum credit score to factor with Triumph?</summary>
+    <p>Triumph's approval is primarily based on the creditworthiness of your customers (the brokers and shippers who owe you money), not your personal credit score. Owner-operators with poor personal credit can often still qualify if they work with established, creditworthy brokers. Triumph runs credit checks on your customers, not primarily on you.</p>
+  </details>
+  <details>
+    <summary>What happens if I want to switch factoring companies?</summary>
+    <p>If you're on a month-to-month contract, you can leave at any time. If you're on a 12-month contract, early termination fees apply. When switching, your new factor must receive a buyout of any outstanding invoices from Triumph — this is standard in the industry. Notify both companies of the transition timing to avoid funding gaps.</p>
+  </details>
+  <details>
+    <summary>Does Triumph factor international freight?</summary>
+    <p>Triumph primarily serves domestic (US) and Canada/Mexico cross-border freight. It does not factor international ocean or air freight invoices. For international factoring needs, look at trade finance or export factoring specialists.</p>
+  </details>
+</section>
 
 ---
 
