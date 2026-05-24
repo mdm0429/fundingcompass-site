@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via OTR Solutions published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with OTR Solutions. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -227,23 +227,23 @@ OTR Solutions and RTS Financial are the most similar — both offer same-day fac
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does OTR Solutions work with new carriers?</summary>
     <p>Yes. OTR Solutions explicitly accepts new carriers with no minimum authority age. You need an active USDOT number and MC authority, but there is no waiting period after obtaining these. This makes OTR Solutions one of the most accessible freight factoring options for carriers in their first year of operation.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the OTR Solutions fuel card?</summary>
     <p>OTR Solutions provides a proprietary fuel card accepted at major truck stop networks including Pilot Flying J, Love's, TA, and other locations. The card provides per-gallon discounts relative to retail pump pricing. Discounts vary by location and volume. The fuel card is included with an active OTR Solutions factoring account.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is OTR Solutions recourse or non-recourse?</summary>
     <p>OTR Solutions primarily operates on a recourse basis, meaning you remain liable if a broker or shipper does not pay an invoice. Non-recourse factoring may be available for specific account configurations — confirm at application. In practice, most freight factoring is recourse because broker non-payment is usually the carrier's responsibility (dispute over load, service failure) rather than broker insolvency.</p>
   </details>
-  <details>
+  <details open>
     <summary>What documents do I need to submit an invoice to OTR Solutions?</summary>
     <p>For each load, you need the signed bill of lading (BOL) and the rate confirmation from the broker. Some invoices may require proof of delivery (POD). OTR Solutions collects these via its online portal or mobile app after load delivery.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does OTR Solutions collect from brokers who don't pay?</summary>
     <p>OTR Solutions has a collections team that follows up directly with brokers for payment. Because most brokers work with multiple factoring companies, they have strong incentives to pay — non-payment can result in being placed on a no-factor list that limits their access to carriers. If a broker becomes insolvent, recourse factoring means OTR Solutions can require you to buy back the invoice (which is why non-recourse is worth confirming at application for your highest-risk broker relationships).</p>
   </details>

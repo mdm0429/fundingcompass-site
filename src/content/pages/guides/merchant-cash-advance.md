@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Factor rate and holdback data verified via Rapid Finance, Libertas Funding, and National Funding published terms. APR calculations use standard annualisation methodology.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -24,7 +24,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is a Merchant Cash Advance?
 
-A MCA (merchant cash advance) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs (annual percentage rates) typically range from 40–350%, making them among the most expensive forms of business financing available. Rate ranges are based on lender-published terms as of May 2026.
+A MCA (merchant cash advance) is a lump-sum payment made to a business in exchange for a percentage of its future sales, collected daily or weekly until the total repayment amount is reached. MCAs are not loans — they are the purchase of future receivables. Effective APRs (annual percentage rates) typically range from 40–350%, making them among the most expensive forms of business financing available. Rate ranges are based on lender-published terms as of May 2026. The Consumer Financial Protection Bureau publishes guidance on [understanding merchant cash advances](https://www.consumerfinance.gov/small-business-lending/) as part of its small business lending resources — worth reading before you sign anything.
 
 This guide is written to help you understand exactly what you are buying before you sign. MCAs are sometimes the right choice. More often, there is a cheaper option.
 
@@ -225,27 +225,27 @@ Before signing an MCA, run through this checklist:
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is a merchant cash advance a loan?</summary>
     <p>No. Legally, an MCA is a purchase of future receivables, not a loan. This distinction matters because it means MCA providers are not subject to the same usury laws and consumer lending regulations as banks and licensed lenders. MCAs do not have an interest rate — they have a factor rate. Several states (including California and New York) have passed laws requiring MCA providers to disclose financing costs in APR-equivalent terms, but federal lending protections (Truth in Lending Act) do not apply.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get an MCA with bad credit?</summary>
     <p>Yes. MCA providers focus primarily on your daily sales volume and consistency — credit scores as low as 500 (or lower) can qualify. Some providers do not run a credit check at all. This accessibility is one reason MCAs are used by businesses that cannot qualify for other products, and one reason MCA pricing reflects the elevated risk of that borrower population.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is "stacking" and why is it dangerous?</summary>
     <p>MCA stacking refers to taking a second (or third) cash advance while the first is still outstanding — typically by applying to a different provider. Each advance adds a new daily holdback on top of existing ones. If your total holdback across all advances exceeds your daily sales capacity, you cannot cover business expenses and enter a cash flow spiral. Most MCA agreements prohibit stacking without lender consent, and violation can trigger default clauses.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does repaying an MCA early save me money?</summary>
     <p>Generally no. Because you owe a fixed total (advance × factor rate), early repayment does not reduce the principal owed — you simply pay the full amount faster. A $50,000 advance at 1.35 factor rate means you owe $67,500 whether you repay in 30 days or 150 days. Some providers offer early settlement discounts — always ask before signing whether an early payment discount is available.</p>
   </details>
-  <details>
+  <details open>
     <summary>Will an MCA affect my credit score?</summary>
     <p>Most MCA providers do not report to business credit bureaus (Dun & Bradstreet, Experian Business), so timely repayment generally does not help your credit. However, a default may result in collections activity that does appear on your credit report. MCA providers may also place a UCC-1 lien on your business assets, which can be visible to other lenders.</p>
   </details>
-  <details>
+  <details open>
     <summary>How quickly can I get an MCA?</summary>
     <p>Most MCA providers approve and fund in 24–48 business hours with minimal documentation: typically 3–6 months of business bank statements or access to your payment processor data. Some providers fund same-day for returning customers. The speed advantage is real — but should be weighed against the cost.</p>
   </details>

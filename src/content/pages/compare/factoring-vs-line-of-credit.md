@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via BlueVine, Kabbage (now American Express Business Blueprint), Fundbox, and Wells Fargo published line-of-credit terms.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -201,23 +201,23 @@ Yes — but with important caveats. Many businesses use a line of credit for gen
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Which is faster to set up — factoring or a line of credit?</summary>
     <p>Factoring is faster. Initial account setup with a factor takes 3–7 business days; subsequent invoice funding takes 24–48 hours. A business line of credit from an online lender takes 3–7 days to approve; from a bank, 2–6 weeks. Once both are established, factoring requires submitting each invoice while a LOC allows immediate draws — so the LOC wins on ongoing convenience.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does invoice factoring hurt my credit score?</summary>
     <p>Factoring itself does not appear on your credit report and does not affect your credit score. However, many factors file a UCC-1 (a public lien notice filed when a lender takes a security interest in your assets) on your accounts receivable, which is visible to other lenders and may affect your ability to obtain a LOC with a blanket lien. A business LOC always appears on your business credit report and contributes to your debt load. For borrower rights information, see the <a href="https://www.consumerfinance.gov/consumer-tools/small-business-lending/">CFPB small-business lending resources</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get a line of credit if I already use factoring?</summary>
     <p>Potentially, but the UCC-1 lien your factor holds on your receivables complicates this. Most LOC lenders require first-priority security interest in your assets. You would need your factor to subordinate their lien (agree to take second priority), which factors rarely agree to. In practice, businesses typically choose one or the other rather than running both simultaneously.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens to my line of credit if revenue drops?</summary>
     <p>A traditional business line of credit has a fixed limit that does not automatically decrease with revenue (though the bank may reduce or revoke it at renewal). Factoring advances automatically decrease if your invoice volume drops — which is a natural hedge. For highly seasonal businesses, factoring's variable funding is sometimes preferable to a fixed LOC minimum that generates fees in slow months.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is a line of credit better than factoring for established businesses?</summary>
     <p>For established businesses with 650+ credit and 2+ years of history, a line of credit is almost always cheaper. The exception is businesses with large, concentrated receivables that exceed their LOC limit — factoring can provide incremental liquidity beyond what the LOC supports. Many mature B2B businesses use a small LOC for general working capital and selectively factor unusually large invoices.</p>
   </details>

@@ -1,11 +1,26 @@
 ---
-// Renders prose markdown HTML with table wrapping for horizontal scroll
+// Renders prose markdown HTML with semantic upgrades for GEO crawlers
 interface Props {
   html: string;
 }
 const { html } = Astro.props;
 
-// Wrap every <table> in a .table-wrap div for horizontal scroll on mobile
-const wrapped = html.replace(/<table/g, '<div class="table-wrap"><table').replace(/<\/table>/g, '</table></div>');
+// 1. Wrap every <table> in a .table-wrap div for horizontal scroll on mobile
+let processed = html
+  .replace(/<table/g, '<div class="table-wrap"><table')
+  .replace(/<\/table>/g, '</table></div>');
+
+// 2. Add `open` attribute to all <details> elements so FAQ answers are
+//    visible in the DOM (not collapsed). GEO crawlers do not expand
+//    closed <details> — the answer text is invisible to them without this.
+processed = processed.replace(/<details>/g, '<details open>');
+
+// 3. Upgrade Key Takeaways callout blocks with ARIA role="note" and
+//    aria-label so GEO crawlers can identify them as summary blocks.
+//    Matches the specific pattern used in all content files.
+processed = processed.replace(
+  /(<div class="callout callout--info">)(\s*<strong class="callout__title">Key Takeaways<\/strong>)/g,
+  '<div class="callout callout--info" role="note" aria-label="Key takeaways">$2'
+);
 ---
-<div class="prose" set:html={wrapped} />
+<div class="prose" set:html={processed} />

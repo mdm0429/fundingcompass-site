@@ -10,7 +10,7 @@ schema: ["BreadcrumbList"]
 
 *Independent guides to specialty B2B financing. Rates verified at minimum every 90 days — every table shows its last verification date.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>

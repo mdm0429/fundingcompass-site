@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on credit profile, farm size, and equipment type.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -194,23 +194,23 @@ Used farm equipment is a substantial portion of agricultural equipment transacti
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What credit score do I need for farm equipment financing?</summary>
     <p>Most commercial lenders require 650+ for established farm operations. Manufacturer financing programs (John Deere Financial, CNH Capital) may work with 620+ for strong operations. FSA direct loans are available to operations that have been declined by commercial lenders — credit score is less of a strict cutoff.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get financing for a used tractor bought from a private seller?</summary>
     <p>Yes, though it's more complex than dealer financing. You'll need to provide documentation of the sale (bill of sale, title), and the lender will typically need to verify the equipment's condition and value. Some lenders decline private-party transactions above certain amounts. Manufacturer financing is only available for dealer purchases.</p>
   </details>
-  <details>
+  <details open>
     <summary>How do seasonal payment schedules work?</summary>
     <p>Seasonal payment structures allow you to make larger payments at harvest time (when you have cash from selling crops) and smaller or no payments during the growing season (when cash flow is low). For example, an annual payment structure might require one payment per year in November after corn and soybean harvest. These structures are most commonly available through manufacturer financing programs and Farm Credit lenders.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the Farm Credit System?</summary>
     <p>The Farm Credit System is a network of federally chartered cooperative lending institutions that provide credit to agricultural businesses and rural communities. It is not a government agency — it is a government-sponsored enterprise (GSE), similar in structure to Fannie Mae and Freddie Mac in the housing market. Farm Credit lenders are owned by their borrowers (cooperative structure) and may return earnings to borrowers as patronage dividends.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is USDA FSA financing right for my farm?</summary>
     <p>FSA financing is designed for farmers who cannot obtain adequate financing through commercial channels — beginning farmers, small farms, operations recovering from hardship, and minority or veteran farmers. If you can obtain commercial financing at reasonable rates, that may be faster and simpler. If you've been declined by commercial lenders or your farm qualifies as a beginning or underserved operation, FSA programs are worth exploring.</p>
   </details>

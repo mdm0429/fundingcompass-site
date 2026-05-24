@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Credibly's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with Credibly. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -224,23 +224,23 @@ If you've ruled out these alternatives, Credibly is a reasonable MCA provider gi
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does Credibly check credit?</summary>
     <p>Yes. A soft pull is used for pre-qualification — this does not affect your credit score. A hard pull occurs only if you accept an offer. The minimum score is 500 for MCAs and 560 for working capital loans.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can Credibly fund the same day?</summary>
     <p>Credibly advertises 24–48 hour funding. Same-day is not standard — if same-day funding is essential, OnDeck's same-day capability (for established accounts) may be preferable.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if my card sales drop and I can't meet the holdback?</summary>
     <p>The holdback percentage is fixed, but the actual dollar amount collected scales with your card sales — if sales drop, less is collected per day. Credibly's MCA is not a fixed daily ACH. However, if sales drop severely for an extended period and Credibly determines the advance cannot be collected in a reasonable timeframe, they may contact you to restructure or take collection action.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I pay off a Credibly MCA early?</summary>
     <p>MCAs are technically purchases of future receivables, not loans, so "early payoff" works differently. Contact Credibly directly to ask about any prepayment discount — some providers offer a discount on the total owed amount for early settlement, but this is not universally available and is not published in standard terms.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Credibly stack with other MCAs?</summary>
     <p>Most MCA agreements — including Credibly's — prohibit taking additional MCAs without the provider's consent. Violating this is a default event. If you are considering stacking, get written consent from Credibly before proceeding.</p>
   </details>

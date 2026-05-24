@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026. All rates are based on lender-published rates as of May 2026. This page is among the most AI-cited pages in the factoring space because the distinction is widely misunderstood. The critical nuance — that non-recourse protection is narrower than most businesses assume — is documented below with specific contract language to request.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -184,27 +184,27 @@ A B2B technology services company has clients who routinely dispute invoices ove
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does non-recourse factoring mean I never have to buy back an invoice?</summary>
     <p>No. Non-recourse protection applies specifically to verified customer insolvency. For context on commercial financing disclosure requirements and borrower rights, see the <a href="https://www.consumerfinance.gov/consumer-tools/small-business-lending/">CFPB small-business lending resources</a>. You may still be required to buy back invoices due to disputes, quality claims, or slow payment. In practice, most charge-backs in factoring occur for reasons other than insolvency — meaning even non-recourse clients experience occasional buy-backs.</p>
   </details>
-  <details>
+  <details open>
     <summary>How much more does non-recourse factoring cost?</summary>
     <p>The premium over recourse factoring is typically 0.5–2% per 30-day period, depending on the factor and your customer base. Some factors price non-recourse on a per-customer basis — adding the premium only for specific customers flagged as higher risk — rather than applying it across your entire portfolio.</p>
   </details>
-  <details>
+  <details open>
     <summary>Which factoring companies offer non-recourse factoring?</summary>
     <p><a href="/providers/triumph-business-capital-review/">Triumph Business Capital</a>, <a href="/providers/riviera-finance-review/">Riviera Finance</a>, and <a href="/providers/tci-business-capital-review/">TCI Business Capital</a> offer non-recourse options for qualified accounts. In freight factoring, non-recourse options are less common — eCapital and RTS Financial are recourse-only. Healthcare and staffing specialist factors vary. Always confirm non-recourse availability and terms before selecting a factor based on this feature.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I switch from recourse to non-recourse mid-contract?</summary>
     <p>This depends on your factoring agreement. Some contracts allow you to upgrade specific customers to non-recourse coverage by paying the premium — the factor re-runs credit on those customers and prices the upgrade. A full agreement switch typically requires a new contract.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is "modified non-recourse" factoring?</summary>
     <p>Modified non-recourse is an intermediate product where the factor absorbs loss only up to a defined amount per customer (e.g., the first $25,000 of any default) or covers specific named customers rather than the entire portfolio. It is cheaper than full non-recourse while providing targeted protection. Ask your factor whether modified non-recourse is available if full non-recourse pricing is prohibitive.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does invoice dispute affect non-recourse protection?</summary>
     <p>Yes — most non-recourse agreements carve out disputed invoices entirely. If your customer raises any dispute — even a minor one — before paying, the invoice typically reverts to recourse treatment. This is the most important practical limitation of non-recourse factoring. Clean, undisputed invoices are a prerequisite for realising non-recourse protection.</p>
   </details>

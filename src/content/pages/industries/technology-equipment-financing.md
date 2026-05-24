@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on credit profile, equipment type, and term.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -215,23 +215,23 @@ Technology is often the largest capital expense for start-ups. Options for busin
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Should I lease or buy technology equipment?</summary>
     <p>For most businesses, leasing makes more financial sense for technology equipment because it depreciates rapidly. A $50,000 server worth $5,000 in 5 years is not an asset you want to own. Operating leases let you use the equipment, return it, and upgrade at lease end. Buy (loan structure) makes sense for long-lived specialized equipment or when you have a specific tax strategy benefiting from ownership.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I finance refurbished or used technology equipment?</summary>
     <p>Yes, though options are more limited than for new equipment. Most lenders finance certified refurbished equipment from reputable resellers. Very old equipment (5+ years) may be ineligible because of collateral value concerns. Used servers and networking equipment are commonly financed when purchased from established resellers with certifications.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a fair market value lease vs. a $1 buyout lease?</summary>
     <p>A fair market value (FMV) lease is a true operating lease — at the end, you can buy the equipment at its fair market value at that time, renew the lease, or return it. A $1 buyout lease guarantees you can purchase for $1 at lease end — it's functionally a loan but with lease accounting treatment. FMV leases have lower monthly payments because the lender retains some residual value; $1 buyout leases have higher payments but guaranteed ownership.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I finance IT infrastructure as a service (IaaS)?</summary>
     <p>Traditional equipment financing is for physical hardware you purchase or lease. Cloud-based IaaS (AWS, Azure, Google Cloud) is typically paid monthly from operating capital and does not require financing. However, some businesses run hybrid environments — owned on-premises equipment plus cloud — and can finance the on-premises hardware component while paying cloud services from operating costs.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens to my equipment at the end of a lease?</summary>
     <p>At end of lease, you typically have three options: return the equipment, purchase it (at fair market value for FMV leases, or $1 for buyout leases), or renew/extend the lease. For technology equipment, returning and refreshing with a new lease is common. If you return equipment, confirm with the lender whether you're responsible for equipment condition, data wiping, and shipping.</p>
   </details>

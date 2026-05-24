@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -236,23 +236,23 @@ PO financing is a specialty product — not all lenders offer it. When evaluatin
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What is the minimum purchase order amount for PO financing?</summary>
     <p>Most PO financing companies have a minimum transaction size of $10,000–$50,000. Below this threshold, the underwriting cost is disproportionate to the deal size. For very small orders, a business line of credit or business credit card may be more appropriate.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does PO financing work for international transactions?</summary>
     <p>Yes, with conditions. Many PO financing companies can pay international suppliers (China, Mexico, Vietnam, etc.) via wire transfer. The transaction must have a creditworthy US buyer and a clear logistics path. International PO financing may take slightly longer and cost slightly more due to added complexity. Confirm international capabilities at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I use PO financing for custom or one-of-a-kind products?</summary>
     <p>Custom orders are harder to finance because the goods have limited resale value if the deal falls through. A PO financier's security is partly based on the ability to sell the goods to another buyer if necessary. Highly customized products reduce that option. Some lenders will finance custom orders if the customer relationship is strong and the PO is binding. Discuss your specific situation with prospective lenders.</p>
   </details>
-  <details>
+  <details open>
     <summary>How long does PO financing take to set up?</summary>
     <p>Initial account setup takes approximately 5–10 business days. Once your account is established and customers are approved, individual transaction approvals can be completed in 1–3 days. For urgent orders, discuss timeline at application — some lenders can expedite for established customers.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if my customer rejects the delivery?</summary>
     <p>If your customer refuses the shipment (goods don't meet specs, damaged in transit), the PO financing situation becomes complex. You still owe the PO financier the advance. You'd need to either resolve the issue with the customer (get them to accept) or sell the goods elsewhere to repay the advance. This is why PO financiers care so much about your fulfillment capability and whether the order is from a creditworthy customer with a clear contract.</p>
   </details>

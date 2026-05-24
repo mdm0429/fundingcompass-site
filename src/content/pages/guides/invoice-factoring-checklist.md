@@ -10,7 +10,7 @@ schema: ["HowTo", "Article", "BreadcrumbList"]
 
 Gathering the right documents before you apply for invoice factoring compresses the approval timeline from 2–3 weeks to as little as 3–5 business days. Incomplete applications stall in underwriting — factors need to verify your business, confirm your customers' creditworthiness, and establish their lien position before they can fund a single dollar. This checklist covers everything a typical factor will request.
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>

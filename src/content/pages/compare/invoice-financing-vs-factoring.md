@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -283,23 +283,23 @@ See the full [Invoice Factoring Guide](/guides/invoice-factoring/) for more deta
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is invoice financing the same as invoice factoring?</summary>
     <p>No. Invoice financing (or invoice discounting) is a loan secured by your invoices — you keep ownership of the receivable and collect from customers yourself. Invoice factoring is the sale of your invoices to a third party who then collects from your customers. The practical differences are customer visibility and who bears collection responsibility.</p>
   </details>
-  <details>
+  <details open>
     <summary>Which is easier to qualify for — factoring or invoice financing?</summary>
     <p>Factoring is generally easier to qualify for. Because the factor is primarily evaluating your customers' creditworthiness rather than yours, newer businesses and those with lower credit scores can access factoring if their customers are creditworthy. Invoice financing typically requires stronger business financials and credit history.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do my customers find out about factoring?</summary>
     <p>With factoring: yes — they receive a notice directing payment to the factor. With invoice financing: no — they pay you as usual and never know about the financing. In most commercial settings, customers are familiar with factoring and it carries no particular stigma.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I use invoice financing or factoring if I bill consumers (B2C)?</summary>
     <p>Both products are designed for B2B invoices — invoices to commercial or government customers. Consumer invoices (medical patient bills, retail sales) are generally not eligible for standard factoring or invoice financing. Healthcare-specific receivables (insurance claims, Medicare, Medicaid) are handled by specialty healthcare factors like <a href="/providers/prn-funding-review/">PRN Funding</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is spot factoring?</summary>
     <p>Spot factoring (also called selective factoring) allows you to factor individual invoices on demand rather than entering into an ongoing factoring relationship or committing your entire AR. It's more flexible but typically carries higher per-invoice fees. See <a href="/compare/spot-vs-contract-factoring/">Spot vs. Contract Factoring</a> for a full comparison.</p>
   </details>

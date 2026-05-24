@@ -10,7 +10,7 @@ schema: ["DefinedTermSet", "Article", "BreadcrumbList"]
 
 This glossary defines 40 terms that appear in factoring agreements, equipment loan documents, MCA contracts, and SBA applications. Definitions are written for business owners, not finance professionals. Where a term is commonly misunderstood, we note the misconception directly.
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>

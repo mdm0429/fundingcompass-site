@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via OnDeck's published product pages and Enova International (NYSE: ENVA) SEC filings. FundingCompass has no current affiliate arrangement with OnDeck. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -231,27 +231,27 @@ Apply directly at [OnDeck.com](https://www.ondeck.com/).
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does OnDeck do a hard credit pull?</summary>
     <p>OnDeck uses a soft pull for pre-qualification. A hard pull occurs only if you accept a loan offer. The soft pull does not affect your credit score.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get a line of credit and a term loan from OnDeck simultaneously?</summary>
     <p>OnDeck allows qualified borrowers to hold both products simultaneously. Combined facility limits apply — meaning your total exposure across both products cannot exceed OnDeck's underwriting threshold for your profile.</p>
   </details>
-  <details>
+  <details open>
     <summary>How fast is OnDeck's same-day funding?</summary>
     <p>Same-day funding applies to established OnDeck customers with existing accounts. For new applicants, funding typically takes 1–2 business days after signing. Applications received before noon on business days are more likely to fund the same day.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is OnDeck's origination fee?</summary>
     <p>OnDeck charges an origination fee of 0–4% of the loan amount, depending on the product and your credit profile. This fee is disclosed before signing and is included in the APR calculation. Check your specific offer for the exact fee.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does OnDeck report to business credit bureaus?</summary>
     <p>OnDeck reports on-time payments to Equifax Business. This is relatively uncommon among online alternative lenders — timely repayment can contribute to building your business credit profile.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I renew my OnDeck loan before it's paid off?</summary>
     <p>Yes — OnDeck offers renewal before full repayment in some cases. At renewal, any outstanding balance is rolled into the new loan. Be aware that rolling over adds the new origination fee and extends your total cost — review the economics carefully before renewing rather than paying off.</p>
   </details>

@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via Riviera Finance, TCI Business Capital, and Triumph Business Capital published schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -143,19 +143,19 @@ PO financing is more expensive than invoice factoring (typically 3–5% per 30 d
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Can a wholesale distributor factor invoices to retail chains?</summary>
     <p>Yes, as long as the retail chain is creditworthy. Major national retailers (Walmart, Target, Costco, Home Depot) are well-rated and readily accepted by most factors. Regional or independent retailers need to be credit-checked individually — some will be approved, some declined. The factor makes this determination based on payment history data from Dun &amp; Bradstreet and other sources.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does wholesale factoring interact with early payment discount programs?</summary>
     <p>Some large retailers offer early payment discount programs (e.g., 2/10 net 30 — 2% discount if paid within 10 days). If you factor an invoice that is subject to an early payment discount, the buyer may deduct the discount from their payment to the factor. This reduces the amount the factor receives and may result in a charge-back or adjustment to your reserve. Clarify with your factor how early payment discounts are handled before factoring invoices subject to them.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the difference between factoring and accounts receivable financing for distributors?</summary>
     <p>Invoice factoring sells the invoice to the factor — the buyer pays the factor directly. Accounts receivable financing uses the invoices as collateral for a loan — you continue to collect from customers and repay the lender. Factoring is faster and requires no minimum credit score; AR financing is cheaper and preserves the customer relationship. For distributors with large retail customers who already understand factoring (Notices of Assignment — letters directing your customer to pay the factor instead of you — are common in wholesale), factoring is typically the more practical choice.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does factoring work with EDI invoicing systems?</summary>
     <p>Yes. Most wholesale factors accept invoices submitted via EDI (Electronic Data Interchange) as well as PDF and web portal. Confirm with your factor whether they can receive EDI 810 (invoice) transactions directly — larger factors (TCI, Triumph, Riviera) typically have EDI capabilities, which significantly reduces administrative friction for high-volume distributors.</p>
   </details>

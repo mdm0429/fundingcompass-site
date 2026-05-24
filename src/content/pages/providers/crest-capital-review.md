@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Crest Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Crest Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -231,23 +231,23 @@ Crest Capital's rate transparency and 35-year track record are its core advantag
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is Crest Capital a direct lender or a broker?</summary>
     <p>Crest Capital is a direct lender — it funds equipment loans and leases from its own capital rather than brokering applications to third parties. This generally means faster decisions and fewer fees compared to marketplace lenders.</p>
   </details>
-  <details>
+  <details open>
     <summary>What types of equipment does Crest Capital finance?</summary>
     <p>Crest Capital finances a wide range of equipment including commercial vehicles, medical and dental equipment, manufacturing machinery, restaurant equipment, construction equipment, technology hardware, agricultural equipment, and more. Contact Crest Capital to confirm eligibility for a specific equipment type.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Crest Capital offer 0% down equipment financing?</summary>
     <p>For qualified borrowers (strong credit, established business), Crest Capital can fund 100% of the equipment cost with no down payment. This preserves working capital but results in higher monthly payments and more total interest.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I finance used equipment through Crest Capital?</summary>
     <p>Yes, Crest Capital finances used equipment, though age limits apply for certain categories. In general, equipment more than 10–15 years old may face restrictions. Confirm at application based on the specific make, model, and year of the equipment.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the difference between a $1 buyout lease and an equipment loan?</summary>
     <p>Both structures result in ownership at the end of the term. The key difference is accounting treatment: equipment loans appear as assets and liabilities on the balance sheet, while $1 buyout leases are classified as capital leases with similar balance sheet treatment. True operating leases keep equipment off the balance sheet. Consult your accountant to determine which structure is better for your financial statements and tax situation.</p>
   </details>

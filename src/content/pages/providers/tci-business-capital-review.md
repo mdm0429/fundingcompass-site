@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via TCI Business Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with TCI Business Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -229,23 +229,23 @@ TCI and Riviera Finance are similar in core offering — both established non-re
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What industries does TCI Business Capital specialize in?</summary>
     <p>TCI Business Capital is particularly experienced in staffing (temporary and permanent placement), manufacturing, distribution, and professional services. It also serves government contractors, transportation (general freight, not trucking-specific), healthcare services, and other B2B industries. Contact TCI to confirm eligibility for your specific industry.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does TCI Business Capital work with start-ups?</summary>
     <p>TCI Business Capital does not have a stated minimum time in business. Start-ups with commercial or government contracts and creditworthy customers may qualify. The factoring approval is primarily based on your customers' ability to pay, not your business history — making factoring one of the few financing options accessible to very new businesses with commercial sales.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does non-recourse factoring protect my business?</summary>
     <p>With non-recourse factoring, TCI Business Capital assumes the credit risk on the invoices it purchases. If a customer cannot pay due to insolvency (bankruptcy, receivership), TCI absorbs the loss — not your business. This protects you from catastrophic losses if a large customer fails. However, non-recourse does not cover disputes — if a customer refuses to pay because they claim goods were defective or services were incomplete, you remain liable.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor only some of my invoices with TCI Business Capital?</summary>
     <p>TCI Business Capital's contract terms vary — confirm whether selective factoring (choosing which invoices to submit) or whole-ledger factoring (submitting all invoices for a customer) is available for your account. Some factoring companies require whole-ledger factoring to prevent adverse selection (only submitting slow-paying customers). Discuss contract flexibility at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if my customer pays TCI Business Capital late?</summary>
     <p>The factoring fee accrues for each 30-day period the invoice remains outstanding. If your customer pays on day 60, you pay fees for two 30-day periods. The total cost of factoring is tied to how quickly your customers pay — faster-paying customers reduce your effective cost. TCI's collections team actively follows up with your customers to accelerate payment.</p>
   </details>

@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on credit profile, practice size, and equipment type.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -208,23 +208,23 @@ Key considerations for used equipment financing:
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What credit score do I need for medical equipment financing?</summary>
     <p>Most lenders require a personal credit score of 620–650 for established practices. Specialized healthcare lenders may work with lower scores for practices with strong revenue. Start-up practices generally need 680+ to access financing without a substantial down payment.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I finance software and EHR systems along with equipment?</summary>
     <p>Yes. Many equipment lenders will finance "soft costs" alongside the physical equipment — including software, installation, training, and maintenance contracts. The software and services must typically be bundled with equipment and cannot exceed a certain percentage of the total (often 20–30%). Confirm soft-cost eligibility at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does the Section 179 deduction work with leased equipment?</summary>
     <p>Section 179 applies to equipment purchased (owned), not to operating leases. A $1 buyout lease is treated as a purchase for Section 179 purposes. A true operating lease — where you return the equipment at lease end — does not qualify for Section 179, but lease payments are deductible as operating expenses. Consult your accountant to determine which structure maximizes your after-tax cost.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is there a minimum amount for medical equipment financing?</summary>
     <p>Most lenders have a minimum of $5,000–$10,000. For smaller equipment purchases (stethoscopes, basic diagnostic tools), a business credit card or line of credit is typically more efficient than a formal equipment loan.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do I need an equipment appraisal?</summary>
     <p>For standard equipment from major manufacturers, an appraisal is generally not required. For specialized or used equipment over $250,000, some lenders may require an independent appraisal to establish value before approving financing.</p>
   </details>

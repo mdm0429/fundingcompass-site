@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via each lender's published rate schedule. We may earn a referral fee if you apply through our links — this does not affect how we rank or review providers. Affiliate relationships do not affect rankings or editorial coverage. See [How We Make Money](/how-we-make-money/).*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -509,23 +509,23 @@ Before signing any factoring agreement, get written answers to these questions:
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>How do I compare factoring company fees accurately?</summary>
     <p>Convert all fees to a monthly rate before comparing. Weekly fees (common at BlueVine) must be multiplied by 4.3 to get the monthly equivalent. Daily rates must be multiplied by 30. Once everything is on a per-30-day basis, model your expected fee at three customer payment speeds: 30 days, 45 days, and 60 days — because many factors charge incremental fees beyond the base period.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the difference between a factor rate and an APR (annual percentage rate) in factoring?</summary>
     <p>Factoring fees are quoted per billing period (usually per 30 days), not as an annual rate. To calculate effective APR (annual percentage rate): divide the fee by the advance amount, divide by the number of days in the payment period, and multiply by 365. A 2% fee on a 30-day invoice equates to approximately 24% APR. A 2% fee on a 60-day invoice equates to approximately 12% APR — so your effective cost drops as customer payment time extends, assuming the fee does not increase with the period.</p>
   </details>
-  <details>
+  <details open>
     <summary>Should I use a local factor or a national factor?</summary>
     <p>National factors typically offer better rates (greater volume, lower cost of funds) and more sophisticated technology platforms. Local and regional factors offer relationship-based service and may be more flexible for unusual situations. For established businesses with straightforward receivables, a national factor is usually the better financial choice. For complex situations (construction, disputed industries), a local factor with sector expertise may be worth the premium.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is invoice factoring regulated?</summary>
     <p>Factoring is not subject to the same federal regulations as consumer lending. However, several states (California SB 1035, New York, Utah, Virginia, Florida, Georgia) have passed commercial financing disclosure laws requiring factors to disclose the equivalent APR or estimated annual cost. Even in unregulated states, you can and should request a full cost disclosure in writing before signing. For broader borrower rights guidance, see the <a href="https://www.consumerfinance.gov/consumer-tools/small-business-lending/">CFPB small-business lending resources</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I negotiate factoring rates?</summary>
     <p>Yes. Factoring rates are negotiable, especially on volume. At $25,000/month, you have limited negotiating leverage. At $100,000/month, most factors will discount rates by 0.25–0.75% per period. At $250,000+/month, custom rate agreements are standard. Leverage competitive offers from multiple factors when negotiating.</p>
   </details>

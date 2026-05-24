@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via PRN Funding published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with PRN Funding. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -238,23 +238,23 @@ PRN Funding is the broadest healthcare factor of the three — it handles insura
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What types of healthcare businesses does PRN Funding serve?</summary>
     <p>PRN Funding serves home health agencies, medical staffing companies, durable medical equipment suppliers, physical and occupational therapy providers, hospice agencies, and medical billing companies. The common thread is that these businesses bill insurance companies, Medicare, or Medicaid rather than collecting cash from patients directly.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is PRN Funding HIPAA-compliant?</summary>
     <p>Yes. PRN Funding executes a HIPAA Business Associate Agreement (BAA) as part of the factoring agreement. As a factor that accesses healthcare billing information, HIPAA compliance is a legal requirement. Confirm BAA terms before signing.</p>
   </details>
-  <details>
+  <details open>
     <summary>Why is the advance rate lower for healthcare factoring?</summary>
     <p>Healthcare receivables are subject to insurance adjustments — the final payment is typically less than the billed amount. Because the actual payment amount is uncertain until the insurer processes the claim, PRN Funding advances a lower percentage of the invoice face value to account for expected adjustments. This protects PRN Funding from advancing more than it ultimately collects.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is PRN Funding factoring recourse or non-recourse?</summary>
     <p>Healthcare factoring with PRN Funding is generally recourse — if an insurer denies a claim, PRN Funding can require you to buy back the invoice. This is standard in healthcare factoring because claim denials are often the provider's responsibility (credentialing gaps, incomplete documentation, etc.) rather than the payer's insolvency. Confirm the specific recourse terms in your factoring agreement.</p>
   </details>
-  <details>
+  <details open>
     <summary>How long does onboarding take with PRN Funding?</summary>
     <p>Expect the initial setup to take approximately 5–10 business days. PRN Funding must verify your payer relationships, provider credentials, and HIPAA compliance. Once your account is established, funding on new invoices is same-day.</p>
   </details>

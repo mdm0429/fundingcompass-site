@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant or financial advisor before making financing decisions.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -237,23 +237,23 @@ See the [SBA Loans Guide](/guides/sba-loans/) for a full comparison of SBA produ
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What is a Certified Development Company (CDC)?</summary>
     <p>CDCs are nonprofit organizations certified by the SBA to deliver SBA 504 financing in their communities. There are approximately 270 CDCs operating across the US. The CDC works alongside a conventional commercial lender to structure the 504 deal — they handle the SBA-guaranteed debenture portion. Find your local CDC at <a href="https://www.sba.gov/">sba.gov</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can a start-up get an SBA 504 loan for equipment?</summary>
     <p>Yes, but it's more difficult. Start-ups typically need a 15–20% down payment (vs. 10% for established businesses), stronger personal credit, and more documentation (a detailed business plan and personal financial statement). If you're a start-up, conventional equipment financing with a strong personal guarantor may be faster and more accessible.</p>
   </details>
-  <details>
+  <details open>
     <summary>How long does an SBA 504 loan take to close?</summary>
     <p>Typically 30–90 days from application to funding. The multi-party structure (bank + CDC + SBA) adds complexity and review time. If you need equipment within a few weeks, a conventional equipment loan or lease is more appropriate.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I use SBA 504 for used equipment?</summary>
     <p>SBA 504 can be used for used equipment purchased from a vendor or equipment dealer. It generally cannot be used for private-party used equipment purchases (buying directly from another business). Used equipment eligible for 504 must also meet SBA size and eligibility standards.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is there a minimum loan amount for SBA 504?</summary>
     <p>The SBA doesn't set a formal minimum for 504, but practically speaking, the complexity of the program makes projects under $150,000–$250,000 inefficient — the legal, appraisal, and origination fees eat up proportionally more of a small loan's value. Conventional financing is simpler and often comparably priced for smaller equipment purchases.</p>
   </details>

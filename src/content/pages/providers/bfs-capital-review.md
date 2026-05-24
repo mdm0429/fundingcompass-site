@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via BFS Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with BFS Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -217,23 +217,23 @@ BFS Capital's $2M maximum is the highest of the three. Credibly's advantage is t
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is BFS Capital a direct lender or a broker?</summary>
     <p>BFS Capital is primarily a direct lender — it funds from its own capital rather than brokering applications to third parties. This generally means fewer intermediary fees, but it also means you're seeing only one lender's offer. Always compare at least two offers before signing.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is BFS Capital's website?</summary>
     <p>BFS Capital's current platform is at <a href="https://www.trybfs.com/">trybfs.com</a>. The older domain bfscapital.com redirects elsewhere — use trybfs.com for applications and account management.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does BFS Capital report to business credit bureaus?</summary>
     <p>BFS Capital does not typically report to major business credit bureaus (Dun &amp; Bradstreet, Experian Business). Timely repayment generally does not build your business credit profile. Defaults may result in collections activity that appears on your personal credit report.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get a BFS Capital MCA with bad credit?</summary>
     <p>BFS Capital works with credit scores as low as 550. However, lower credit scores typically result in higher factor rates. Your creditworthiness is one input — revenue consistency and bank account history also factor significantly into the offer you receive.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if I can't repay my BFS Capital advance?</summary>
     <p>MCA agreements include default provisions that vary by contract. Contact BFS Capital directly as early as possible if your sales drop significantly — some providers will restructure holdback percentages. Read your agreement's default triggers before signing, particularly any clauses triggered by a material decline in sales volume.</p>
   </details>

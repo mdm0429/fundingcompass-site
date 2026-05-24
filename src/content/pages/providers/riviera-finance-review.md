@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Riviera Finance published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Riviera Finance. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -229,23 +229,23 @@ Riviera Finance's non-recourse offering and low volume minimum are its strongest
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What is non-recourse factoring and why does it matter?</summary>
     <p>Non-recourse factoring means that if a customer becomes insolvent and cannot pay an invoice, Riviera Finance absorbs that loss — not you. With recourse factoring, you would be required to buy back unpaid invoices. Non-recourse provides meaningful protection if your customer base includes businesses with uncertain credit. However, non-recourse does not protect against customer disputes over the underlying goods or services delivered.</p>
   </details>
-  <details>
+  <details open>
     <summary>Will my customers know I'm using Riviera Finance?</summary>
     <p>Yes. In full-service factoring, Riviera Finance collects directly from your customers. Your invoices will typically include a Notice of Assignment (a letter directing your customer to pay the factor) directing payment to Riviera Finance. Most commercial customers are familiar with this arrangement, particularly in industries like staffing and trucking where factoring is common.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is Riviera Finance good for trucking companies?</summary>
     <p>Riviera Finance is a strong factoring option for trucking and transportation businesses. It has significant experience in freight factoring and processes same-day payments — important for owner-operators and small fleets that need cash immediately after delivering a load. For trucking-specific features (fuel cards, load board access), also compare <a href="/providers/otr-solutions-review/">OTR Solutions</a> and <a href="/providers/rts-financial-review/">RTS Financial</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the minimum I can factor with Riviera Finance?</summary>
     <p>Riviera Finance works with businesses that have as little as $5,000 in monthly invoicing — one of the most accessible minimums in the factoring industry. This makes it viable for very small service businesses, independent contractors with commercial clients, and early-stage B2B companies.</p>
   </details>
-  <details>
+  <details open>
     <summary>How fast does Riviera Finance fund after I submit an invoice?</summary>
     <p>Riviera Finance funds advances on the same day as invoice submission for approved customers in most cases. The initial setup (account establishment, customer credit approval) takes a few business days, but once your account is active, funding is typically same-day.</p>
   </details>

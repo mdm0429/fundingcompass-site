@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Triumph Business Capital published terms and industry sources. FundingCompass has no current affiliate arrangement with Triumph Business Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -237,23 +237,23 @@ For a full breakdown of the trade-offs: [Recourse vs. Non-Recourse Factoring](/c
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does Triumph factor spot loads or only contract freight?</summary>
     <p>Triumph factors both spot and contract freight invoices. You do not need to be on a dedicated lane or contract to use Triumph's factoring. Spot load factoring is standard.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor with Triumph and still work with non-TriumphPay brokers?</summary>
     <p>Yes. The TriumphPay network enhances speed for participating brokers, but Triumph factors invoices from all creditworthy brokers — TriumphPay or not. Non-TriumphPay invoices fund in 24–48 hours rather than same-day.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the minimum credit score to factor with Triumph?</summary>
     <p>Triumph's approval is primarily based on the creditworthiness of your customers (the brokers and shippers who owe you money), not your personal credit score. Owner-operators with poor personal credit can often still qualify if they work with established, creditworthy brokers. Triumph runs credit checks on your customers, not primarily on you.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if I want to switch factoring companies?</summary>
     <p>If you're on a month-to-month contract, you can leave at any time. If you're on a 12-month contract, early termination fees apply. When switching, your new factor must receive a buyout of any outstanding invoices from Triumph — this is standard in the industry. Notify both companies of the transition timing to avoid funding gaps.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Triumph factor international freight?</summary>
     <p>Triumph primarily serves domestic (US) and Canada/Mexico cross-border freight. It does not factor international ocean or air freight invoices. For international factoring needs, look at trade finance or export factoring specialists.</p>
   </details>

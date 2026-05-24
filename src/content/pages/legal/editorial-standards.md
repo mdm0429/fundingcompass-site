@@ -18,7 +18,7 @@ All rate ranges published on FundingCompass are verified against primary sources
 
 - **Lender-published rate schedules** — pricing pages, product brochures, and fee disclosures on lender websites
 - **Nav.com lender database** — an independent aggregator of lender terms and qualification criteria
-- **Regulatory filings** — state commercial financing disclosures where applicable (California SB 1235, New York commercial financing disclosure requirements)
+- **Regulatory filings** — state commercial financing disclosures where applicable (California SB 1235, New York commercial financing disclosure requirements), and federal small business lending guidance from the [SBA loan types](https://www.sba.gov/funding-programs/loans) resource as a baseline for comparing conventional loan alternatives
 - **Direct lender communications** — where published data is unavailable, we note this explicitly rather than estimating
 
 Rate ranges are verified on the schedule noted on each page (at minimum every 90 days). When rates change, we update the page and the verification date.

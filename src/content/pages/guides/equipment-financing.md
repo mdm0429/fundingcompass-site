@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — APR ranges verified via Balboa Capital, Crest Capital, National Funding, and Currency Capital published rate schedules and Nav.com lender database.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -224,27 +224,27 @@ See [Best Equipment Financing Companies of 2026](/compare/best-equipment-financi
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Can I finance used equipment?</summary>
     <p>Yes. Most lenders finance used equipment up to 10 years old (some extend to 15–20 years for certain asset classes like construction equipment). Advance rates on used equipment are typically 10–20% lower than on new, and some lenders require a formal appraisal. Interest rates on used equipment are generally 1–3% higher than on comparable new equipment.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do I need a down payment for equipment financing?</summary>
     <p>Not always. Many lenders offer 100% financing on equipment with strong resale value (trucks, certain construction equipment). Lenders typically require a 10–20% down payment for equipment with limited resale markets or for borrowers with credit below 620.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a fair market value (FMV) lease?</summary>
     <p>In a fair market value lease, you make monthly payments to use the equipment, and at the end of the lease you can purchase the equipment at its then-current fair market value, renew the lease, or return the equipment. FMV leases offer the lowest monthly payments of any equipment financing structure but provide no guaranteed path to ownership.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does equipment financing affect my ability to get other loans?</summary>
     <p>Equipment financing appears on your credit report and contributes to your total debt load. It is structured as a secured loan, which creditors view more favourably than unsecured debt. Unlike a blanket lien (common with working capital loans), equipment financing liens are typically filed only against the financed asset — leaving your other assets unencumbered for future financing.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if I need to sell or trade in financed equipment before the loan is paid off?</summary>
     <p>You can sell financed equipment, but the loan must be paid off at closing. If the sale price covers the outstanding balance, the transaction is straightforward. If the sale price is below the outstanding balance (negative equity), you must cover the difference. For rapidly depreciating equipment (computers, certain vehicles), check your loan balance versus the equipment's likely resale value before committing to a term.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can a startup get equipment financing?</summary>
     <p>Yes, though options are more limited. Startups (under 1 year in business) typically qualify for up to $50,000 through specialty startup equipment lenders, often with a 20% down payment and a personal guarantee. Some lenders (Taycor Financial, TimePayment) explicitly serve startups. Rates will be at the higher end of the range (12–20% APR).</p>
   </details>

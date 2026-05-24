@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only and does not constitute financial or tax advice. Consult your accountant before making financing decisions.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -281,23 +281,23 @@ See [Best Equipment Financing Companies](/compare/best-equipment-financing-compa
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is equipment leasing better than buying for a small business?</summary>
     <p>Depends on the equipment. For technology and other fast-depreciating equipment, leasing is usually better — lower payments, easier to upgrade, no ownership of a depreciating asset. For equipment with long useful life and meaningful resale value (construction machinery, agricultural equipment), buying often wins because you build equity. See <a href="/compare/equipment-loan-vs-lease/">Equipment Loan vs. Lease</a> for a detailed comparison.</p>
   </details>
-  <details>
+  <details open>
     <summary>What credit score do I need to lease equipment?</summary>
     <p>Most lenders require 620–650+ for established businesses. Some (National Funding) work with 600+. For large amounts ($250,000+), lenders typically require financial statements and may require 680+. Start-ups face higher scrutiny — a strong personal guarantor often unlocks access.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I lease used equipment?</summary>
     <p>Yes. Many lenders finance certified refurbished or used equipment. Age limits apply — most lenders cap financing at equipment 5–10 years old. Used equipment leases typically carry higher money factors than new equipment leases due to greater uncertainty about condition and resale value.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a master lease agreement?</summary>
     <p>A master lease agreement establishes the terms of a leasing relationship between a business and a lessor, allowing multiple equipment schedules (individual leases) to be added to the master agreement over time without renegotiating base terms. This is useful for businesses that regularly acquire equipment and want a standing relationship with a lessor.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if the equipment breaks during the lease?</summary>
     <p>In most equipment leases, maintenance and repairs are your responsibility. If equipment fails due to a manufacturing defect, the manufacturer's warranty applies. Otherwise, equipment malfunctions are your problem to repair. This is why reviewing the lease's maintenance clause and understanding what warranty coverage comes with the equipment is important before signing.</p>
   </details>

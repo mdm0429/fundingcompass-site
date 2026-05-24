@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate ranges verified via eCapital, Triumph Business Capital, Riviera Finance, and RTS Financial published rate schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -24,7 +24,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 ## What Is Invoice Factoring?
 
-Invoice factoring is a financing arrangement in which a business sells its unpaid invoices to a third party — called a [factor](/glossary/) — in exchange for an immediate cash advance, typically 80–95% of the invoice face value. The factor then collects payment directly from your customer. When the customer pays, the factor remits the remaining balance minus its fee.
+Invoice factoring is a financing arrangement in which a business sells its unpaid invoices to a third party — called a [factor](/glossary/) — in exchange for an immediate cash advance, typically 80–95% of the invoice face value. The factor then collects payment directly from your customer. When the customer pays, the factor remits the remaining balance minus its fee. For a broad historical and structural overview, see [invoice factoring explained](https://en.wikipedia.org/wiki/Factoring_(finance)) (Wikipedia).
 
 Factoring is not a loan. You are selling an asset (the receivable) rather than borrowing against it. This distinction matters for your balance sheet and for qualification — factors approve deals based primarily on your customers' creditworthiness, not yours.
 
@@ -222,27 +222,27 @@ See [Best Invoice Factoring Companies of 2026](/compare/best-invoice-factoring-c
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What is the difference between invoice factoring and invoice financing?</summary>
     <p>Invoice factoring involves selling your invoices to a factor, which then collects from your customers directly. Invoice financing (also called accounts receivable financing) is a loan secured by your invoices — you retain the customer relationship and collect payment yourself, then repay the lender. Factoring is faster and easier to qualify for; financing is less expensive and keeps the customer relationship private.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does invoice factoring hurt my credit score?</summary>
     <p>Factoring itself does not appear on your credit report and does not directly affect your credit score. However, some factors file a UCC-1 (a public lien notice filed when a lender takes a security interest in your business assets) financing statement against your accounts receivable, which appears as a lien and could affect your ability to obtain other financing. Ask whether your factor files a UCC-1 and on which assets. UCC Article 9 governs secured transactions in receivables — see the <a href="https://www.law.cornell.edu/ucc/9" rel="noopener">Cornell LII overview of UCC Article 9</a> for a plain-language explanation.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor invoices if my business has outstanding tax liens?</summary>
     <p>Existing IRS or state tax liens create a priority claim on your receivables that complicates — and often blocks — factoring. Some factors will work around tax liens if you are on an active IRS payment plan. Disclose any liens upfront; failing to do so voids most factoring agreements.</p>
   </details>
-  <details>
+  <details open>
     <summary>How long does it take to get funded?</summary>
     <p>Initial onboarding (account setup, due diligence on your customers) typically takes 3–7 business days. After that, approved invoices are typically funded within 24 hours, sometimes same-day. Freight factors often fund within 2–4 hours of approved paperwork.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if my customer doesn't pay?</summary>
     <p>Under recourse factoring (the most common arrangement), you are responsible for buying back the unpaid invoice — typically after 60–90 days. Under non-recourse factoring, the factor absorbs the loss if the customer becomes insolvent. Dispute-based non-payment is almost always the seller's responsibility regardless of the factoring type.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is invoice factoring right for my business?</summary>
     <p>Factoring works well for B2B businesses with reliable customers, slow payment terms (net-30 to net-90), and a need for predictable cash flow. It is expensive relative to bank financing and less suitable for businesses with thin margins. If your gross margin is below 15%, model the factoring fee carefully before committing — the cost may eliminate your profit on factored invoices.</p>
   </details>

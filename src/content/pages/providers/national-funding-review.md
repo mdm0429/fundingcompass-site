@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via National Funding's published product pages and Nav.com lender database. FundingCompass has no current affiliate arrangement with National Funding. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -236,23 +236,23 @@ Apply directly at [NationalFunding.com](https://www.nationalfunding.com/).
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does National Funding charge a prepayment penalty?</summary>
     <p>National Funding's working capital loans typically do not have prepayment penalties in the traditional sense — but the total repayment amount is fixed. "Paying early" eliminates future daily debits but does not reduce the total owed. Ask specifically whether early payoff reduces your total cost before assuming it does.</p>
   </details>
-  <details>
+  <details open>
     <summary>What industries does National Funding serve?</summary>
     <p>National Funding works with most industries, including construction, trucking, restaurants, retail, healthcare, and professional services. Cannabis businesses are not eligible. Verify your specific industry at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is National Funding a direct lender or a broker?</summary>
     <p>National Funding is primarily a direct lender — it funds loans from its own capital rather than brokering to third parties. This generally means fewer fees than broker arrangements, but it also means you're only seeing one lender's offer. Applying to multiple lenders (Crestmont, Balboa, a local bank) before committing gives you comparison points.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get equipment financing and a working capital loan simultaneously?</summary>
     <p>Yes. National Funding can approve both products simultaneously if you qualify for each independently. Running both increases your total daily ACH obligations — ensure your cash flow can accommodate both payments before accepting.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does the Section 179 deduction work with National Funding equipment financing?</summary>
     <p>Section 179 allows businesses to deduct the full cost of qualifying equipment in the year it's placed in service, rather than depreciating over multiple years. Equipment financed through National Funding (loans and $1 buyout leases) typically qualifies. The 2026 Section 179 deduction limit is $1,160,000 (verify current limits at irs.gov). Consult a tax professional before making equipment purchase decisions based on Section 179 benefits.</p>
   </details>

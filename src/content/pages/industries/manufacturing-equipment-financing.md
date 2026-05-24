@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via Currency Capital, Crest Capital, and Balboa Capital published schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -132,19 +132,19 @@ Multi-unit or full production line financing requires a different approach than 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Can I finance equipment I'm buying from another manufacturer going out of business?</summary>
     <p>Yes — buying from a liquidation or distressed sale often creates excellent value but complicates financing. Lenders want clear title to the equipment. Ensure the selling entity has the legal right to sell (no prior lien holders), obtain a bill of sale, and confirm no UCC-1 filings against the equipment exist before the lender advances. An equipment appraisal is typically required for liquidation purchases.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does equipment age affect financing terms?</summary>
     <p>Most lenders cap financing at 120 months divided by the equipment's remaining useful life. A 15-year-old CNC machine with an expected remaining life of 5 years may only qualify for a 48–60 month term, and at reduced advance rates. Equipment over 15 years old is difficult to finance through traditional channels — specialised used equipment lenders or dealer financing may be the only options.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a fair market value (FMV) lease for manufacturing equipment?</summary>
     <p>In an FMV lease, you make monthly payments and at lease end you can buy the equipment at its then-current fair market value, renew, or return it. FMV leases have the lowest monthly payments of any structure and are ideal for equipment you expect to upgrade. The downside: you have no guaranteed ownership path and no equity building. For 10–15 year useful life manufacturing equipment, a loan is typically the better long-term financial choice.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get equipment financing if my manufacturing business has an SBA loan outstanding?</summary>
     <p>Yes — as long as your SBA loan does not include a blanket lien on all business assets that prohibits additional security interests. Review your SBA loan agreement for collateral restrictions. Equipment-specific financing lenders take a lien only on the financed equipment, not your entire asset base — this is often compatible with existing SBA debt. Confirm with your SBA lender before proceeding.</p>
   </details>

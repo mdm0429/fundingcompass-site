@@ -10,7 +10,7 @@ schema: ["HowTo", "Article", "BreadcrumbList"]
 
 Equipment financing applications are faster to approve than most business loans — many lenders issue credit decisions in 24–48 hours for amounts under $250,000. But incomplete applications stall the process at the worst time: when you need to take delivery. This checklist covers every document typically required, plus the questions you should ask before signing to avoid surprises on total cost, prepayment, and insurance requirements.
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>

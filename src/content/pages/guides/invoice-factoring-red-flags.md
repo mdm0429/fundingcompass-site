@@ -12,7 +12,7 @@ Most factoring horror stories are not about the rate. They are about a clause in
 
 The factoring fee is typically the smallest source of surprise cost. The contract language is where the real exposure lives.
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>

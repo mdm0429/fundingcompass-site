@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates verified via Crest Capital, Balboa Capital, Currency Capital, and CAT Financial published schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -146,23 +146,23 @@ For bonded contractors, equipment on the balance sheet (financed equipment you o
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>How old can the equipment be and still qualify for financing?</summary>
     <p>Most construction equipment lenders finance equipment up to 10 years old for major brands (Cat, Komatsu, John Deere, Volvo). For equipment 10–15 years old, specialist lenders (Taycor, some regional lenders) may finance on shorter terms at higher rates. Equipment over 15 years old is generally difficult to finance through traditional channels — dealer financing or cash purchase may be the only options.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can a new construction company get equipment financing?</summary>
     <p>Yes. Taycor Financial and some regional equipment lenders have explicit startup programs. Expect a 20% down payment, strong personal credit (650+ preferred), and a personal guarantee. New companies without established revenue may be limited to $50,000–$100,000 per transaction. An established track record in the industry — even if the business is new — strengthens the application.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if I need to sell financed equipment before the loan is paid off?</summary>
     <p>You can sell financed equipment, but the outstanding loan balance must be paid off at closing. If the sale price exceeds the balance (positive equity), you keep the difference. If the sale price is below the balance (negative equity) — which can happen when equipment depreciates faster than expected or the loan was highly leveraged — you must cover the gap from other funds. This is rare with major-brand construction equipment, which holds value well, but more common with specialised or older equipment.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does equipment financing affect my line of credit with my bank?</summary>
     <p>Equipment financing lenders file a UCC-1 lien specifically against the financed equipment. If your bank holds a blanket lien on all business assets, the bank's consent may be required before a new lien is placed. Review your existing loan agreements. Many banks routinely consent to equipment-specific liens that do not encumber other collateral.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I finance attachments and accessories along with the main equipment?</summary>
     <p>Yes — most lenders include attachments (buckets, blades, augers, compactor plates) in the same financing transaction as the primary equipment. Attachments should be itemised on the purchase agreement. Stand-alone attachment financing (without the primary equipment) is less common but available from some lenders for amounts over $25,000.</p>
   </details>

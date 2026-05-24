@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via RTS Financial published terms and industry sources. FundingCompass has no current affiliate arrangement with RTS Financial. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -246,27 +246,27 @@ For a full overview of trucking-specific financing: [Trucking Invoice Factoring 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does RTS factor spot loads?</summary>
     <p>Yes. RTS factors both spot and contract freight. You can factor individual spot loads without committing to a minimum volume or contract requirement on month-to-month arrangements.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the difference between RTS recourse and non-recourse factoring?</summary>
     <p>Recourse factoring: if the broker doesn't pay, you buy back the invoice. Lower fees. Non-recourse factoring: if an approved broker becomes insolvent, RTS absorbs the loss. Higher fees (typically 0.5–1% more per invoice). Neither protects you from short-pays due to service disputes — those are treated as recourse situations regardless.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I use the RTS Fuel Card before my invoice is funded?</summary>
     <p>Yes. The fuel card allows you to draw against pending factored invoice value at the pump. This means you can fuel immediately after delivering a load, before RTS has fully processed and funded the invoice. The drawn amount is deducted from your final invoice payment.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens to the reserve when the broker pays?</summary>
     <p>RTS holds 3% of the invoice as a reserve. When the broker pays, RTS deducts its factoring fee from the reserve and releases the remainder to you. If the fee is 3% and the reserve is 3%, you receive no additional payment on that invoice. At higher volumes where fees are below 3%, you receive a reserve release.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does RTS report factoring to credit bureaus?</summary>
     <p>RTS does not report to personal or business credit bureaus for normal factoring activity. Factoring is not a loan — there is nothing to report as credit. If an account goes to collections, that activity may appear in collections records.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I switch from RTS to another factor?</summary>
     <p>Yes. On month-to-month contracts, you can terminate with appropriate notice (typically 30–60 days). Your new factor must buy out any outstanding invoices from RTS — this is standard across the industry. On 12-month contracts, early termination fees apply.</p>
   </details>

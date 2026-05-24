@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Advance rates and fees verified via eCapital, RTS Financial, Triumph Business Capital, and OTR Capital published rate schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -189,27 +189,27 @@ Quick pay is often cheaper for individual loads — but only works with brokers 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What documents do I need to factor a freight invoice?</summary>
     <p>At minimum: a signed bill of lading, the rate confirmation (load agreement), and proof of delivery (POD). Some factors also require the original invoice and the carrier setup packet with your MC number and insurance certificate. Many freight factors accept photos of documents via mobile app — paperwork requirements have simplified significantly.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor loads if I have a new MC number?</summary>
     <p>Yes — many freight factors work with carriers from the day their operating authority is granted. Your qualification depends on the broker or shipper creditworthiness, not your operating history. You will need active cargo and liability insurance and a signed factoring agreement.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if a broker refuses to pay a factored invoice?</summary>
     <p>Under recourse factoring, the factor will charge the invoice back to your reserve account after a defined period (typically 60–90 days). You then pursue the broker directly, or the factor may assist with collections. If the broker is a registered freight broker, FMCSA provides a complaint mechanism. Under non-recourse factoring, the factor absorbs the loss if broker insolvency is verified — but dispute-based non-payment is typically still your responsibility.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I switch factoring companies if I'm unhappy?</summary>
     <p>Yes, but your contract may have a termination notice period (typically 30–90 days) and possibly a termination fee. Your factor also holds a UCC-1 (a public lien notice filed against your business assets) on your receivables during the contract — they must release this lien before you can factor with another company. Switching typically takes 30–45 days after notice is given.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do factoring companies affect my relationship with freight brokers?</summary>
     <p>In freight, factoring is extremely common — brokers receive Notices of Assignment routinely. Most major brokers (CH Robinson, Echo, Coyote) have established processes for paying factors. The main broker relationship impact is that payment is directed to the factor rather than to you. Quality factors handle broker communications professionally and do not damage your relationships.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a fuel advance and how does it work?</summary>
     <p>A fuel advance is an immediate payment of 40–50% of the load value issued at the time of dispatch — before you deliver the load. It is meant to cover fuel and operating costs for the run. When you submit delivery paperwork, the factor advances the remainder of the invoice (the standard 90–97% advance minus the fuel advance already paid). Some factors offer fuel advances via a fuel card rather than a bank transfer.</p>
   </details>

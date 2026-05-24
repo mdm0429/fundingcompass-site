@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Information verified via Lendio published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Lendio. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -258,23 +258,23 @@ Lendio is a legitimate company founded in 2011, headquartered in Lehi, Utah. It 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Does Lendio charge borrowers a fee?</summary>
     <p>Lendio does not charge borrowers a direct application or matching fee. Lendio earns a referral fee from the lender when a loan is funded. This fee is paid by the lender — not you — but may be factored into the rate or terms of the offer compared to applying to the same lender directly.</p>
   </details>
-  <details>
+  <details open>
     <summary>Will applying through Lendio hurt my credit score?</summary>
     <p>Lendio performs a soft credit inquiry for pre-matching — this does not affect your credit score. If you accept an offer from a specific lender, that lender will perform a hard credit pull as part of their underwriting, which may reduce your score by a few points.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get an SBA loan through Lendio?</summary>
     <p>Yes. Lendio has SBA Preferred Lender relationships and can facilitate SBA 7(a) and SBA 504 loans through its network. SBA loan applications require significantly more documentation than other products and take 30–60+ days to fund. If you qualify for SBA financing, it is almost always the most cost-effective option. See <a href="/guides/sba-loans/">SBA Loans Guide</a>.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is Lendio only for startups?</summary>
     <p>No. Lendio serves businesses at all stages. Its 6-month minimum applies to most products in the network, but its SBA loan facilitation requires 2+ years. Both new and established businesses use Lendio as a comparison tool.</p>
   </details>
-  <details>
+  <details open>
     <summary>What information does Lendio share with lenders?</summary>
     <p>Lendio shares the information you submit in the application — business name, revenue, time in business, credit score range, and bank account data — with lenders it matches you to. You may receive outreach from multiple lenders in the network even if you don't accept their offer. Review Lendio's privacy policy at application to understand data handling practices.</p>
   </details>

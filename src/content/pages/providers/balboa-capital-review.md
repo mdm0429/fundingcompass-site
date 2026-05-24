@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Balboa Capital/Ameris Bank published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Balboa Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -235,23 +235,23 @@ Balboa Capital's 1-year time-in-business requirement is its strongest differenti
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is Balboa Capital a bank?</summary>
     <p>Balboa Capital operates as part of Ameris Bank, a publicly traded bank holding company. This means Balboa Capital's lending activities are bank-regulated, though the Balboa Capital brand functions as the direct small business lending platform within the Ameris Bank organization.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Balboa Capital offer start-up financing?</summary>
     <p>Balboa Capital's 1-year minimum time in business excludes true start-ups (under 1 year). For businesses under 1 year old, equipment financing options are limited — manufacturer financing programs, SBA microloans, or equipment leases with strong personal credit are typically the most accessible paths.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can Balboa Capital finance used equipment?</summary>
     <p>Yes, Balboa Capital finances used equipment in many categories. Age restrictions apply — very old equipment (typically 10+ years) may not qualify. Confirm at application based on the specific make, model, and year of the equipment you need.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does vendor financing through Balboa Capital work?</summary>
     <p>Balboa Capital partners with equipment dealers and manufacturers to offer embedded financing at the point of sale. If you purchase from a vendor that partners with Balboa, you may be offered Balboa financing directly through the dealer — the application process is the same, but the experience is streamlined through the vendor.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happened to Balboa Capital?</summary>
     <p>Balboa Capital was acquired by Ameris Bank in 2021. The brand continues to operate under the Balboa Capital name as the direct small business lending arm of Ameris Bank. The platform, products, and online application process remain functionally similar to the pre-acquisition operation.</p>
   </details>

@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and eligibility verified May 2026 across multiple lenders. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. All rates are for comparison purposes — your offer may differ based on retailer creditworthiness, volume, and invoice terms.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -207,23 +207,23 @@ PO financing is more expensive than factoring (fees of 3–6%/month), but it sol
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What types of retailers can I factor invoices against?</summary>
     <p>Most retail factoring companies work with invoices from established, creditworthy retailers — national chains (Walmart, Target, Costco, Amazon), regional chains, and specialty retailers with strong credit histories. Invoices from smaller independent retailers or online marketplaces may require recourse factoring or may not be eligible. Confirm your specific retail customers' eligibility at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>Will my retailer know I'm factoring?</summary>
     <p>Yes. Your retailer will receive a Notice of Assignment (a letter directing your customer to pay the factor instead of you) directing payment to the factoring company rather than to you. This is standard practice for retail suppliers — major retailers process payment assignments regularly. Your retailer's accounts payable team will update your remittance address in their system.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a retailer chargeback and how does it affect factoring?</summary>
     <p>A chargeback is a deduction a retailer takes from an invoice payment for compliance violations, returned merchandise, or promotional allowances. For example, if your packaging doesn't meet Walmart's labeling requirements, Walmart may deduct a penalty from their invoice payment. Because chargebacks reduce the actual payment received, factoring companies typically reduce advance rates to account for expected chargeback risk, and chargebacks are generally the supplier's responsibility under factoring agreements.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the minimum monthly volume for retail factoring?</summary>
     <p>Most retail factoring companies require $25,000–$50,000 in monthly invoice volume. Some lenders (BlueVine) work with smaller volumes. Confirm the minimum at application — some factors have no stated minimum for creditworthy retailers.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor invoices if I'm a start-up supplier with a new retail placement?</summary>
     <p>Yes. Factoring eligibility is primarily based on the retailer's creditworthiness, not your business history. A first-time supplier with a purchase order from Target can factor invoices even without years of operating history. This makes factoring particularly valuable for emerging consumer brands that land retail placement but lack the operating capital to scale production.</p>
   </details>

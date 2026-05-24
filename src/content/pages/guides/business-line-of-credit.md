@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — APR ranges verified via BlueVine, Fundbox, OnDeck, and Wells Fargo published line-of-credit terms and Nav.com lender database.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -197,27 +197,27 @@ For businesses that qualify, a line of credit is almost always cheaper than eith
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>What is the difference between a business line of credit and a term loan?</summary>
     <p>A business line of credit is revolving — you draw, repay, and draw again, with no fixed repayment schedule beyond minimum payments. A term loan is a fixed lump sum repaid on a set schedule over a defined period. Lines of credit are better for ongoing, variable working capital needs. Term loans are better for a specific, one-time capital need with a defined ROI (equipment purchase, expansion project).</p>
   </details>
-  <details>
+  <details open>
     <summary>Does a business line of credit affect my personal credit?</summary>
     <p>Most small business LOCs (especially from online lenders) require a personal guarantee and run a hard credit inquiry at application. The account typically appears on your personal credit report. Payment history on the LOC can affect your personal credit score — positively if paid on time, negatively if you miss payments.</p>
   </details>
-  <details>
+  <details open>
     <summary>How much of my credit line should I use?</summary>
     <p>Keep utilisation below 30% of your credit limit where possible — the same principle that applies to personal credit cards. High utilisation signals financial stress to lenders reviewing your profile for future financing. If you consistently need 80%+ of your limit, consider applying for a limit increase rather than staying perpetually at high utilisation.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get a business line of credit as a startup?</summary>
     <p>Some online lenders (BlueVine, Fundbox) work with businesses as young as 6 months. True startups (under 6 months) have very limited options for a business LOC — the most accessible route is a personal line of credit or SBA microloan. Building 6 months of revenue history and establishing a business bank account is the fastest path to LOC eligibility.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if I miss a payment on my business line of credit?</summary>
     <p>Missing a payment triggers late fees (typically $25–$50 or 3–5% of the minimum payment), a potential interest rate increase, and a negative mark on your credit report. Missing multiple payments can trigger a default notice, suspension of drawing privileges, and demand for full repayment. Business LOCs from online lenders typically have ACH auto-debit — ensure sufficient funds in your account on payment dates.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is a revolving line of credit better than a fixed term loan for working capital?</summary>
     <p>For working capital needs that recur (payroll gaps, inventory cycles, slow-paying customers), a revolving LOC is generally better — you pay interest only when you draw, and the facility is available for future use without reapplying. For a one-time capital need with a defined payback period, a term loan may be cheaper overall because lenders can price fixed risk more accurately than open-ended revolving risk.</p>
   </details>

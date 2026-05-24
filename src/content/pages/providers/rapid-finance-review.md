@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Rapid Finance published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Rapid Finance. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -222,23 +222,23 @@ Rapid Finance's 2-year requirement is its main limitation against competitors. I
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is Rapid Finance a direct lender?</summary>
     <p>Yes, Rapid Finance primarily funds from its own capital. For SBA loans, it works within the SBA Preferred Lender Program. This generally means fewer intermediary fees across their product suite.</p>
   </details>
-  <details>
+  <details open>
     <summary>Why does Rapid Finance require 2 years in business?</summary>
     <p>The 2-year minimum reflects Rapid Finance's focus on established businesses. If your business is under 2 years old, consider Credibly, Greenbox Capital, or BFS Capital — all of which require only 6 months of operating history.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get an SBA loan through Rapid Finance?</summary>
     <p>Yes. Rapid Finance is an SBA-approved lender and can facilitate SBA 7(a) loans. SBA loans require stronger qualifications (typically 680+ credit, 2+ years, strong revenue and collateral) but carry significantly lower rates (10–13% APR) than MCA products. If you qualify, the SBA product is almost always the better financial choice.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Rapid Finance report to business credit bureaus?</summary>
     <p>Rapid Finance does not typically report MCA repayment to major business credit bureaus. SBA loan repayment may be reported. Confirm the reporting policy for the specific product at application.</p>
   </details>
-  <details>
+  <details open>
     <summary>What happens if my card sales drop significantly after I take an MCA from Rapid Finance?</summary>
     <p>Because MCA holdback is a percentage of daily card sales, lower sales automatically reduce daily payments — providing built-in flexibility. However, your total repayment obligation does not change. If you experience a prolonged sales decline that threatens your ability to repay, contact Rapid Finance directly. Some providers will restructure holdback percentages in hardship situations — read your agreement's default triggers before signing.</p>
   </details>

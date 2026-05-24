@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Advance rates and compliance requirements verified via PRN Funding, MedLink Financial, and Crestmark published schedules and HIPAA guidance.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -195,27 +195,27 @@ Improving your denial rate before approaching a healthcare factor will directly 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is healthcare factoring HIPAA compliant?</summary>
     <p>It can be, but only if the factor executes a Business Associate Agreement (BAA) with your practice before any protected health information (PHI) is shared. PHI includes any patient-identifiable billing data — names, dates of service, diagnosis codes tied to a patient. A healthcare factor that refuses to sign a BAA cannot lawfully receive your billing data. Always execute the BAA before submitting any receivables.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I factor Medicare receivables?</summary>
     <p>Yes, but with restrictions. Medicare permits assignment of receivables to qualified third parties. The most compliant structure is a lock-box arrangement in which Medicare sends payment to an account controlled by the factor. Direct assignment of Medicare claims is more complex and regulated. Consult a healthcare compliance attorney before factoring Medicare receivables.</p>
   </details>
-  <details>
+  <details open>
     <summary>What advance rate should I expect on insurance receivables?</summary>
     <p>70–85% is the standard range for commercial insurance receivables from major payers. Advance rates at the higher end (82–85%) go to practices with well-known payers (BCBS, Aetna) and denial rates below 10%. Practices with Medicaid-heavy payer mixes, higher denial rates, or less-established payers typically receive 70–75%.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does healthcare factoring handle partial payments from insurers?</summary>
     <p>Insurers routinely pay less than the billed amount — due to contracted rates, patient deductibles, and coordination of benefits. Healthcare factors account for this by advancing against the expected collectible amount (not the billed amount) and adjusting their advance rate accordingly. When the actual payment is received, any overage above the advance is released to you as part of the reserve; any shortfall may be charged against the reserve.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do healthcare factors handle collections from patients?</summary>
     <p>Generally no. Healthcare factors focus on insurance receivables, not patient-balance collections. Patient self-pay balances may be advanced at a much lower rate (30–50%), and collection of patient balances typically remains your responsibility. Some healthcare factor partners work alongside medical billing companies that handle patient collections — ask whether your factor has referral relationships.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the minimum monthly volume for healthcare factoring?</summary>
     <p>Most healthcare factors require $25,000–$50,000 in monthly insurance receivables. Some smaller factors or healthcare-focused fintech lenders work with practices billing as little as $10,000/month, at higher rates. Below $10,000 monthly, factoring is generally not economical — other operating capital solutions (SBA microloan, practice management financing) are more appropriate.</p>
   </details>

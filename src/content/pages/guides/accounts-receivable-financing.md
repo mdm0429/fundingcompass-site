@@ -10,7 +10,7 @@ schema: ["Article", "FAQPage", "BreadcrumbList"]
 
 *Rates and terms verified May 2026. We may earn a referral fee if you apply through our links — this does not affect our analysis or rankings. This guide is for informational purposes only.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -282,23 +282,23 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is accounts receivable financing the same as invoice factoring?</summary>
     <p>Accounts receivable financing is the umbrella term for both invoice factoring (selling invoices) and invoice financing/AR lines of credit (borrowing against invoices). Factoring is the most common form of AR financing for small businesses. See <a href="/compare/invoice-financing-vs-factoring/">Invoice Financing vs. Factoring</a> for a detailed comparison.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can a start-up use accounts receivable financing?</summary>
     <p>Invoice factoring is accessible to start-ups that have commercial or government customers. Because the factor evaluates your customers' creditworthiness (not yours), a new business with strong customer relationships can factor invoices without years of history. AR lines of credit typically require 1–2+ years in business.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does AR financing affect my credit score?</summary>
     <p>Invoice factoring typically involves a soft credit pull during setup — this doesn't affect your score. If the factor requires a personal guarantee, they may do a hard pull. AR lines of credit typically require a hard credit pull. Factoring companies do not typically report repayment behavior to business credit bureaus.</p>
   </details>
-  <details>
+  <details open>
     <summary>What percentage of my invoices can I factor?</summary>
     <p>That depends on the factoring agreement. Some factors require whole-ledger factoring (all invoices from a given customer must be factored — you can't cherry-pick). Others offer spot factoring (selective individual invoices). Concentration limits also apply — most factors cap how much of your AR can come from a single customer (typically 25–50%).</p>
   </details>
-  <details>
+  <details open>
     <summary>How does non-recourse factoring protect my business?</summary>
     <p>With non-recourse factoring, if a customer becomes insolvent (bankrupt or goes into receivership) and cannot pay, the factor absorbs that loss — not you. This protects businesses with significant exposure to a single large customer. Non-recourse does NOT protect against customer disputes over the underlying goods or services — if the customer refuses to pay because they claim goods were defective, you remain liable even in a non-recourse arrangement.</p>
   </details>

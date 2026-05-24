@@ -10,7 +10,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rates and terms verified via Greenbox Capital published terms and third-party lender databases. FundingCompass has no current affiliate arrangement with Greenbox Capital. This review reflects our independent assessment.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -229,23 +229,23 @@ Greenbox's published rate range and low revenue minimum are its strongest differ
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Is Greenbox Capital a direct lender?</summary>
     <p>Yes, Greenbox Capital funds from its own capital rather than brokering to third parties. This generally means fewer intermediary fees and a single point of contact. Always compare at least two offers before signing.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Greenbox Capital serve Canadian businesses?</summary>
     <p>Yes. Greenbox Capital is one of the few US-based MCA providers that explicitly serves Canadian small businesses in addition to all 50 US states.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is Greenbox Capital's minimum credit score?</summary>
     <p>Greenbox Capital works with personal credit scores as low as 500. Lower credit scores typically result in higher factor rates. Revenue consistency and bank statement history are weighted heavily alongside credit.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does Greenbox Capital report to business credit bureaus?</summary>
     <p>Greenbox Capital does not typically report repayment to major business credit bureaus. Timely repayment generally does not build your business credit profile. Confirm the reporting policy at application if this matters to your business.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I get a second advance from Greenbox Capital?</summary>
     <p>Greenbox Capital does offer renewals and subsequent advances for existing clients with positive repayment history. Renewal offers typically appear once a significant portion (often 50–70%) of the original advance has been repaid.</p>
   </details>

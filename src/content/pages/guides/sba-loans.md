@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Rate data verified via SBA.gov, Lendio, and Nav.com. SBA maximum loan amounts and guarantee percentages verified against current SBA Standard Operating Procedures.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -200,27 +200,27 @@ If you can wait 30–60 days and meet SBA eligibility criteria, the cost savings
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>How long does it take to get an SBA loan?</summary>
     <p>Timeline varies significantly by program and lender. SBA Express loans (up to $500,000) can fund in 2–4 weeks. Standard 7(a) loans typically take 30–60 days from application to funding. SBA 504 loans are the most complex and typically take 45–90 days. Using an SBA Preferred Lender (PLP) significantly reduces the timeline versus a non-preferred bank, as PLP lenders handle SBA guarantee approval in-house.</p>
   </details>
-  <details>
+  <details open>
     <summary>What credit score do I need for an SBA loan?</summary>
     <p>The SBA does not set a minimum credit score — individual lenders do. Most SBA lenders require a personal credit score of 680+. Some SBA Preferred Lenders (especially those using SBSS scoring) work with scores of 650+ for smaller loans. Scores below 650 will find SBA approval difficult regardless of other qualifications.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do I need collateral for an SBA loan?</summary>
     <p>SBA policy requires lenders to take all available collateral — business and personal — when approving loans over $25,000. This typically means a blanket lien on all business assets (equipment, inventory, receivables) and may include your personal real estate if business assets are insufficient to cover the loan amount. The SBA will not decline a loan solely due to insufficient collateral — but collateral shortfall may result in additional conditions.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can I use an SBA loan to refinance existing debt?</summary>
     <p>Yes. SBA 7(a) loans can refinance existing business debt under specific conditions: the existing debt must be on less favourable terms (higher rate, shorter term, or burdensome payment schedule), and refinancing must improve the business's cash flow. SBA loans cannot refinance existing SBA debt. Debt refinancing is one of the most valuable and underused applications of SBA 7(a) loans — particularly for businesses carrying high-rate MCA or short-term loan debt.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is the SBA guarantee fee?</summary>
     <p>The SBA charges a guarantee fee to lenders, who typically pass it on to borrowers. For 7(a) loans approved in fiscal year 2026: loans up to $1M — fee varies by loan size and term (verify current fees at sba.gov as these change annually). Loans under $150,000 have reduced or waived guarantee fees in some years. The guarantee fee is typically rolled into the loan amount and does not require upfront cash.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can a startup get an SBA loan?</summary>
     <p>Startups (under 2 years) face significantly higher barriers for SBA 7(a) loans — most lenders require 2+ years of operating history and business tax returns. The SBA Microloan program (up to $50,000) through nonprofit intermediaries is the most accessible SBA product for startups. Some lenders offer SBA loans to startups with strong business plans, industry experience, and adequate personal collateral — but approval requires a compelling case.</p>
   </details>

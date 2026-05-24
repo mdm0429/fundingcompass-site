@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026. All rates are based on provider-published rates as of May 2026.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -180,19 +180,19 @@ This example assumes the business has B2B invoices to factor. If it only has car
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Can a business use both factoring and an MCA at the same time?</summary>
     <p>Potentially, but with complications. A factoring company files a UCC-1 lien on your accounts receivable. An MCA provider typically files a UCC-1 on future receivables and all business assets. These competing liens may conflict. In practice, many businesses do carry both simultaneously — but both providers need to be aware of each other, and running both means combined holdbacks that can squeeze daily cash flow severely.</p>
   </details>
-  <details>
+  <details open>
     <summary>Which is faster — factoring or an MCA?</summary>
     <p>Both are fast relative to bank financing. MCAs are typically faster: 24–48 hours from application to funding with minimal documentation. Factoring initial setup takes 3–7 days (the factor needs to credit-check your customers and set up the account). After setup, subsequent invoice funding takes 24–48 hours. If speed is the only criterion, MCAs win. If this is not your first time with a factor (account already established), factoring is equally fast.</p>
   </details>
-  <details>
+  <details open>
     <summary>Does invoice factoring work for businesses that also take credit card payments?</summary>
     <p>Yes. A business can have both B2B invoice revenue (factorable) and B2C credit card revenue (not factorable). Factoring applies only to the B2B invoice portion. There is no conflict between factoring your B2B invoices and accepting credit cards for retail sales — they are separate revenue streams with separate financing mechanics.</p>
   </details>
-  <details>
+  <details open>
     <summary>Is an MCA ever cheaper than factoring?</summary>
     <p>In terms of effective APR, almost never — MCA rates are structurally higher. However, effective APR comparison is not always the right lens. If factoring would cost $1,800 on a $50,000 need but you only have $30,000 in outstanding invoices, factoring only solves 60% of the problem — and the remaining $20,000 may require an MCA regardless. Think of them as complementary tools for different parts of a capital need, not pure substitutes.</p>
   </details>

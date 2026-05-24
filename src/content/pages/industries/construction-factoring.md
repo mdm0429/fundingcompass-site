@@ -10,7 +10,7 @@ schema: ["FAQPage", "Article", "BreadcrumbList"]
 
 *Last reviewed: May 2026 — Advance rates and terms verified via Riviera Finance, Paragon Financial Group, and InterNex Capital published schedules.*
 
-<div class="callout callout--info">
+<div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
   <div class="callout__body">
     <ul>
@@ -185,27 +185,27 @@ Executing a lien waiver waives your right to file a mechanic's lien against the 
 
 <section class="faq-section" aria-label="Frequently Asked Questions">
   <h2>Frequently Asked Questions</h2>
-  <details>
+  <details open>
     <summary>Can a general contractor (GC) factor invoices?</summary>
     <p>It is rare. Most construction factors focus on subcontractors because the payment chain is more direct — subcontractor invoices the GC, factor collects from GC. GC invoices go to project owners, who may issue joint checks, have retention disputes, or require architect certification — adding complexity that most factors decline. Some specialty factors work with GCs on smaller residential or commercial projects.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is retainage and can it be factored?</summary>
     <p>Retainage is the 5–10% of each progress payment that the owner or GC withholds until the project is substantially complete (and sometimes for a further defect liability period). Most factors will not advance on retainage because it is contingent on project completion — potentially months away. Some specialised lenders offer retainage financing separately, at higher rates (often 15–30% APR), given the uncertainty of timing.</p>
   </details>
-  <details>
+  <details open>
     <summary>Do I need to notify my GC that I'm factoring my invoices?</summary>
     <p>Yes. The factor issues a Notice of Assignment to your GC, directing payment to the factor rather than to you. In construction, this is less universally accepted than in freight or staffing — some GCs have payment policies that complicate factoring. Discuss the Notice of Assignment with your GC before submitting your first invoice to a factor.</p>
   </details>
-  <details>
+  <details open>
     <summary>How does construction factoring interact with payment bonds?</summary>
     <p>If a project has a payment bond (common on public works), unpaid subcontractors have bond claims in addition to (or instead of) lien rights. Factoring does not directly affect your bond claim rights, but assigning your receivables to a factor may complicate bond claim procedures. Consult a construction attorney familiar with your state's bond claim rules before factoring on bonded projects.</p>
   </details>
-  <details>
+  <details open>
     <summary>What is a joint check agreement and how does it affect factoring?</summary>
     <p>A joint check agreement requires the GC to issue checks payable jointly to you and your material supplier — ensuring the supplier is paid and preventing supplier liens. Joint checks complicate factoring because the check cannot be deposited by the factor alone — both parties must endorse it. Some construction factors will work around joint check arrangements; others will decline the invoice. Disclose any joint check agreements upfront.</p>
   </details>
-  <details>
+  <details open>
     <summary>Can construction companies with tax liens get factoring?</summary>
     <p>IRS tax liens create a priority claim on your receivables that generally blocks factoring — the IRS must be paid before the factor can collect. Some construction factors work with businesses on IRS payment plans, but the factor will require written confirmation from the IRS that the payment plan is in good standing and that the IRS will subordinate its lien to the factor's security interest. This is possible but requires additional steps and may take 2–4 weeks to arrange.</p>
   </details>
