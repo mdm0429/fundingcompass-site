@@ -27,7 +27,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">RV</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/rivierafinance.com" alt="Riviera Finance logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">Riviera Finance</div>
         <div class="cta-unit__category">Invoice Factoring</div>

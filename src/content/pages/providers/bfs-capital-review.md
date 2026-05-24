@@ -27,7 +27,7 @@ schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 <div class="cta-unit">
   <div class="cta-unit__header">
     <div class="cta-unit__logo-area">
-      <div class="cta-unit__logo cta-unit__logo--text">BFS</div>
+      <div class="cta-unit__logo cta-unit__logo--image"><img src="https://logo.clearbit.com/bfscapital.com" alt="BFS Capital logo" loading="lazy" width="48" height="48"></div>
       <div>
         <div class="cta-unit__name">BFS Capital</div>
         <div class="cta-unit__category">MCA Provider</div>
