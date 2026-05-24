@@ -1572,47 +1572,19 @@ article a.btn--accent:hover {
 
   /* ── 4. Tables — scroll, not shrink ───────────────────── */
   /* The old rule was: table { font-size: var(--text-xs) } which shrank text
-     to illegible size. Tables now scroll horizontally at full readability. */
-
-  /* Scroll-shadow hint — fades at right edge to signal scrollability */
-  .table-wrap,
-  .comp-table-wrap {
-    background:
-      linear-gradient(to right, var(--surface-default) 20px, transparent),
-      linear-gradient(to left,  var(--surface-default) 20px, transparent),
-      linear-gradient(to right, rgba(0,0,0,0.07), transparent 16px),
-      linear-gradient(to left,  rgba(0,0,0,0.07), transparent 16px);
-    background-position: left center, right center, left center, right center;
-    background-repeat:   no-repeat;
-    background-size:     30px 100%, 30px 100%, 16px 100%, 16px 100%;
-    background-attachment: local, local, scroll, scroll;
-  }
-
-  /* Tables keep readable size — never shrink below 14px */
+     to illegible size. Tables now scroll horizontally at full readability.
+     IMPORTANT: do NOT use background-attachment: local/scroll here — that
+     CSS scroll-shadow trick breaks overflow-x:auto scroll containers on
+     iOS Safari. Keep the wrapper rules simple. */
   table,
   .comp-table { font-size: 0.875rem; }
 
-  /* Freeze first column of comparison tables so row identity stays visible
-     while the user scrolls horizontally */
-  .comp-table th:first-child,
-  .comp-table td:first-child {
-    position: sticky;
-    left: 0;
-    z-index: 2;
-    background: var(--surface-default);
-    box-shadow: 2px 0 6px rgba(0,0,0,0.06);
-  }
-  .comp-table thead th:first-child {
-    background: var(--surface-tinted);
-    z-index: 3;
-  }
-
-  /* Calc tables (label|value) don't scroll — no sticky/shadow needed */
-  .comp-table--calc th:first-child,
-  .comp-table--calc td:first-child {
-    position: static;
-    box-shadow: none;
-    background: transparent;
+  /* Ensure wrappers never exceed the viewport and always scroll internally */
+  .table-wrap,
+  .comp-table-wrap {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
   }
 
   /* ── 5. Card grids → single column ────────────────────── */
