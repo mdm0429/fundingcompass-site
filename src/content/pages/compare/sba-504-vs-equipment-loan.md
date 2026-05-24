@@ -136,21 +136,27 @@ Conventional equipment loans are simpler: one lender, one loan, secured by the e
 
 The SBA 504 advantage grows with loan size. Let's compare both options on a $500,000 equipment purchase:
 
-<pre><code>Option A — Conventional Equipment Loan
-  Down payment:     $50,000 (10%)
-  Loan amount:      $450,000
-  Rate:             9% APR, 60 months
-  Monthly:          $9,334
-  Total interest:   $60,040 over 5 years
-
-Option B — SBA 504
-  Down payment:     $50,000 (10%)
-  Bank first (50%): $250,000 @ 8%, 10yr  → $3,034/mo
-  SBA/CDC (40%):    $200,000 @ 6%, 10yr  → $2,220/mo
-  Combined monthly: $5,254
-  Total interest:   ~$90,480 over 10 years
-
-Monthly savings with SBA 504: ~$4,080/month vs. conventional 5-year loan</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Option A — Conventional Equipment Loan</td></tr>
+      <tr><td>Down payment</td><td class="td-num">$50,000 (10%)</td></tr>
+      <tr><td>Loan amount</td><td class="td-num">$450,000</td></tr>
+      <tr><td>Rate</td><td class="td-num">9% APR, 60 months</td></tr>
+      <tr><td>Monthly</td><td class="td-num">$9,334</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total interest</td><td class="td-num">$60,040 over 5 years</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Option B — SBA 504</td></tr>
+      <tr><td>Down payment</td><td class="td-num">$50,000 (10%)</td></tr>
+      <tr><td>Bank first (50%)</td><td class="td-num">$250,000 @ 8%, 10yr  → $3,034/mo</td></tr>
+      <tr><td>SBA/CDC (40%)</td><td class="td-num">$200,000 @ 6%, 10yr  → $2,220/mo</td></tr>
+      <tr><td>Combined monthly</td><td class="td-num">$5,254</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total interest</td><td class="td-num">~$90,480 over 10 years</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td>Monthly savings with SBA 504</td><td class="td-num">~$4,080/month vs. conventional 5-year loan</td></tr>
+    </tbody>
+  </table>
+</div>
 
 In this example, SBA 504 has a lower monthly payment ($5,254 vs $9,334) primarily because of the longer term (10 years vs 5 years). On a pure rate basis — comparing effective APR (the annualized cost of financing, accounting for all fees and repayment speed) — both are competitive. The real advantage shows for long-lived equipment where you want the certainty of a 10-year fixed rate on 40% of the purchase.
 

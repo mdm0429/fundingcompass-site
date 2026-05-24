@@ -132,12 +132,18 @@ The GC pays the factor on their normal schedule. Construction payment terms are 
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Approved progress billing:  $80,000
-Less 10% retainage (GC):    -$8,000
-Factorable amount:          $72,000
-Advance rate (80%):         $57,600  upfront within 2–5 days
-Factoring fee (3%):         -$2,160  per 30-day period
-Reserve release (at GC pay):  $72,000 − $57,600 − $2,160 = $12,240</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Approved progress billing</td><td class="td-num">$80,000</td></tr>
+      <tr><td>Less 10% retainage (GC)</td><td class="td-num">-$8,000</td></tr>
+      <tr><td>Factorable amount</td><td class="td-num">$72,000</td></tr>
+      <tr><td>Advance rate (80%)</td><td class="td-num">$57,600  upfront within 2–5 days</td></tr>
+      <tr><td>Factoring fee (3%)</td><td class="td-num">-$2,160  per 30-day period</td></tr>
+      <tr><td>Reserve release (at GC pay)</td><td class="td-num">$72,000 − $57,600 − $2,160 = $12,240</td></tr>
+    </tbody>
+  </table>
+</div>
   </div>
 </div>
 

@@ -67,13 +67,19 @@ Factors approve invoices based on your customers' ability to pay — not yours. 
 
 Not all invoices are factorable. Factors have strict requirements about what invoices they will purchase. Review these before submitting.
 
-<pre><code>Invoice eligibility quick reference:
-  Invoice type:      B2B or B2G only (no consumer invoices)
-  Work status:       Completed and delivered before invoicing
-  Invoice age max:   60–90 days from invoice date (factor-specific)
-  Dispute status:    No disputed or deducted invoices
-  Advance rate:      80–97% of face value (industry-dependent)
-  Reserve release:   After customer pays, minus factoring fee</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Invoice eligibility quick reference</td></tr>
+      <tr><td>Invoice type</td><td>B2B or B2G only (no consumer invoices)</td></tr>
+      <tr><td>Work status</td><td>Completed and delivered before invoicing</td></tr>
+      <tr><td>Invoice age max</td><td class="td-num">60–90 days from invoice date (factor-specific)</td></tr>
+      <tr><td>Dispute status</td><td>No disputed or deducted invoices</td></tr>
+      <tr><td>Advance rate</td><td class="td-num">80–97% of face value (industry-dependent)</td></tr>
+      <tr><td>Reserve release</td><td>After customer pays, minus factoring fee</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <ul>
   <li><strong>Work must be completed before invoicing</strong> — factors do not advance against invoices for work not yet delivered, partially delivered, or conditional on future performance</li>

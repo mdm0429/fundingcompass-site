@@ -75,9 +75,15 @@ schema: ["FAQPage", "BreadcrumbList"]
 <summary>What is the effective APR of invoice factoring?</summary>
 <p>Effective APR for invoice factoring typically falls in the 18–60% range, though it can exceed 100% on short invoices with high fees. The formula: (Fee Rate ÷ Days to Payment) × 365.
 
-<pre><code>Example: 3% fee on a 30-day invoice
-= (0.03 ÷ 30) × 365
-= 36.5% APR</code></pre> Compare this against a business line of credit at 8–25% APR. Factoring is more expensive than most bank products but faster and accessible to businesses that cannot qualify for bank financing.</p>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Example</td><td class="td-num">3% fee on a 30-day invoice</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">= (0.03 ÷ 30) × 365</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">= 36.5% APR</td></tr>
+    </tbody>
+  </table>
+</div> Compare this against a business line of credit at 8–25% APR. Factoring is more expensive than most bank products but faster and accessible to businesses that cannot qualify for bank financing.</p>
 </details>
 
 <details open>

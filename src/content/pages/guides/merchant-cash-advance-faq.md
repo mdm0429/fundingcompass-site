@@ -70,13 +70,19 @@ schema: ["FAQPage", "BreadcrumbList"]
 <summary>What is the effective APR of a merchant cash advance?</summary>
 <p>Effective APR for MCAs typically falls in the 40–350% range, though extreme cases can exceed 400%. The calculation: (Total Fee ÷ Advance Amount) ÷ Estimated Days to Repay × 365.
 
-<pre><code>Advance:          $100,000
-Factor rate:      1.30
-Total repayment:  $130,000
-Total fee:        $30,000
-
-180-day repayment → ($30,000 ÷ $100,000) ÷ 180 × 365 = 60.8% APR
- 90-day repayment → ($30,000 ÷ $100,000) ÷  90 × 365 = 121.7% APR</code></pre> Faster repayment means higher APR — this is why MCAs that renew frequently are especially expensive.</p>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Advance</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Factor rate</td><td class="td-num">1.30</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total repayment</td><td class="td-num">$130,000</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total fee</td><td class="td-num">$30,000</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">180-day repayment → ($30,000 ÷ $100,000) ÷ 180 × 365 = 60.8% APR</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">90-day repayment → ($30,000 ÷ $100,000) ÷  90 × 365 = 121.7% APR</td></tr>
+    </tbody>
+  </table>
+</div> Faster repayment means higher APR — this is why MCAs that renew frequently are especially expensive.</p>
 </details>
 
 <details open>

@@ -527,6 +527,69 @@ td.apply-cell {
   white-space: nowrap;
 }
 
+/* Numeric value column — right-aligned, tabular figures */
+td.td-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+
+/* ── Comparison / calculation tables ─────────────────────── */
+/* Used by comp-table HTML in content pages (comparison pages,
+   inline example calculations, provider tables) */
+.comp-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: var(--space-5) 0 var(--space-6);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-lg);
+}
+
+.comp-table {
+  width: 100%;
+  min-width: 380px;
+  border-collapse: collapse;
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  background: var(--surface-default);
+}
+
+.comp-table th {
+  background: var(--surface-tinted);
+  color: var(--text-tertiary);
+  font-weight: var(--weight-bold);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+  padding: var(--space-3) var(--space-4);
+  text-align: left;
+  border-bottom: 2px solid var(--border-default);
+  white-space: nowrap;
+}
+
+.comp-table td {
+  padding: var(--space-3) var(--space-4);
+  border-bottom: 1px solid var(--border-default);
+  vertical-align: middle;
+  color: var(--text-primary);
+}
+
+.comp-table tr:last-child td { border-bottom: none; }
+.comp-table tbody tr:hover td { background: var(--surface-muted); }
+
+/* 2-column calc variant — no forced min-width (label | value) */
+.comp-table--calc { min-width: unset; }
+
+/* First column of calc tables: label text, not bold */
+.comp-table--calc td:first-child {
+  color: var(--text-secondary);
+  width: 55%;
+}
+
+/* Value column right-aligns */
+.comp-table--calc td.td-num { text-align: right; }
+
 
 /* ── Lists ────────────────────────────────────────────────── */
 ul, ol {

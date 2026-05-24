@@ -84,14 +84,20 @@ The MCA provider advances a lump sum. Repayment is a fixed percentage of your da
 
 ### Repayment Calculation
 
-<pre><code>Advance amount:           $40,000
-Factor rate:              1.35
-Total repayment:          $54,000  ($40,000 × 1.35)
-Daily card sales:         $3,000
-Holdback rate:            15%
-Daily holdback:           $450     ($3,000 × 15%)
-Days to repay:            120      ($54,000 ÷ $450)
-Effective APR:            ~106%</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Advance amount</td><td class="td-num">$40,000</td></tr>
+      <tr><td>Factor rate</td><td class="td-num">1.35</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total repayment</td><td class="td-num">$54,000  ($40,000 × 1.35)</td></tr>
+      <tr><td>Daily card sales</td><td class="td-num">$3,000</td></tr>
+      <tr><td>Holdback rate</td><td class="td-num">15%</td></tr>
+      <tr><td>Daily holdback</td><td class="td-num">$450     ($3,000 × 15%)</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Days to repay</td><td class="td-num">120      ($54,000 ÷ $450)</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~106%</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ### The Slow-Day Illusion
 

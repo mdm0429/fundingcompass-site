@@ -217,12 +217,18 @@ If you are here because you have been quoted an MCA or factoring arrangement, co
 | Invoice factoring at 2%/30 days | $4,000–$6,000 |
 | MCA at 1.35 factor rate | $35,000 (total cost regardless of timing) |
 
-<pre><code>$100,000 borrowing need — 60-day cost comparison:
-
-SBA 7(a) at 12% APR:      $1,973
-Equipment financing at 15% APR:  $2,466
-Invoice factoring at 2%/30 days:  $4,000–$6,000
-MCA at 1.35 factor rate:  $35,000 (fixed total cost)</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">$100,000 borrowing need — 60-day cost comparison</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td>SBA 7(a) at 12% APR</td><td class="td-num">$1,973</td></tr>
+      <tr><td>Equipment financing at 15% APR</td><td class="td-num">$2,466</td></tr>
+      <tr><td>Invoice factoring at 2%/30 days</td><td class="td-num">$4,000–$6,000</td></tr>
+      <tr><td>MCA at 1.35 factor rate</td><td class="td-num">$35,000 (fixed total cost)</td></tr>
+    </tbody>
+  </table>
+</div>
 
 If you can wait 30–60 days and meet SBA eligibility criteria, the cost savings are significant enough to justify the patience.
 

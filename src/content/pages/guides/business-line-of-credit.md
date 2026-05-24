@@ -137,14 +137,20 @@ A line of credit is not a term loan. There is no fixed repayment schedule — yo
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A wholesale distributor draws $40,000 from a $75,000 business LOC at 18% APR to cover a 45-day inventory gap before a major seasonal order is paid.</p>
-<pre><code>Amount drawn:             $40,000
-APR:                      18%
-Draw period:              45 days
-Interest:                 $40,000 × 18% ÷ 365 × 45 = ~$888
-Effective APR:            18%
-
-MCA alternative (1.30 factor rate):  $12,000 in fees
-LOC savings vs. MCA:      $11,112</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Amount drawn</td><td class="td-num">$40,000</td></tr>
+      <tr><td>APR</td><td class="td-num">18%</td></tr>
+      <tr><td>Draw period</td><td class="td-num">45 days</td></tr>
+      <tr><td>Interest</td><td class="td-num">$40,000 × 18% ÷ 365 × 45 = ~$888</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">18%</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td>MCA alternative (1.30 factor rate)</td><td class="td-num">$12,000 in fees</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>LOC savings vs. MCA</td><td class="td-num">$11,112</td></tr>
+    </tbody>
+  </table>
+</div>
     <p>The same operating capital need from an MCA at a 1.30 factor rate would cost $12,000 in fees — $11,112 more for the identical cash amount.</p>
   </div>
 </div>

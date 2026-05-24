@@ -61,11 +61,17 @@ This glossary defines 40 terms that appear in factoring agreements, equipment lo
 <dt>Daily Factor Rate</dt>
 <dd>The per-day cost of an MCA expressed as a percentage of the advance amount. To convert a factor rate to a daily rate: (Factor Rate − 1) ÷ Estimated Days to Repay.
 
-<pre><code>Example:
-  Factor rate:             1.30
-  Estimated repayment:     120 days
-  Daily rate:  0.30 ÷ 120 = 0.25% per day
-  Annualized:  0.25% × 365 = 91.25% APR</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Example</td></tr>
+      <tr><td>Factor rate</td><td class="td-num">1.30</td></tr>
+      <tr><td>Estimated repayment</td><td class="td-num">120 days</td></tr>
+      <tr><td>Daily rate</td><td class="td-num">0.30 ÷ 120 = 0.25% per day</td></tr>
+      <tr><td>Annualized</td><td class="td-num">0.25% × 365 = 91.25% APR</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Daily factor rates are useful for comparing MCAs with different terms, but estimates depend on assumed repayment duration — which is not guaranteed.</dd>
 

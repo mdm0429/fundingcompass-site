@@ -135,11 +135,17 @@ Government contractor factoring is generally **less expensive than commercial fa
 
 ### Cost Example
 
-<pre><code>Monthly invoicing:         $100,000
-Advance rate (90%):        $90,000   received immediately
-Factoring fee (2%/30 days):  $100,000 × 2% × (35/30) = $2,333
-Agency pays in 35 days
-Reserve released:          $100,000 − $90,000 − $2,333 = $7,667</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Monthly invoicing</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance rate (90%)</td><td class="td-num">$90,000   received immediately</td></tr>
+      <tr><td>Factoring fee (2%/30 days)</td><td class="td-num">$100,000 × 2% × (35/30) = $2,333</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Agency pays in 35 days</td></tr>
+      <tr><td>Reserve released</td><td class="td-num">$100,000 − $90,000 − $2,333 = $7,667</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <dl>
   <dt>Assignment of Claims Act (31 U.S.C. § 3727)</dt>
@@ -157,11 +163,17 @@ Reserve released:          $100,000 − $90,000 − $2,333 = $7,667</code></pre>
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly invoicing (civilian agency):  $100,000
-Advance rate (90%):        $90,000  upfront
-Factoring fee (2%/30 days):  $2,000   per period
-Prorated fee if agency pays day 35:  $2,333
-Reserve release at payment:  $7,667</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Monthly invoicing (civilian agency)</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance rate (90%)</td><td class="td-num">$90,000  upfront</td></tr>
+      <tr><td>Factoring fee (2%/30 days)</td><td class="td-num">$2,000   per period</td></tr>
+      <tr><td>Prorated fee if agency pays day 35</td><td class="td-num">$2,333</td></tr>
+      <tr><td>Reserve release at payment</td><td class="td-num">$7,667</td></tr>
+    </tbody>
+  </table>
+</div>
   </div>
 </div>
 

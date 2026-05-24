@@ -174,12 +174,18 @@ FSA loans are best for beginning farmers, small and minority farming operations,
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Equipment:                $350,000 combine harvester
-APR / term:               6.5% APR over 84 months
-Semi-annual payment:      ~$34,200 (May planting + November post-harvest)
-vs. equal monthly:        ~$5,260/month
-Section 179 deduction:    $350,000
-Tax savings (28% rate):   ~$98,000</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Equipment</td><td class="td-num">$350,000 combine harvester</td></tr>
+      <tr><td>APR / term</td><td class="td-num">6.5% APR over 84 months</td></tr>
+      <tr><td>Semi-annual payment</td><td class="td-num">~$34,200 (May planting + November post-harvest)</td></tr>
+      <tr><td>vs. equal monthly</td><td class="td-num">~$5,260/month</td></tr>
+      <tr><td>Section 179 deduction</td><td class="td-num">$350,000</td></tr>
+      <tr><td>Tax savings (28% rate)</td><td class="td-num">~$98,000</td></tr>
+    </tbody>
+  </table>
+</div>
 <p>The semi-annual structure better matches the farm's cash flow cycle compared to equal monthly payments.</p>
   </div>
 </div>

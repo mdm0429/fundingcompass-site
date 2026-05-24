@@ -170,21 +170,27 @@ In most B2B contexts, factoring carries no stigma — it's a common working capi
 
 **Choose invoice financing if:** preserving your customer payment relationship is critical (professional services, consulting, high-touch B2B), you have strong business credit and 1–2+ years of history, or you prefer a revolving line of credit structure over per-invoice transactions.
 
-<pre><code>Staffing agency — $80,000/month outstanding invoices, customers paying at 45 days
-
-Option A — Invoice Factoring (2.5% fee, 90% advance)
-  Advance:        $72,000 upfront (90% of $80,000)
-  Fee:            $2,000 (2.5% × 1.5 periods)
-  Collections:    Factor handles; customer pays factor directly
-  Effective APR:  ~20% annualized
-
-Option B — Invoice Financing (0.04%/day, 80% advance)
-  Advance:        $64,000 upfront (80% of $80,000)
-  Interest:       $1,440 (0.04%/day × 45 days × $80,000)
-  Collections:    You collect; customer never knows
-  Effective APR:  ~14.6% annualized
-
-Factoring advantage: $8,000 more upfront cash for $560 more in fees</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Staffing agency — $80,000/month outstanding invoices, customers paying at 45 days</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Option A — Invoice Factoring (2.5% fee, 90% advance)</td></tr>
+      <tr><td>Advance</td><td class="td-num">$72,000 upfront (90% of $80,000)</td></tr>
+      <tr><td>Fee</td><td class="td-num">$2,000 (2.5% × 1.5 periods)</td></tr>
+      <tr><td>Collections</td><td>Factor handles; customer pays factor directly</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~20% annualized</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Option B — Invoice Financing (0.04%/day, 80% advance)</td></tr>
+      <tr><td>Advance</td><td class="td-num">$64,000 upfront (80% of $80,000)</td></tr>
+      <tr><td>Interest</td><td class="td-num">$1,440 (0.04%/day × 45 days × $80,000)</td></tr>
+      <tr><td>Collections</td><td>You collect; customer never knows</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~14.6% annualized</td></tr>
+      <tr class="comp-table__gap"><td colspan="2" style="padding:0;height:6px;background:transparent;border:none"></td></tr>
+      <tr><td>Factoring advantage</td><td class="td-num">$8,000 more upfront cash for $560 more in fees</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <div class="callout callout--tip">
   <strong class="callout__title">Example Calculation</strong>

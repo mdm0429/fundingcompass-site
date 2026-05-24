@@ -166,23 +166,35 @@ With invoice financing, you borrow money using your outstanding invoices as coll
 
 ### Factoring Fee Example
 
-<pre><code>Invoice value:            $100,000
-Advance (90%):            $90,000
-Customer pays in:         45 days
-Fee (2% × 1.5 mo):        $3,000
-Reserve released:         $100,000 − $90,000 − $3,000 = $7,000
-Total cost:               $3,000 (3% of invoice value)
-Effective APR:            ~24%</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Invoice value</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance (90%)</td><td class="td-num">$90,000</td></tr>
+      <tr><td>Customer pays in</td><td class="td-num">45 days</td></tr>
+      <tr><td>Fee (2% × 1.5 mo)</td><td class="td-num">$3,000</td></tr>
+      <tr><td>Reserve released</td><td class="td-num">$100,000 − $90,000 − $3,000 = $7,000</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total cost</td><td class="td-num">$3,000 (3% of invoice value)</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~24%</td></tr>
+    </tbody>
+  </table>
+</div>
 
 ### AR Line of Credit Example
 
-<pre><code>Invoice value:            $100,000
-Advance (80%):            $80,000
-Daily rate:               0.04%/day
-Customer pays in:         45 days
-Interest:                 $80,000 × 0.04% × 45 = $1,440
-Total cost:               $1,440+ (approx. 1.8% of invoice value)
-Effective APR:            ~14–18% depending on fees</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Invoice value</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance (80%)</td><td class="td-num">$80,000</td></tr>
+      <tr><td>Daily rate</td><td class="td-num">0.04%/day</td></tr>
+      <tr><td>Customer pays in</td><td class="td-num">45 days</td></tr>
+      <tr><td>Interest</td><td class="td-num">$80,000 × 0.04% × 45 = $1,440</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total cost</td><td class="td-num">$1,440+ (approx. 1.8% of invoice value)</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~14–18% depending on fees</td></tr>
+    </tbody>
+  </table>
+</div>
 
 AR lines of credit can be cheaper than factoring if your customers pay quickly and you have adequate credit to qualify. For slower-paying customers (60–90 days), the cost differential narrows.
 
@@ -190,12 +202,18 @@ AR lines of credit can be cheaper than factoring if your customers pay quickly a
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A government contractor factors a $100,000 invoice at a 90% advance rate with a 2% factoring fee per 30 days. The customer pays in 45 days.</p>
-<pre><code>Invoice value:            $100,000
-Advance (90%):            $90,000
-Customer pays in:         45 days
-Fee (2% × 1.5 mo):        $3,000
-Reserve released:         $7,000
-Effective APR:            ~24%</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Invoice value</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance (90%)</td><td class="td-num">$90,000</td></tr>
+      <tr><td>Customer pays in</td><td class="td-num">45 days</td></tr>
+      <tr><td>Fee (2% × 1.5 mo)</td><td class="td-num">$3,000</td></tr>
+      <tr><td>Reserve released</td><td class="td-num">$7,000</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~24%</td></tr>
+    </tbody>
+  </table>
+</div>
     <p>An AR line of credit on the same invoice at 0.04%/day over 45 days costs approximately $1,620 — about 46% cheaper, but requires 1–2+ years in business and a 600+ credit score to qualify.</p>
   </div>
 </div>

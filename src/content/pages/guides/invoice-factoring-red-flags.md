@@ -67,11 +67,17 @@ The factoring fee is typically the smallest source of surprise cost. The contrac
 
 **Why it matters:** Minimum volume penalties turn a variable-cost financing tool into a fixed-cost obligation. If your business is seasonal, project-based, or growing unpredictably, you may have months where you have little to factor — but still owe the minimum fee.
 
-<pre><code>Example: minimum volume penalty impact
-  Monthly minimum:       $50,000 factored
-  Shortfall penalty:     1% of unfactored amount
-  Fee on a zero-volume month: $500
-  Over 12 slow months:   $6,000 in fees for access you didn't use</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Example</td><td>minimum volume penalty impact</td></tr>
+      <tr><td>Monthly minimum</td><td class="td-num">$50,000 factored</td></tr>
+      <tr><td>Shortfall penalty</td><td class="td-num">1% of unfactored amount</td></tr>
+      <tr><td>Fee on a zero-volume month</td><td class="td-num">$500</td></tr>
+      <tr><td>Over 12 slow months</td><td class="td-num">$6,000 in fees for access you didn't use</td></tr>
+    </tbody>
+  </table>
+</div>
 
 **What to ask instead:** "Is there a minimum monthly or quarterly factoring volume requirement? If so, what is the penalty for falling short, and is there any grace period or waiver for slow months?"
 

@@ -116,12 +116,18 @@ Wholesale distributors often have high invoice volumes but concentration in a sm
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly invoices (grocery chains):  $200,000
-Advance rate (90%):       $180,000  upfront per month
-Factoring fee (2.5%):     $5,000    per 30-day period
-Concentration note: if 40% of invoices go to one chain,
-  that account is capped at 20–25% of portfolio —
-  diversifying retailer accounts maximizes available funding.</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Monthly invoices (grocery chains)</td><td class="td-num">$200,000</td></tr>
+      <tr><td>Advance rate (90%)</td><td class="td-num">$180,000  upfront per month</td></tr>
+      <tr><td>Factoring fee (2.5%)</td><td class="td-num">$5,000    per 30-day period</td></tr>
+      <tr><td>Concentration note</td><td>if 40% of invoices go to one chain,</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">that account is capped at 20–25% of portfolio —</td></tr>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">diversifying retailer accounts maximizes available funding.</td></tr>
+    </tbody>
+  </table>
+</div>
   </div>
 </div>
 

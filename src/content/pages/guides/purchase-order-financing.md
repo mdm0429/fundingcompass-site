@@ -132,15 +132,21 @@ PO financing is more expensive than most business financing because the lender t
 
 **Cost example:**
 
-<pre><code>Customer PO:              $500,000
-Supplier cost (60%):      $300,000   (40% gross margin)
-PO financier advances:    $300,000
-Production + shipping:    6 weeks
-Customer terms:           net-30
-Total financing period:   ~10 weeks (2.5 months)
-Fee (4%/mo × 2.5 mo):    10% × $300,000 = $30,000
-Gross margin:             $200,000
-Net profit after fees:    $200,000 − $30,000 = $170,000</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Customer PO</td><td class="td-num">$500,000</td></tr>
+      <tr><td>Supplier cost (60%)</td><td class="td-num">$300,000   (40% gross margin)</td></tr>
+      <tr><td>PO financier advances</td><td class="td-num">$300,000</td></tr>
+      <tr><td>Production + shipping</td><td class="td-num">6 weeks</td></tr>
+      <tr><td>Customer terms</td><td>net-30</td></tr>
+      <tr><td>Total financing period</td><td class="td-num">~10 weeks (2.5 months)</td></tr>
+      <tr><td>Fee (4%/mo × 2.5 mo)</td><td class="td-num">10% × $300,000 = $30,000</td></tr>
+      <tr><td>Gross margin</td><td class="td-num">$200,000</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Net profit after fees</td><td class="td-num">$200,000 − $30,000 = $170,000</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Without PO financing, this order couldn't be fulfilled at all if you didn't have $300,000 in cash. A $170,000 profit is worth $30,000 in financing fees.
 
@@ -150,12 +156,18 @@ Without PO financing, this order couldn't be fulfilled at all if you didn't have
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A consumer goods importer wins a $500,000 purchase order from a major national retailer. Supplier cost is $300,000 (40% gross margin). The PO financier pays the supplier directly; production and shipping takes 6 weeks, and the retailer has net-30 (your customer has 30 days to pay) terms — a total financing period of approximately 10 weeks (2.5 months).</p>
-<pre><code>Customer PO:              $500,000
-Supplier cost:            $300,000   (40% gross margin)
-Amount advanced:          $300,000
-Fee (4%/mo × 2.5 mo):    10% × $300,000 = $30,000
-Gross margin:             $200,000
-Net profit after fees:    $200,000 − $30,000 = $170,000</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Customer PO</td><td class="td-num">$500,000</td></tr>
+      <tr><td>Supplier cost</td><td class="td-num">$300,000   (40% gross margin)</td></tr>
+      <tr><td>Amount advanced</td><td class="td-num">$300,000</td></tr>
+      <tr><td>Fee (4%/mo × 2.5 mo)</td><td class="td-num">10% × $300,000 = $30,000</td></tr>
+      <tr><td>Gross margin</td><td class="td-num">$200,000</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Net profit after fees</td><td class="td-num">$200,000 − $30,000 = $170,000</td></tr>
+    </tbody>
+  </table>
+</div>
     <p>Without PO financing, the order would be declined due to insufficient cash — making a $170,000 profit worth $30,000 in financing fees for this transaction.</p>
   </div>
 </div>

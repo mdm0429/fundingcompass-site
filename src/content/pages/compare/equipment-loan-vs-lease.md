@@ -100,12 +100,18 @@ An equipment loan is a fixed-term loan secured by the equipment itself. The lend
 - Rate: Fixed APR, typically 5–20% depending on credit, lender, and equipment
 - Collateral: The equipment itself secures the loan (no additional collateral typically required for standard equipment)
 
-<pre><code>Equipment Loan — $100,000 purchase, 0% down, 60 months, 8% APR
-  Loan amount:    $100,000
-  Monthly:        $2,028
-  Total payments: $121,680
-  Total interest: $21,680
-  Ownership:      Yes, from day one</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">Equipment Loan — $100,000 purchase, 0% down, 60 months, 8% APR</td></tr>
+      <tr><td>Loan amount</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Monthly</td><td class="td-num">$2,028</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total payments</td><td class="td-num">$121,680</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total interest</td><td class="td-num">$21,680</td></tr>
+      <tr><td>Ownership</td><td>Yes, from day one</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Use the [Equipment Financing Calculator](/tools/equipment-financing-calculator/) to model your specific purchase.
 

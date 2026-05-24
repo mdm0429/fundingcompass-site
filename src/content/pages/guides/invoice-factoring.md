@@ -150,11 +150,17 @@ Invoice factoring's advance-and-reserve structure makes it a practical cash-flow
   <strong class="callout__title">Example Calculation</strong>
   <div class="callout__body">
     <p><strong>Scenario:</strong> A staffing company factors a $50,000 invoice at a 90% advance rate and a 2% fee per 30-day period. The customer pays on net-45 terms.</p>
-<pre><code>Invoice value:            $50,000
-Advance (90%):            $45,000
-Fee (2% × 1.5 mo):        $1,500
-Reserve released:         $3,500
-Effective APR:            ~24% (net-45 terms)</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Invoice value</td><td class="td-num">$50,000</td></tr>
+      <tr><td>Advance (90%)</td><td class="td-num">$45,000</td></tr>
+      <tr><td>Fee (2% × 1.5 mo)</td><td class="td-num">$1,500</td></tr>
+      <tr><td>Reserve released</td><td class="td-num">$3,500</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~24% (net-45 terms)</td></tr>
+    </tbody>
+  </table>
+</div>
     <p>Compare to a business line of credit at 12–15% APR — factoring costs more but funds in 24 hours with no credit score requirement for your business.</p>
   </div>
 </div>

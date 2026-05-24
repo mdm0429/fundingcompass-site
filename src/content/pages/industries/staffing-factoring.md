@@ -122,12 +122,18 @@ Your client pays the factor on their normal terms. The factor collects directly.
 <div class="callout callout--info">
   <strong class="callout__title">Example</strong>
   <div class="callout__body">
-<pre><code>Monthly client invoices:   $100,000
-Advance rate:             90%
-Upfront advance:          $90,000  (within 24 hours)
-Factoring fee (2%):       $2,000   per 30-day period
-Back-office add-on (~1%): +$900    (Capital Plus full back-office)
-Total monthly cost:       $2,900</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Monthly client invoices</td><td class="td-num">$100,000</td></tr>
+      <tr><td>Advance rate</td><td class="td-num">90%</td></tr>
+      <tr><td>Upfront advance</td><td class="td-num">$90,000  (within 24 hours)</td></tr>
+      <tr><td>Factoring fee (2%)</td><td class="td-num">$2,000   per 30-day period</td></tr>
+      <tr><td>Back-office add-on (~1%)</td><td class="td-num">+$900    (Capital Plus full back-office)</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total monthly cost</td><td class="td-num">$2,900</td></tr>
+    </tbody>
+  </table>
+</div>
   </div>
 </div>
 

@@ -96,12 +96,18 @@ PO financing solves the gap between receiving a large order and having the cash 
 
 **Key feature:** PO financing goes directly to your supplier — you don't receive the cash yourself. The financier controls the payment to ensure goods are actually produced and shipped.
 
-<pre><code>PO Financing Example — $200,000 customer order
-  Customer PO value:      $200,000 (10,000 units)
-  Supplier cost:          $120,000
-  PO financer advances:   $120,000 directly to supplier
-  Fee:                    4%/mo × 2 months = 8% × $120,000 = $9,600
-  Net to you:             $200,000 − $120,000 − $9,600 = $70,400 profit (before other costs)</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">PO Financing Example — $200,000 customer order</td></tr>
+      <tr><td>Customer PO value</td><td class="td-num">$200,000 (10,000 units)</td></tr>
+      <tr><td>Supplier cost</td><td class="td-num">$120,000</td></tr>
+      <tr><td>PO financer advances</td><td class="td-num">$120,000 directly to supplier</td></tr>
+      <tr><td>Fee</td><td class="td-num">4%/mo × 2 months = 8% × $120,000 = $9,600</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Net to you</td><td class="td-num">$200,000 − $120,000 − $9,600 = $70,400 profit (before other costs)</td></tr>
+    </tbody>
+  </table>
+</div>
 
 Without PO financing, you'd need $120,000 in cash to pay your supplier before receiving the customer's $200,000 payment.
 

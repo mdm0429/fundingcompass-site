@@ -118,12 +118,18 @@ This guide is written to help you understand exactly what you are buying before 
 
 **Example:** $50,000 advance, 1.35 factor rate, 15% holdback, $10,000/day average sales.
 
-<pre><code>Advance amount:      $50,000
-Factor rate:         1.35
-Total repayment:     $67,500
-Daily holdback:      $10,000 × 15% = $1,500/day
-Days to repay:       45
-Effective APR:       ($17,500 ÷ $50,000) ÷ (45 ÷ 365) = ~284%</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Advance amount</td><td class="td-num">$50,000</td></tr>
+      <tr><td>Factor rate</td><td class="td-num">1.35</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total repayment</td><td class="td-num">$67,500</td></tr>
+      <tr><td>Daily holdback</td><td class="td-num">$10,000 × 15% = $1,500/day</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Days to repay</td><td class="td-num">45</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td>($17,500 ÷ $50,000) ÷ (45 ÷ 365) = ~284%</td></tr>
+    </tbody>
+  </table>
+</div>
 
 The same advance repaid over 90 days produces an effective APR of 142%. Over 180 days, 71%. Repayment speed — driven by your sales volume — is the dominant variable in Merchant Cash Advance (MCA) cost.
 
@@ -164,12 +170,18 @@ The absence of an APR in Merchant Cash Advance (MCA) marketing is not an oversig
 
 **Example:** A restaurant takes a $30,000 merchant cash advance (MCA) at a 1.30 factor rate with 12% daily holdback and $5,000/day in average card sales.
 
-<pre><code>Advance amount:      $30,000
-Factor rate:         1.30
-Total repayment:     $30,000 × 1.30 = $39,000
-Daily holdback:      $5,000 × 12% = $600/day
-Days to repay:       $39,000 ÷ $600 = 65 days
-Effective APR:       ~168%</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td>Advance amount</td><td class="td-num">$30,000</td></tr>
+      <tr><td>Factor rate</td><td class="td-num">1.30</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Total repayment</td><td class="td-num">$30,000 × 1.30 = $39,000</td></tr>
+      <tr><td>Daily holdback</td><td class="td-num">$5,000 × 12% = $600/day</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Days to repay</td><td class="td-num">$39,000 ÷ $600 = 65 days</td></tr>
+      <tr style="font-weight:600;background:var(--surface-tinted)"><td>Effective APR</td><td class="td-num">~168%</td></tr>
+    </tbody>
+  </table>
+</div>
 
 The same $30,000 from an SBA microloan at 10% APR for 90 days would cost approximately $735 in interest — compared to $9,000 in merchant funding fees.
 

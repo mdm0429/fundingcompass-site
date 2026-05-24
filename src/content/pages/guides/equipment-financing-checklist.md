@@ -84,13 +84,19 @@ The scope of the guarantee (some lenders will limit it to the specific equipment
 
 SBA 504 loans offer fixed rates of approximately 5.5–7% for long-term equipment — but the documentation requirements are substantially higher than conventional equipment loans.
 
-<pre><code>SBA 504 loan structure:
-  Conventional lender:  50% of project cost (market rate)
-  SBA / CDC debenture:  40% of project cost (~5.5–7% fixed rate)
-  Borrower down payment: 10% of project cost
-  Max loan size:        $5.5M ($5.5M for manufacturing/energy)
-  Time to close:        60–90 days
-  Appraisal required:   Equipment over $500,000 and all real property</code></pre>
+<div class="comp-table-wrap">
+  <table class="comp-table comp-table--calc">
+    <tbody>
+      <tr><td colspan="2" style="font-weight:600;color:var(--color-brand-700,#1e3a8a);padding-top:var(--space-3)">SBA 504 loan structure</td></tr>
+      <tr><td>Conventional lender</td><td class="td-num">50% of project cost (market rate)</td></tr>
+      <tr><td>SBA / CDC debenture</td><td class="td-num">40% of project cost (~5.5–7% fixed rate)</td></tr>
+      <tr><td>Borrower down payment</td><td class="td-num">10% of project cost</td></tr>
+      <tr><td>Max loan size</td><td class="td-num">$5.5M ($5.5M for manufacturing/energy)</td></tr>
+      <tr><td>Time to close</td><td class="td-num">60–90 days</td></tr>
+      <tr><td>Appraisal required</td><td>Equipment over $500,000 and all real property</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <ul>
   <li><strong>SBA Form 1919</strong> — Borrower Information Form, completed by all 20%+ owners and any key management with significant decision-making authority</li>
