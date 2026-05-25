@@ -134,6 +134,17 @@ Ask these before you sign — not after.
 
 ---
 
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>Gathering all documents in advance compresses approval from 2–3 weeks to as little as 3–5 business days</li>
+<li>Factors approve based on your customers' creditworthiness — have customer legal names, AP contacts, and credit history ready alongside your own business documents</li>
+<li>Tax liens are a common deal-breaker: factors need first-lien position on receivables, which IRS and state tax agencies can override</li>
+<li>Only completed, delivered, undisputed invoices are factorable — most factors reject invoices older than 60–90 days</li>
+<li>Ask every factor for a complete written fee schedule before signing — wire fees, ACH fees, monthly minimums, and setup costs are often in a separate document</li>
+</ul>
+</aside>
+
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
   <ul class="related-resources__list">

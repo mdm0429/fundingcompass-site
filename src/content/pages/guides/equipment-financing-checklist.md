@@ -82,7 +82,7 @@ The scope of the guarantee (some lenders will limit it to the specific equipment
 
 ## For SBA 504 Applications — Additional Requirements
 
-SBA 504 loans offer fixed rates of approximately 5.5–7% for long-term equipment — but the documentation requirements are substantially higher than conventional equipment loans.
+[SBA loan programs and funding resources](https://www.sba.gov/funding-programs/loans) include the 504 program, which offers fixed rates of approximately 5.5–7% for long-term equipment — but the documentation requirements are substantially higher than conventional equipment loans.
 
 <div class="comp-table-wrap">
   <table class="comp-table comp-table--calc">
@@ -129,6 +129,17 @@ Ask these before you sign — not after you receive the first billing statement.
 10. **What is the total cost of financing over the full loan term?** (Total of all payments minus principal = total interest paid. Ask for this number explicitly to understand what you are actually paying over the life of the loan.)
 
 ---
+
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>Most equipment financing lenders issue credit decisions in 24–48 hours for amounts under $250,000 — significantly faster than SBA loans, which take 60–90 days to close</li>
+<li>For amounts under $150,000, simplified "one-page" applications are common — but your business and personal credit will still be pulled</li>
+<li>Personal guarantees are near-universal for businesses under 5 years old or with less than $500,000 in annual revenue — negotiate the scope and burn-down provisions, not the guarantee itself</li>
+<li>SBA 504 loans offer fixed rates of approximately 5.5–7% for equipment over $250,000 but require extensive documentation and 60–90 days to close</li>
+<li>Always ask for the total cost of financing over the full loan term — total of all payments minus principal equals total interest paid — before signing</li>
+</ul>
+</aside>
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>

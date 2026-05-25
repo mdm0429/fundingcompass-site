@@ -170,12 +170,23 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>Can I cancel an invoice factoring contract?</summary>
-<p>It depends on your contract type. Spot factoring (single-invoice) has no ongoing commitment. Most factoring agreements are 12-month contracts with an early termination fee — commonly 1–3% of your credit limit (not just the balance you've used). Some contracts auto-renew unless you provide written notice 30–90 days before expiration. Before signing: confirm the contract length, early termination fee calculation method, auto-renewal terms, and notice period required to exit. Month-to-month factoring agreements exist but typically carry higher fees.</p>
+<p>It depends on your contract type. Spot factoring (single-invoice) has no ongoing commitment. Most factoring agreements are 12-month contracts with an early termination fee — commonly 1–3% of your credit limit (not just the balance you've used). Some contracts auto-renew unless you provide written notice 30–90 days before expiration. Before signing: confirm the contract length, early termination fee calculation method, auto-renewal terms, and notice period required to exit. Month-to-month factoring agreements exist but typically carry higher fees. For guidance on your rights as a small business borrower, see [CFPB small-business resources](https://www.consumerfinance.gov/consumer-tools/educator-tools/small-businesses/).</p>
 </details>
 
 </section>
 
 ---
+
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>Invoice factoring advances 80–97% of invoice face value at 1–5% per 30-day period — effective APR (annual percentage rate) typically runs 18–60% depending on fee rate and customer payment speed</li>
+<li>Factoring is not a loan — approval is based on your customers' creditworthiness, making it accessible to startups and businesses with limited credit history</li>
+<li>Initial account setup takes 3–10 business days; funded invoices are typically advanced within 24–48 hours once the account is established</li>
+<li>Trucking and staffing are the best-served industries (advance rates up to 97%); construction and healthcare have specialized requirements and lower advance rates (70–85%)</li>
+<li>Factoring costs 50–80% less than a merchant cash advance (MCA) for B2B businesses — but a business line of credit at 8–25% APR is cheaper still if you qualify</li>
+</ul>
+</aside>
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>

@@ -157,7 +157,7 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 <dd>A credit facility in which borrowing capacity automatically replenishes as you repay. Unlike a term loan (which you receive once and repay over time), a revolving line of credit allows you to borrow, repay, and borrow again up to the credit limit throughout the facility's term. Business lines of credit and invoice factoring facilities are both revolving in nature — as customers pay invoices, capacity becomes available to factor new invoices. Revolving credit is more flexible than term debt but typically carries higher rates and requires annual renewal.</dd>
 
 <dt>SBA 7(a)</dt>
-<dd>The SBA's primary small business loan program, providing government-guaranteed loans through approved commercial lenders. SBA 7(a) loans range up to $5 million, with rates of approximately 9.5–12% APR (Prime + 2.0–4.25%) depending on loan amount and term. The SBA guarantee (up to 85% of the loan amount) reduces lender risk, enabling approval for businesses that may not qualify for conventional bank loans. SBA 7(a) loans are slow to fund (30–90 days) but offer better terms than most alternative lenders for qualified borrowers.</dd>
+<dd>The SBA's primary small business loan program, providing government-guaranteed loans through approved commercial lenders. Full details are on the [SBA loan programs and funding resources](https://www.sba.gov/funding-programs/loans) page. SBA 7(a) loans range up to $5 million, with rates of approximately 9.5–12% APR (Prime + 2.0–4.25%) depending on loan amount and term. The SBA guarantee (up to 85% of the loan amount) reduces lender risk, enabling approval for businesses that may not qualify for conventional bank loans. SBA 7(a) loans are slow to fund (30–90 days) but offer better terms than most alternative lenders for qualified borrowers.</dd>
 
 <dt>SBA 504</dt>
 <dd>An SBA loan program specifically for fixed-asset purchases — equipment and commercial real estate — structured as a three-party arrangement: a conventional lender funds 50%, an SBA Certified Development Company (CDC) funds 40% at a fixed rate (currently approximately 5.5–7%), and you provide 10% down payment. SBA 504 loans range up to $5.5 million (or $5.5M for manufacturing/energy). The fixed CDC debenture rate is typically lower than conventional equipment loan rates. Drawback: 60–90 days to close and extensive documentation requirements.</dd>
@@ -198,6 +198,17 @@ Daily factor rates are useful for comparing MCAs with different terms, but estim
 </dl>
 
 ---
+
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>This glossary covers 40 financing terms across four product categories: invoice factoring, equipment financing, merchant cash advances (MCAs), and SBA loans</li>
+<li>Converting factor rates to APR (annual percentage rate) is essential for cost comparison — a 1.30 factor rate repaid over 90 days equals approximately 122% APR</li>
+<li>UCC-1 filings establish lien priority — the first lender to file has first claim on the collateral; always run a UCC search before adding a new financing relationship</li>
+<li>Section 179 allows full purchase-price deduction in Year 1 (2026 limit: $1,220,000) — reducing the effective cost of financed equipment substantially</li>
+<li>Non-recourse factoring protects against customer insolvency only — not disputes, deductions, or slow payment; always read the recourse carve-outs</li>
+</ul>
+</aside>
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>

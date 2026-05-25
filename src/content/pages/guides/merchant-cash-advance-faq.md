@@ -40,7 +40,7 @@ schema: ["FAQPage", "BreadcrumbList"]
 
 <details open>
 <summary>Is a merchant cash advance a loan?</summary>
-<p>No — legally, an MCA is structured as a purchase of future receivables, not a loan. This distinction matters: because MCAs are not classified as loans in most states, they are not subject to usury laws that cap interest rates, and providers are not required to disclose an annual percentage rate (APR). This legal structure is why MCA effective APRs can legally reach 200–350% — rates that would be illegal for a conventional loan in most states. California, New York, and a few other states have enacted commercial financing disclosure laws, but federal MCA regulation remains limited.</p>
+<p>No — legally, an MCA is structured as a purchase of future receivables, not a loan. This distinction matters: because MCAs are not classified as loans in most states, they are not subject to usury laws that cap interest rates, and providers are not required to disclose an annual percentage rate (APR). This legal structure is why MCA effective APRs can legally reach 200–350% — rates that would be illegal for a conventional loan in most states. California, New York, and a few other states have enacted commercial financing disclosure laws, but federal MCA regulation remains limited. For national guidance on small-business lending practices, see [FTC guidance on small-business lending](https://www.ftc.gov/business-guidance/small-businesses).</p>
 </details>
 
 </section>
@@ -162,6 +162,17 @@ schema: ["FAQPage", "BreadcrumbList"]
 </section>
 
 ---
+
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>An MCA is a purchase of future receivables — not a loan — so it is not subject to usury laws and carries no stated interest rate; effective APR (annual percentage rate) typically runs 40–350%</li>
+<li>Factor rates of 1.10–1.50 determine total cost: a $100,000 advance at a 1.30 factor rate means you owe $130,000 regardless of how quickly you repay</li>
+<li>Early repayment does not reduce total cost unless the contract contains an explicit prepayment discount — always ask before signing</li>
+<li>MCA stacking — taking a second or third advance while repaying the first — compounds daily holdback and is the most common path to MCA-related business failure</li>
+<li>Cheaper alternatives ranked by APR: SBA microloan (8–13%), business line of credit (8–30%), invoice factoring (18–60%) — always exhaust these before signing an MCA</li>
+</ul>
+</aside>
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>

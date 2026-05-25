@@ -10,7 +10,7 @@ schema: ["Article", "BreadcrumbList"]
 
 Most factoring horror stories are not about the rate. They are about a clause in the contract that the business owner did not notice — or did not understand — before signing. Termination fees calculated on the credit limit rather than the balance used. Automatic renewal provisions that lock you in for another year without a single notification. ACH debit authority that lets the factor pull from your bank account for any amount they claim is owed.
 
-The factoring fee is typically the smallest source of surprise cost. The contract language is where the real exposure lives.
+The factoring fee is typically the smallest source of surprise cost. The contract language is where the real exposure lives. For a broader view of your rights as a small business borrower, see [CFPB small-business resources](https://www.consumerfinance.gov/consumer-tools/educator-tools/small-businesses/).
 
 <div class="callout callout--info" role="note" aria-label="Key takeaways">
   <strong class="callout__title">Key Takeaways</strong>
@@ -132,6 +132,17 @@ The factoring fee is typically the smallest source of surprise cost. The contrac
 **What to ask instead:** "Can you define every fee in this contract with a specific dollar amount or calculation formula? For due diligence and audit fees specifically — what is the amount, how often will they be charged, and what triggers them?"
 
 ---
+
+<aside class="related-resources__recap" aria-label="Key takeaways">
+<strong>Quick Recap</strong>
+<ul>
+<li>Always request a complete written fee schedule as a separate document — ancillary fees (wire, ACH, monthly minimums, setup) can add $1,400–$2,000+ per year on a $100,000 facility</li>
+<li>Non-recourse protection only covers verified customer insolvency — broad carve-outs for disputes, slow payment, or deductions can make it functionally worthless</li>
+<li>Auto-renewal clauses auto-lock you into another 12-month term if you miss the 30–90-day cancellation window by even one day</li>
+<li>Early termination fees calculated on the full credit limit (not actual usage) are the most common source of unexpected cost — a 2% fee on a $500,000 facility costs $10,000 even if you only used $100,000</li>
+<li>A Uniform Commercial Code (UCC)-1 lien on "all assets" rather than receivables only can block you from other financing for the entire contract term — confirm the lien scope in writing</li>
+</ul>
+</aside>
 
 <aside class="related-resources">
   <div class="related-resources__title">Related Resources</div>
