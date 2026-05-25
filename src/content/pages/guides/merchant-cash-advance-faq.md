@@ -2,7 +2,7 @@
 title: "Merchant Cash Advance FAQ — 16 Questions Answered [2026]"
 description: "Answers to the most common merchant cash advance questions: factor rates, holdback, effective APR, how it differs from a loan, red flags, and alternatives."
 canonical: "https://fundingcompass.guide/guides/merchant-cash-advance-faq/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "BreadcrumbList"]
 ---
 

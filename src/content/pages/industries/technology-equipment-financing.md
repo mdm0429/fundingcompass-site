@@ -2,7 +2,7 @@
 title: "Technology Equipment Financing — IT, Servers, and Hardware Loans & Leases"
 description: "Finance servers, networking equipment, workstations, and IT infrastructure from $5,000 to $5,000,000. Compare lenders, rates, and lease vs. buy for tech equipment."
 canonical: "https://fundingcompass.guide/industries/technology-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

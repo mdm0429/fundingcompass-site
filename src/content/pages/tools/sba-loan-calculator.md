@@ -2,7 +2,7 @@
 title: "SBA Loan Calculator — Monthly Payment, Total Cost & Amortization"
 description: "Calculate your SBA 7(a) or SBA 504 loan payment, total interest cost, and full amortization schedule. Free SBA loan calculator for small business."
 canonical: "https://fundingcompass.guide/tools/sba-loan-calculator/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["WebApplication", "FAQPage", "BreadcrumbList"]
 ---
 

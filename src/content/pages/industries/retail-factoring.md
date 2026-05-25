@@ -2,7 +2,7 @@
 title: "Retail Factoring — Invoice Financing for Retail Suppliers and Wholesalers"
 description: "Retail factoring helps suppliers and wholesalers get paid immediately on net-30 and net-60 invoices from retailers. Compare rates, lenders, and eligibility for 2026."
 canonical: "https://fundingcompass.guide/industries/retail-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

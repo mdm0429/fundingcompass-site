@@ -5,6 +5,16 @@
 [build.environment]
   NODE_VERSION = "22"
 
+# Security headers — applied to every page
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=()"
+    Content-Security-Policy = "frame-ancestors 'none'"
+
 # Cache favicon + manifest assets for 7 days so Google's crawler can reliably cache them
 [[headers]]
   for = "/favicon.ico"

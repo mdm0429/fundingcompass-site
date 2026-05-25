@@ -2,7 +2,7 @@
 title: "B2B Funding Glossary — 40 Terms Every Business Owner Should Know [2026]"
 description: "Plain-English definitions of 40 invoice factoring, equipment financing, and working capital terms. Written for business owners, not finance professionals."
 canonical: "https://fundingcompass.guide/guides/b2b-funding-glossary/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["DefinedTermSet", "Article", "BreadcrumbList"]
 ---
 

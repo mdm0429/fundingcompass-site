@@ -2,7 +2,7 @@
 title: "Equipment Financing for Small Businesses — 2026 Guide"
 description: "Equipment financing rates range from 5.5–18% APR. Compare lenders, understand terms, and see who qualifies in our independent 2026 guide."
 canonical: "https://fundingcompass.guide/guides/equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

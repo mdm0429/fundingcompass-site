@@ -2,7 +2,7 @@
 title: "Invoice Factoring for Construction Companies — 2026 Guide"
 description: "Construction factoring converts progress billings into immediate cash. Learn about retainage, lien waivers, and approved lenders."
 canonical: "https://fundingcompass.guide/industries/construction-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

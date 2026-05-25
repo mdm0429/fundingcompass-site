@@ -2,7 +2,7 @@
 title: "How FundingCompass Makes Money — Transparency Disclosure"
 description: "Full disclosure of how FundingCompass is funded. We earn referral fees from some providers we cover. Affiliate relationships are individually disclosed and never influence editorial decisions."
 canonical: "https://fundingcompass.guide/how-we-make-money/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

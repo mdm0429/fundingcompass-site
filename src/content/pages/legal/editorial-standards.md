@@ -2,7 +2,7 @@
 title: "Editorial Standards — How FundingCompass Researches Content"
 description: "Our methodology for verifying rates, updating content, and maintaining editorial independence from the lenders we cover."
 canonical: "https://fundingcompass.guide/editorial-standards/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

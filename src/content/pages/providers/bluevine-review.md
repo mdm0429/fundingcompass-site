@@ -2,7 +2,7 @@
 title: "BlueVine Review 2026 — Factoring Rates, Fees & Alternatives"
 description: "BlueVine invoice factoring: up to 90% advance rate, weekly fees from 0.25%. Independent review of rates, requirements, and alternatives."
 canonical: "https://fundingcompass.guide/providers/bluevine-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

@@ -2,7 +2,7 @@
 title: "List of Lenders — Business Financing Providers Reviewed by FundingCompass"
 description: "Directory of invoice factoring companies, equipment financing lenders, merchant cash advance providers, and business line of credit lenders covered by FundingCompass."
 canonical: "https://fundingcompass.guide/lenders/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["ItemList", "BreadcrumbList"]
 ---
 

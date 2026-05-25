@@ -148,11 +148,6 @@ if (canonical === `${SITE_URL}/`) {
       url: SITE_URL,
       publisher: { '@id': `${SITE_URL}/#organization` },
       description: 'Independent. Accurate. Free. Research-driven guides to specialty B2B financing.',
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: `${SITE_URL}/?s={search_term_string}`,
-        'query-input': 'required name=search_term_string',
-      },
     },
   ], null, 0));
 }
@@ -291,7 +286,11 @@ if (schema.includes('FAQPage') && faqItems.length > 0) {
   }, null, 0));
 }
 
-const pageTitle = `${title} | ${SITE_NAME}`;
+// Avoid "FundingCompass ... | FundingCompass" double-branding on pages whose
+// title already starts with the site name (e.g. the homepage).
+const pageTitle = title.startsWith(SITE_NAME)
+  ? title
+  : `${title} | ${SITE_NAME}`;
 ---
 
 <!doctype html>
@@ -354,6 +353,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   <link rel="manifest" href="/site.webmanifest" />
+  <link rel="alternate" type="application/rss+xml" title="FundingCompass" href="https://fundingcompass.guide/rss.xml" />
 
   <!-- Preconnect for performance -->
   <link rel="preconnect" href="https://www.googletagmanager.com" />
@@ -370,6 +370,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta name="impact-site-verification" value="39453291-801b-4ef1-938e-c4e594e3140d" />
 </head>
 <body>
+  <!-- Skip-to-content — WCAG 2.1 Level A (visually hidden until focused) -->
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QMMVJF9"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -406,61 +409,71 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <ul class="site-nav">
             <li class="site-nav__item site-nav__item--has-sub">
               <button class="site-nav__trigger" aria-haspopup="true" aria-expanded="false">Guides <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
-              <ul class="site-nav__sub">
-                <li><a href="/guides/invoice-factoring/">Invoice Factoring</a></li>
-                <li><a href="/guides/equipment-financing/">Equipment Financing</a></li>
-                <li><a href="/guides/merchant-cash-advance/">Merchant Cash Advances</a></li>
-                <li><a href="/guides/business-line-of-credit/">Business Line of Credit</a></li>
-                <li><a href="/guides/sba-loans/">SBA Loans</a></li>
+              <ul class="site-nav__sub" role="menu">
+                <li role="none"><a href="/guides/invoice-factoring/" role="menuitem">Invoice Factoring</a></li>
+                <li role="none"><a href="/guides/equipment-financing/" role="menuitem">Equipment Financing</a></li>
+                <li role="none"><a href="/guides/merchant-cash-advance/" role="menuitem">Merchant Cash Advances</a></li>
+                <li role="none"><a href="/guides/business-line-of-credit/" role="menuitem">Business Line of Credit</a></li>
+                <li role="none"><a href="/guides/sba-loans/" role="menuitem">SBA Loans</a></li>
               </ul>
             </li>
             <li class="site-nav__item site-nav__item--has-sub">
               <button class="site-nav__trigger" aria-haspopup="true" aria-expanded="false">Industries <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
-              <ul class="site-nav__sub">
-                <li><a href="/industries/trucking-factoring/">Trucking Invoice Factoring</a></li>
-                <li><a href="/industries/staffing-factoring/">Staffing Invoice Factoring</a></li>
-                <li><a href="/industries/healthcare-factoring/">Healthcare Invoice Factoring</a></li>
-                <li><a href="/industries/construction-factoring/">Construction Invoice Factoring</a></li>
-                <li><a href="/industries/wholesale-factoring/">Wholesale Invoice Factoring</a></li>
-                <li><a href="/industries/restaurant-equipment-financing/">Restaurant Equipment Financing</a></li>
-                <li><a href="/industries/manufacturing-equipment-financing/">Manufacturing Equipment Financing</a></li>
-                <li><a href="/industries/construction-equipment-financing/">Construction Equipment Financing</a></li>
-                <li><a href="/industries/restaurant-merchant-cash-advance/">Restaurant Merchant Cash Advance</a></li>
+              <ul class="site-nav__sub" role="menu">
+                <li role="none"><a href="/industries/trucking-factoring/" role="menuitem">Trucking Invoice Factoring</a></li>
+                <li role="none"><a href="/industries/staffing-factoring/" role="menuitem">Staffing Invoice Factoring</a></li>
+                <li role="none"><a href="/industries/healthcare-factoring/" role="menuitem">Healthcare Invoice Factoring</a></li>
+                <li role="none"><a href="/industries/construction-factoring/" role="menuitem">Construction Invoice Factoring</a></li>
+                <li role="none"><a href="/industries/wholesale-factoring/" role="menuitem">Wholesale Invoice Factoring</a></li>
+                <li role="none"><a href="/industries/restaurant-equipment-financing/" role="menuitem">Restaurant Equipment Financing</a></li>
+                <li role="none"><a href="/industries/manufacturing-equipment-financing/" role="menuitem">Manufacturing Equipment Financing</a></li>
+                <li role="none"><a href="/industries/construction-equipment-financing/" role="menuitem">Construction Equipment Financing</a></li>
+                <li role="none"><a href="/industries/restaurant-merchant-cash-advance/" role="menuitem">Restaurant Merchant Cash Advance</a></li>
               </ul>
             </li>
             <li class="site-nav__item site-nav__item--has-sub">
               <button class="site-nav__trigger" aria-haspopup="true" aria-expanded="false">Compare <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
-              <ul class="site-nav__sub">
-                <li><a href="/compare/best-invoice-factoring-companies/">Best Invoice Factoring Companies</a></li>
-                <li><a href="/compare/best-equipment-financing-companies/">Best Equipment Financing Companies</a></li>
-                <li><a href="/compare/best-merchant-cash-advance-providers/">Best Merchant Cash Advance Providers</a></li>
-                <li><a href="/compare/factoring-vs-merchant-cash-advance/">Invoice Factoring vs Merchant Cash Advance</a></li>
-                <li><a href="/compare/factoring-vs-line-of-credit/">Invoice Factoring vs Line of Credit</a></li>
-                <li><a href="/compare/spot-vs-contract-factoring/">Spot vs Contract Factoring</a></li>
-                <li><a href="/compare/recourse-vs-non-recourse-factoring/">Recourse vs Non-Recourse Factoring</a></li>
+              <ul class="site-nav__sub" role="menu">
+                <li role="none"><a href="/compare/best-invoice-factoring-companies/" role="menuitem">Best Invoice Factoring Companies</a></li>
+                <li role="none"><a href="/compare/best-equipment-financing-companies/" role="menuitem">Best Equipment Financing Companies</a></li>
+                <li role="none"><a href="/compare/best-merchant-cash-advance-providers/" role="menuitem">Best Merchant Cash Advance Providers</a></li>
+                <li role="none"><a href="/compare/factoring-vs-merchant-cash-advance/" role="menuitem">Invoice Factoring vs Merchant Cash Advance</a></li>
+                <li role="none"><a href="/compare/factoring-vs-line-of-credit/" role="menuitem">Invoice Factoring vs Line of Credit</a></li>
+                <li role="none"><a href="/compare/spot-vs-contract-factoring/" role="menuitem">Spot vs Contract Factoring</a></li>
+                <li role="none"><a href="/compare/recourse-vs-non-recourse-factoring/" role="menuitem">Recourse vs Non-Recourse Factoring</a></li>
               </ul>
             </li>
             <li class="site-nav__item site-nav__item--has-sub">
               <button class="site-nav__trigger" aria-haspopup="true" aria-expanded="false">Providers <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
-              <ul class="site-nav__sub">
-                <li><a href="/providers/ecapital-review/">eCapital Review</a></li>
-                <li><a href="/providers/fundbox-review/">Fundbox Review</a></li>
-                <li><a href="/providers/bluevine-review/">BlueVine Review</a></li>
-                <li><a href="/providers/credibly-review/">Credibly Review</a></li>
-                <li><a href="/providers/ondeck-review/">OnDeck Review</a></li>
-                <li><a href="/providers/national-funding-review/">National Funding Review</a></li>
-                <li><a href="/providers/triumph-business-capital-review/">Triumph Business Capital Review</a></li>
-                <li><a href="/providers/rts-financial-review/">RTS Financial Review</a></li>
+              <ul class="site-nav__sub" role="menu">
+                <li role="none"><a href="/providers/balboa-capital-review/" role="menuitem">Balboa Capital</a></li>
+                <li role="none"><a href="/providers/bfs-capital-review/" role="menuitem">BFS Capital</a></li>
+                <li role="none"><a href="/providers/bluevine-review/" role="menuitem">BlueVine</a></li>
+                <li role="none"><a href="/providers/credibly-review/" role="menuitem">Credibly</a></li>
+                <li role="none"><a href="/providers/crest-capital-review/" role="menuitem">Crest Capital</a></li>
+                <li role="none"><a href="/providers/ecapital-review/" role="menuitem">eCapital</a></li>
+                <li role="none"><a href="/providers/fundbox-review/" role="menuitem">Fundbox</a></li>
+                <li role="none"><a href="/providers/greenbox-capital-review/" role="menuitem">Greenbox Capital</a></li>
+                <li role="none"><a href="/providers/lendio-review/" role="menuitem">Lendio</a></li>
+                <li role="none"><a href="/providers/national-funding-review/" role="menuitem">National Funding</a></li>
+                <li role="none"><a href="/providers/ondeck-review/" role="menuitem">OnDeck</a></li>
+                <li role="none"><a href="/providers/otr-solutions-review/" role="menuitem">OTR Solutions</a></li>
+                <li role="none"><a href="/providers/prn-funding-review/" role="menuitem">PRN Funding</a></li>
+                <li role="none"><a href="/providers/rapid-finance-review/" role="menuitem">Rapid Finance</a></li>
+                <li role="none"><a href="/providers/riviera-finance-review/" role="menuitem">Riviera Finance</a></li>
+                <li role="none"><a href="/providers/rts-financial-review/" role="menuitem">RTS Financial</a></li>
+                <li role="none"><a href="/providers/tci-business-capital-review/" role="menuitem">TCI Business Capital</a></li>
+                <li role="none"><a href="/providers/triumph-business-capital-review/" role="menuitem">Triumph Business Capital</a></li>
               </ul>
             </li>
             <li class="site-nav__item site-nav__item--has-sub">
               <button class="site-nav__trigger" aria-haspopup="true" aria-expanded="false">Tools <span class="site-nav__arrow" aria-hidden="true">▾</span></button>
-              <ul class="site-nav__sub">
-                <li><a href="/tools/factoring-cost-calculator/">Invoice Factoring Calculator</a></li>
-                <li><a href="/tools/mca-true-cost-calculator/">Merchant Cash Advance Calculator</a></li>
-                <li><a href="/tools/equipment-financing-calculator/">Equipment Financing Calculator</a></li>
-                <li><a href="/tools/sba-loan-calculator/">SBA Loan Calculator</a></li>
-                <li><a href="/tools/business-loan-calculator/">Business Loan Calculator</a></li>
+              <ul class="site-nav__sub" role="menu">
+                <li role="none"><a href="/tools/factoring-cost-calculator/" role="menuitem">Invoice Factoring Calculator</a></li>
+                <li role="none"><a href="/tools/mca-true-cost-calculator/" role="menuitem">Merchant Cash Advance Calculator</a></li>
+                <li role="none"><a href="/tools/equipment-financing-calculator/" role="menuitem">Equipment Financing Calculator</a></li>
+                <li role="none"><a href="/tools/sba-loan-calculator/" role="menuitem">SBA Loan Calculator</a></li>
+                <li role="none"><a href="/tools/business-loan-calculator/" role="menuitem">Business Loan Calculator</a></li>
               </ul>
             </li>
             <li class="site-nav__item site-nav__plain"><a href="/glossary/">Glossary</a></li>
@@ -553,7 +566,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     })();
     </script>
 
-    <main>
+    <main id="main-content">
       <div class="page-wrap">
         <slot />
       </div>

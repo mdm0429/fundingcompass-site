@@ -2,7 +2,7 @@
 title: "Triumph Business Capital Review 2026 — Invoice Factoring for Trucking & Freight"
 description: "Triumph Business Capital offers invoice factoring for trucking and freight businesses with advance rates up to 100% and same-day funding. Independent review."
 canonical: "https://fundingcompass.guide/providers/triumph-business-capital-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

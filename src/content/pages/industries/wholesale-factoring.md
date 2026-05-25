@@ -2,7 +2,7 @@
 title: "Invoice Factoring for Wholesale Distributors — 2026 Guide"
 description: "Wholesale distributors factor invoices at 80–92% advance rates to bridge net-30 to net-60 payment gaps. Rates, lenders, and how to qualify."
 canonical: "https://fundingcompass.guide/industries/wholesale-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

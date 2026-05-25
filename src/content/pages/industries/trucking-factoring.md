@@ -2,7 +2,7 @@
 title: "Invoice Factoring for Trucking Companies — 2026 Guide"
 description: "Freight factors advance 90–97% of load invoices within 24 hours. Compare rates, fees, and the best factoring companies for carriers."
 canonical: "https://fundingcompass.guide/industries/trucking-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

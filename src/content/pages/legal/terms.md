@@ -2,7 +2,7 @@
 title: "Terms of Use — FundingCompass"
 description: "FundingCompass provides editorial information, not financial advice. Read our terms of use and liability limitations."
 canonical: "https://fundingcompass.guide/terms/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

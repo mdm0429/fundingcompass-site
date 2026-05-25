@@ -2,7 +2,7 @@
 title: "Fundbox Review 2026 — Invoice Financing Rates & Requirements"
 description: "Fundbox offers invoice financing (not factoring) at 10–79% APR. Minimum credit score 600. Full independent review with pros and cons."
 canonical: "https://fundingcompass.guide/providers/fundbox-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

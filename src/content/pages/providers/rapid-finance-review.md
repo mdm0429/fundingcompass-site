@@ -2,7 +2,7 @@
 title: "Rapid Finance Review 2026 — Merchant Cash Advances & Small Business Loans"
 description: "Rapid Finance offers merchant cash advances, term loans, and lines of credit to established small businesses. Independent review with real costs, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/rapid-finance-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

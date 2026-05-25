@@ -2,7 +2,7 @@
 title: "National Funding Review 2026 — Equipment Financing & Working Capital Loans"
 description: "National Funding offers equipment financing from $5,000–$150,000 and working capital loans up to $500,000. Independent review with real costs and eligibility."
 canonical: "https://fundingcompass.guide/providers/national-funding-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

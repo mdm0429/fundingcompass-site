@@ -2,7 +2,7 @@
 title: "Equipment Financing for Manufacturing Companies — 2026 Guide"
 description: "Manufacturing equipment financing covers CNC machines, lathes, presses, and more at 5.5–18% APR. Compare lenders and qualification criteria."
 canonical: "https://fundingcompass.guide/industries/manufacturing-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

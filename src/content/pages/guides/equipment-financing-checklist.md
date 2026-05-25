@@ -2,7 +2,7 @@
 title: "Equipment Financing Application Checklist — Documents Required [2026]"
 description: "Complete checklist for equipment financing applications. Equipment details, business financials, personal guarantee requirements, and 10 questions to ask every lender."
 canonical: "https://fundingcompass.guide/guides/equipment-financing-checklist/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["HowTo", "Article", "BreadcrumbList"]
 ---
 

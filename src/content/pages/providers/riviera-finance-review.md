@@ -2,7 +2,7 @@
 title: "Riviera Finance Review 2026 — Invoice Factoring for Small Business"
 description: "Riviera Finance provides non-recourse invoice factoring with same-day funding across all industries. Independent review with real rates, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/riviera-finance-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

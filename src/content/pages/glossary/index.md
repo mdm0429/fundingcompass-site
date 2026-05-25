@@ -2,7 +2,7 @@
 title: "Business Funding Glossary — B2B Finance Terms Explained"
 description: "Plain-language definitions of invoice factoring, equipment financing, and working capital terms for business owners."
 canonical: "https://fundingcompass.guide/glossary/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "BreadcrumbList"]
 ---
 

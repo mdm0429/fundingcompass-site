@@ -2,7 +2,7 @@
 title: "Equipment Loan vs. Lease — Which Is Right for Your Business?"
 description: "Compare equipment loans vs. leases side-by-side: costs, ownership, tax treatment, balance sheet impact, and which structure wins by situation. Rates verified May 2026."
 canonical: "https://fundingcompass.guide/compare/equipment-loan-vs-lease/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

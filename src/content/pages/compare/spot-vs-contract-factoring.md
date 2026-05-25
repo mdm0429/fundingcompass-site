@@ -2,7 +2,7 @@
 title: "Spot Factoring vs Contract Factoring — Which Is Right for You?"
 description: "Spot factoring lets you choose individual invoices with no contract. Contract factoring requires volume commitments but costs 0.5–1% less per period."
 canonical: "https://fundingcompass.guide/compare/spot-vs-contract-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Credibly Review 2026 — Merchant Cash Advances & Working Capital Loans"
 description: "Credibly offers MCAs from 1.15–1.49 factor rate and working capital loans at 9.99–36% APR. Independent review with real costs, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/credibly-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

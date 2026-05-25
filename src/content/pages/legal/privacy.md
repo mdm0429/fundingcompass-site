@@ -2,7 +2,7 @@
 title: "Privacy Policy — FundingCompass"
 description: "How FundingCompass collects, uses, and protects your data. Covers GA4 analytics, cookies, and your rights under GDPR and CCPA."
 canonical: "https://fundingcompass.guide/privacy/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

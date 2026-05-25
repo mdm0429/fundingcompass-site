@@ -33,6 +33,7 @@ const faqItems = extractFaqs(entry.body);
 
   <!-- ── SBA Loan Calculator ─────────────────────────────────── -->
   <div class="calc-box" id="sba-calc">
+    <noscript><p class="calc-noscript">This calculator requires JavaScript. Please enable JavaScript in your browser settings.</p></noscript>
     <h2>SBA Loan Calculator</h2>
 
     <div class="sba-tabs" role="tablist">
@@ -74,7 +75,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="s-7a-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="s-7a-results">
         <div class="calc-results__grid">
           <div class="calc-result-item calc-result-item--highlight">
             <div class="calc-result-item__label">Monthly Payment</div>
@@ -155,7 +156,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="p-504-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="p-504-results">
         <h3 class="sba-breakdown-title">SBA 504 Loan Structure</h3>
         <div class="table-wrap">
           <table class="sba-504-table">

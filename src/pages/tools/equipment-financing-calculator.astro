@@ -33,6 +33,7 @@ const faqItems = extractFaqs(entry.body);
 
   <!-- ── Equipment Financing Calculator ──────────────────────── -->
   <div class="calc-box" id="efc">
+    <noscript><p class="calc-noscript">This calculator requires JavaScript. Please enable JavaScript in your browser settings.</p></noscript>
     <h2>Equipment Financing Calculator</h2>
 
     <!-- Tab buttons -->
@@ -74,7 +75,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="loan-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="loan-results">
         <div class="calc-results__grid">
           <div class="calc-result-item calc-result-item--highlight">
             <div class="calc-result-item__label">Monthly payment</div>
@@ -171,7 +172,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="lease-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="lease-results">
         <div class="calc-results__grid">
           <div class="calc-result-item calc-result-item--highlight">
             <div class="calc-result-item__label">Monthly lease payment</div>

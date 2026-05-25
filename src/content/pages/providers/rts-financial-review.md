@@ -2,7 +2,7 @@
 title: "RTS Financial Review 2026 — Invoice Factoring for Trucking & Freight"
 description: "RTS Financial offers trucking invoice factoring with advance rates up to 97%, a fuel card, and no long-term contracts. Independent review for owner-operators."
 canonical: "https://fundingcompass.guide/providers/rts-financial-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

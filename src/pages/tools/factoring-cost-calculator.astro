@@ -33,6 +33,7 @@ const faqItems = extractFaqs(entry.body);
 
   <!-- ── Calculator ──────────────────────────────────────── -->
   <div class="calc-box" id="calc">
+    <noscript><p class="calc-noscript">This calculator requires JavaScript. Please enable JavaScript in your browser settings.</p></noscript>
     <h2>Invoice Factoring Calculator</h2>
     <div class="calc-fields">
       <div class="calc-field">
@@ -58,7 +59,7 @@ const faqItems = extractFaqs(entry.body);
     </div>
     <button class="btn btn--primary btn--md" id="calc-submit" type="button">Calculate</button>
 
-    <div class="calc-results" id="calc-results">
+    <div class="calc-results" aria-live="polite" aria-atomic="true" id="calc-results">
       <div class="calc-results__grid">
         <div class="calc-result-item calc-result-item--highlight">
           <div class="calc-result-item__label">Immediate advance</div>

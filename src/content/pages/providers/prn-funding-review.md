@@ -2,7 +2,7 @@
 title: "PRN Funding Review 2026 — Healthcare Invoice Factoring"
 description: "PRN Funding specializes in healthcare factoring for home health agencies, medical staffing, and medical suppliers. Independent review with real rates, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/prn-funding-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

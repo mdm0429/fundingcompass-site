@@ -33,6 +33,7 @@ const faqItems = extractFaqs(entry.body);
 
   <!-- ── MCA Calculator ──────────────────────────────────────── -->
   <div class="calc-box" id="calc">
+    <noscript><p class="calc-noscript">This calculator requires JavaScript. Please enable JavaScript in your browser settings.</p></noscript>
     <h2>Merchant Cash Advance Calculator</h2>
     <div class="calc-fields">
       <div class="calc-field">
@@ -53,7 +54,7 @@ const faqItems = extractFaqs(entry.body);
       </div>
     </div>
 
-    <div class="calc-results" id="mca-results">
+    <div class="calc-results" aria-live="polite" aria-atomic="true" id="mca-results">
       <!-- Warning banner -->
       <div class="calc-warning" id="m-apr-warning" style="display:none">
         ⚠️ This MCA carries an effective APR above 100%. Before signing, confirm you have evaluated a business line of credit and invoice factoring.

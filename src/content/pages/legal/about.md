@@ -2,7 +2,7 @@
 title: "About FundingCompass — Independent B2B Funding Guide"
 description: "FundingCompass is an advertiser-funded, editorially independent guide to B2B financing. Content produced by financial writers. Affiliate relationships are individually disclosed."
 canonical: "https://fundingcompass.guide/about/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

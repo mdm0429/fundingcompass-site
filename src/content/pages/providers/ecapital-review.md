@@ -2,7 +2,7 @@
 title: "eCapital Review 2026 — Rates, Fees & Who It Is Best For"
 description: "Independent eCapital review: advance rates up to 97% for freight, fees from 0.69% per 30 days. Pros, cons, and who should use it."
 canonical: "https://fundingcompass.guide/providers/ecapital-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

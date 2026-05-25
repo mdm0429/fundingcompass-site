@@ -2,7 +2,7 @@
 title: "Equipment Financing for Construction Companies — 2026 Guide"
 description: "Construction equipment financing covers excavators, loaders, cranes, and more at 6–18% APR. Compare lenders, terms, and qualification criteria."
 canonical: "https://fundingcompass.guide/industries/construction-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

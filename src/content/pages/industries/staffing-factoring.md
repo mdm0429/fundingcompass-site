@@ -2,7 +2,7 @@
 title: "Invoice Factoring for Staffing Agencies — Payroll Funding Guide"
 description: "Staffing factoring bridges the gap between weekly payroll and 30–60 day client invoices. Rates, lenders, and how to qualify."
 canonical: "https://fundingcompass.guide/industries/staffing-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

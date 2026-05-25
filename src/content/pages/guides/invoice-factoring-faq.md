@@ -2,7 +2,7 @@
 title: "Invoice Factoring FAQ — 18 Questions Answered [2026]"
 description: "Answers to the most common invoice factoring questions: how it works, what it costs, who qualifies, industry-specific rules, and comparison to alternatives."
 canonical: "https://fundingcompass.guide/guides/invoice-factoring-faq/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "BreadcrumbList"]
 ---
 

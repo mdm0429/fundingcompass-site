@@ -2,7 +2,7 @@
 title: "Invoice Factoring Cost Calculator — Estimate Your True Cost"
 description: "Calculate your exact factoring cost: enter invoice value, advance rate, and fee to see your net payout and effective annualised rate."
 canonical: "https://fundingcompass.guide/tools/factoring-cost-calculator/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["WebApplication", "FAQPage", "BreadcrumbList"]
 ---
 

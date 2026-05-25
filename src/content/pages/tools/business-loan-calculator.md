@@ -2,7 +2,7 @@
 title: "Business Loan Calculator — Monthly Payment, Total Cost & Amortization"
 description: "Calculate your business loan monthly payment, total interest cost, and amortization schedule. Compare loan options side by side. Free business loan calculator."
 canonical: "https://fundingcompass.guide/tools/business-loan-calculator/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["WebApplication", "FAQPage", "BreadcrumbList"]
 ---
 

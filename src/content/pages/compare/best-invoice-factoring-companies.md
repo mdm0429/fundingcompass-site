@@ -2,7 +2,7 @@
 title: "Best Invoice Factoring Companies of 2026 — Independent Rankings"
 description: "Independent comparison of the top invoice factoring companies in 2026 — ranked by advance rate, fee transparency, and industry specialisation."
 canonical: "https://fundingcompass.guide/compare/best-invoice-factoring-companies/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

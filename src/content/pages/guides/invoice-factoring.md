@@ -2,7 +2,7 @@
 title: "How Invoice Factoring Works — Complete Guide [2026]"
 description: "Invoice factoring advances 80–95% of your unpaid invoice value immediately. Learn how it works, what it costs, and which companies offer it."
 canonical: "https://fundingcompass.guide/guides/invoice-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Lendio Review 2026 — Small Business Loan Marketplace"
 description: "Lendio is a small business loan marketplace that matches businesses to 75+ lenders with a single application. Independent review with real costs, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/lendio-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

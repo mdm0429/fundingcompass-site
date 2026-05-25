@@ -2,7 +2,7 @@
 title: "Contact FundingCompass"
 description: "Get in touch with the FundingCompass editorial team for corrections, partnership enquiries, or general questions."
 canonical: "https://fundingcompass.guide/contact/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

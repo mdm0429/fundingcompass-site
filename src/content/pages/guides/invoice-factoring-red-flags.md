@@ -2,7 +2,7 @@
 title: "Invoice Factoring Red Flags — 9 Warning Signs in Factoring Contracts [2026]"
 description: "9 contract red flags to watch for before signing a factoring agreement. Hidden fees, broad recourse carve-outs, automatic renewal clauses, and more — explained in plain English."
 canonical: "https://fundingcompass.guide/guides/invoice-factoring-red-flags/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "BreadcrumbList"]
 ---
 

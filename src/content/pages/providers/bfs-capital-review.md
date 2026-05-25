@@ -2,7 +2,7 @@
 title: "BFS Capital Review 2026 — Merchant Cash Advances & Working Capital Loans"
 description: "BFS Capital offers merchant cash advances and working capital loans to small businesses in all 50 states. Independent review with real costs, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/bfs-capital-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "FundingCompass — Navigate Business Funding With Confidence"
+title: "FundingCompass — Independent Business Funding Guides"
 description: "Independent guides to invoice factoring, equipment financing, and merchant cash advances. No lender bias. Clear rates, real comparisons."
 canonical: "https://fundingcompass.guide/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["BreadcrumbList"]
 ---
 

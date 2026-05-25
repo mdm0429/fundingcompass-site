@@ -2,7 +2,7 @@
 title: "Merchant Cash Advances for Restaurants — Costs, Risks & Alternatives"
 description: "Restaurant MCAs advance 50–150% of monthly sales at effective APRs of 40–300%. Understand the real cost and cheaper alternatives before signing."
 canonical: "https://fundingcompass.guide/industries/restaurant-merchant-cash-advance/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

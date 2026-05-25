@@ -2,7 +2,7 @@
 title: "Accounts Receivable Financing — Complete Guide for Small Business"
 description: "Accounts receivable financing converts outstanding invoices into working capital. How AR financing works, what it costs, invoice factoring vs. AR lines of credit, and who qualifies."
 canonical: "https://fundingcompass.guide/guides/accounts-receivable-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

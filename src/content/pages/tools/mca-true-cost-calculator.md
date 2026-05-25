@@ -2,7 +2,7 @@
 title: "MCA True Cost Calculator — Convert Factor Rate to Effective APR"
 description: "Calculate the true cost of a merchant cash advance. Enter your advance amount, factor rate, holdback percentage, and daily card sales to see effective APR."
 canonical: "https://fundingcompass.guide/tools/mca-true-cost-calculator/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["WebApplication", "FAQPage", "BreadcrumbList"]
 ---
 

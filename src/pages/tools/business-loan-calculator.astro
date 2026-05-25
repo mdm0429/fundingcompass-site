@@ -33,6 +33,7 @@ const faqItems = extractFaqs(entry.body);
 
   <!-- ── Business Loan Calculator ──────────────────────────────── -->
   <div class="calc-box" id="bl-calc">
+    <noscript><p class="calc-noscript">This calculator requires JavaScript. Please enable JavaScript in your browser settings.</p></noscript>
     <h2>Business Loan Calculator</h2>
 
     <div class="bl-tabs" role="tablist">
@@ -83,7 +84,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="t-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="t-results">
         <div class="calc-results__grid">
           <div class="calc-result-item calc-result-item--highlight">
             <div class="calc-result-item__label" id="t-payment-label">Monthly Payment</div>
@@ -152,7 +153,7 @@ const faqItems = extractFaqs(entry.body);
         </div>
       </div>
 
-      <div class="calc-results" id="l-results">
+      <div class="calc-results" aria-live="polite" aria-atomic="true" id="l-results">
         <div class="calc-results__grid">
           <div class="calc-result-item calc-result-item--highlight">
             <div class="calc-result-item__label">Monthly Payment</div>

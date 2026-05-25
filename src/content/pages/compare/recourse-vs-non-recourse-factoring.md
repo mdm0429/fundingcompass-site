@@ -2,7 +2,7 @@
 title: "Recourse vs Non-Recourse Factoring — Key Differences Explained"
 description: "Recourse factoring is cheaper but transfers default risk to you. Non-recourse costs 1–2% more but protects against customer insolvency."
 canonical: "https://fundingcompass.guide/compare/recourse-vs-non-recourse-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

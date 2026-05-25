@@ -2,7 +2,7 @@
 title: "OTR Solutions Review 2026 — Freight Factoring for Trucking Companies"
 description: "OTR Solutions provides same-day freight factoring, fuel cards, and load board access to trucking companies and carriers. Independent review with real rates and eligibility."
 canonical: "https://fundingcompass.guide/providers/otr-solutions-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

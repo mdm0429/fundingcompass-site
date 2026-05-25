@@ -2,7 +2,7 @@
 title: "Merchant Cash Advances Explained — Costs, Risks & Alternatives"
 description: "Merchant Cash Advances (MCAs) have effective APRs of 40–350%. Understand factor rates, daily holdback, and when an MCA makes sense versus cheaper alternatives."
 canonical: "https://fundingcompass.guide/guides/merchant-cash-advance/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Balboa Capital Review 2026 — Equipment Financing & Business Loans"
 description: "Balboa Capital (now part of Ameris Bank) offers equipment financing and business loans from $5,000 to $500,000. Independent review with real rates, eligibility, and alternatives."
 canonical: "https://fundingcompass.guide/providers/balboa-capital-review/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Review", "FAQPage", "Article", "BreadcrumbList"]
 ---
 

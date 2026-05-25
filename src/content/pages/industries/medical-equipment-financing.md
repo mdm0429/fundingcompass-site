@@ -2,7 +2,7 @@
 title: "Medical Equipment Financing — Loans & Leases for Healthcare Businesses"
 description: "Finance medical and dental equipment from $5,000 to $5,000,000. Compare rates, lenders, and loan vs. lease structures for healthcare practices. Rates verified May 2026."
 canonical: "https://fundingcompass.guide/industries/medical-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

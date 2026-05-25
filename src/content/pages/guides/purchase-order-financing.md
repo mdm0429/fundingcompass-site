@@ -2,7 +2,7 @@
 title: "Purchase Order Financing — Complete Guide for Small Business"
 description: "Purchase order financing lets businesses fulfill large orders without upfront cash. How it works, what it costs, who qualifies, and when it makes sense. Rates verified May 2026."
 canonical: "https://fundingcompass.guide/guides/purchase-order-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

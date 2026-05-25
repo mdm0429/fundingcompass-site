@@ -2,7 +2,7 @@
 title: "Equipment Leasing Guide — How It Works, Costs, and When to Lease vs. Buy"
 description: "Complete guide to equipment leasing for small business: operating leases, capital leases, $1 buyout leases, costs, tax treatment, and top lenders. Rates verified May 2026."
 canonical: "https://fundingcompass.guide/guides/equipment-leasing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

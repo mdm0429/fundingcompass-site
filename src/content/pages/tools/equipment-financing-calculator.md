@@ -2,7 +2,7 @@
 title: "Equipment Financing Calculator — Monthly Payment & Total Cost"
 description: "Calculate your monthly equipment loan or lease payment, total interest paid, and effective cost. Compare buying vs. leasing and see your Section 179 tax benefit."
 canonical: "https://fundingcompass.guide/tools/equipment-financing-calculator/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["WebApplication", "FAQPage", "BreadcrumbList"]
 ---
 

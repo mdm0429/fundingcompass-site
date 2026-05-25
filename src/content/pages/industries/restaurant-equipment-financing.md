@@ -2,7 +2,7 @@
 title: "Equipment Financing for Restaurants — 2026 Guide"
 description: "Restaurant equipment financing offers rates from 6–20% APR with same-day approval. Compare lenders, advance rates, and what qualifies."
 canonical: "https://fundingcompass.guide/industries/restaurant-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

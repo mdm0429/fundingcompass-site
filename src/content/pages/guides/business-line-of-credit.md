@@ -2,7 +2,7 @@
 title: "Business Line of Credit — Complete Guide for Small Businesses [2026]"
 description: "Business lines of credit give you revolving access to funds at 8–30% APR. Learn how they work, who qualifies, and the best lenders in 2026."
 canonical: "https://fundingcompass.guide/guides/business-line-of-credit/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

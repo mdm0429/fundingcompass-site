@@ -2,7 +2,7 @@
 title: "Government Contractor Factoring — Invoice Financing for Federal Contractors"
 description: "Invoice factoring for government contractors helps bridge the gap between contract delivery and federal payment. Compare rates, FAR-compliant lenders, and eligibility for 2026."
 canonical: "https://fundingcompass.guide/industries/government-contractor-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

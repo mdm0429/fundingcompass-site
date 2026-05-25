@@ -2,7 +2,7 @@
 title: "Invoice Factoring vs Merchant Cash Advance — Full Comparison"
 description: "Invoice factoring costs 18–60% effective APR. MCAs cost 40–350%. See which is right for your business with a side-by-side breakdown."
 canonical: "https://fundingcompass.guide/compare/factoring-vs-merchant-cash-advance/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

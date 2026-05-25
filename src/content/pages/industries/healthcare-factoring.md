@@ -2,7 +2,7 @@
 title: "Medical Invoice Factoring — Healthcare Factoring Guide [2026]"
 description: "Healthcare factoring advances 70–85% on insurance receivables. Learn HIPAA requirements, approved lenders, and how medical factoring works."
 canonical: "https://fundingcompass.guide/industries/healthcare-factoring/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 

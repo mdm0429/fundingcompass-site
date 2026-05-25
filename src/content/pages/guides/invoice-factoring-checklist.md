@@ -2,7 +2,7 @@
 title: "Invoice Factoring Application Checklist — Documents Required [2026]"
 description: "Complete checklist of documents needed to apply for invoice factoring. Business documents, customer information, invoice requirements, and questions to ask your factor."
 canonical: "https://fundingcompass.guide/guides/invoice-factoring-checklist/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["HowTo", "Article", "BreadcrumbList"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Agricultural Equipment Financing — Farm Loans & Equipment Leases"
 description: "Finance tractors, harvesters, irrigation systems, and other farm equipment from $10,000 to $5,000,000. Compare ag lenders, rates, and seasonal payment options. Rates verified May 2026."
 canonical: "https://fundingcompass.guide/industries/agricultural-equipment-financing/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["Article", "FAQPage", "BreadcrumbList"]
 ---
 

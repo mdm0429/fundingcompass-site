@@ -2,7 +2,7 @@
 title: "SBA Loans for Small Businesses — Complete Guide [2026]"
 description: "SBA 7(a) loans offer rates from 9.5–12% APR on up to $5M. Learn how SBA loans work, who qualifies, and how long they take in 2026."
 canonical: "https://fundingcompass.guide/guides/sba-loans/"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-05-24"
 schema: ["FAQPage", "Article", "BreadcrumbList"]
 ---
 
